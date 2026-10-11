@@ -1,0 +1,35 @@
+[deck]
+title       = "Ultimate Geography"
+summary     = "Every sovereign state's flag, map and capital, plus territories, oceans, seas and continents."
+description = """
+982 cards covering the world's 205 sovereign states, 59 territories and
+regions, 52 oceans and seas, and the 7 continents.
+
+Each entity has up to four cards: locate it on a map, name its capital, name
+the country from its capital, and name the country from its flag. Extra
+fields add context such as similar flags, alternative names and governance.
+
+Subdecks follow continents (Africa, Asia, Europe, North America, Oceania,
+South America) plus Oceans and Seas and Continents. Tags carry upstream's
+groupings, such as sovereign_state, european_union, caribbean and
+middle_east, and the card direction (map, capital, country, flag).
+
+Converted from the open-source Ultimate Geography project, the most popular
+geography deck for Anki.
+"""
+keywords    = ["geography", "flags", "capitals", "maps", "countries", "world"]
+license     = "Unlicense"
+attribution = """
+Ultimate Geography by the anki-geo contributors (github.com/anki-geo/ultimate-geography). \
+Card text is public domain (Unlicense). Flag and map images keep their own licenses \
+(CC BY-SA 2.5/3.0/4.0, CC BY 3.0, CC0, public domain), mostly from Wikimedia Commons; \
+each file's source and license are listed in SOURCES.csv.
+"""
+source_url  = "https://github.com/Complement-AI/ultimate-geography/blob/main/SOURCES.csv"
+
+[sync]
+media_root = "media/"
+
+[[models]]
+name   = "Basic"
+fields = ["Front", "Back", "Extra"]

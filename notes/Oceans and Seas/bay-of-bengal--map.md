@@ -1,0 +1,15 @@
+---
+id    = "851c9ad7-337c-5e04-bebf-c06014e1d6bf"
+model = "Basic"
+tags  = ["oceans-and-seas", "map"]
+---
+
+## Front
+
+What is highlighted on this map?
+
+![Map](../../media/ug-map-bay_of_bengal.png)
+
+## Back
+
+<b>Bay of Bengal</b>
