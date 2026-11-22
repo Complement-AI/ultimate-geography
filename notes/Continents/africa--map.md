@@ -13,3 +13,7 @@ What is highlighted on this map?
 ## Back
 
 <b>Africa</b>
+
+## Extra
+
+<a href="https://en.wikipedia.org/wiki/Africa">Africa on Wikipedia</a>

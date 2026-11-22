@@ -13,3 +13,9 @@ Whose flag is this?
 ## Back
 
 <b>Benin</b>
+
+## Extra
+
+<div class="cmp-map" data-focus="BEN" data-pin="6.4833,2.6166" data-label="Porto-Novo"><img src="../../media/cx-locator-benin.svg" alt="Map of Benin with Porto-Novo marked"></div>
+
+<a href="https://en.wikipedia.org/wiki/Flag_of_Benin">Flag of Benin on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Benin">Benin on Wikipedia</a>

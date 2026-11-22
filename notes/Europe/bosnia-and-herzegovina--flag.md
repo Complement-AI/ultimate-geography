@@ -13,3 +13,9 @@ Whose flag is this?
 ## Back
 
 <b>Bosnia and Herzegovina</b>
+
+## Extra
+
+<div class="cmp-map" data-focus="BIH" data-pin="43.85,18.383" data-label="Sarajevo"><img src="../../media/cx-locator-bosnia-and-herzegovina.svg" alt="Map of Bosnia and Herzegovina with Sarajevo marked"></div>
+
+<a href="https://en.wikipedia.org/wiki/Flag_of_Bosnia_and_Herzegovina">Flag of Bosnia and Herzegovina on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Bosnia_and_Herzegovina">Bosnia and Herzegovina on Wikipedia</a>

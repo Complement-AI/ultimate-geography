@@ -13,3 +13,7 @@ What is highlighted on this map?
 ## Back
 
 <b>Celebes Sea</b>
+
+## Extra
+
+<a href="https://en.wikipedia.org/wiki/Celebes_Sea">Celebes Sea on Wikipedia</a>

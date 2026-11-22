@@ -11,3 +11,9 @@ What is the capital of <b>Nigeria</b>?
 ## Back
 
 <b>Abuja</b>
+
+## Extra
+
+<div class="cmp-map" data-focus="NGA" data-pin="9.0853,7.5314" data-label="Abuja"><img src="../../media/cx-locator-nigeria.svg" alt="Map of Nigeria with Abuja marked"></div>
+
+<a href="https://en.wikipedia.org/wiki/Abuja">Abuja on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Nigeria">Nigeria on Wikipedia</a>

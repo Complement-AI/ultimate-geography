@@ -13,3 +13,9 @@ What is highlighted on this map?
 ## Back
 
 <b>Kazakhstan</b>
+
+## Extra
+
+<div class="cmp-map" data-focus="KAZ" data-pin="51.1811,71.4278" data-label="Astana"><img src="../../media/cx-locator-kazakhstan.svg" alt="Map of Kazakhstan with Astana marked"></div>
+
+<a href="https://en.wikipedia.org/wiki/Kazakhstan">Kazakhstan on Wikipedia</a>

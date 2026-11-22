@@ -17,3 +17,5 @@ What is highlighted on this map?
 ## Extra
 
 Semi-autonomous region of Tanzania.
+
+<a href="https://en.wikipedia.org/wiki/Zanzibar">Zanzibar on Wikipedia</a>

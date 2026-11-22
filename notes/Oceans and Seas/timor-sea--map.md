@@ -13,3 +13,7 @@ What is highlighted on this map?
 ## Back
 
 <b>Timor Sea</b>
+
+## Extra
+
+<a href="https://en.wikipedia.org/wiki/Timor_Sea">Timor Sea on Wikipedia</a>

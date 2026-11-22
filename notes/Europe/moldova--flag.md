@@ -16,4 +16,8 @@ Whose flag is this?
 
 ## Extra
 
+<div class="cmp-map" data-focus="MDA" data-pin="47.005,28.8577" data-label="Chișinău"><img src="../../media/cx-locator-moldova.svg" alt="Map of Moldova with Chișinău marked"></div>
+
 Similar flags: Andorra (narrower, coat of arms with motto)
+
+<a href="https://en.wikipedia.org/wiki/Flag_of_Moldova">Flag of Moldova on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Moldova">Moldova on Wikipedia</a>

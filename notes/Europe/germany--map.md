@@ -13,3 +13,9 @@ What is highlighted on this map?
 ## Back
 
 <b>Germany</b>
+
+## Extra
+
+<div class="cmp-map" data-focus="DEU" data-pin="52.5238,13.3996" data-label="Berlin"><img src="../../media/cx-locator-germany.svg" alt="Map of Germany with Berlin marked"></div>
+
+<a href="https://en.wikipedia.org/wiki/Germany">Germany on Wikipedia</a>

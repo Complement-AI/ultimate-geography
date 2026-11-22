@@ -13,3 +13,9 @@ Whose flag is this?
 ## Back
 
 <b>Estonia</b>
+
+## Extra
+
+<div class="cmp-map" data-focus="EST" data-pin="59.4339,24.728" data-label="Tallinn"><img src="../../media/cx-locator-estonia.svg" alt="Map of Estonia with Tallinn marked"></div>
+
+<a href="https://en.wikipedia.org/wiki/Flag_of_Estonia">Flag of Estonia on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Estonia">Estonia on Wikipedia</a>

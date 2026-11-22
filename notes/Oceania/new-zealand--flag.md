@@ -16,4 +16,8 @@ Whose flag is this?
 
 ## Extra
 
+<div class="cmp-map" data-focus="NZL" data-pin="-41.3,174.7833" data-label="Wellington"><img src="../../media/cx-locator-new-zealand.svg" alt="Map of New Zealand with Wellington marked"></div>
+
 Similar flags: Australia (white stars, two more stars)
+
+<a href="https://en.wikipedia.org/wiki/Flag_of_New_Zealand">Flag of New Zealand on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/New_Zealand">New Zealand on Wikipedia</a>

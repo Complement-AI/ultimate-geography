@@ -17,3 +17,5 @@ What is highlighted on this map?
 ## Extra
 
 World region covering the Australian continent and most of the islands in the Pacific Ocean.
+
+<a href="https://en.wikipedia.org/wiki/Oceania">Oceania on Wikipedia</a>

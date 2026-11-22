@@ -15,3 +15,5 @@ tags  = ["europe", "country"]
 ## Extra
 
 Constituent country of the United Kingdom.
+
+<a href="https://en.wikipedia.org/wiki/England">England on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/London">London on Wikipedia</a>

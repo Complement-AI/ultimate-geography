@@ -13,3 +13,9 @@ What is highlighted on this map?
 ## Back
 
 <b>The Bahamas</b>
+
+## Extra
+
+<div class="cmp-map" data-focus="BHS" data-pin="25.0834,-77.35" data-label="Nassau"><img src="../../media/cx-locator-the-bahamas.svg" alt="Map of The Bahamas with Nassau marked"></div>
+
+<a href="https://en.wikipedia.org/wiki/The_Bahamas">The Bahamas on Wikipedia</a>

@@ -13,3 +13,7 @@ What is highlighted on this map?
 ## Back
 
 <b>Aral Sea</b>
+
+## Extra
+
+<a href="https://en.wikipedia.org/wiki/Aral_Sea">Aral Sea on Wikipedia</a>

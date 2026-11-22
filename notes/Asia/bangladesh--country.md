@@ -11,3 +11,9 @@ tags  = ["asia", "sovereign_state", "country"]
 ## Back
 
 <b>Bangladesh</b>
+
+## Extra
+
+<div class="cmp-map" data-focus="BGD" data-pin="23.725,90.4066" data-label="Dhaka"><img src="../../media/cx-locator-bangladesh.svg" alt="Map of Bangladesh with Dhaka marked"></div>
+
+<a href="https://en.wikipedia.org/wiki/Bangladesh">Bangladesh on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Dhaka">Dhaka on Wikipedia</a>

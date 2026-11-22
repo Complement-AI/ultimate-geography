@@ -17,3 +17,5 @@ What is highlighted on this map?
 ## Extra
 
 Subregion of Oceania, which includes Vanuatu, the Solomon Islands, Fiji, and Papua New Guinea.
+
+<a href="https://en.wikipedia.org/wiki/Melanesia">Melanesia on Wikipedia</a>

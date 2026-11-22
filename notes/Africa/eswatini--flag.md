@@ -16,4 +16,8 @@ Whose flag is this?
 
 ## Extra
 
+<div class="cmp-map" data-focus="SWZ" data-pin="-26.3167,31.1333" data-label="Mbabane"><img src="../../media/cx-locator-eswatini.svg" alt="Map of Eswatini with Mbabane marked"></div>
+
 Known as Swaziland until 2018.
+
+<a href="https://en.wikipedia.org/wiki/Flag_of_Eswatini">Flag of Eswatini on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Eswatini">Eswatini on Wikipedia</a>

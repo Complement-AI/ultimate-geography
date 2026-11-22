@@ -1,0 +1,21 @@
+{
+  "photo": {
+    "commons": "File:All Gizah Pyramids.jpg",
+    "alt": "The pyramids of Giza",
+    "file": "cx-photo-egypt.jpg",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:All_Gizah_Pyramids.jpg",
+    "credit": "Ricardo Liberato, CC BY-SA 2.0, via Wikimedia Commons"
+  },
+  "facts": [
+    "Borders Libya, Sudan, Israel and the Gaza Strip",
+    "About 114 million people (2026), the most of any Arab country"
+  ],
+  "worth_knowing": "Mostly desert: about 99% of Egyptians live along the narrow Nile Valley and Delta, on about 5.5% of the land. The Sinai Peninsula puts its northeast corner in Asia.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Egypt",
+    "https://www.wikidata.org/wiki/Q79"
+  ],
+  "written_by": "claude-opus-5-5",
+  "checked_by": null
+}

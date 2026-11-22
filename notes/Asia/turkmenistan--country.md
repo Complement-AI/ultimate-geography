@@ -11,3 +11,9 @@ tags  = ["asia", "sovereign_state", "country"]
 ## Back
 
 <b>Turkmenistan</b>
+
+## Extra
+
+<div class="cmp-map" data-focus="TKM" data-pin="37.95,58.3833" data-label="Ashgabat"><img src="../../media/cx-locator-turkmenistan.svg" alt="Map of Turkmenistan with Ashgabat marked"></div>
+
+<a href="https://en.wikipedia.org/wiki/Turkmenistan">Turkmenistan on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Ashgabat">Ashgabat on Wikipedia</a>

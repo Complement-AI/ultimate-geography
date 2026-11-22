@@ -13,3 +13,7 @@ Whose flag is this?
 ## Back
 
 <b>European Union</b>
+
+## Extra
+
+<a href="https://en.wikipedia.org/wiki/Flag_of_Europe">Flag of Europe on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/European_Union">European Union on Wikipedia</a>

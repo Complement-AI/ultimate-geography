@@ -16,4 +16,8 @@ What is highlighted on this map?
 
 ## Extra
 
+<div class="cmp-map" data-focus="TLS" data-pin="-8.5594,125.5795" data-label="Dili"><img src="../../media/cx-locator-timor-leste.svg" alt="Map of Timor-Leste with Dili marked"></div>
+
 Also known as East Timor.
+
+<a href="https://en.wikipedia.org/wiki/Timor-Leste">Timor-Leste on Wikipedia</a>

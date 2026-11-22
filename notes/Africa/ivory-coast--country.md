@@ -14,4 +14,8 @@ tags  = ["africa", "sovereign_state", "west_africa", "country"]
 
 ## Extra
 
+<div class="cmp-map" data-focus="CIV" data-pin="6.8184,-5.2755" data-label="Yamoussoukro"><img src="../../media/cx-locator-ivory-coast.svg" alt="Map of Ivory Coast with Yamoussoukro marked"></div>
+
 Officially Côte d'Ivoire.<br><br>While Yamoussoukro is the official capital, Abidjan is the de facto seat of government.
+
+<a href="https://en.wikipedia.org/wiki/Ivory_Coast">Ivory Coast on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Yamoussoukro">Yamoussoukro on Wikipedia</a>

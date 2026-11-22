@@ -13,3 +13,9 @@ Whose flag is this?
 ## Back
 
 <b>Tonga</b>
+
+## Extra
+
+<div class="cmp-map" data-focus="TON" data-pin="-21.1385,-175.2206" data-label="Nukuʻalofa"><img src="../../media/cx-locator-tonga.svg" alt="Map of Tonga with Nukuʻalofa marked"></div>
+
+<a href="https://en.wikipedia.org/wiki/Flag_of_Tonga">Flag of Tonga on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Tonga">Tonga on Wikipedia</a>

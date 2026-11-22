@@ -16,4 +16,8 @@ Whose flag is this?
 
 ## Extra
 
+<div class="cmp-map" data-focus="CUB" data-pin="23.1339,-82.3661" data-label="Havana"><img src="../../media/cx-locator-cuba.svg" alt="Map of Cuba with Havana marked"></div>
+
 Similar flags: Puerto Rico (blue triangle, red stripes)
+
+<a href="https://en.wikipedia.org/wiki/Flag_of_Cuba">Flag of Cuba on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Cuba">Cuba on Wikipedia</a>

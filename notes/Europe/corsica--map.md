@@ -17,3 +17,5 @@ What is highlighted on this map?
 ## Extra
 
 Region of France.
+
+<a href="https://en.wikipedia.org/wiki/Corsica">Corsica on Wikipedia</a>

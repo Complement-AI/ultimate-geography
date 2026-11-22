@@ -16,4 +16,8 @@ Whose flag is this?
 
 ## Extra
 
+<div class="cmp-map" data-focus="CPV" data-pin="14.9167,-23.5167" data-label="Praia"><img src="../../media/cx-locator-cape-verde.svg" alt="Map of Cape Verde with Praia marked"></div>
+
 Also known as Cabo Verde.
+
+<a href="https://en.wikipedia.org/wiki/Flag_of_Cape_Verde">Flag of Cape Verde on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Cape_Verde">Cape Verde on Wikipedia</a>

@@ -13,3 +13,9 @@ What is highlighted on this map?
 ## Back
 
 <b>Iceland</b>
+
+## Extra
+
+<div class="cmp-map" data-focus="ISL" data-pin="64.15,-21.95" data-label="Reykjavík"><img src="../../media/cx-locator-iceland.svg" alt="Map of Iceland with Reykjavík marked"></div>
+
+<a href="https://en.wikipedia.org/wiki/Iceland">Iceland on Wikipedia</a>

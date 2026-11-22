@@ -16,4 +16,8 @@ Whose flag is this?
 
 ## Extra
 
+<div class="cmp-map" data-focus="SLV" data-pin="13.7119,-89.205" data-label="San Salvador"><img src="../../media/cx-locator-el-salvador.svg" alt="Map of El Salvador with San Salvador marked"></div>
+
 Similar flags: Nicaragua (different coat of arms, slightly lighter blue)
+
+<a href="https://en.wikipedia.org/wiki/Flag_of_El_Salvador">Flag of El Salvador on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/El_Salvador">El Salvador on Wikipedia</a>

@@ -13,3 +13,9 @@ What is highlighted on this map?
 ## Back
 
 <b>Yemen</b>
+
+## Extra
+
+<div class="cmp-map" data-focus="YEM" data-pin="15.3567,44.2046" data-label="Sanaa"><img src="../../media/cx-locator-yemen.svg" alt="Map of Yemen with Sanaa marked"></div>
+
+<a href="https://en.wikipedia.org/wiki/Yemen">Yemen on Wikipedia</a>

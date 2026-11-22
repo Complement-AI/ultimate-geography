@@ -13,3 +13,9 @@ What is highlighted on this map?
 ## Back
 
 <b>Malaysia</b>
+
+## Extra
+
+<div class="cmp-map" data-focus="MYS" data-pin="3.1686,101.698" data-label="Kuala Lumpur"><img src="../../media/cx-locator-malaysia.svg" alt="Map of Malaysia with Kuala Lumpur marked"></div>
+
+<a href="https://en.wikipedia.org/wiki/Malaysia">Malaysia on Wikipedia</a>

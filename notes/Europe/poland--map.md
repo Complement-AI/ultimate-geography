@@ -13,3 +13,9 @@ What is highlighted on this map?
 ## Back
 
 <b>Poland</b>
+
+## Extra
+
+<div class="cmp-map" data-focus="POL" data-pin="52.2519,20.9981" data-label="Warsaw"><img src="../../media/cx-locator-poland.svg" alt="Map of Poland with Warsaw marked"></div>
+
+<a href="https://en.wikipedia.org/wiki/Poland">Poland on Wikipedia</a>

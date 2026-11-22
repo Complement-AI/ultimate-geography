@@ -16,4 +16,8 @@ Whose flag is this?
 
 ## Extra
 
+<div class="cmp-map" data-focus="HKG"><img src="../../media/cx-locator-hong-kong.svg" alt="Map of Hong Kong"></div>
+
 Special Administrative Region of China.
+
+<a href="https://en.wikipedia.org/wiki/Flag_of_Hong_Kong">Flag of Hong Kong on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Hong_Kong">Hong Kong on Wikipedia</a>

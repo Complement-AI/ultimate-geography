@@ -13,3 +13,9 @@ Whose flag is this?
 ## Back
 
 <b>Grenada</b>
+
+## Extra
+
+<div class="cmp-map" data-focus="GRD" data-pin="12.0526,-61.7416" data-label="St. George's"><img src="../../media/cx-locator-grenada.svg" alt="Map of Grenada with St. George's marked"></div>
+
+<a href="https://en.wikipedia.org/wiki/Flag_of_Grenada">Flag of Grenada on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Grenada">Grenada on Wikipedia</a>

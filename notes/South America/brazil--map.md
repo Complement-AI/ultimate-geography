@@ -13,3 +13,9 @@ What is highlighted on this map?
 ## Back
 
 <b>Brazil</b>
+
+## Extra
+
+<div class="cmp-map" data-focus="BRA" data-pin="-15.7814,-47.918" data-label="Brasília"><img src="../../media/cx-locator-brazil.svg" alt="Map of Brazil with Brasília marked"></div>
+
+<a href="https://en.wikipedia.org/wiki/Brazil">Brazil on Wikipedia</a>

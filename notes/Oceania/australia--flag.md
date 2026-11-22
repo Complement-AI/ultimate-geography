@@ -16,4 +16,8 @@ Whose flag is this?
 
 ## Extra
 
+<div class="cmp-map" data-focus="AUS" data-pin="-35.283,149.129" data-label="Canberra"><img src="../../media/cx-locator-australia.svg" alt="Map of Australia with Canberra marked"></div>
+
 Similar flags: New Zealand (red stars, two fewer stars)
+
+<a href="https://en.wikipedia.org/wiki/Flag_of_Australia">Flag of Australia on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Australia">Australia on Wikipedia</a>

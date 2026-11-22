@@ -1,0 +1,21 @@
+{
+  "photo": {
+    "commons": "File:Macizo Paine al Amanecer Torres del Paine.jpg",
+    "alt": "The Paine massif at dawn, Torres del Paine National Park",
+    "file": "cx-photo-chile.jpg",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Macizo_Paine_al_Amanecer_Torres_del_Paine.jpg",
+    "credit": "Natalia Reyes Escobar, CC BY-SA 4.0, via Wikimedia Commons"
+  },
+  "facts": [
+    "Borders Peru, Bolivia and Argentina",
+    "About 19.5 million people (2021) in 756,000 km²"
+  ],
+  "worth_knowing": "Over 4,300 km from north to south but only 175 km wide on average, squeezed between the Andes and the Pacific. It is the country closest to Antarctica.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Chile",
+    "https://www.wikidata.org/wiki/Q298"
+  ],
+  "written_by": "claude-opus-5-5",
+  "checked_by": null
+}

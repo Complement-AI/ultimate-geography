@@ -13,3 +13,9 @@ Whose flag is this?
 ## Back
 
 <b>Cambodia</b>
+
+## Extra
+
+<div class="cmp-map" data-focus="KHM" data-pin="11.552,104.9147" data-label="Phnom Penh"><img src="../../media/cx-locator-cambodia.svg" alt="Map of Cambodia with Phnom Penh marked"></div>
+
+<a href="https://en.wikipedia.org/wiki/Flag_of_Cambodia">Flag of Cambodia on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Cambodia">Cambodia on Wikipedia</a>

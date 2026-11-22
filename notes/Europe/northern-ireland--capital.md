@@ -15,3 +15,5 @@ What is the capital of <b>Northern Ireland</b>?
 ## Extra
 
 Constituent country of the United Kingdom.
+
+<a href="https://en.wikipedia.org/wiki/Belfast">Belfast on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Northern_Ireland">Northern Ireland on Wikipedia</a>

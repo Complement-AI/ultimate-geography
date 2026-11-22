@@ -17,3 +17,5 @@ What is highlighted on this map?
 ## Extra
 
 Autonomous region of Portugal.
+
+<a href="https://en.wikipedia.org/wiki/Azores">Azores on Wikipedia</a>

@@ -11,3 +11,9 @@ What is the capital of <b>Algeria</b>?
 ## Back
 
 <b>Algiers</b>
+
+## Extra
+
+<div class="cmp-map" data-focus="DZA" data-pin="36.765,3.0486" data-label="Algiers"><img src="../../media/cx-locator-algeria.svg" alt="Map of Algeria with Algiers marked"></div>
+
+<a href="https://en.wikipedia.org/wiki/Algiers">Algiers on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Algeria">Algeria on Wikipedia</a>

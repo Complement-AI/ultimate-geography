@@ -11,3 +11,9 @@ tags  = ["north_america", "sovereign_state", "country"]
 ## Back
 
 <b>Costa Rica</b>
+
+## Extra
+
+<div class="cmp-map" data-focus="CRI" data-pin="9.937,-84.086" data-label="San José"><img src="../../media/cx-locator-costa-rica.svg" alt="Map of Costa Rica with San José marked"></div>
+
+<a href="https://en.wikipedia.org/wiki/Costa_Rica">Costa Rica on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/San_Jos%C3%A9,_Costa_Rica">San José, Costa Rica on Wikipedia</a>

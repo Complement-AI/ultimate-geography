@@ -1,0 +1,1851 @@
+{
+ "abkhazia": {
+  "entity": "https://en.wikipedia.org/wiki/Abkhazia",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Abkhazia",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Sukhumi"
+  ]
+ },
+ "adriatic-sea": {
+  "entity": "https://en.wikipedia.org/wiki/Adriatic_Sea"
+ },
+ "aegean-sea": {
+  "entity": "https://en.wikipedia.org/wiki/Aegean_Sea"
+ },
+ "afghanistan": {
+  "entity": "https://en.wikipedia.org/wiki/Afghanistan",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Afghanistan",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Kabul"
+  ]
+ },
+ "africa": {
+  "entity": "https://en.wikipedia.org/wiki/Africa"
+ },
+ "akrotiri-and-dhekelia": {
+  "entity": "https://en.wikipedia.org/wiki/Akrotiri_and_Dhekelia"
+ },
+ "alaska": {
+  "entity": "https://en.wikipedia.org/wiki/Alaska"
+ },
+ "albania": {
+  "entity": "https://en.wikipedia.org/wiki/Albania",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Albania",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Tirana"
+  ]
+ },
+ "algeria": {
+  "entity": "https://en.wikipedia.org/wiki/Algeria",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Algeria",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Algiers"
+  ]
+ },
+ "american-samoa": {
+  "entity": "https://en.wikipedia.org/wiki/American_Samoa"
+ },
+ "andorra": {
+  "entity": "https://en.wikipedia.org/wiki/Andorra",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Andorra",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Andorra_la_Vella"
+  ]
+ },
+ "angola": {
+  "entity": "https://en.wikipedia.org/wiki/Angola",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Angola",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Luanda"
+  ]
+ },
+ "anguilla": {
+  "entity": "https://en.wikipedia.org/wiki/Anguilla"
+ },
+ "antarctica": {
+  "entity": "https://en.wikipedia.org/wiki/Antarctica"
+ },
+ "antigua-and-barbuda": {
+  "entity": "https://en.wikipedia.org/wiki/Antigua_and_Barbuda",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Antigua_and_Barbuda",
+  "capital": [
+   "https://en.wikipedia.org/wiki/St._John's,_Antigua_and_Barbuda"
+  ]
+ },
+ "arabian-sea": {
+  "entity": "https://en.wikipedia.org/wiki/Arabian_Sea"
+ },
+ "aral-sea": {
+  "entity": "https://en.wikipedia.org/wiki/Aral_Sea"
+ },
+ "arctic-ocean": {
+  "entity": "https://en.wikipedia.org/wiki/Arctic_Ocean"
+ },
+ "argentina": {
+  "entity": "https://en.wikipedia.org/wiki/Argentina",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Argentina",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Buenos_Aires"
+  ]
+ },
+ "armenia": {
+  "entity": "https://en.wikipedia.org/wiki/Armenia",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Armenia",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Yerevan"
+  ]
+ },
+ "aruba": {
+  "entity": "https://en.wikipedia.org/wiki/Aruba",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Aruba",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Oranjestad"
+  ]
+ },
+ "asia": {
+  "entity": "https://en.wikipedia.org/wiki/Asia"
+ },
+ "atlantic-ocean": {
+  "entity": "https://en.wikipedia.org/wiki/Atlantic_Ocean"
+ },
+ "australia": {
+  "entity": "https://en.wikipedia.org/wiki/Australia",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Australia",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Canberra"
+  ]
+ },
+ "austria": {
+  "entity": "https://en.wikipedia.org/wiki/Austria",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Austria",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Vienna"
+  ]
+ },
+ "azerbaijan": {
+  "entity": "https://en.wikipedia.org/wiki/Azerbaijan",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Azerbaijan",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Baku"
+  ]
+ },
+ "azores": {
+  "entity": "https://en.wikipedia.org/wiki/Azores"
+ },
+ "bahrain": {
+  "entity": "https://en.wikipedia.org/wiki/Bahrain",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Bahrain",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Manama"
+  ]
+ },
+ "bali": {
+  "entity": "https://en.wikipedia.org/wiki/Bali"
+ },
+ "balkan-peninsula": {
+  "entity": "https://en.wikipedia.org/wiki/Balkans"
+ },
+ "baltic-sea": {
+  "entity": "https://en.wikipedia.org/wiki/Baltic_Sea"
+ },
+ "banda-sea": {
+  "entity": "https://en.wikipedia.org/wiki/Banda_Sea"
+ },
+ "bangladesh": {
+  "entity": "https://en.wikipedia.org/wiki/Bangladesh",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Bangladesh",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Dhaka"
+  ]
+ },
+ "barbados": {
+  "entity": "https://en.wikipedia.org/wiki/Barbados",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Barbados",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Bridgetown"
+  ]
+ },
+ "barents-sea": {
+  "entity": "https://en.wikipedia.org/wiki/Barents_Sea"
+ },
+ "bay-of-bengal": {
+  "entity": "https://en.wikipedia.org/wiki/Bay_of_Bengal"
+ },
+ "bay-of-biscay": {
+  "entity": "https://en.wikipedia.org/wiki/Bay_of_Biscay"
+ },
+ "belarus": {
+  "entity": "https://en.wikipedia.org/wiki/Belarus",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Belarus",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Minsk"
+  ]
+ },
+ "belgium": {
+  "entity": "https://en.wikipedia.org/wiki/Belgium",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Belgium",
+  "capital": [
+   "https://en.wikipedia.org/wiki/City_of_Brussels"
+  ]
+ },
+ "belize": {
+  "entity": "https://en.wikipedia.org/wiki/Belize",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Belize",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Belmopan"
+  ]
+ },
+ "benin": {
+  "entity": "https://en.wikipedia.org/wiki/Benin",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Benin",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Porto-Novo"
+  ]
+ },
+ "bering-strait": {
+  "entity": "https://en.wikipedia.org/wiki/Bering_Strait"
+ },
+ "bermuda": {
+  "entity": "https://en.wikipedia.org/wiki/Bermuda"
+ },
+ "bhutan": {
+  "entity": "https://en.wikipedia.org/wiki/Bhutan",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Bhutan",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Thimphu"
+  ]
+ },
+ "black-sea": {
+  "entity": "https://en.wikipedia.org/wiki/Black_Sea"
+ },
+ "bolivia": {
+  "entity": "https://en.wikipedia.org/wiki/Bolivia",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Bolivia",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Sucre"
+  ]
+ },
+ "bosnia-and-herzegovina": {
+  "entity": "https://en.wikipedia.org/wiki/Bosnia_and_Herzegovina",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Bosnia_and_Herzegovina",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Sarajevo"
+  ]
+ },
+ "botswana": {
+  "entity": "https://en.wikipedia.org/wiki/Botswana",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Botswana",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Gaborone"
+  ]
+ },
+ "bougainville": {
+  "entity": "https://en.wikipedia.org/wiki/Autonomous_Region_of_Bougainville"
+ },
+ "brazil": {
+  "entity": "https://en.wikipedia.org/wiki/Brazil",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Brazil",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Bras%C3%ADlia"
+  ]
+ },
+ "british-virgin-islands": {
+  "entity": "https://en.wikipedia.org/wiki/British_Virgin_Islands"
+ },
+ "brunei": {
+  "entity": "https://en.wikipedia.org/wiki/Brunei",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Brunei",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Bandar_Seri_Begawan"
+  ]
+ },
+ "bulgaria": {
+  "entity": "https://en.wikipedia.org/wiki/Bulgaria",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Bulgaria",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Sofia"
+  ]
+ },
+ "burkina-faso": {
+  "entity": "https://en.wikipedia.org/wiki/Burkina_Faso",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Burkina_Faso",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Ouagadougou"
+  ]
+ },
+ "burundi": {
+  "entity": "https://en.wikipedia.org/wiki/Burundi",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Burundi",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Gitega"
+  ]
+ },
+ "cambodia": {
+  "entity": "https://en.wikipedia.org/wiki/Cambodia",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Cambodia",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Phnom_Penh"
+  ]
+ },
+ "cameroon": {
+  "entity": "https://en.wikipedia.org/wiki/Cameroon",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Cameroon",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Yaound%C3%A9"
+  ]
+ },
+ "canada": {
+  "entity": "https://en.wikipedia.org/wiki/Canada",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Canada",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Ottawa"
+  ]
+ },
+ "canary-islands": {
+  "entity": "https://en.wikipedia.org/wiki/Canary_Islands"
+ },
+ "cape-verde": {
+  "entity": "https://en.wikipedia.org/wiki/Cape_Verde",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Cape_Verde",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Praia"
+  ]
+ },
+ "caribbean-sea": {
+  "entity": "https://en.wikipedia.org/wiki/Caribbean_Sea"
+ },
+ "caspian-sea": {
+  "entity": "https://en.wikipedia.org/wiki/Caspian_Sea"
+ },
+ "cayman-islands": {
+  "entity": "https://en.wikipedia.org/wiki/Cayman_Islands"
+ },
+ "celebes-sea": {
+  "entity": "https://en.wikipedia.org/wiki/Celebes_Sea"
+ },
+ "celtic-sea": {
+  "entity": "https://en.wikipedia.org/wiki/Celtic_Sea"
+ },
+ "central-african-republic": {
+  "entity": "https://en.wikipedia.org/wiki/Central_African_Republic",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_the_Central_African_Republic",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Bangui"
+  ]
+ },
+ "chad": {
+  "entity": "https://en.wikipedia.org/wiki/Chad",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Chad",
+  "capital": [
+   "https://en.wikipedia.org/wiki/N'Djamena"
+  ]
+ },
+ "chile": {
+  "entity": "https://en.wikipedia.org/wiki/Chile",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Chile",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Santiago"
+  ]
+ },
+ "china": {
+  "entity": "https://en.wikipedia.org/wiki/China",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_China",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Beijing"
+  ]
+ },
+ "colombia": {
+  "entity": "https://en.wikipedia.org/wiki/Colombia",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Colombia",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Bogot%C3%A1"
+  ]
+ },
+ "comoros": {
+  "entity": "https://en.wikipedia.org/wiki/Comoros",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_the_Comoros",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Moroni,_Comoros"
+  ]
+ },
+ "cook-islands": {
+  "entity": "https://en.wikipedia.org/wiki/Cook_Islands",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_the_Cook_Islands",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Avarua"
+  ]
+ },
+ "coral-sea": {
+  "entity": "https://en.wikipedia.org/wiki/Coral_Sea"
+ },
+ "corsica": {
+  "entity": "https://en.wikipedia.org/wiki/Corsica"
+ },
+ "costa-rica": {
+  "entity": "https://en.wikipedia.org/wiki/Costa_Rica",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Costa_Rica",
+  "capital": [
+   "https://en.wikipedia.org/wiki/San_Jos%C3%A9,_Costa_Rica"
+  ]
+ },
+ "croatia": {
+  "entity": "https://en.wikipedia.org/wiki/Croatia",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Croatia",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Zagreb"
+  ]
+ },
+ "cuba": {
+  "entity": "https://en.wikipedia.org/wiki/Cuba",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Cuba",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Havana"
+  ]
+ },
+ "cura-ao": {
+  "entity": "https://en.wikipedia.org/wiki/Cura%C3%A7ao",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Cura%C3%A7ao",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Willemstad"
+  ]
+ },
+ "cyprus": {
+  "entity": "https://en.wikipedia.org/wiki/Cyprus",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Cyprus",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Nicosia"
+  ]
+ },
+ "czech-republic": {
+  "entity": "https://en.wikipedia.org/wiki/Czech_Republic",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_the_Czech_Republic",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Prague"
+  ]
+ },
+ "dead-sea": {
+  "entity": "https://en.wikipedia.org/wiki/Dead_Sea"
+ },
+ "democratic-republic-of-the-congo": {
+  "entity": "https://en.wikipedia.org/wiki/Democratic_Republic_of_the_Congo",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_the_Democratic_Republic_of_the_Congo",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Kinshasa"
+  ]
+ },
+ "denmark": {
+  "entity": "https://en.wikipedia.org/wiki/Denmark",
+  "flag": "https://en.wikipedia.org/wiki/Dannebrog",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Copenhagen"
+  ]
+ },
+ "denmark-strait": {
+  "entity": "https://en.wikipedia.org/wiki/Denmark_Strait"
+ },
+ "djibouti": {
+  "entity": "https://en.wikipedia.org/wiki/Djibouti",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Djibouti",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Djibouti_City"
+  ]
+ },
+ "dominica": {
+  "entity": "https://en.wikipedia.org/wiki/Dominica",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Dominica",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Roseau"
+  ]
+ },
+ "dominican-republic": {
+  "entity": "https://en.wikipedia.org/wiki/Dominican_Republic",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_the_Dominican_Republic",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Santo_Domingo"
+  ]
+ },
+ "east-china-sea": {
+  "entity": "https://en.wikipedia.org/wiki/East_China_Sea"
+ },
+ "east-siberian-sea": {
+  "entity": "https://en.wikipedia.org/wiki/East_Siberian_Sea"
+ },
+ "ecuador": {
+  "entity": "https://en.wikipedia.org/wiki/Ecuador",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Ecuador",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Quito"
+  ]
+ },
+ "egypt": {
+  "entity": "https://en.wikipedia.org/wiki/Egypt",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Egypt",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Cairo"
+  ]
+ },
+ "el-salvador": {
+  "entity": "https://en.wikipedia.org/wiki/El_Salvador",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_El_Salvador",
+  "capital": [
+   "https://en.wikipedia.org/wiki/San_Salvador"
+  ]
+ },
+ "england": {
+  "entity": "https://en.wikipedia.org/wiki/England",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_England",
+  "capital": [
+   "https://en.wikipedia.org/wiki/London"
+  ]
+ },
+ "english-channel": {
+  "entity": "https://en.wikipedia.org/wiki/English_Channel"
+ },
+ "equatorial-guinea": {
+  "entity": "https://en.wikipedia.org/wiki/Equatorial_Guinea",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Equatorial_Guinea",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Ciudad_de_la_Paz"
+  ]
+ },
+ "eritrea": {
+  "entity": "https://en.wikipedia.org/wiki/Eritrea",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Eritrea",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Asmara"
+  ]
+ },
+ "estonia": {
+  "entity": "https://en.wikipedia.org/wiki/Estonia",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Estonia",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Tallinn"
+  ]
+ },
+ "eswatini": {
+  "entity": "https://en.wikipedia.org/wiki/Eswatini",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Eswatini",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Mbabane"
+  ]
+ },
+ "ethiopia": {
+  "entity": "https://en.wikipedia.org/wiki/Ethiopia",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Ethiopia",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Addis_Ababa"
+  ]
+ },
+ "europe": {
+  "entity": "https://en.wikipedia.org/wiki/Europe"
+ },
+ "european-union": {
+  "entity": "https://en.wikipedia.org/wiki/European_Union",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Europe"
+ },
+ "falkland-islands": {
+  "entity": "https://en.wikipedia.org/wiki/Falkland_Islands"
+ },
+ "faroe-islands": {
+  "entity": "https://en.wikipedia.org/wiki/Faroe_Islands",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_the_Faroe_Islands",
+  "capital": [
+   "https://en.wikipedia.org/wiki/T%C3%B3rshavn"
+  ]
+ },
+ "federated-states-of-micronesia": {
+  "entity": "https://en.wikipedia.org/wiki/Federated_States_of_Micronesia",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_the_Federated_States_of_Micronesia",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Palikir"
+  ]
+ },
+ "fiji": {
+  "entity": "https://en.wikipedia.org/wiki/Fiji",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Fiji",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Suva"
+  ]
+ },
+ "finland": {
+  "entity": "https://en.wikipedia.org/wiki/Finland",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Finland",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Helsinki"
+  ]
+ },
+ "france": {
+  "entity": "https://en.wikipedia.org/wiki/France",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_France",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Paris"
+  ]
+ },
+ "french-guiana": {
+  "entity": "https://en.wikipedia.org/wiki/French_Guiana"
+ },
+ "french-polynesia": {
+  "entity": "https://en.wikipedia.org/wiki/French_Polynesia",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_French_Polynesia",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Papeete"
+  ]
+ },
+ "gabon": {
+  "entity": "https://en.wikipedia.org/wiki/Gabon",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Gabon",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Libreville"
+  ]
+ },
+ "georgia": {
+  "entity": "https://en.wikipedia.org/wiki/Georgia_(country)",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Georgia_(country)",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Tbilisi"
+  ]
+ },
+ "germany": {
+  "entity": "https://en.wikipedia.org/wiki/Germany",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Germany",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Berlin"
+  ]
+ },
+ "ghana": {
+  "entity": "https://en.wikipedia.org/wiki/Ghana",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Ghana",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Accra"
+  ]
+ },
+ "gibraltar": {
+  "entity": "https://en.wikipedia.org/wiki/Gibraltar"
+ },
+ "greece": {
+  "entity": "https://en.wikipedia.org/wiki/Greece",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Greece",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Athens"
+  ]
+ },
+ "greenland": {
+  "entity": "https://en.wikipedia.org/wiki/Greenland",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Greenland",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Nuuk"
+  ]
+ },
+ "grenada": {
+  "entity": "https://en.wikipedia.org/wiki/Grenada",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Grenada",
+  "capital": [
+   "https://en.wikipedia.org/wiki/St._George's,_Grenada"
+  ]
+ },
+ "guadeloupe": {
+  "entity": "https://en.wikipedia.org/wiki/Guadeloupe"
+ },
+ "guam": {
+  "entity": "https://en.wikipedia.org/wiki/Guam",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Guam",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Hag%C3%A5t%C3%B1a,_Guam"
+  ]
+ },
+ "guatemala": {
+  "entity": "https://en.wikipedia.org/wiki/Guatemala",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Guatemala",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Guatemala_City"
+  ]
+ },
+ "guernsey": {
+  "entity": "https://en.wikipedia.org/wiki/Bailiwick_of_Guernsey"
+ },
+ "guinea": {
+  "entity": "https://en.wikipedia.org/wiki/Guinea",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Guinea",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Conakry"
+  ]
+ },
+ "guinea-bissau": {
+  "entity": "https://en.wikipedia.org/wiki/Guinea-Bissau",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Guinea-Bissau",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Bissau"
+  ]
+ },
+ "gulf-of-alaska": {
+  "entity": "https://en.wikipedia.org/wiki/Gulf_of_Alaska"
+ },
+ "gulf-of-california": {
+  "entity": "https://en.wikipedia.org/wiki/Gulf_of_California"
+ },
+ "gulf-of-carpentaria": {
+  "entity": "https://en.wikipedia.org/wiki/Gulf_of_Carpentaria"
+ },
+ "gulf-of-guinea": {
+  "entity": "https://en.wikipedia.org/wiki/Gulf_of_Guinea"
+ },
+ "gulf-of-mexico": {
+  "entity": "https://en.wikipedia.org/wiki/Gulf_of_Mexico"
+ },
+ "gulf-of-oman": {
+  "entity": "https://en.wikipedia.org/wiki/Gulf_of_Oman"
+ },
+ "gulf-of-thailand": {
+  "entity": "https://en.wikipedia.org/wiki/Gulf_of_Thailand"
+ },
+ "guyana": {
+  "entity": "https://en.wikipedia.org/wiki/Guyana",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Guyana",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Georgetown,_Guyana"
+  ]
+ },
+ "haiti": {
+  "entity": "https://en.wikipedia.org/wiki/Haiti",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Haiti",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Port-au-Prince"
+  ]
+ },
+ "hawaii": {
+  "entity": "https://en.wikipedia.org/wiki/Hawaii"
+ },
+ "honduras": {
+  "entity": "https://en.wikipedia.org/wiki/Honduras",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Honduras",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Tegucigalpa"
+  ]
+ },
+ "hong-kong": {
+  "entity": "https://en.wikipedia.org/wiki/Hong_Kong",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Hong_Kong"
+ },
+ "hudson-bay": {
+  "entity": "https://en.wikipedia.org/wiki/Hudson_Bay"
+ },
+ "hungary": {
+  "entity": "https://en.wikipedia.org/wiki/Hungary",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Hungary",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Budapest"
+  ]
+ },
+ "iceland": {
+  "entity": "https://en.wikipedia.org/wiki/Iceland",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Iceland",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Reykjav%C3%ADk"
+  ]
+ },
+ "india": {
+  "entity": "https://en.wikipedia.org/wiki/India",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_India",
+  "capital": [
+   "https://en.wikipedia.org/wiki/New_Delhi"
+  ]
+ },
+ "indian-ocean": {
+  "entity": "https://en.wikipedia.org/wiki/Indian_Ocean"
+ },
+ "indonesia": {
+  "entity": "https://en.wikipedia.org/wiki/Indonesia",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Indonesia",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Jakarta"
+  ]
+ },
+ "iran": {
+  "entity": "https://en.wikipedia.org/wiki/Iran",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Iran",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Tehran"
+  ]
+ },
+ "iraq": {
+  "entity": "https://en.wikipedia.org/wiki/Iraq",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Iraq",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Baghdad"
+  ]
+ },
+ "ireland": {
+  "entity": "https://en.wikipedia.org/wiki/Republic_of_Ireland",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Ireland",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Dublin"
+  ]
+ },
+ "isle-of-man": {
+  "entity": "https://en.wikipedia.org/wiki/Isle_of_Man"
+ },
+ "israel": {
+  "entity": "https://en.wikipedia.org/wiki/Israel",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Israel",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Jerusalem"
+  ]
+ },
+ "italy": {
+  "entity": "https://en.wikipedia.org/wiki/Italy",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Italy",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Rome"
+  ]
+ },
+ "ivory-coast": {
+  "entity": "https://en.wikipedia.org/wiki/Ivory_Coast",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Ivory_Coast",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Yamoussoukro"
+  ]
+ },
+ "jamaica": {
+  "entity": "https://en.wikipedia.org/wiki/Jamaica",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Jamaica",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Kingston,_Jamaica"
+  ]
+ },
+ "japan": {
+  "entity": "https://en.wikipedia.org/wiki/Japan",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Japan",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Tokyo"
+  ]
+ },
+ "java": {
+  "entity": "https://en.wikipedia.org/wiki/Java"
+ },
+ "jeju": {
+  "entity": "https://en.wikipedia.org/wiki/Jeju_Province"
+ },
+ "jersey": {
+  "entity": "https://en.wikipedia.org/wiki/Jersey"
+ },
+ "jordan": {
+  "entity": "https://en.wikipedia.org/wiki/Jordan",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Jordan",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Amman"
+  ]
+ },
+ "kaliningrad-oblast": {
+  "entity": "https://en.wikipedia.org/wiki/Kaliningrad_Oblast"
+ },
+ "kazakhstan": {
+  "entity": "https://en.wikipedia.org/wiki/Kazakhstan",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Kazakhstan",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Astana"
+  ]
+ },
+ "kenya": {
+  "entity": "https://en.wikipedia.org/wiki/Kenya",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Kenya",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Nairobi"
+  ]
+ },
+ "kiribati": {
+  "entity": "https://en.wikipedia.org/wiki/Kiribati",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Kiribati",
+  "capital": [
+   "https://en.wikipedia.org/wiki/South_Tarawa"
+  ]
+ },
+ "kosovo": {
+  "entity": "https://en.wikipedia.org/wiki/Kosovo",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Kosovo",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Pristina"
+  ]
+ },
+ "kuwait": {
+  "entity": "https://en.wikipedia.org/wiki/Kuwait",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Kuwait",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Kuwait_City"
+  ]
+ },
+ "kyrgyzstan": {
+  "entity": "https://en.wikipedia.org/wiki/Kyrgyzstan",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Kyrgyzstan",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Bishkek"
+  ]
+ },
+ "labrador-sea": {
+  "entity": "https://en.wikipedia.org/wiki/Labrador_Sea"
+ },
+ "land-islands": {
+  "entity": "https://en.wikipedia.org/wiki/%C3%85land",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_%C3%85land",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Mariehamn"
+  ]
+ },
+ "laos": {
+  "entity": "https://en.wikipedia.org/wiki/Laos",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Laos",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Vientiane"
+  ]
+ },
+ "latvia": {
+  "entity": "https://en.wikipedia.org/wiki/Latvia",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Latvia",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Riga"
+  ]
+ },
+ "lebanon": {
+  "entity": "https://en.wikipedia.org/wiki/Lebanon",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Lebanon",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Beirut"
+  ]
+ },
+ "lesotho": {
+  "entity": "https://en.wikipedia.org/wiki/Lesotho",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Lesotho",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Maseru"
+  ]
+ },
+ "liberia": {
+  "entity": "https://en.wikipedia.org/wiki/Liberia",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Liberia",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Monrovia"
+  ]
+ },
+ "libya": {
+  "entity": "https://en.wikipedia.org/wiki/Libya",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Libya",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Tripoli,_Libya"
+  ]
+ },
+ "liechtenstein": {
+  "entity": "https://en.wikipedia.org/wiki/Liechtenstein",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Liechtenstein",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Vaduz"
+  ]
+ },
+ "lithuania": {
+  "entity": "https://en.wikipedia.org/wiki/Lithuania",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Lithuania",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Vilnius"
+  ]
+ },
+ "luxembourg": {
+  "entity": "https://en.wikipedia.org/wiki/Luxembourg",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Luxembourg",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Luxembourg_City"
+  ]
+ },
+ "macau": {
+  "entity": "https://en.wikipedia.org/wiki/Macau",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Macau"
+ },
+ "madagascar": {
+  "entity": "https://en.wikipedia.org/wiki/Madagascar",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Madagascar",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Antananarivo"
+  ]
+ },
+ "madeira": {
+  "entity": "https://en.wikipedia.org/wiki/Madeira"
+ },
+ "malawi": {
+  "entity": "https://en.wikipedia.org/wiki/Malawi",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Malawi",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Lilongwe"
+  ]
+ },
+ "malaysia": {
+  "entity": "https://en.wikipedia.org/wiki/Malaysia",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Malaysia",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Kuala_Lumpur"
+  ]
+ },
+ "maldives": {
+  "entity": "https://en.wikipedia.org/wiki/Maldives",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_the_Maldives",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Mal%C3%A9"
+  ]
+ },
+ "mali": {
+  "entity": "https://en.wikipedia.org/wiki/Mali",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Mali",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Bamako"
+  ]
+ },
+ "malta": {
+  "entity": "https://en.wikipedia.org/wiki/Malta",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Malta",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Valletta"
+  ]
+ },
+ "marshall-islands": {
+  "entity": "https://en.wikipedia.org/wiki/Marshall_Islands",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_the_Marshall_Islands",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Majuro"
+  ]
+ },
+ "martinique": {
+  "entity": "https://en.wikipedia.org/wiki/Martinique"
+ },
+ "mauritania": {
+  "entity": "https://en.wikipedia.org/wiki/Mauritania",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Mauritania",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Nouakchott"
+  ]
+ },
+ "mauritius": {
+  "entity": "https://en.wikipedia.org/wiki/Mauritius",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Mauritius",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Port_Louis"
+  ]
+ },
+ "mayotte": {
+  "entity": "https://en.wikipedia.org/wiki/Mayotte"
+ },
+ "mediterranean-sea": {
+  "entity": "https://en.wikipedia.org/wiki/Mediterranean_Sea"
+ },
+ "melanesia": {
+  "entity": "https://en.wikipedia.org/wiki/Melanesia"
+ },
+ "mexico": {
+  "entity": "https://en.wikipedia.org/wiki/Mexico",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Mexico",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Mexico_City"
+  ]
+ },
+ "micronesia": {
+  "entity": "https://en.wikipedia.org/wiki/Federated_States_of_Micronesia"
+ },
+ "moldova": {
+  "entity": "https://en.wikipedia.org/wiki/Moldova",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Moldova",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Chi%C8%99in%C4%83u"
+  ]
+ },
+ "monaco": {
+  "entity": "https://en.wikipedia.org/wiki/Monaco",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Monaco",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Monaco"
+  ]
+ },
+ "mongolia": {
+  "entity": "https://en.wikipedia.org/wiki/Mongolia",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Mongolia",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Ulaanbaatar"
+  ]
+ },
+ "montenegro": {
+  "entity": "https://en.wikipedia.org/wiki/Montenegro",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Montenegro",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Podgorica"
+  ]
+ },
+ "morocco": {
+  "entity": "https://en.wikipedia.org/wiki/Morocco",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Morocco",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Rabat"
+  ]
+ },
+ "mozambique": {
+  "entity": "https://en.wikipedia.org/wiki/Mozambique",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Mozambique",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Maputo"
+  ]
+ },
+ "myanmar": {
+  "entity": "https://en.wikipedia.org/wiki/Myanmar",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Myanmar",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Naypyidaw"
+  ]
+ },
+ "namibia": {
+  "entity": "https://en.wikipedia.org/wiki/Namibia",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Namibia",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Windhoek"
+  ]
+ },
+ "nauru": {
+  "entity": "https://en.wikipedia.org/wiki/Nauru",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Nauru",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Yaren"
+  ]
+ },
+ "nepal": {
+  "entity": "https://en.wikipedia.org/wiki/Nepal",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Nepal",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Kathmandu"
+  ]
+ },
+ "netherlands": {
+  "entity": "https://en.wikipedia.org/wiki/Netherlands",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_the_Netherlands",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Amsterdam"
+  ]
+ },
+ "new-caledonia": {
+  "entity": "https://en.wikipedia.org/wiki/New_Caledonia",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_France",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Noum%C3%A9a"
+  ]
+ },
+ "new-zealand": {
+  "entity": "https://en.wikipedia.org/wiki/New_Zealand",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_New_Zealand",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Wellington"
+  ]
+ },
+ "nicaragua": {
+  "entity": "https://en.wikipedia.org/wiki/Nicaragua",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Nicaragua",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Managua"
+  ]
+ },
+ "niger": {
+  "entity": "https://en.wikipedia.org/wiki/Niger",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Niger",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Niamey"
+  ]
+ },
+ "nigeria": {
+  "entity": "https://en.wikipedia.org/wiki/Nigeria",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Nigeria",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Abuja"
+  ]
+ },
+ "niue": {
+  "entity": "https://en.wikipedia.org/wiki/Niue",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Niue",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Alofi"
+  ]
+ },
+ "north-america": {
+  "entity": "https://en.wikipedia.org/wiki/North_America"
+ },
+ "north-korea": {
+  "entity": "https://en.wikipedia.org/wiki/North_Korea",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_North_Korea",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Pyongyang"
+  ]
+ },
+ "north-macedonia": {
+  "entity": "https://en.wikipedia.org/wiki/North_Macedonia",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_North_Macedonia",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Skopje"
+  ]
+ },
+ "north-sea": {
+  "entity": "https://en.wikipedia.org/wiki/North_Sea"
+ },
+ "northern-cyprus": {
+  "entity": "https://en.wikipedia.org/wiki/Northern_Cyprus",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Northern_Cyprus",
+  "capital": [
+   "https://en.wikipedia.org/wiki/North_Nicosia"
+  ]
+ },
+ "northern-ireland": {
+  "entity": "https://en.wikipedia.org/wiki/Northern_Ireland",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Belfast"
+  ]
+ },
+ "northern-mariana-islands": {
+  "entity": "https://en.wikipedia.org/wiki/Northern_Mariana_Islands"
+ },
+ "norway": {
+  "entity": "https://en.wikipedia.org/wiki/Norway",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Norway",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Oslo"
+  ]
+ },
+ "norwegian-sea": {
+  "entity": "https://en.wikipedia.org/wiki/Norwegian_Sea"
+ },
+ "oceania": {
+  "entity": "https://en.wikipedia.org/wiki/Oceania"
+ },
+ "oman": {
+  "entity": "https://en.wikipedia.org/wiki/Oman",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Oman",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Muscat"
+  ]
+ },
+ "pacific-ocean": {
+  "entity": "https://en.wikipedia.org/wiki/Pacific_Ocean"
+ },
+ "pakistan": {
+  "entity": "https://en.wikipedia.org/wiki/Pakistan",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Pakistan",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Islamabad"
+  ]
+ },
+ "palau": {
+  "entity": "https://en.wikipedia.org/wiki/Palau",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Palau",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Ngerulmud"
+  ]
+ },
+ "palestine": {
+  "entity": "https://en.wikipedia.org/wiki/State_of_Palestine",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Palestine",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Jerusalem"
+  ]
+ },
+ "panama": {
+  "entity": "https://en.wikipedia.org/wiki/Panama",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Panama",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Panama_City"
+  ]
+ },
+ "papua-new-guinea": {
+  "entity": "https://en.wikipedia.org/wiki/Papua_New_Guinea",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Papua_New_Guinea",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Port_Moresby"
+  ]
+ },
+ "paraguay": {
+  "entity": "https://en.wikipedia.org/wiki/Paraguay",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Paraguay",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Asunci%C3%B3n"
+  ]
+ },
+ "persian-gulf": {
+  "entity": "https://en.wikipedia.org/wiki/Persian_Gulf"
+ },
+ "peru": {
+  "entity": "https://en.wikipedia.org/wiki/Peru",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Peru",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Lima"
+  ]
+ },
+ "philippine-sea": {
+  "entity": "https://en.wikipedia.org/wiki/Philippine_Sea"
+ },
+ "philippines": {
+  "entity": "https://en.wikipedia.org/wiki/Philippines",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_the_Philippines",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Manila"
+  ]
+ },
+ "poland": {
+  "entity": "https://en.wikipedia.org/wiki/Poland",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Poland",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Warsaw"
+  ]
+ },
+ "polynesia": {
+  "entity": "https://en.wikipedia.org/wiki/Polynesia"
+ },
+ "portugal": {
+  "entity": "https://en.wikipedia.org/wiki/Portugal",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Portugal",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Lisbon"
+  ]
+ },
+ "puerto-rico": {
+  "entity": "https://en.wikipedia.org/wiki/Puerto_Rico",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Puerto_Rico",
+  "capital": [
+   "https://en.wikipedia.org/wiki/San_Juan,_Puerto_Rico"
+  ]
+ },
+ "qatar": {
+  "entity": "https://en.wikipedia.org/wiki/Qatar",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Qatar",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Doha"
+  ]
+ },
+ "r-union": {
+  "entity": "https://en.wikipedia.org/wiki/R%C3%A9union"
+ },
+ "red-sea": {
+  "entity": "https://en.wikipedia.org/wiki/Red_Sea"
+ },
+ "republic-of-the-congo": {
+  "entity": "https://en.wikipedia.org/wiki/Republic_of_the_Congo",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_the_Republic_of_the_Congo",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Brazzaville"
+  ]
+ },
+ "romania": {
+  "entity": "https://en.wikipedia.org/wiki/Romania",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Romania",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Bucharest"
+  ]
+ },
+ "russia": {
+  "entity": "https://en.wikipedia.org/wiki/Russia",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Russia",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Moscow"
+  ]
+ },
+ "rwanda": {
+  "entity": "https://en.wikipedia.org/wiki/Rwanda",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Rwanda",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Kigali"
+  ]
+ },
+ "s-o-tom-and-pr-ncipe": {
+  "entity": "https://en.wikipedia.org/wiki/S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe",
+  "capital": [
+   "https://en.wikipedia.org/wiki/S%C3%A3o_Tom%C3%A9"
+  ]
+ },
+ "sahrawi-arab-democratic-republic": {
+  "entity": "https://en.wikipedia.org/wiki/Western_Sahara",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Western_Sahara",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Laayoune"
+  ]
+ },
+ "saint-kitts-and-nevis": {
+  "entity": "https://en.wikipedia.org/wiki/Saint_Kitts_and_Nevis",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Saint_Kitts_and_Nevis",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Basseterre"
+  ]
+ },
+ "saint-lucia": {
+  "entity": "https://en.wikipedia.org/wiki/Saint_Lucia",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Saint_Lucia",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Castries"
+  ]
+ },
+ "saint-martin": {
+  "entity": "https://en.wikipedia.org/wiki/Collectivity_of_Saint_Martin"
+ },
+ "saint-vincent-and-the-grenadines": {
+  "entity": "https://en.wikipedia.org/wiki/Saint_Vincent_and_the_Grenadines",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Saint_Vincent_and_the_Grenadines",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Kingstown"
+  ]
+ },
+ "samoa": {
+  "entity": "https://en.wikipedia.org/wiki/Samoa",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Samoa",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Apia"
+  ]
+ },
+ "san-marino": {
+  "entity": "https://en.wikipedia.org/wiki/San_Marino",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_San_Marino",
+  "capital": [
+   "https://en.wikipedia.org/wiki/City_of_San_Marino"
+  ]
+ },
+ "sardinia": {
+  "entity": "https://en.wikipedia.org/wiki/Sardinia"
+ },
+ "saudi-arabia": {
+  "entity": "https://en.wikipedia.org/wiki/Saudi_Arabia",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Saudi_Arabia",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Riyadh"
+  ]
+ },
+ "scandinavia": {
+  "entity": "https://en.wikipedia.org/wiki/Scandinavia"
+ },
+ "scotland": {
+  "entity": "https://en.wikipedia.org/wiki/Scotland",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Scotland",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Edinburgh"
+  ]
+ },
+ "sea-of-galilee": {
+  "entity": "https://en.wikipedia.org/wiki/Sea_of_Galilee"
+ },
+ "sea-of-japan": {
+  "entity": "https://en.wikipedia.org/wiki/Sea_of_Japan"
+ },
+ "sea-of-okhotsk": {
+  "entity": "https://en.wikipedia.org/wiki/Sea_of_Okhotsk"
+ },
+ "senegal": {
+  "entity": "https://en.wikipedia.org/wiki/Senegal",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Senegal",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Dakar"
+  ]
+ },
+ "serbia": {
+  "entity": "https://en.wikipedia.org/wiki/Serbia",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Serbia",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Belgrade"
+  ]
+ },
+ "seychelles": {
+  "entity": "https://en.wikipedia.org/wiki/Seychelles",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Seychelles",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Victoria,_Seychelles"
+  ]
+ },
+ "sicily": {
+  "entity": "https://en.wikipedia.org/wiki/Sicily"
+ },
+ "sierra-leone": {
+  "entity": "https://en.wikipedia.org/wiki/Sierra_Leone",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Sierra_Leone",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Freetown"
+  ]
+ },
+ "singapore": {
+  "entity": "https://en.wikipedia.org/wiki/Singapore",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Singapore",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Singapore"
+  ]
+ },
+ "sint-maarten": {
+  "entity": "https://en.wikipedia.org/wiki/Sint_Maarten"
+ },
+ "slovakia": {
+  "entity": "https://en.wikipedia.org/wiki/Slovakia",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Slovakia",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Bratislava"
+  ]
+ },
+ "slovenia": {
+  "entity": "https://en.wikipedia.org/wiki/Slovenia",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Slovenia",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Ljubljana"
+  ]
+ },
+ "solomon-islands": {
+  "entity": "https://en.wikipedia.org/wiki/Solomon_Islands",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Solomon_Islands",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Honiara"
+  ]
+ },
+ "somalia": {
+  "entity": "https://en.wikipedia.org/wiki/Somalia",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Somalia",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Mogadishu"
+  ]
+ },
+ "somaliland": {
+  "entity": "https://en.wikipedia.org/wiki/Somaliland",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Somaliland",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Hargeisa"
+  ]
+ },
+ "south-africa": {
+  "entity": "https://en.wikipedia.org/wiki/South_Africa",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_South_Africa",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Pretoria",
+   "https://en.wikipedia.org/wiki/Cape_Town",
+   "https://en.wikipedia.org/wiki/Bloemfontein"
+  ]
+ },
+ "south-america": {
+  "entity": "https://en.wikipedia.org/wiki/South_America"
+ },
+ "south-china-sea": {
+  "entity": "https://en.wikipedia.org/wiki/South_China_Sea"
+ },
+ "south-korea": {
+  "entity": "https://en.wikipedia.org/wiki/South_Korea",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_South_Korea",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Seoul"
+  ]
+ },
+ "south-ossetia": {
+  "entity": "https://en.wikipedia.org/wiki/South_Ossetia",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Ossetia",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Tskhinvali"
+  ]
+ },
+ "south-sudan": {
+  "entity": "https://en.wikipedia.org/wiki/South_Sudan",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_South_Sudan",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Juba"
+  ]
+ },
+ "southern-ocean": {
+  "entity": "https://en.wikipedia.org/wiki/Southern_Ocean"
+ },
+ "spain": {
+  "entity": "https://en.wikipedia.org/wiki/Spain",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Spain",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Madrid"
+  ]
+ },
+ "sri-lanka": {
+  "entity": "https://en.wikipedia.org/wiki/Sri_Lanka",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Sri_Lanka",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Sri_Jayawardenepura_Kotte"
+  ]
+ },
+ "strait-of-gibraltar": {
+  "entity": "https://en.wikipedia.org/wiki/Strait_of_Gibraltar"
+ },
+ "strait-of-hormuz": {
+  "entity": "https://en.wikipedia.org/wiki/Strait_of_Hormuz"
+ },
+ "strait-of-malacca": {
+  "entity": "https://en.wikipedia.org/wiki/Strait_of_Malacca"
+ },
+ "sudan": {
+  "entity": "https://en.wikipedia.org/wiki/Sudan",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Sudan",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Khartoum"
+  ]
+ },
+ "sumatra": {
+  "entity": "https://en.wikipedia.org/wiki/Sumatra"
+ },
+ "suriname": {
+  "entity": "https://en.wikipedia.org/wiki/Suriname",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Suriname",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Paramaribo"
+  ]
+ },
+ "svalbard": {
+  "entity": "https://en.wikipedia.org/wiki/Svalbard"
+ },
+ "sweden": {
+  "entity": "https://en.wikipedia.org/wiki/Sweden",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Sweden",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Stockholm"
+  ]
+ },
+ "switzerland": {
+  "entity": "https://en.wikipedia.org/wiki/Switzerland",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Switzerland",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Bern"
+  ]
+ },
+ "syria": {
+  "entity": "https://en.wikipedia.org/wiki/Syria",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Syria",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Damascus"
+  ]
+ },
+ "taiwan": {
+  "entity": "https://en.wikipedia.org/wiki/Taiwan",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_the_Republic_of_China",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Taipei"
+  ]
+ },
+ "tajikistan": {
+  "entity": "https://en.wikipedia.org/wiki/Tajikistan",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Tajikistan",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Dushanbe"
+  ]
+ },
+ "tanzania": {
+  "entity": "https://en.wikipedia.org/wiki/Tanzania",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Tanzania",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Dodoma"
+  ]
+ },
+ "tasman-sea": {
+  "entity": "https://en.wikipedia.org/wiki/Tasman_Sea"
+ },
+ "thailand": {
+  "entity": "https://en.wikipedia.org/wiki/Thailand",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Thailand",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Bangkok"
+  ]
+ },
+ "the-bahamas": {
+  "entity": "https://en.wikipedia.org/wiki/The_Bahamas",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_the_Bahamas",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Nassau,_Bahamas"
+  ]
+ },
+ "the-gambia": {
+  "entity": "https://en.wikipedia.org/wiki/The_Gambia",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_the_Gambia",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Banjul"
+  ]
+ },
+ "timor-leste": {
+  "entity": "https://en.wikipedia.org/wiki/Timor-Leste",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Timor-Leste",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Dili"
+  ]
+ },
+ "timor-sea": {
+  "entity": "https://en.wikipedia.org/wiki/Timor_Sea"
+ },
+ "togo": {
+  "entity": "https://en.wikipedia.org/wiki/Togo",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Togo",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Lom%C3%A9"
+  ]
+ },
+ "tonga": {
+  "entity": "https://en.wikipedia.org/wiki/Tonga",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Tonga",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Nuku%CA%BBalofa"
+  ]
+ },
+ "transnistria": {
+  "entity": "https://en.wikipedia.org/wiki/Transnistria",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Transnistria",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Tiraspol"
+  ]
+ },
+ "trinidad-and-tobago": {
+  "entity": "https://en.wikipedia.org/wiki/Trinidad_and_Tobago",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Trinidad_and_Tobago",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Port_of_Spain"
+  ]
+ },
+ "tunisia": {
+  "entity": "https://en.wikipedia.org/wiki/Tunisia",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Tunisia",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Tunis"
+  ]
+ },
+ "turkey": {
+  "entity": "https://en.wikipedia.org/wiki/Turkey",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Turkey",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Ankara"
+  ]
+ },
+ "turkmenistan": {
+  "entity": "https://en.wikipedia.org/wiki/Turkmenistan",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Turkmenistan",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Ashgabat"
+  ]
+ },
+ "turks-and-caicos-islands": {
+  "entity": "https://en.wikipedia.org/wiki/Turks_and_Caicos_Islands"
+ },
+ "tuvalu": {
+  "entity": "https://en.wikipedia.org/wiki/Tuvalu",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Tuvalu",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Funafuti"
+  ]
+ },
+ "uganda": {
+  "entity": "https://en.wikipedia.org/wiki/Uganda",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Uganda",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Kampala"
+  ]
+ },
+ "ukraine": {
+  "entity": "https://en.wikipedia.org/wiki/Ukraine",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Ukraine",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Kyiv"
+  ]
+ },
+ "united-arab-emirates": {
+  "entity": "https://en.wikipedia.org/wiki/United_Arab_Emirates",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_the_United_Arab_Emirates",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Abu_Dhabi"
+  ]
+ },
+ "united-kingdom": {
+  "entity": "https://en.wikipedia.org/wiki/United_Kingdom",
+  "flag": "https://en.wikipedia.org/wiki/Union_Jack",
+  "capital": [
+   "https://en.wikipedia.org/wiki/London"
+  ]
+ },
+ "united-states-of-america": {
+  "entity": "https://en.wikipedia.org/wiki/United_States",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_the_United_States",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Washington,_D.C."
+  ]
+ },
+ "united-states-virgin-islands": {
+  "entity": "https://en.wikipedia.org/wiki/United_States_Virgin_Islands",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_the_United_States_Virgin_Islands",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Charlotte_Amalie,_U.S._Virgin_Islands"
+  ]
+ },
+ "uruguay": {
+  "entity": "https://en.wikipedia.org/wiki/Uruguay",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Uruguay",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Montevideo"
+  ]
+ },
+ "uzbekistan": {
+  "entity": "https://en.wikipedia.org/wiki/Uzbekistan",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Uzbekistan",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Tashkent"
+  ]
+ },
+ "vanuatu": {
+  "entity": "https://en.wikipedia.org/wiki/Vanuatu",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Vanuatu",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Port_Vila"
+  ]
+ },
+ "vatican-city": {
+  "entity": "https://en.wikipedia.org/wiki/Vatican_City",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Vatican_City",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Vatican_City"
+  ]
+ },
+ "venezuela": {
+  "entity": "https://en.wikipedia.org/wiki/Venezuela",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Venezuela",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Caracas"
+  ]
+ },
+ "vietnam": {
+  "entity": "https://en.wikipedia.org/wiki/Vietnam",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Vietnam",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Hanoi"
+  ]
+ },
+ "wales": {
+  "entity": "https://en.wikipedia.org/wiki/Wales",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Wales",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Cardiff"
+  ]
+ },
+ "wallis-and-futuna": {
+  "entity": "https://en.wikipedia.org/wiki/Wallis_and_Futuna"
+ },
+ "white-sea": {
+  "entity": "https://en.wikipedia.org/wiki/White_Sea"
+ },
+ "yellow-sea": {
+  "entity": "https://en.wikipedia.org/wiki/Yellow_Sea"
+ },
+ "yemen": {
+  "entity": "https://en.wikipedia.org/wiki/Yemen",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Yemen",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Sanaa"
+  ]
+ },
+ "zambia": {
+  "entity": "https://en.wikipedia.org/wiki/Zambia",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Zambia",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Lusaka"
+  ]
+ },
+ "zanzibar": {
+  "entity": "https://en.wikipedia.org/wiki/Zanzibar"
+ },
+ "zimbabwe": {
+  "entity": "https://en.wikipedia.org/wiki/Zimbabwe",
+  "flag": "https://en.wikipedia.org/wiki/Flag_of_Zimbabwe",
+  "capital": [
+   "https://en.wikipedia.org/wiki/Harare"
+  ]
+ }
+}

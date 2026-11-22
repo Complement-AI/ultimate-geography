@@ -13,3 +13,9 @@ What is highlighted on this map?
 ## Back
 
 <b>Mongolia</b>
+
+## Extra
+
+<div class="cmp-map" data-focus="MNG" data-pin="47.9186,106.9147" data-label="Ulaanbaatar"><img src="../../media/cx-locator-mongolia.svg" alt="Map of Mongolia with Ulaanbaatar marked"></div>
+
+<a href="https://en.wikipedia.org/wiki/Mongolia">Mongolia on Wikipedia</a>

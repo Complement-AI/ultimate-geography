@@ -16,4 +16,8 @@ Whose flag is this?
 
 ## Extra
 
+<div class="cmp-map" data-focus="MLI" data-pin="12.652,-8.002" data-label="Bamako"><img src="../../media/cx-locator-mali.svg" alt="Map of Mali with Bamako marked"></div>
+
 Similar flags: Guinea (green and red flipped, slightly darker green)
+
+<a href="https://en.wikipedia.org/wiki/Flag_of_Mali">Flag of Mali on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Mali">Mali on Wikipedia</a>

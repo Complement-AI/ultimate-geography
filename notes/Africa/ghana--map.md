@@ -13,3 +13,9 @@ What is highlighted on this map?
 ## Back
 
 <b>Ghana</b>
+
+## Extra
+
+<div class="cmp-map" data-focus="GHA" data-pin="5.552,-0.2187" data-label="Accra"><img src="../../media/cx-locator-ghana.svg" alt="Map of Ghana with Accra marked"></div>
+
+<a href="https://en.wikipedia.org/wiki/Ghana">Ghana on Wikipedia</a>

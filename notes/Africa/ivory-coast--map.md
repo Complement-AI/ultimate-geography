@@ -16,4 +16,8 @@ What is highlighted on this map?
 
 ## Extra
 
+<div class="cmp-map" data-focus="CIV" data-pin="6.8184,-5.2755" data-label="Yamoussoukro"><img src="../../media/cx-locator-ivory-coast.svg" alt="Map of Ivory Coast with Yamoussoukro marked"></div>
+
 Officially Côte d'Ivoire.
+
+<a href="https://en.wikipedia.org/wiki/Ivory_Coast">Ivory Coast on Wikipedia</a>

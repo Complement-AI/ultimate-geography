@@ -17,3 +17,5 @@ What is highlighted on this map?
 ## Extra
 
 Constituent country of the United Kingdom.
+
+<a href="https://en.wikipedia.org/wiki/Northern_Ireland">Northern Ireland on Wikipedia</a>

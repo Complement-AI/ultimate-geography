@@ -13,3 +13,7 @@ What is highlighted on this map?
 ## Back
 
 <b>Gulf of Alaska</b>
+
+## Extra
+
+<a href="https://en.wikipedia.org/wiki/Gulf_of_Alaska">Gulf of Alaska on Wikipedia</a>

@@ -17,3 +17,5 @@ What is highlighted on this map?
 ## Extra
 
 Independent state claimed by Moldova.
+
+<a href="https://en.wikipedia.org/wiki/Transnistria">Transnistria on Wikipedia</a>

@@ -17,3 +17,5 @@ What is highlighted on this map?
 ## Extra
 
 Crown dependency of the United Kingdom.
+
+<a href="https://en.wikipedia.org/wiki/Bailiwick_of_Guernsey">Bailiwick of Guernsey on Wikipedia</a>

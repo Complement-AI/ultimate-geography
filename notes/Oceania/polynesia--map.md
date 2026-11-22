@@ -17,3 +17,5 @@ What is highlighted on this map?
 ## Extra
 
 Subregion of Oceania comprising thousands of small islands in the central and southern Pacific Ocean.
+
+<a href="https://en.wikipedia.org/wiki/Polynesia">Polynesia on Wikipedia</a>

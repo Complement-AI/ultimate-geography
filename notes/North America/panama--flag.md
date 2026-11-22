@@ -13,3 +13,9 @@ Whose flag is this?
 ## Back
 
 <b>Panama</b>
+
+## Extra
+
+<div class="cmp-map" data-focus="PAN" data-pin="8.97,-79.535" data-label="Panama City"><img src="../../media/cx-locator-panama.svg" alt="Map of Panama with Panama City marked"></div>
+
+<a href="https://en.wikipedia.org/wiki/Flag_of_Panama">Flag of Panama on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Panama">Panama on Wikipedia</a>

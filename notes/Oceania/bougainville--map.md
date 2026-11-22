@@ -17,3 +17,5 @@ What is highlighted on this map?
 ## Extra
 
 Autonomous region of Papua New Guinea.
+
+<a href="https://en.wikipedia.org/wiki/Autonomous_Region_of_Bougainville">Autonomous Region of Bougainville on Wikipedia</a>

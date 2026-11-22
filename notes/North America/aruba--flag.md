@@ -16,4 +16,8 @@ Whose flag is this?
 
 ## Extra
 
+<div class="cmp-map" data-focus="ABW" data-pin="12.5304,-70.029" data-label="Oranjestad"><img src="../../media/cx-locator-aruba.svg" alt="Map of Aruba with Oranjestad marked"></div>
+
 Constituent country of the Kingdom of the Netherlands.
+
+<a href="https://en.wikipedia.org/wiki/Flag_of_Aruba">Flag of Aruba on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Aruba">Aruba on Wikipedia</a>

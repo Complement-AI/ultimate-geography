@@ -17,3 +17,5 @@ What is highlighted on this map?
 ## Extra
 
 Oblast (administrative region) of the Russian Federation.
+
+<a href="https://en.wikipedia.org/wiki/Kaliningrad_Oblast">Kaliningrad Oblast on Wikipedia</a>

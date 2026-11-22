@@ -13,3 +13,9 @@ What is highlighted on this map?
 ## Back
 
 <b>Syria</b>
+
+## Extra
+
+<div class="cmp-map" data-focus="SYR" data-pin="33.502,36.2981" data-label="Damascus"><img src="../../media/cx-locator-syria.svg" alt="Map of Syria with Damascus marked"></div>
+
+<a href="https://en.wikipedia.org/wiki/Syria">Syria on Wikipedia</a>

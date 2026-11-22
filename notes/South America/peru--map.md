@@ -13,3 +13,9 @@ What is highlighted on this map?
 ## Back
 
 <b>Peru</b>
+
+## Extra
+
+<div class="cmp-map" data-focus="PER" data-pin="-12.0461,-77.052" data-label="Lima"><img src="../../media/cx-locator-peru.svg" alt="Map of Peru with Lima marked"></div>
+
+<a href="https://en.wikipedia.org/wiki/Peru">Peru on Wikipedia</a>

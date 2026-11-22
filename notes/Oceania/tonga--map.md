@@ -13,3 +13,9 @@ What is highlighted on this map?
 ## Back
 
 <b>Tonga</b>
+
+## Extra
+
+<div class="cmp-map" data-focus="TON" data-pin="-21.1385,-175.2206" data-label="Nukuʻalofa"><img src="../../media/cx-locator-tonga.svg" alt="Map of Tonga with Nukuʻalofa marked"></div>
+
+<a href="https://en.wikipedia.org/wiki/Tonga">Tonga on Wikipedia</a>

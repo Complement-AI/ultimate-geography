@@ -15,3 +15,5 @@ What is the capital of <b>South Ossetia</b>?
 ## Extra
 
 Independent state claimed by Georgia.
+
+<a href="https://en.wikipedia.org/wiki/Tskhinvali">Tskhinvali on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/South_Ossetia">South Ossetia on Wikipedia</a>

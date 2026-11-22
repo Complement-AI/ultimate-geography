@@ -13,3 +13,9 @@ What is highlighted on this map?
 ## Back
 
 <b>Comoros</b>
+
+## Extra
+
+<div class="cmp-map" data-focus="COM" data-pin="-11.7042,43.2402" data-label="Moroni"><img src="../../media/cx-locator-comoros.svg" alt="Map of Comoros with Moroni marked"></div>
+
+<a href="https://en.wikipedia.org/wiki/Comoros">Comoros on Wikipedia</a>

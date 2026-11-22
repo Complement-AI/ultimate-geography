@@ -13,3 +13,7 @@ What is highlighted on this map?
 ## Back
 
 <b>Hudson Bay</b>
+
+## Extra
+
+<a href="https://en.wikipedia.org/wiki/Hudson_Bay">Hudson Bay on Wikipedia</a>

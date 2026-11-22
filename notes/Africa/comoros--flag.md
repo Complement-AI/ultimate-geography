@@ -13,3 +13,9 @@ Whose flag is this?
 ## Back
 
 <b>Comoros</b>
+
+## Extra
+
+<div class="cmp-map" data-focus="COM" data-pin="-11.7042,43.2402" data-label="Moroni"><img src="../../media/cx-locator-comoros.svg" alt="Map of Comoros with Moroni marked"></div>
+
+<a href="https://en.wikipedia.org/wiki/Flag_of_the_Comoros">Flag of the Comoros on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Comoros">Comoros on Wikipedia</a>

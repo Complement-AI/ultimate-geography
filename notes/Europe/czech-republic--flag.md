@@ -16,4 +16,8 @@ Whose flag is this?
 
 ## Extra
 
+<div class="cmp-map" data-focus="CZE" data-pin="50.0853,14.464" data-label="Prague"><img src="../../media/cx-locator-czech-republic.svg" alt="Map of Czech Republic with Prague marked"></div>
+
 Also known as Czechia.
+
+<a href="https://en.wikipedia.org/wiki/Flag_of_the_Czech_Republic">Flag of the Czech Republic on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Czech_Republic">Czech Republic on Wikipedia</a>

@@ -13,3 +13,7 @@ What is highlighted on this map?
 ## Back
 
 <b>Celtic Sea</b>
+
+## Extra
+
+<a href="https://en.wikipedia.org/wiki/Celtic_Sea">Celtic Sea on Wikipedia</a>

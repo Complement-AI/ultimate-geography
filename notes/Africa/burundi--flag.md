@@ -13,3 +13,9 @@ Whose flag is this?
 ## Back
 
 <b>Burundi</b>
+
+## Extra
+
+<div class="cmp-map" data-focus="BDI" data-pin="-3.426,29.8436" data-label="Gitega"><img src="../../media/cx-locator-burundi.svg" alt="Map of Burundi with Gitega marked"></div>
+
+<a href="https://en.wikipedia.org/wiki/Flag_of_Burundi">Flag of Burundi on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Burundi">Burundi on Wikipedia</a>

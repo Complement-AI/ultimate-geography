@@ -11,3 +11,9 @@ tags  = ["asia", "sovereign_state", "country"]
 ## Back
 
 <b>Nepal</b>
+
+## Extra
+
+<div class="cmp-map" data-focus="NPL" data-pin="27.7186,85.3147" data-label="Kathmandu"><img src="../../media/cx-locator-nepal.svg" alt="Map of Nepal with Kathmandu marked"></div>
+
+<a href="https://en.wikipedia.org/wiki/Nepal">Nepal on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Kathmandu">Kathmandu on Wikipedia</a>

@@ -13,3 +13,9 @@ Whose flag is this?
 ## Back
 
 <b>Mexico</b>
+
+## Extra
+
+<div class="cmp-map" data-focus="MEX" data-pin="19.4444,-99.1329" data-label="Mexico City"><img src="../../media/cx-locator-mexico.svg" alt="Map of Mexico with Mexico City marked"></div>
+
+<a href="https://en.wikipedia.org/wiki/Flag_of_Mexico">Flag of Mexico on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Mexico">Mexico on Wikipedia</a>

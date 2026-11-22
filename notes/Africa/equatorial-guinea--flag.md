@@ -13,3 +13,9 @@ Whose flag is this?
 ## Back
 
 <b>Equatorial Guinea</b>
+
+## Extra
+
+<div class="cmp-map" data-focus="GNQ" data-pin="3.75,8.7833" data-label="Ciudad de la Paz"><img src="../../media/cx-locator-equatorial-guinea.svg" alt="Map of Equatorial Guinea with Ciudad de la Paz marked"></div>
+
+<a href="https://en.wikipedia.org/wiki/Flag_of_Equatorial_Guinea">Flag of Equatorial Guinea on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Equatorial_Guinea">Equatorial Guinea on Wikipedia</a>

@@ -13,3 +13,9 @@ What is highlighted on this map?
 ## Back
 
 <b>Guinea-Bissau</b>
+
+## Extra
+
+<div class="cmp-map" data-focus="GNB" data-pin="11.865,-15.5984" data-label="Bissau"><img src="../../media/cx-locator-guinea-bissau.svg" alt="Map of Guinea-Bissau with Bissau marked"></div>
+
+<a href="https://en.wikipedia.org/wiki/Guinea-Bissau">Guinea-Bissau on Wikipedia</a>

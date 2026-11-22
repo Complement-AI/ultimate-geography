@@ -13,3 +13,9 @@ What is highlighted on this map?
 ## Back
 
 <b>Nicaragua</b>
+
+## Extra
+
+<div class="cmp-map" data-focus="NIC" data-pin="12.155,-86.2704" data-label="Managua"><img src="../../media/cx-locator-nicaragua.svg" alt="Map of Nicaragua with Managua marked"></div>
+
+<a href="https://en.wikipedia.org/wiki/Nicaragua">Nicaragua on Wikipedia</a>

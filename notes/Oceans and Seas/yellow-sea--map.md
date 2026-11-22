@@ -13,3 +13,7 @@ What is highlighted on this map?
 ## Back
 
 <b>Yellow Sea</b>
+
+## Extra
+
+<a href="https://en.wikipedia.org/wiki/Yellow_Sea">Yellow Sea on Wikipedia</a>

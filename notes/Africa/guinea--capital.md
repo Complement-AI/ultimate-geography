@@ -11,3 +11,9 @@ What is the capital of <b>Guinea</b>?
 ## Back
 
 <b>Conakry</b>
+
+## Extra
+
+<div class="cmp-map" data-focus="GIN" data-pin="9.5335,-13.6822" data-label="Conakry"><img src="../../media/cx-locator-guinea.svg" alt="Map of Guinea with Conakry marked"></div>
+
+<a href="https://en.wikipedia.org/wiki/Conakry">Conakry on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Guinea">Guinea on Wikipedia</a>

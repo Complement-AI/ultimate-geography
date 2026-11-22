@@ -13,3 +13,7 @@ What is highlighted on this map?
 ## Back
 
 <b>Strait of Gibraltar</b>
+
+## Extra
+
+<a href="https://en.wikipedia.org/wiki/Strait_of_Gibraltar">Strait of Gibraltar on Wikipedia</a>

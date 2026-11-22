@@ -13,3 +13,7 @@ What is highlighted on this map?
 ## Back
 
 <b>Philippine Sea</b>
+
+## Extra
+
+<a href="https://en.wikipedia.org/wiki/Philippine_Sea">Philippine Sea on Wikipedia</a>

@@ -1,0 +1,21 @@
+{
+  "photo": {
+    "commons": "File:Gurvger.jpg",
+    "alt": "A ger below the Gurvan Saikhan mountains in the Gobi",
+    "credit": "Adagio at English Wikipedia, CC BY-SA 3.0, via Wikimedia Commons",
+    "file": "cx-photo-mongolia.jpg",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Gurvger.jpg"
+  },
+  "facts": [
+    "About 3.4 million people (2021) in 1.56 million km²",
+    "Borders only Russia and China"
+  ],
+  "worth_knowing": "The most sparsely populated sovereign state. Roughly half of Mongolians live in Ulaanbaatar, the world's coldest capital, with a yearly average of −1.3 °C.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Mongolia",
+    "https://www.wikidata.org/wiki/Q711"
+  ],
+  "written_by": "claude-opus-5-5",
+  "checked_by": null
+}

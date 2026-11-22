@@ -16,4 +16,8 @@ Whose flag is this?
 
 ## Extra
 
+<div class="cmp-map" data-focus="NOR" data-pin="59.9186,10.748" data-label="Oslo"><img src="../../media/cx-locator-norway.svg" alt="Map of Norway with Oslo marked"></div>
+
 Similar flags: Iceland (blue background, red cross), Faroe Islands (white background, red and blue cross)
+
+<a href="https://en.wikipedia.org/wiki/Flag_of_Norway">Flag of Norway on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Norway">Norway on Wikipedia</a>

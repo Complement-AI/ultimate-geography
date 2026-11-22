@@ -17,3 +17,5 @@ What is highlighted on this map?
 ## Extra
 
 Overseas territory of the United Kingdom.
+
+<a href="https://en.wikipedia.org/wiki/Cayman_Islands">Cayman Islands on Wikipedia</a>

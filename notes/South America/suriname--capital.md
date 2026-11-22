@@ -11,3 +11,9 @@ What is the capital of <b>Suriname</b>?
 ## Back
 
 <b>Paramaribo</b>
+
+## Extra
+
+<div class="cmp-map" data-focus="SUR" data-pin="5.835,-55.167" data-label="Paramaribo"><img src="../../media/cx-locator-suriname.svg" alt="Map of Suriname with Paramaribo marked"></div>
+
+<a href="https://en.wikipedia.org/wiki/Paramaribo">Paramaribo on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Suriname">Suriname on Wikipedia</a>

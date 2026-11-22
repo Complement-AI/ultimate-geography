@@ -11,3 +11,9 @@ What is the capital of <b>Niger</b>?
 ## Back
 
 <b>Niamey</b>
+
+## Extra
+
+<div class="cmp-map" data-focus="NER" data-pin="13.4916,7.0964" data-label="Niamey"><img src="../../media/cx-locator-niger.svg" alt="Map of Niger with Niamey marked"></div>
+
+<a href="https://en.wikipedia.org/wiki/Niamey">Niamey on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Niger">Niger on Wikipedia</a>

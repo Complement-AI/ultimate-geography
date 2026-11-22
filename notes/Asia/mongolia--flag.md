@@ -13,3 +13,9 @@ Whose flag is this?
 ## Back
 
 <b>Mongolia</b>
+
+## Extra
+
+<div class="cmp-map" data-focus="MNG" data-pin="47.9186,106.9147" data-label="Ulaanbaatar"><img src="../../media/cx-locator-mongolia.svg" alt="Map of Mongolia with Ulaanbaatar marked"></div>
+
+<a href="https://en.wikipedia.org/wiki/Flag_of_Mongolia">Flag of Mongolia on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Mongolia">Mongolia on Wikipedia</a>

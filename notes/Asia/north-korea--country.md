@@ -11,3 +11,9 @@ tags  = ["asia", "sovereign_state", "country"]
 ## Back
 
 <b>North Korea</b>
+
+## Extra
+
+<div class="cmp-map" data-focus="PRK" data-pin="39.0214,125.7527" data-label="Pyongyang"><img src="../../media/cx-locator-north-korea.svg" alt="Map of North Korea with Pyongyang marked"></div>
+
+<a href="https://en.wikipedia.org/wiki/North_Korea">North Korea on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Pyongyang">Pyongyang on Wikipedia</a>

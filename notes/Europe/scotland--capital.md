@@ -15,3 +15,5 @@ What is the capital of <b>Scotland</b>?
 ## Extra
 
 Constituent country of the United Kingdom.
+
+<a href="https://en.wikipedia.org/wiki/Edinburgh">Edinburgh on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Scotland">Scotland on Wikipedia</a>

@@ -13,3 +13,9 @@ Whose flag is this?
 ## Back
 
 <b>Denmark</b>
+
+## Extra
+
+<div class="cmp-map" data-focus="DNK" data-pin="55.6805,12.5615" data-label="Copenhagen"><img src="../../media/cx-locator-denmark.svg" alt="Map of Denmark with Copenhagen marked"></div>
+
+<a href="https://en.wikipedia.org/wiki/Dannebrog">Dannebrog on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Denmark">Denmark on Wikipedia</a>

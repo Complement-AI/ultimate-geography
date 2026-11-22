@@ -11,3 +11,9 @@ What is the capital of <b>Panama</b>?
 ## Back
 
 <b>Panama City</b>
+
+## Extra
+
+<div class="cmp-map" data-focus="PAN" data-pin="8.97,-79.535" data-label="Panama City"><img src="../../media/cx-locator-panama.svg" alt="Map of Panama with Panama City marked"></div>
+
+<a href="https://en.wikipedia.org/wiki/Panama_City">Panama City on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Panama">Panama on Wikipedia</a>

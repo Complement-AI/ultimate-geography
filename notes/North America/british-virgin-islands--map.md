@@ -17,3 +17,5 @@ What is highlighted on this map?
 ## Extra
 
 Overseas territory of the United Kingdom.
+
+<a href="https://en.wikipedia.org/wiki/British_Virgin_Islands">British Virgin Islands on Wikipedia</a>

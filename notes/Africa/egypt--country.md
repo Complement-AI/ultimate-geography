@@ -11,3 +11,9 @@ tags  = ["africa", "mediterranean", "middle_east", "sovereign_state", "country"]
 ## Back
 
 <b>Egypt</b>
+
+## Extra
+
+<div class="cmp-map" data-focus="EGY" data-pin="30.0519,31.248" data-label="Cairo"><img src="../../media/cx-locator-egypt.svg" alt="Map of Egypt with Cairo marked"></div>
+
+<a href="https://en.wikipedia.org/wiki/Egypt">Egypt on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Cairo">Cairo on Wikipedia</a>

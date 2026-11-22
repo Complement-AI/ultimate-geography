@@ -17,3 +17,5 @@ What is highlighted on this map?
 ## Extra
 
 Autonomous community of Spain.
+
+<a href="https://en.wikipedia.org/wiki/Canary_Islands">Canary Islands on Wikipedia</a>

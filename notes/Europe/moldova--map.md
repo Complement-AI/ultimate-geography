@@ -13,3 +13,9 @@ What is highlighted on this map?
 ## Back
 
 <b>Moldova</b>
+
+## Extra
+
+<div class="cmp-map" data-focus="MDA" data-pin="47.005,28.8577" data-label="Chișinău"><img src="../../media/cx-locator-moldova.svg" alt="Map of Moldova with Chișinău marked"></div>
+
+<a href="https://en.wikipedia.org/wiki/Moldova">Moldova on Wikipedia</a>

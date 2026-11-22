@@ -16,4 +16,8 @@ Whose flag is this?
 
 ## Extra
 
+<div class="cmp-map" data-focus="COL" data-pin="4.5984,-74.0853" data-label="Bogotá"><img src="../../media/cx-locator-colombia.svg" alt="Map of Colombia with Bogotá marked"></div>
+
 Similar flags: Ecuador (with coat of arms)
+
+<a href="https://en.wikipedia.org/wiki/Flag_of_Colombia">Flag of Colombia on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Colombia">Colombia on Wikipedia</a>

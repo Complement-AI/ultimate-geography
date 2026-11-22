@@ -13,3 +13,9 @@ Whose flag is this?
 ## Back
 
 <b>South Korea</b>
+
+## Extra
+
+<div class="cmp-map" data-focus="KOR" data-pin="37.5683,126.9978" data-label="Seoul"><img src="../../media/cx-locator-south-korea.svg" alt="Map of South Korea with Seoul marked"></div>
+
+<a href="https://en.wikipedia.org/wiki/Flag_of_South_Korea">Flag of South Korea on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/South_Korea">South Korea on Wikipedia</a>

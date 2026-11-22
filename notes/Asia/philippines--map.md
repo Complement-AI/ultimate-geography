@@ -13,3 +13,9 @@ What is highlighted on this map?
 ## Back
 
 <b>Philippines</b>
+
+## Extra
+
+<div class="cmp-map" data-focus="PHL" data-pin="14.6061,120.9803" data-label="Manila"><img src="../../media/cx-locator-philippines.svg" alt="Map of Philippines with Manila marked"></div>
+
+<a href="https://en.wikipedia.org/wiki/Philippines">Philippines on Wikipedia</a>

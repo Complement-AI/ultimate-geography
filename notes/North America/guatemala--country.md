@@ -11,3 +11,9 @@ tags  = ["north_america", "sovereign_state", "country"]
 ## Back
 
 <b>Guatemala</b>
+
+## Extra
+
+<div class="cmp-map" data-focus="GTM" data-pin="14.6231,-90.5289" data-label="Guatemala City"><img src="../../media/cx-locator-guatemala.svg" alt="Map of Guatemala with Guatemala City marked"></div>
+
+<a href="https://en.wikipedia.org/wiki/Guatemala">Guatemala on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Guatemala_City">Guatemala City on Wikipedia</a>

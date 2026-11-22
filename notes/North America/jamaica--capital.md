@@ -11,3 +11,9 @@ What is the capital of <b>Jamaica</b>?
 ## Back
 
 <b>Kingston</b>
+
+## Extra
+
+<div class="cmp-map" data-focus="JAM" data-pin="17.9771,-76.7674" data-label="Kingston"><img src="../../media/cx-locator-jamaica.svg" alt="Map of Jamaica with Kingston marked"></div>
+
+<a href="https://en.wikipedia.org/wiki/Kingston,_Jamaica">Kingston, Jamaica on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Jamaica">Jamaica on Wikipedia</a>

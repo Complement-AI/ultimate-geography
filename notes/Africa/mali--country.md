@@ -11,3 +11,9 @@ tags  = ["africa", "sovereign_state", "west_africa", "country"]
 ## Back
 
 <b>Mali</b>
+
+## Extra
+
+<div class="cmp-map" data-focus="MLI" data-pin="12.652,-8.002" data-label="Bamako"><img src="../../media/cx-locator-mali.svg" alt="Map of Mali with Bamako marked"></div>
+
+<a href="https://en.wikipedia.org/wiki/Mali">Mali on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Bamako">Bamako on Wikipedia</a>

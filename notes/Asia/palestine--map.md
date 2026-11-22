@@ -13,3 +13,9 @@ What is highlighted on this map?
 ## Back
 
 <b>Palestine</b>
+
+## Extra
+
+<div class="cmp-map" data-focus="PSX"><img src="../../media/cx-locator-palestine.svg" alt="Map of Palestine with Jerusalem marked"></div>
+
+<a href="https://en.wikipedia.org/wiki/State_of_Palestine">State of Palestine on Wikipedia</a>

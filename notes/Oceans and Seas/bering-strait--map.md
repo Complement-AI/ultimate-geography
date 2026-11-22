@@ -13,3 +13,7 @@ What is highlighted on this map?
 ## Back
 
 <b>Bering Strait</b>
+
+## Extra
+
+<a href="https://en.wikipedia.org/wiki/Bering_Strait">Bering Strait on Wikipedia</a>

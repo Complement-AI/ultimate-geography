@@ -13,3 +13,9 @@ Whose flag is this?
 ## Back
 
 <b>Armenia</b>
+
+## Extra
+
+<div class="cmp-map" data-focus="ARM" data-pin="40.1831,44.5116" data-label="Yerevan"><img src="../../media/cx-locator-armenia.svg" alt="Map of Armenia with Yerevan marked"></div>
+
+<a href="https://en.wikipedia.org/wiki/Flag_of_Armenia">Flag of Armenia on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Armenia">Armenia on Wikipedia</a>

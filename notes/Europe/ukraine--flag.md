@@ -13,3 +13,9 @@ Whose flag is this?
 ## Back
 
 <b>Ukraine</b>
+
+## Extra
+
+<div class="cmp-map" data-focus="UKR" data-pin="50.4353,30.5147" data-label="Kyiv"><img src="../../media/cx-locator-ukraine.svg" alt="Map of Ukraine with Kyiv marked"></div>
+
+<a href="https://en.wikipedia.org/wiki/Flag_of_Ukraine">Flag of Ukraine on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Ukraine">Ukraine on Wikipedia</a>

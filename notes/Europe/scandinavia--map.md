@@ -17,3 +17,5 @@ What is highlighted on this map?
 ## Extra
 
 Historical and cultural region in Northern Europe, which includes the countries of Denmark, Norway and Sweden, and sometimes Finland and Iceland.
+
+<a href="https://en.wikipedia.org/wiki/Scandinavia">Scandinavia on Wikipedia</a>

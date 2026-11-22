@@ -11,3 +11,9 @@ What is the capital of <b>Morocco</b>?
 ## Back
 
 <b>Rabat</b>
+
+## Extra
+
+<div class="cmp-map" data-focus="MAR" data-pin="34.0253,-6.8364" data-label="Rabat"><img src="../../media/cx-locator-morocco.svg" alt="Map of Morocco with Rabat marked"></div>
+
+<a href="https://en.wikipedia.org/wiki/Rabat">Rabat on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Morocco">Morocco on Wikipedia</a>

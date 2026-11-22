@@ -13,3 +13,7 @@ What is highlighted on this map?
 ## Back
 
 <b>Pacific Ocean</b>
+
+## Extra
+
+<a href="https://en.wikipedia.org/wiki/Pacific_Ocean">Pacific Ocean on Wikipedia</a>

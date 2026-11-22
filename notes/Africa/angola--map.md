@@ -13,3 +13,9 @@ What is highlighted on this map?
 ## Back
 
 <b>Angola</b>
+
+## Extra
+
+<div class="cmp-map" data-focus="AGO" data-pin="-8.8363,13.2325" data-label="Luanda"><img src="../../media/cx-locator-angola.svg" alt="Map of Angola with Luanda marked"></div>
+
+<a href="https://en.wikipedia.org/wiki/Angola">Angola on Wikipedia</a>

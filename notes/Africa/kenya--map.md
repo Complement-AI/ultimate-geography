@@ -13,3 +13,9 @@ What is highlighted on this map?
 ## Back
 
 <b>Kenya</b>
+
+## Extra
+
+<div class="cmp-map" data-focus="KEN" data-pin="-1.2814,36.8147" data-label="Nairobi"><img src="../../media/cx-locator-kenya.svg" alt="Map of Kenya with Nairobi marked"></div>
+
+<a href="https://en.wikipedia.org/wiki/Kenya">Kenya on Wikipedia</a>

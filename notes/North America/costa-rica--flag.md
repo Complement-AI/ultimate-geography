@@ -13,3 +13,9 @@ Whose flag is this?
 ## Back
 
 <b>Costa Rica</b>
+
+## Extra
+
+<div class="cmp-map" data-focus="CRI" data-pin="9.937,-84.086" data-label="San José"><img src="../../media/cx-locator-costa-rica.svg" alt="Map of Costa Rica with San José marked"></div>
+
+<a href="https://en.wikipedia.org/wiki/Flag_of_Costa_Rica">Flag of Costa Rica on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Costa_Rica">Costa Rica on Wikipedia</a>

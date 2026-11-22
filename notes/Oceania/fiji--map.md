@@ -13,3 +13,9 @@ What is highlighted on this map?
 ## Back
 
 <b>Fiji</b>
+
+## Extra
+
+<div class="cmp-map" data-focus="FJI" data-pin="-18.133,178.4417" data-label="Suva"><img src="../../media/cx-locator-fiji.svg" alt="Map of Fiji with Suva marked"></div>
+
+<a href="https://en.wikipedia.org/wiki/Fiji">Fiji on Wikipedia</a>

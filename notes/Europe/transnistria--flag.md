@@ -17,3 +17,5 @@ Whose flag is this?
 ## Extra
 
 Independent state claimed by Moldova.
+
+<a href="https://en.wikipedia.org/wiki/Flag_of_Transnistria">Flag of Transnistria on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Transnistria">Transnistria on Wikipedia</a>

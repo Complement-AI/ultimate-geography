@@ -13,3 +13,9 @@ What is highlighted on this map?
 ## Back
 
 <b>South Sudan</b>
+
+## Extra
+
+<div class="cmp-map" data-focus="SDS"><img src="../../media/cx-locator-south-sudan.svg" alt="Map of South Sudan with Juba marked"></div>
+
+<a href="https://en.wikipedia.org/wiki/South_Sudan">South Sudan on Wikipedia</a>

@@ -17,3 +17,5 @@ What is highlighted on this map?
 ## Extra
 
 Also known as the Gulf of Siam.
+
+<a href="https://en.wikipedia.org/wiki/Gulf_of_Thailand">Gulf of Thailand on Wikipedia</a>

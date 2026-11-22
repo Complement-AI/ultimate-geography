@@ -13,3 +13,9 @@ What is highlighted on this map?
 ## Back
 
 <b>Argentina</b>
+
+## Extra
+
+<div class="cmp-map" data-focus="ARG" data-pin="-34.6006,-58.3995" data-label="Buenos Aires"><img src="../../media/cx-locator-argentina.svg" alt="Map of Argentina with Buenos Aires marked"></div>
+
+<a href="https://en.wikipedia.org/wiki/Argentina">Argentina on Wikipedia</a>

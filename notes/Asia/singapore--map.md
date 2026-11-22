@@ -13,3 +13,9 @@ What is highlighted on this map?
 ## Back
 
 <b>Singapore</b>
+
+## Extra
+
+<div class="cmp-map" data-focus="SGP" data-pin="1.295,103.8539" data-label="Singapore"><img src="../../media/cx-locator-singapore.svg" alt="Map of Singapore with Singapore marked"></div>
+
+<a href="https://en.wikipedia.org/wiki/Singapore">Singapore on Wikipedia</a>

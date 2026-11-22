@@ -17,3 +17,5 @@ What is highlighted on this map?
 ## Extra
 
 Overseas territory of France.
+
+<a href="https://en.wikipedia.org/wiki/Wallis_and_Futuna">Wallis and Futuna on Wikipedia</a>

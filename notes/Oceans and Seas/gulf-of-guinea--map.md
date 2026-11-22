@@ -13,3 +13,7 @@ What is highlighted on this map?
 ## Back
 
 <b>Gulf of Guinea</b>
+
+## Extra
+
+<a href="https://en.wikipedia.org/wiki/Gulf_of_Guinea">Gulf of Guinea on Wikipedia</a>

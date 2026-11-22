@@ -13,3 +13,9 @@ Whose flag is this?
 ## Back
 
 <b>Morocco</b>
+
+## Extra
+
+<div class="cmp-map" data-focus="MAR" data-pin="34.0253,-6.8364" data-label="Rabat"><img src="../../media/cx-locator-morocco.svg" alt="Map of Morocco with Rabat marked"></div>
+
+<a href="https://en.wikipedia.org/wiki/Flag_of_Morocco">Flag of Morocco on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Morocco">Morocco on Wikipedia</a>

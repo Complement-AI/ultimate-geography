@@ -11,3 +11,9 @@ tags  = ["europe", "european_union", "sovereign_state", "country"]
 ## Back
 
 <b>Estonia</b>
+
+## Extra
+
+<div class="cmp-map" data-focus="EST" data-pin="59.4339,24.728" data-label="Tallinn"><img src="../../media/cx-locator-estonia.svg" alt="Map of Estonia with Tallinn marked"></div>
+
+<a href="https://en.wikipedia.org/wiki/Estonia">Estonia on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Tallinn">Tallinn on Wikipedia</a>

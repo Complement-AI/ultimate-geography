@@ -13,3 +13,9 @@ Whose flag is this?
 ## Back
 
 <b>Lithuania</b>
+
+## Extra
+
+<div class="cmp-map" data-focus="LTU" data-pin="54.6834,25.3166" data-label="Vilnius"><img src="../../media/cx-locator-lithuania.svg" alt="Map of Lithuania with Vilnius marked"></div>
+
+<a href="https://en.wikipedia.org/wiki/Flag_of_Lithuania">Flag of Lithuania on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Lithuania">Lithuania on Wikipedia</a>

@@ -17,3 +17,5 @@ Whose flag is this?
 ## Extra
 
 Constituent country of the United Kingdom.
+
+<a href="https://en.wikipedia.org/wiki/Flag_of_Scotland">Flag of Scotland on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Scotland">Scotland on Wikipedia</a>

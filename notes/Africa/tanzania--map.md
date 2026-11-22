@@ -13,3 +13,9 @@ What is highlighted on this map?
 ## Back
 
 <b>Tanzania</b>
+
+## Extra
+
+<div class="cmp-map" data-focus="TZA" data-pin="-6.1833,35.75" data-label="Dodoma"><img src="../../media/cx-locator-tanzania.svg" alt="Map of Tanzania with Dodoma marked"></div>
+
+<a href="https://en.wikipedia.org/wiki/Tanzania">Tanzania on Wikipedia</a>

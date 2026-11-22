@@ -13,3 +13,7 @@ What is highlighted on this map?
 ## Back
 
 <b>Dead Sea</b>
+
+## Extra
+
+<a href="https://en.wikipedia.org/wiki/Dead_Sea">Dead Sea on Wikipedia</a>

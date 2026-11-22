@@ -13,3 +13,9 @@ Whose flag is this?
 ## Back
 
 <b>Togo</b>
+
+## Extra
+
+<div class="cmp-map" data-focus="TGO" data-pin="6.1339,1.2208" data-label="Lomé"><img src="../../media/cx-locator-togo.svg" alt="Map of Togo with Lomé marked"></div>
+
+<a href="https://en.wikipedia.org/wiki/Flag_of_Togo">Flag of Togo on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Togo">Togo on Wikipedia</a>

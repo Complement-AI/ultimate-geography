@@ -17,3 +17,5 @@ What is highlighted on this map?
 ## Extra
 
 Autonomous region of Italy.
+
+<a href="https://en.wikipedia.org/wiki/Sardinia">Sardinia on Wikipedia</a>

@@ -17,3 +17,5 @@ What is highlighted on this map?
 ## Extra
 
 Constituent country of the United Kingdom.
+
+<a href="https://en.wikipedia.org/wiki/Wales">Wales on Wikipedia</a>

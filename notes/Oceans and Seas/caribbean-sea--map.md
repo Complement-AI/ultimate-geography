@@ -13,3 +13,7 @@ What is highlighted on this map?
 ## Back
 
 <b>Caribbean Sea</b>
+
+## Extra
+
+<a href="https://en.wikipedia.org/wiki/Caribbean_Sea">Caribbean Sea on Wikipedia</a>

@@ -16,4 +16,8 @@ Whose flag is this?
 
 ## Extra
 
+<div class="cmp-map" data-focus="CUW" data-pin="12.2004,-69.02" data-label="Willemstad"><img src="../../media/cx-locator-cura-ao.svg" alt="Map of Curaçao with Willemstad marked"></div>
+
 Similar flags: Nauru (single star below yellow band)<br><br>Constituent country of the Kingdom of the Netherlands.
+
+<a href="https://en.wikipedia.org/wiki/Flag_of_Cura%C3%A7ao">Flag of Curaçao on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Cura%C3%A7ao">Curaçao on Wikipedia</a>

@@ -15,3 +15,5 @@ What is the capital of <b>Wales</b>?
 ## Extra
 
 Constituent country of the United Kingdom.
+
+<a href="https://en.wikipedia.org/wiki/Cardiff">Cardiff on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Wales">Wales on Wikipedia</a>

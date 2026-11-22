@@ -11,3 +11,9 @@ What is the capital of <b>Solomon Islands</b>?
 ## Back
 
 <b>Honiara</b>
+
+## Extra
+
+<div class="cmp-map" data-focus="SLB" data-pin="-9.438,159.9498" data-label="Honiara"><img src="../../media/cx-locator-solomon-islands.svg" alt="Map of Solomon Islands with Honiara marked"></div>
+
+<a href="https://en.wikipedia.org/wiki/Honiara">Honiara on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Solomon_Islands">Solomon Islands on Wikipedia</a>

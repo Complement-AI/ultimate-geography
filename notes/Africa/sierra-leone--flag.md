@@ -13,3 +13,9 @@ Whose flag is this?
 ## Back
 
 <b>Sierra Leone</b>
+
+## Extra
+
+<div class="cmp-map" data-focus="SLE" data-pin="8.472,-13.2362" data-label="Freetown"><img src="../../media/cx-locator-sierra-leone.svg" alt="Map of Sierra Leone with Freetown marked"></div>
+
+<a href="https://en.wikipedia.org/wiki/Flag_of_Sierra_Leone">Flag of Sierra Leone on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Sierra_Leone">Sierra Leone on Wikipedia</a>

@@ -13,3 +13,7 @@ What is highlighted on this map?
 ## Back
 
 <b>Norwegian Sea</b>
+
+## Extra
+
+<a href="https://en.wikipedia.org/wiki/Norwegian_Sea">Norwegian Sea on Wikipedia</a>

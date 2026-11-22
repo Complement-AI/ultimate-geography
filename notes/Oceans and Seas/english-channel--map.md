@@ -13,3 +13,7 @@ What is highlighted on this map?
 ## Back
 
 <b>English Channel</b>
+
+## Extra
+
+<a href="https://en.wikipedia.org/wiki/English_Channel">English Channel on Wikipedia</a>

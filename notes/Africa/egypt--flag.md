@@ -16,4 +16,8 @@ Whose flag is this?
 
 ## Extra
 
+<div class="cmp-map" data-focus="EGY" data-pin="30.0519,31.248" data-label="Cairo"><img src="../../media/cx-locator-egypt.svg" alt="Map of Egypt with Cairo marked"></div>
+
 Similar flags: Iraq (text instead of emblem), Yemen (no emblem)
+
+<a href="https://en.wikipedia.org/wiki/Flag_of_Egypt">Flag of Egypt on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Egypt">Egypt on Wikipedia</a>

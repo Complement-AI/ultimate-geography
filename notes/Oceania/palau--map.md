@@ -13,3 +13,9 @@ What is highlighted on this map?
 ## Back
 
 <b>Palau</b>
+
+## Extra
+
+<div class="cmp-map" data-focus="PLW" data-pin="7.4874,134.6265" data-label="Ngerulmud"><img src="../../media/cx-locator-palau.svg" alt="Map of Palau with Ngerulmud marked"></div>
+
+<a href="https://en.wikipedia.org/wiki/Palau">Palau on Wikipedia</a>

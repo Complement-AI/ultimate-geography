@@ -13,3 +13,9 @@ Whose flag is this?
 ## Back
 
 <b>Rwanda</b>
+
+## Extra
+
+<div class="cmp-map" data-focus="RWA" data-pin="-1.9516,30.0586" data-label="Kigali"><img src="../../media/cx-locator-rwanda.svg" alt="Map of Rwanda with Kigali marked"></div>
+
+<a href="https://en.wikipedia.org/wiki/Flag_of_Rwanda">Flag of Rwanda on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Rwanda">Rwanda on Wikipedia</a>

@@ -13,3 +13,7 @@ What is highlighted on this map?
 ## Back
 
 <b>Labrador Sea</b>
+
+## Extra
+
+<a href="https://en.wikipedia.org/wiki/Labrador_Sea">Labrador Sea on Wikipedia</a>

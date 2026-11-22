@@ -16,4 +16,8 @@ Whose flag is this?
 
 ## Extra
 
+<div class="cmp-map" data-focus="CIV" data-pin="6.8184,-5.2755" data-label="Yamoussoukro"><img src="../../media/cx-locator-ivory-coast.svg" alt="Map of Ivory Coast with Yamoussoukro marked"></div>
+
 Similar flags: Ireland (orange and green flipped, wider)<br><br>Officially Côte d'Ivoire.
+
+<a href="https://en.wikipedia.org/wiki/Flag_of_Ivory_Coast">Flag of Ivory Coast on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Ivory_Coast">Ivory Coast on Wikipedia</a>

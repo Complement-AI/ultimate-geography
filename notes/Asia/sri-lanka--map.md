@@ -13,3 +13,9 @@ What is highlighted on this map?
 ## Back
 
 <b>Sri Lanka</b>
+
+## Extra
+
+<div class="cmp-map" data-focus="LKA" data-pin="6.9,79.95" data-label="Sri Jayawardenepura Kotte"><img src="../../media/cx-locator-sri-lanka.svg" alt="Map of Sri Lanka with Sri Jayawardenepura Kotte marked"></div>
+
+<a href="https://en.wikipedia.org/wiki/Sri_Lanka">Sri Lanka on Wikipedia</a>

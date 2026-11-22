@@ -13,3 +13,9 @@ Whose flag is this?
 ## Back
 
 <b>Israel</b>
+
+## Extra
+
+<div class="cmp-map" data-focus="ISR" data-pin="31.7784,35.2066" data-label="Jerusalem"><img src="../../media/cx-locator-israel.svg" alt="Map of Israel with Jerusalem marked"></div>
+
+<a href="https://en.wikipedia.org/wiki/Flag_of_Israel">Flag of Israel on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Israel">Israel on Wikipedia</a>

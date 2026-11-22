@@ -13,3 +13,9 @@ What is highlighted on this map?
 ## Back
 
 <b>Suriname</b>
+
+## Extra
+
+<div class="cmp-map" data-focus="SUR" data-pin="5.835,-55.167" data-label="Paramaribo"><img src="../../media/cx-locator-suriname.svg" alt="Map of Suriname with Paramaribo marked"></div>
+
+<a href="https://en.wikipedia.org/wiki/Suriname">Suriname on Wikipedia</a>

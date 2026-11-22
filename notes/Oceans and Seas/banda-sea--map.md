@@ -13,3 +13,7 @@ What is highlighted on this map?
 ## Back
 
 <b>Banda Sea</b>
+
+## Extra
+
+<a href="https://en.wikipedia.org/wiki/Banda_Sea">Banda Sea on Wikipedia</a>

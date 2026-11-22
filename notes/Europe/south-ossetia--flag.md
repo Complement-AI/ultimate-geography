@@ -17,3 +17,5 @@ Whose flag is this?
 ## Extra
 
 Independent state claimed by Georgia.
+
+<a href="https://en.wikipedia.org/wiki/Flag_of_Ossetia">Flag of Ossetia on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/South_Ossetia">South Ossetia on Wikipedia</a>

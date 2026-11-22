@@ -13,3 +13,7 @@ What is highlighted on this map?
 ## Back
 
 <b>Denmark Strait</b>
+
+## Extra
+
+<a href="https://en.wikipedia.org/wiki/Denmark_Strait">Denmark Strait on Wikipedia</a>

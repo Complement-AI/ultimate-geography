@@ -13,3 +13,9 @@ Whose flag is this?
 ## Back
 
 <b>Montenegro</b>
+
+## Extra
+
+<div class="cmp-map" data-focus="MNE" data-pin="42.466,19.2663" data-label="Podgorica"><img src="../../media/cx-locator-montenegro.svg" alt="Map of Montenegro with Podgorica marked"></div>
+
+<a href="https://en.wikipedia.org/wiki/Flag_of_Montenegro">Flag of Montenegro on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Montenegro">Montenegro on Wikipedia</a>

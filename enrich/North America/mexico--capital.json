@@ -1,0 +1,21 @@
+{
+  "photo": {
+    "commons": "File:Sobrevuelos CDMX HJ2A5091 (40386338731).jpg",
+    "alt": "Mexico City from the air",
+    "file": "cx-photo-mexico.jpg",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Sobrevuelos_CDMX_HJ2A5091_(40386338731).jpg",
+    "credit": "Gobierno CDMX, CC0, via Wikimedia Commons"
+  },
+  "facts": [
+    "About 9.2 million people in the city itself (2020 census)",
+    "2,240 m up, in the Valley of Mexico"
+  ],
+  "worth_knowing": "It began around 1325 as Tenochtitlan, the Mexica (Aztec) capital, built on islands in Lake Texcoco. The lake was drained from the 17th century on, and the city now stands on its bed.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Mexico_City",
+    "https://www.wikidata.org/wiki/Q1489"
+  ],
+  "written_by": "claude-opus-5-5",
+  "checked_by": null
+}

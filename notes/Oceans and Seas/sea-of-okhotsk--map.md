@@ -13,3 +13,7 @@ What is highlighted on this map?
 ## Back
 
 <b>Sea of Okhotsk</b>
+
+## Extra
+
+<a href="https://en.wikipedia.org/wiki/Sea_of_Okhotsk">Sea of Okhotsk on Wikipedia</a>

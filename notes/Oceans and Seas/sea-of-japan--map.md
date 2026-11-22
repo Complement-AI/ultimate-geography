@@ -17,3 +17,5 @@ What is highlighted on this map?
 ## Extra
 
 A naming dispute exists between the sea's bordering countries, with South Korea notably supporting the name East Sea.
+
+<a href="https://en.wikipedia.org/wiki/Sea_of_Japan">Sea of Japan on Wikipedia</a>

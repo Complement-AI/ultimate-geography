@@ -16,4 +16,8 @@ What is highlighted on this map?
 
 ## Extra
 
+<div class="cmp-map" data-focus="PYF" data-pin="-17.5334,-149.5667" data-label="Papeete"><img src="../../media/cx-locator-french-polynesia.svg" alt="Map of French Polynesia with Papeete marked"></div>
+
 Overseas territory of France.
+
+<a href="https://en.wikipedia.org/wiki/French_Polynesia">French Polynesia on Wikipedia</a>

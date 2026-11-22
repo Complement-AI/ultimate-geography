@@ -11,3 +11,9 @@ What is the capital of <b>Zimbabwe</b>?
 ## Back
 
 <b>Harare</b>
+
+## Extra
+
+<div class="cmp-map" data-focus="ZWE" data-pin="-17.8158,31.0428" data-label="Harare"><img src="../../media/cx-locator-zimbabwe.svg" alt="Map of Zimbabwe with Harare marked"></div>
+
+<a href="https://en.wikipedia.org/wiki/Harare">Harare on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Zimbabwe">Zimbabwe on Wikipedia</a>

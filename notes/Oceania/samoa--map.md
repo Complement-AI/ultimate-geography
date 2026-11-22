@@ -13,3 +13,9 @@ What is highlighted on this map?
 ## Back
 
 <b>Samoa</b>
+
+## Extra
+
+<div class="cmp-map" data-focus="WSM" data-pin="-13.8415,-171.7386" data-label="Apia"><img src="../../media/cx-locator-samoa.svg" alt="Map of Samoa with Apia marked"></div>
+
+<a href="https://en.wikipedia.org/wiki/Samoa">Samoa on Wikipedia</a>

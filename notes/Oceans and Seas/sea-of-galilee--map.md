@@ -13,3 +13,7 @@ What is highlighted on this map?
 ## Back
 
 <b>Sea of Galilee</b>
+
+## Extra
+
+<a href="https://en.wikipedia.org/wiki/Sea_of_Galilee">Sea of Galilee on Wikipedia</a>

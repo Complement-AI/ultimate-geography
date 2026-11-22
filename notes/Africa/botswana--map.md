@@ -13,3 +13,9 @@ What is highlighted on this map?
 ## Back
 
 <b>Botswana</b>
+
+## Extra
+
+<div class="cmp-map" data-focus="BWA" data-pin="-24.6463,25.9119" data-label="Gaborone"><img src="../../media/cx-locator-botswana.svg" alt="Map of Botswana with Gaborone marked"></div>
+
+<a href="https://en.wikipedia.org/wiki/Botswana">Botswana on Wikipedia</a>

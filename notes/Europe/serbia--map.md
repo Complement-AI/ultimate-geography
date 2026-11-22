@@ -13,3 +13,9 @@ What is highlighted on this map?
 ## Back
 
 <b>Serbia</b>
+
+## Extra
+
+<div class="cmp-map" data-focus="SRB" data-pin="44.8206,20.466" data-label="Belgrade"><img src="../../media/cx-locator-serbia.svg" alt="Map of Serbia with Belgrade marked"></div>
+
+<a href="https://en.wikipedia.org/wiki/Serbia">Serbia on Wikipedia</a>

@@ -16,4 +16,8 @@ Whose flag is this?
 
 ## Extra
 
+<div class="cmp-map" data-focus="SAH"><img src="../../media/cx-locator-sahrawi-arab-democratic-republic.svg" alt="Map of Sahrawi Arab Democratic Republic with Laayoune marked"></div>
+
 Similar flags: Palestine (no symbol)<br><br>Partially recognised state claimed by Morocco. Also known as Western Sahara.
+
+<a href="https://en.wikipedia.org/wiki/Flag_of_Western_Sahara">Flag of Western Sahara on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Western_Sahara">Western Sahara on Wikipedia</a>

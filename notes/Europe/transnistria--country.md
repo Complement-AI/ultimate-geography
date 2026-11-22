@@ -15,3 +15,5 @@ tags  = ["europe", "sovereign_state", "country"]
 ## Extra
 
 Independent state claimed by Moldova.
+
+<a href="https://en.wikipedia.org/wiki/Transnistria">Transnistria on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Tiraspol">Tiraspol on Wikipedia</a>

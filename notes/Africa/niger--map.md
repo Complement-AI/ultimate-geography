@@ -13,3 +13,9 @@ What is highlighted on this map?
 ## Back
 
 <b>Niger</b>
+
+## Extra
+
+<div class="cmp-map" data-focus="NER" data-pin="13.4916,7.0964" data-label="Niamey"><img src="../../media/cx-locator-niger.svg" alt="Map of Niger with Niamey marked"></div>
+
+<a href="https://en.wikipedia.org/wiki/Niger">Niger on Wikipedia</a>

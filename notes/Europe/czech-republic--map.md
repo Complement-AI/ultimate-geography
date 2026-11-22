@@ -16,4 +16,8 @@ What is highlighted on this map?
 
 ## Extra
 
+<div class="cmp-map" data-focus="CZE" data-pin="50.0853,14.464" data-label="Prague"><img src="../../media/cx-locator-czech-republic.svg" alt="Map of Czech Republic with Prague marked"></div>
+
 Also known as Czechia.
+
+<a href="https://en.wikipedia.org/wiki/Czech_Republic">Czech Republic on Wikipedia</a>

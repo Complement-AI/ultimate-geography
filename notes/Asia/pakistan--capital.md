@@ -11,3 +11,9 @@ What is the capital of <b>Pakistan</b>?
 ## Back
 
 <b>Islamabad</b>
+
+## Extra
+
+<div class="cmp-map" data-focus="PAK" data-pin="33.7019,73.1647" data-label="Islamabad"><img src="../../media/cx-locator-pakistan.svg" alt="Map of Pakistan with Islamabad marked"></div>
+
+<a href="https://en.wikipedia.org/wiki/Islamabad">Islamabad on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Pakistan">Pakistan on Wikipedia</a>

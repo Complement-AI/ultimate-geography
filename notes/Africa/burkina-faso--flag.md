@@ -13,3 +13,9 @@ Whose flag is this?
 ## Back
 
 <b>Burkina Faso</b>
+
+## Extra
+
+<div class="cmp-map" data-focus="BFA" data-pin="12.3723,-1.5267" data-label="Ouagadougou"><img src="../../media/cx-locator-burkina-faso.svg" alt="Map of Burkina Faso with Ouagadougou marked"></div>
+
+<a href="https://en.wikipedia.org/wiki/Flag_of_Burkina_Faso">Flag of Burkina Faso on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Burkina_Faso">Burkina Faso on Wikipedia</a>

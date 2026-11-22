@@ -14,4 +14,8 @@ tags  = ["asia", "middle_east", "sovereign_state", "country"]
 
 ## Extra
 
+<div class="cmp-map" data-focus="YEM" data-pin="15.3567,44.2046" data-label="Sanaa"><img src="../../media/cx-locator-yemen.svg" alt="Map of Yemen with Sanaa marked"></div>
+
 Also spelled as Sana'a.
+
+<a href="https://en.wikipedia.org/wiki/Yemen">Yemen on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Sanaa">Sanaa on Wikipedia</a>

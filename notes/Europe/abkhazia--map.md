@@ -17,3 +17,5 @@ What is highlighted on this map?
 ## Extra
 
 Independent state claimed by Georgia.
+
+<a href="https://en.wikipedia.org/wiki/Abkhazia">Abkhazia on Wikipedia</a>

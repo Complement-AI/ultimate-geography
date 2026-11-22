@@ -11,3 +11,9 @@ tags  = ["asia", "middle_east", "sovereign_state", "country"]
 ## Back
 
 <b>United Arab Emirates</b>
+
+## Extra
+
+<div class="cmp-map" data-focus="ARE" data-pin="24.4667,54.3666" data-label="Abu Dhabi"><img src="../../media/cx-locator-united-arab-emirates.svg" alt="Map of United Arab Emirates with Abu Dhabi marked"></div>
+
+<a href="https://en.wikipedia.org/wiki/United_Arab_Emirates">United Arab Emirates on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Abu_Dhabi">Abu Dhabi on Wikipedia</a>

@@ -13,3 +13,9 @@ Whose flag is this?
 ## Back
 
 <b>Albania</b>
+
+## Extra
+
+<div class="cmp-map" data-focus="ALB" data-pin="41.3275,19.8189" data-label="Tirana"><img src="../../media/cx-locator-albania.svg" alt="Map of Albania with Tirana marked"></div>
+
+<a href="https://en.wikipedia.org/wiki/Flag_of_Albania">Flag of Albania on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Albania">Albania on Wikipedia</a>

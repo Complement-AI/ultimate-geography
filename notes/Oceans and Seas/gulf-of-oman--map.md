@@ -17,3 +17,5 @@ What is highlighted on this map?
 ## Extra
 
 Also known as Gulf of Makran.
+
+<a href="https://en.wikipedia.org/wiki/Gulf_of_Oman">Gulf of Oman on Wikipedia</a>

@@ -13,3 +13,9 @@ Whose flag is this?
 ## Back
 
 <b>Italy</b>
+
+## Extra
+
+<div class="cmp-map" data-focus="ITA" data-pin="41.8979,12.4813" data-label="Rome"><img src="../../media/cx-locator-italy.svg" alt="Map of Italy with Rome marked"></div>
+
+<a href="https://en.wikipedia.org/wiki/Flag_of_Italy">Flag of Italy on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Italy">Italy on Wikipedia</a>

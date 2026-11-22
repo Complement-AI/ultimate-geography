@@ -13,3 +13,9 @@ What is highlighted on this map?
 ## Back
 
 <b>Sudan</b>
+
+## Extra
+
+<div class="cmp-map" data-focus="SDN" data-pin="15.59,32.5322" data-label="Khartoum"><img src="../../media/cx-locator-sudan.svg" alt="Map of Sudan with Khartoum marked"></div>
+
+<a href="https://en.wikipedia.org/wiki/Sudan">Sudan on Wikipedia</a>

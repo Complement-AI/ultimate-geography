@@ -13,3 +13,9 @@ Whose flag is this?
 ## Back
 
 <b>United Kingdom</b>
+
+## Extra
+
+<div class="cmp-map" data-focus="GBR" data-pin="51.5019,-0.1187" data-label="London"><img src="../../media/cx-locator-united-kingdom.svg" alt="Map of United Kingdom with London marked"></div>
+
+<a href="https://en.wikipedia.org/wiki/Union_Jack">Union Jack on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/United_Kingdom">United Kingdom on Wikipedia</a>

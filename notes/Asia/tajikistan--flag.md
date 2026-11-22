@@ -13,3 +13,9 @@ Whose flag is this?
 ## Back
 
 <b>Tajikistan</b>
+
+## Extra
+
+<div class="cmp-map" data-focus="TJK" data-pin="38.56,68.7739" data-label="Dushanbe"><img src="../../media/cx-locator-tajikistan.svg" alt="Map of Tajikistan with Dushanbe marked"></div>
+
+<a href="https://en.wikipedia.org/wiki/Flag_of_Tajikistan">Flag of Tajikistan on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Tajikistan">Tajikistan on Wikipedia</a>

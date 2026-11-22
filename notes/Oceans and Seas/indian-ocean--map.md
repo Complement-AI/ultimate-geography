@@ -13,3 +13,7 @@ What is highlighted on this map?
 ## Back
 
 <b>Indian Ocean</b>
+
+## Extra
+
+<a href="https://en.wikipedia.org/wiki/Indian_Ocean">Indian Ocean on Wikipedia</a>

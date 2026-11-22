@@ -13,3 +13,7 @@ What is highlighted on this map?
 ## Back
 
 <b>Strait of Hormuz</b>
+
+## Extra
+
+<a href="https://en.wikipedia.org/wiki/Strait_of_Hormuz">Strait of Hormuz on Wikipedia</a>

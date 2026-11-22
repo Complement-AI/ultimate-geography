@@ -13,3 +13,7 @@ What is highlighted on this map?
 ## Back
 
 <b>Europe</b>
+
+## Extra
+
+<a href="https://en.wikipedia.org/wiki/Europe">Europe on Wikipedia</a>

@@ -13,3 +13,7 @@ What is highlighted on this map?
 ## Back
 
 <b>Balkan Peninsula</b>
+
+## Extra
+
+<a href="https://en.wikipedia.org/wiki/Balkans">Balkans on Wikipedia</a>

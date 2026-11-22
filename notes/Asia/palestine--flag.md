@@ -16,4 +16,8 @@ Whose flag is this?
 
 ## Extra
 
+<div class="cmp-map" data-focus="PSX"><img src="../../media/cx-locator-palestine.svg" alt="Map of Palestine with Jerusalem marked"></div>
+
 Similar flags: Sudan (red/white/black, green arrow), Sahrawi Arab Democratic Republic (with star and crescent)
+
+<a href="https://en.wikipedia.org/wiki/Flag_of_Palestine">Flag of Palestine on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/State_of_Palestine">State of Palestine on Wikipedia</a>

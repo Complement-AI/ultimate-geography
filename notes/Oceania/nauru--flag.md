@@ -16,4 +16,8 @@ Whose flag is this?
 
 ## Extra
 
+<div class="cmp-map" data-focus="NRU"><img src="../../media/cx-locator-nauru.svg" alt="Map of Nauru with Yaren marked"></div>
+
 Similar flags: Curaçao (two stars in top-left corner)
+
+<a href="https://en.wikipedia.org/wiki/Flag_of_Nauru">Flag of Nauru on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Nauru">Nauru on Wikipedia</a>

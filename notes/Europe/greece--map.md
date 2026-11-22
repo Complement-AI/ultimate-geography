@@ -13,3 +13,9 @@ What is highlighted on this map?
 ## Back
 
 <b>Greece</b>
+
+## Extra
+
+<div class="cmp-map" data-focus="GRC" data-pin="37.9853,23.7314" data-label="Athens"><img src="../../media/cx-locator-greece.svg" alt="Map of Greece with Athens marked"></div>
+
+<a href="https://en.wikipedia.org/wiki/Greece">Greece on Wikipedia</a>

@@ -16,4 +16,8 @@ Whose flag is this?
 
 ## Extra
 
+<div class="cmp-map" data-focus="QAT" data-pin="25.2866,51.533" data-label="Doha"><img src="../../media/cx-locator-qatar.svg" alt="Map of Qatar with Doha marked"></div>
+
 Similar flags: Bahrain (narrower, fewer serrated edges, red)
+
+<a href="https://en.wikipedia.org/wiki/Flag_of_Qatar">Flag of Qatar on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Qatar">Qatar on Wikipedia</a>

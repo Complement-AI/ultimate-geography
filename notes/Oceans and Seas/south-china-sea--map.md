@@ -13,3 +13,7 @@ What is highlighted on this map?
 ## Back
 
 <b>South China Sea</b>
+
+## Extra
+
+<a href="https://en.wikipedia.org/wiki/South_China_Sea">South China Sea on Wikipedia</a>

@@ -16,4 +16,8 @@ What is highlighted on this map?
 
 ## Extra
 
+<div class="cmp-map" data-focus="GUM"><img src="../../media/cx-locator-guam.svg" alt="Map of Guam with Hagåtña marked"></div>
+
 Unincorporated territory of the United States.
+
+<a href="https://en.wikipedia.org/wiki/Guam">Guam on Wikipedia</a>

@@ -13,3 +13,7 @@ What is highlighted on this map?
 ## Back
 
 <b>Coral Sea</b>
+
+## Extra
+
+<a href="https://en.wikipedia.org/wiki/Coral_Sea">Coral Sea on Wikipedia</a>

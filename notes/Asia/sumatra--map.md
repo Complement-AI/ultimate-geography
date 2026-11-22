@@ -17,3 +17,5 @@ What is highlighted on this map?
 ## Extra
 
 Island of Indonesia.
+
+<a href="https://en.wikipedia.org/wiki/Sumatra">Sumatra on Wikipedia</a>

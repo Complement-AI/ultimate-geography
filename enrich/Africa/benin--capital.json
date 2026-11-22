@@ -1,0 +1,21 @@
+{
+  "photo": {
+    "commons": "File:Porto-Novo vue.jpg",
+    "alt": "View over Porto-Novo",
+    "file": "cx-photo-benin.jpg",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Porto-Novo_vue.jpg",
+    "credit": "Élisée.Adad, CC BY-SA 4.0, via Wikimedia Commons"
+  },
+  "facts": [
+    "About 234,000 people (2025), Benin's second-largest city",
+    "On an inlet of the Gulf of Guinea"
+  ],
+  "worth_knowing": "The name is Portuguese for \"New Port\": a Portuguese visitor named it in 1730 for its likeness to Porto. It grew as a port of the Atlantic slave trade.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Porto-Novo",
+    "https://www.wikidata.org/wiki/Q3799"
+  ],
+  "written_by": "claude-opus-5-5",
+  "checked_by": null
+}

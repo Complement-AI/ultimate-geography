@@ -1,0 +1,21 @@
+{
+  "photo": {
+    "commons": "File:Cloud-free Iceland ESA22181280 (cropped).jpeg",
+    "alt": "Iceland from orbit on a cloud-free day",
+    "file": "cx-photo-iceland.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Cloud-free_Iceland_ESA22181280_(cropped).jpeg",
+    "license": "Attribution",
+    "credit": "Contains modified Copernicus Sentinel data 2020, European Space Agency, via Wikimedia Commons"
+  },
+  "facts": [
+    "About 376,000 people (2022), roughly a third of them in Reykjavík",
+    "Highest point: Hvannadalshnúkur"
+  ],
+  "worth_knowing": "Iceland sits on a rift between tectonic plates, which is why it has geysers and frequent eruptions. Its parliament, the Althing, dates from around 930 and is one of the world's oldest.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Iceland",
+    "https://www.wikidata.org/wiki/Q189"
+  ],
+  "written_by": "claude-opus-5-5",
+  "checked_by": null
+}

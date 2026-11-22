@@ -15,3 +15,5 @@ What is the capital of <b>Transnistria</b>?
 ## Extra
 
 Independent state claimed by Moldova.
+
+<a href="https://en.wikipedia.org/wiki/Tiraspol">Tiraspol on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Transnistria">Transnistria on Wikipedia</a>

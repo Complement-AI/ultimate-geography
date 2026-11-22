@@ -17,3 +17,5 @@ What is highlighted on this map?
 ## Extra
 
 Overseas territory of France.
+
+<a href="https://en.wikipedia.org/wiki/Collectivity_of_Saint_Martin">Collectivity of Saint Martin on Wikipedia</a>

@@ -13,3 +13,7 @@ What is highlighted on this map?
 ## Back
 
 <b>Baltic Sea</b>
+
+## Extra
+
+<a href="https://en.wikipedia.org/wiki/Baltic_Sea">Baltic Sea on Wikipedia</a>

@@ -13,3 +13,7 @@ What is highlighted on this map?
 ## Back
 
 <b>Barents Sea</b>
+
+## Extra
+
+<a href="https://en.wikipedia.org/wiki/Barents_Sea">Barents Sea on Wikipedia</a>

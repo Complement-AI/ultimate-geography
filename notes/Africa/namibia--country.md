@@ -11,3 +11,9 @@ tags  = ["africa", "sovereign_state", "country"]
 ## Back
 
 <b>Namibia</b>
+
+## Extra
+
+<div class="cmp-map" data-focus="NAM" data-pin="-22.57,17.0835" data-label="Windhoek"><img src="../../media/cx-locator-namibia.svg" alt="Map of Namibia with Windhoek marked"></div>
+
+<a href="https://en.wikipedia.org/wiki/Namibia">Namibia on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Windhoek">Windhoek on Wikipedia</a>

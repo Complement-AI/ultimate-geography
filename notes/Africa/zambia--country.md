@@ -11,3 +11,9 @@ tags  = ["africa", "east_africa", "sovereign_state", "country"]
 ## Back
 
 <b>Zambia</b>
+
+## Extra
+
+<div class="cmp-map" data-focus="ZMB" data-pin="-15.4147,28.2814" data-label="Lusaka"><img src="../../media/cx-locator-zambia.svg" alt="Map of Zambia with Lusaka marked"></div>
+
+<a href="https://en.wikipedia.org/wiki/Zambia">Zambia on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Lusaka">Lusaka on Wikipedia</a>

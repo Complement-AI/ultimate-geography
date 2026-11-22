@@ -16,4 +16,8 @@ Whose flag is this?
 
 ## Extra
 
+<div class="cmp-map" data-focus="NIC" data-pin="12.155,-86.2704" data-label="Managua"><img src="../../media/cx-locator-nicaragua.svg" alt="Map of Nicaragua with Managua marked"></div>
+
 Similar flags: El Salvador (different coat of arms, slightly darker blue)
+
+<a href="https://en.wikipedia.org/wiki/Flag_of_Nicaragua">Flag of Nicaragua on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Nicaragua">Nicaragua on Wikipedia</a>

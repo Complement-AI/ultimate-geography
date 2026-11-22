@@ -13,3 +13,9 @@ Whose flag is this?
 ## Back
 
 <b>India</b>
+
+## Extra
+
+<div class="cmp-map" data-focus="IND" data-pin="28.6,77.2" data-label="New Delhi"><img src="../../media/cx-locator-india.svg" alt="Map of India with New Delhi marked"></div>
+
+<a href="https://en.wikipedia.org/wiki/Flag_of_India">Flag of India on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/India">India on Wikipedia</a>

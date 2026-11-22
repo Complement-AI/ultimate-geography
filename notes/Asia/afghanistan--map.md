@@ -13,3 +13,9 @@ What is highlighted on this map?
 ## Back
 
 <b>Afghanistan</b>
+
+## Extra
+
+<div class="cmp-map" data-focus="AFG" data-pin="34.5186,69.1813" data-label="Kabul"><img src="../../media/cx-locator-afghanistan.svg" alt="Map of Afghanistan with Kabul marked"></div>
+
+<a href="https://en.wikipedia.org/wiki/Afghanistan">Afghanistan on Wikipedia</a>

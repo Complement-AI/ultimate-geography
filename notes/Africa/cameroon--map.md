@@ -13,3 +13,9 @@ What is highlighted on this map?
 ## Back
 
 <b>Cameroon</b>
+
+## Extra
+
+<div class="cmp-map" data-focus="CMR" data-pin="3.8686,11.5147" data-label="Yaoundé"><img src="../../media/cx-locator-cameroon.svg" alt="Map of Cameroon with Yaoundé marked"></div>
+
+<a href="https://en.wikipedia.org/wiki/Cameroon">Cameroon on Wikipedia</a>

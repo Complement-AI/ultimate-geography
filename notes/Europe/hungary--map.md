@@ -13,3 +13,9 @@ What is highlighted on this map?
 ## Back
 
 <b>Hungary</b>
+
+## Extra
+
+<div class="cmp-map" data-focus="HUN" data-pin="47.502,19.0814" data-label="Budapest"><img src="../../media/cx-locator-hungary.svg" alt="Map of Hungary with Budapest marked"></div>
+
+<a href="https://en.wikipedia.org/wiki/Hungary">Hungary on Wikipedia</a>

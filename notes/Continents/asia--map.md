@@ -13,3 +13,7 @@ What is highlighted on this map?
 ## Back
 
 <b>Asia</b>
+
+## Extra
+
+<a href="https://en.wikipedia.org/wiki/Asia">Asia on Wikipedia</a>

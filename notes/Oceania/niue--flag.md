@@ -13,3 +13,9 @@ Whose flag is this?
 ## Back
 
 <b>Niue</b>
+
+## Extra
+
+<div class="cmp-map" data-focus="NIU" data-pin="-19.066,-169.9136" data-label="Alofi"><img src="../../media/cx-locator-niue.svg" alt="Map of Niue with Alofi marked"></div>
+
+<a href="https://en.wikipedia.org/wiki/Flag_of_Niue">Flag of Niue on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Niue">Niue on Wikipedia</a>

@@ -16,4 +16,8 @@ Whose flag is this?
 
 ## Extra
 
+<div class="cmp-map" data-focus="SEN" data-pin="14.7178,-17.4751" data-label="Dakar"><img src="../../media/cx-locator-senegal.svg" alt="Map of Senegal with Dakar marked"></div>
+
 Similar flags: Cameroon (green/red/yellow, yellow star)
+
+<a href="https://en.wikipedia.org/wiki/Flag_of_Senegal">Flag of Senegal on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Senegal">Senegal on Wikipedia</a>

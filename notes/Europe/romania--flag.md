@@ -16,4 +16,8 @@ Whose flag is this?
 
 ## Extra
 
+<div class="cmp-map" data-focus="ROU" data-pin="44.4353,26.098" data-label="Bucharest"><img src="../../media/cx-locator-romania.svg" alt="Map of Romania with Bucharest marked"></div>
+
 Similar flags: Chad (slightly darker blue)
+
+<a href="https://en.wikipedia.org/wiki/Flag_of_Romania">Flag of Romania on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Romania">Romania on Wikipedia</a>

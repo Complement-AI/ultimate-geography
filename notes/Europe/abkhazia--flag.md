@@ -17,3 +17,5 @@ Whose flag is this?
 ## Extra
 
 Independent state claimed by Georgia.
+
+<a href="https://en.wikipedia.org/wiki/Flag_of_Abkhazia">Flag of Abkhazia on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Abkhazia">Abkhazia on Wikipedia</a>
