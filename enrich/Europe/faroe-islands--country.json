@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Faroe Islands by Sentinel-2.jpg",
+    "alt": "Satellite view of the Faroe Islands from above"
+  },
+  "facts": [
+    "About 54,000 people (2023), land area about 1,400 km2",
+    "Highest point: Slættaratindur"
+  ],
+  "worth_knowing": "The most widely held theory reads the name as \"sheep islands\". The capital receives the fewest hours of sunshine of any city in the world, only 840 hours per year.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Faroe_Islands",
+    "https://www.wikidata.org/wiki/Q4628"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

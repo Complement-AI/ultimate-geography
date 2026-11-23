@@ -18,4 +18,8 @@ Whose flag is this?
 
 <div class="cmp-map" data-focus="LBN" data-pin="33.8739,35.5078" data-label="Beirut"><img src="../../media/cx-locator-lebanon.svg" alt="Map of Lebanon with Beirut marked"></div>
 
+Adopted on 7 December 1943, shortly before independence from France
+
+A green cedar of Lebanon touches both red stripes on a white band twice their height. The cedar became a prominent symbol during the French mandate.
+
 <a href="https://en.wikipedia.org/wiki/Flag_of_Lebanon">Flag of Lebanon on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Lebanon">Lebanon on Wikipedia</a>

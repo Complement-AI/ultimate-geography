@@ -1,0 +1,14 @@
+{
+  "photo": null,
+  "facts": [
+    "About 51.6 million people (2022)",
+    "Half live in the Seoul metropolitan area"
+  ],
+  "worth_knowing": "The Goryeo dynasty (918–1392) achieved lasting unification and established the basis for Korean identity. The Joseon dynasty followed, from 1392 to 1897.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/South_Korea",
+    "https://www.wikidata.org/wiki/Q884"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

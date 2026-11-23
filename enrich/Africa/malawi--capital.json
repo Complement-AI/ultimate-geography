@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Lilongwe Area 2.jpg",
+    "alt": "An aerial view of a city"
+  },
+  "facts": [
+    "About 1.34 million people (2026 census)",
+    "1,050 m up, in the central region"
+  ],
+  "worth_knowing": "Named after the Lilongwe River. It replaced Zomba as capital in 1975, a move decided in 1965 under the first president, Hastings Banda.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Lilongwe",
+    "https://www.wikidata.org/wiki/Q3876"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

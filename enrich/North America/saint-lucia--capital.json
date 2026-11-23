@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:CastriesStLucia.JPG",
+    "alt": "The port of Castries"
+  },
+  "facts": [
+    "About 20,000 people in the urban area (2013)",
+    "Built on reclaimed land, on a flood plain"
+  ],
+  "worth_knowing": "Its sheltered harbour receives cargo vessels, ferries and cruise ships. Two Nobel winners were born here: Arthur Lewis (Economics, 1979) and Derek Walcott (Literature, 1992).",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Castries",
+    "https://www.wikidata.org/wiki/Q41699"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

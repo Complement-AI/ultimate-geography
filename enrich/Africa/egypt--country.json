@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:All Gizah Pyramids.jpg",
+    "alt": "The pyramids of Giza"
+  },
+  "facts": [
+    "About 1.01 million km²",
+    "Highest point: Mount Catherine"
+  ],
+  "worth_knowing": "Considered a cradle of civilisation: Ancient Egypt saw some of the earliest writing, agriculture, urbanisation and organised religion.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Egypt",
+    "https://www.wikidata.org/wiki/Q79"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

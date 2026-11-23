@@ -16,6 +16,10 @@ What is highlighted on this map?
 
 ## Extra
 
+About 350,000 people (January 2024) on 1,128 km²<br>Highest point Mount Pelée
+
+It lies directly north of Saint Lucia and south of Dominica. Its name is thought to be a corruption of Madinina, 'island of flowers'.
+
 Overseas department of France.
 
 <a href="https://en.wikipedia.org/wiki/Martinique">Martinique on Wikipedia</a>

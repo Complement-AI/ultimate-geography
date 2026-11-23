@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Tirana from South.jpg",
+    "alt": "Tirana seen from the south, with the artificial lake and Great Park in front"
+  },
+  "facts": [
+    "About 389,000 people (2023)",
+    "Enclosed by mountains, with Dajti rising to the east"
+  ],
+  "worth_knowing": "Founded in 1614 by the Ottoman Albanian nobleman Sylejman Pasha Bargjini around the Old Mosque. It stayed fairly unimportant until the Congress of Lushnjë proclaimed it Albania's capital after independence in 1912.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Tirana",
+    "https://www.wikidata.org/wiki/Q19689"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

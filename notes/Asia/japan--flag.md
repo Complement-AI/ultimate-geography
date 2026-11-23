@@ -18,4 +18,8 @@ Whose flag is this?
 
 <div class="cmp-map" data-focus="JPN" data-pin="35.687,139.7495" data-label="Tokyo"><img src="../../media/cx-locator-japan.svg" alt="Map of Japan with Tokyo marked"></div>
 
+Designated the national flag by law on 13 August 1999
+
+A red sun disc, the Nisshoki, 'flag of the sun', for the Land of the Rising Sun. The earliest recorded sun flag was used in the court of Emperor Monmu in 701.
+
 <a href="https://en.wikipedia.org/wiki/Flag_of_Japan">Flag of Japan on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Japan">Japan on Wikipedia</a>

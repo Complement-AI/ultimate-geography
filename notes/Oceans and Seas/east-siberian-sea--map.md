@@ -16,4 +16,8 @@ What is highlighted on this map?
 
 ## Extra
 
+About 987,000 km2<br>Borders the Laptev Sea to the west and the Chukchi Sea to the east
+
+A harsh Arctic sea, mostly less than 50 m deep, with ice fields that fully melt only in August and September.
+
 <a href="https://en.wikipedia.org/wiki/East_Siberian_Sea">East Siberian Sea on Wikipedia</a>

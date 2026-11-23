@@ -18,4 +18,8 @@ What is highlighted on this map?
 
 <div class="cmp-map" data-focus="BDI" data-pin="-3.426,29.8436" data-label="Gitega"><img src="../../media/cx-locator-burundi.svg" alt="Map of Burundi with Gitega marked"></div>
 
+Borders Rwanda, Tanzania and the Democratic Republic of the Congo<br>About 27,800 km², with Lake Tanganyika along its southwestern border
+
+It lies where the African Great Lakes region meets southeastern Africa. It is densely populated.
+
 <a href="https://en.wikipedia.org/wiki/Burundi">Burundi on Wikipedia</a>

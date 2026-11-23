@@ -18,4 +18,8 @@ What is highlighted on this map?
 
 <div class="cmp-map" data-focus="SYC" data-pin="-4.6166,55.45" data-label="Victoria"><img src="../../media/cx-locator-seychelles.svg" alt="Map of Seychelles with Victoria marked"></div>
 
+An archipelago of 115 islands in the Indian Ocean<br>1,500 km east of mainland Africa
+
+Nearby are the Maldives, Comoros, Madagascar, Mauritius, Mayotte and Réunion, with the Chagos Archipelago to the east.
+
 <a href="https://en.wikipedia.org/wiki/Seychelles">Seychelles on Wikipedia</a>

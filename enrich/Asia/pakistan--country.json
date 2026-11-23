@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Blue Hour at Pakistan Monument.jpg",
+    "alt": "A stone monument lit at dusk"
+  },
+  "facts": [
+    "About 224 million people (2021)",
+    "Fifth-most populous country"
+  ],
+  "worth_knowing": "Home to the 8,500-year-old Neolithic site of Mehrgarh and to the Indus Valley Civilisation. It became independent in 1947 with the partition of British India.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pakistan",
+    "https://www.wikidata.org/wiki/Q843"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

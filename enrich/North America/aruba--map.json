@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Aruba World Wind.jpg",
+    "alt": "Satellite view of the island"
+  },
+  "facts": [
+    "29 km north of Venezuela's Paraguaná peninsula, and 80 km north-west of Curaçao",
+    "32 km long and 10 km across at its widest"
+  ],
+  "worth_knowing": "Geologically Aruba lies in South America, on the continental shelf. With Bonaire and Curaçao it forms the ABC islands.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Aruba",
+    "https://www.wikidata.org/wiki/Q21203"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

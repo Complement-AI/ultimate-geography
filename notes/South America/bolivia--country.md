@@ -16,6 +16,10 @@ tags  = ["south_america", "sovereign_state", "country"]
 
 <div class="cmp-map" data-focus="BOL" data-pin="-19.041,-65.2595" data-label="Sucre"><img src="../../media/cx-locator-bolivia.svg" alt="Map of Bolivia with Sucre marked"></div>
 
+About 12.2 million people (2023) on 1,098,581 km²<br>The largest landlocked country in the Southern Hemisphere
+
+Named in 1825 in honour of Simón Bolívar, by Antonio José de Sucre, who chose independence for the region over joining Peru or Argentina's predecessor state.
+
 While Sucre is the constitutional capital, La Paz is the seat of government.
 
 <a href="https://en.wikipedia.org/wiki/Bolivia">Bolivia on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Sucre">Sucre on Wikipedia</a>

@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Honiara aerial crop.jpg",
+    "alt": "An aerial view of Honiara"
+  },
+  "facts": [
+    "About 130,000 people (2019)",
+    "On the northwestern coast of Guadalcanal"
+  ],
+  "worth_knowing": "The name comes from nagho ni ara in a Guadalcanal language, roughly \"place of the east wind\". It became the administrative centre of the British protectorate in 1952.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Honiara",
+    "https://www.wikidata.org/wiki/Q40921"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

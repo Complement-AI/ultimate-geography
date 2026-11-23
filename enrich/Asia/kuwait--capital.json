@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:LiberationTower.jpg",
+    "alt": "The Liberation Tower rising above Kuwait City"
+  },
+  "facts": [
+    "About 3 million people (2018)",
+    "16 m above sea level, on the south shore of Kuwait Bay"
+  ],
+  "worth_knowing": "The political, cultural and economic centre of the emirate, home to the headquarters of most Kuwaiti corporations and its entire banking system.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Kuwait_City",
+    "https://www.wikidata.org/wiki/Q35178"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

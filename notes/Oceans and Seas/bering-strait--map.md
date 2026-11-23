@@ -16,4 +16,8 @@ What is highlighted on this map?
 
 ## Extra
 
+About 82 km wide at its narrowest<br>Deepest point only 90 m
+
+Joins the Pacific and Arctic oceans between Siberia and Alaska. Lower sea levels once exposed a land bridge, Beringia, which humans are widely thought to have crossed from Asia to North America.
+
 <a href="https://en.wikipedia.org/wiki/Bering_Strait">Bering Strait on Wikipedia</a>

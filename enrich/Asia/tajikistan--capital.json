@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Tehron Street Dushanbe.jpg",
+    "alt": "A tree-lined street in Dushanbe"
+  },
+  "facts": [
+    "About 1.2 million people (2022)",
+    "In the Hisar Valley, at 750 to 930 m"
+  ],
+  "worth_knowing": "Known in Russian as Dyushambe until 1929, then as Stalinabad, after Joseph Stalin, until 1961.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Dushanbe",
+    "https://www.wikidata.org/wiki/Q9365"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

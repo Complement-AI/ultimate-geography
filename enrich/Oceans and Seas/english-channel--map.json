@@ -1,0 +1,14 @@
+{
+  "photo": null,
+  "facts": [
+    "About 560 km long, 75,000 km2",
+    "34 km wide at its narrowest, in the Strait of Dover"
+  ],
+  "worth_knowing": "It separates southern England from northern France, and is the smallest of the shallow seas around the continental shelf of Europe.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/English_Channel",
+    "https://www.wikidata.org/wiki/Q34640"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

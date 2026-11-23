@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Male-total.jpg",
+    "alt": "View of Malé"
+  },
+  "facts": [
+    "About 212,000 people (2022) in an area of 1.9 km²",
+    "Built on a central island, with the airport on neighbouring Hulhulé"
+  ],
+  "worth_knowing": "Traditionally called the King's Island, it was where the ancient royal dynasties ruled. The whole country is named after it: \"Maldives\" means \"the islands (dives) of Malé\".",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Mal%C3%A9",
+    "https://www.wikidata.org/wiki/Q9347"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

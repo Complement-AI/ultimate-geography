@@ -18,4 +18,8 @@ What is highlighted on this map?
 
 <div class="cmp-map" data-focus="HTI" data-pin="18.543,-72.338" data-label="Port-au-Prince"><img src="../../media/cx-locator-haiti.svg" alt="Map of Haiti with Port-au-Prince marked"></div>
 
+Shares Hispaniola with the Dominican Republic, to the east<br>Highest point Peak la Selle
+
+It occupies the western side of Hispaniola, east of Cuba and Jamaica, and is the third-largest country in the Caribbean by area.
+
 <a href="https://en.wikipedia.org/wiki/Haiti">Haiti on Wikipedia</a>

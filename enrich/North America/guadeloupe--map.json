@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Pointe de la Petite-Tortue.JPG",
+    "alt": "Pointe de la Petite-Tortue on Grande-Terre"
+  },
+  "facts": [
+    "An overseas department and region of France",
+    "About 1,628 km²"
+  ],
+  "worth_knowing": "Six inhabited islands, among them Basse-Terre and Grande-Terre, lie south of Antigua and Barbuda and Montserrat and north of Dominica.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Guadeloupe",
+    "https://www.wikidata.org/wiki/Q17012"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

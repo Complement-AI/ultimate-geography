@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:NouméaCentre.jpg",
+    "alt": "Central Nouméa"
+  },
+  "facts": [
+    "About 86,000 people in the city proper (2025 census)",
+    "On a peninsula in the south of the main island, Grande Terre"
+  ],
+  "worth_knowing": "The largest Francophone city in Oceania. It sits on a protected deepwater harbour that serves as the chief port for New Caledonia.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Noum%C3%A9a",
+    "https://www.wikidata.org/wiki/Q9733"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

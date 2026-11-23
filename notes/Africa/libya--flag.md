@@ -18,4 +18,8 @@ Whose flag is this?
 
 <div class="cmp-map" data-focus="LBY" data-pin="32.8925,13.18" data-label="Tripoli"><img src="../../media/cx-locator-libya.svg" alt="Map of Libya with Tripoli marked"></div>
 
+Readopted on 3 August 2011
+
+The 1951 design drew on the black star-and-crescent banner of the Senussi dynasty of Cyrenaica. It was abolished in 1969 and brought back after Gaddafi's fall.
+
 <a href="https://en.wikipedia.org/wiki/Flag_of_Libya">Flag of Libya on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Libya">Libya on Wikipedia</a>

@@ -16,4 +16,8 @@ What is the capital of <b>Pakistan</b>?
 
 <div class="cmp-map" data-focus="PAK" data-pin="33.7019,73.1647" data-label="Islamabad"><img src="../../media/cx-locator-pakistan.svg" alt="Map of Pakistan with Islamabad marked"></div>
 
+About 1.01 million people (2017)<br>490 m up, along the Margalla Hills
+
+A planned city, established in 1967 to replace Karachi as the capital. The Greek architect Constantinos Apostolou Doxiadis drew the master plan and divided it into eight zones.
+
 <a href="https://en.wikipedia.org/wiki/Islamabad">Islamabad on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Pakistan">Pakistan on Wikipedia</a>

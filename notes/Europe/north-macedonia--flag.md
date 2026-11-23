@@ -18,6 +18,10 @@ Whose flag is this?
 
 <div class="cmp-map" data-focus="MKD" data-pin="42.0,21.4335" data-label="Skopje"><img src="../../media/cx-locator-north-macedonia.svg" alt="Map of North Macedonia with Skopje marked"></div>
 
+Adopted on 5 October 1995
+
+The eight-rayed yellow sun stands for the "new sun of Liberty" in the national anthem. The 1992 flag used the Vergina Sun, until a year-long Greek economic embargo led to this design.
+
 Formerly known as Macedonia.
 
 <a href="https://en.wikipedia.org/wiki/Flag_of_North_Macedonia">Flag of North Macedonia on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/North_Macedonia">North Macedonia on Wikipedia</a>

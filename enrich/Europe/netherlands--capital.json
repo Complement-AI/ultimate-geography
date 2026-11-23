@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Amsterdam airphoto.jpg",
+    "alt": "Aerial view of Amsterdam and its canal rings"
+  },
+  "facts": [
+    "About 942,000 people (2026) in the city proper",
+    "About 2 m below sea level, at the mouth of the Amstel"
+  ],
+  "worth_knowing": "The name means \"Dam in the Amstel\": the city began as a fishing village in the 12th century at a dammed river mouth. It is nicknamed the \"Venice of the North\" for its canals.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Amsterdam",
+    "https://www.wikidata.org/wiki/Q727"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

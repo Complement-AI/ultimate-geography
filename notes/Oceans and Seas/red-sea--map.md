@@ -16,4 +16,8 @@ What is highlighted on this map?
 
 ## Extra
 
+About 438,000 km2, 2,250 km long<br>Maximum depth 2,730 m, in the Suakin Trough
+
+The world's northernmost tropical sea, lying between the Arabian Peninsula and Africa.
+
 <a href="https://en.wikipedia.org/wiki/Red_Sea">Red Sea on Wikipedia</a>

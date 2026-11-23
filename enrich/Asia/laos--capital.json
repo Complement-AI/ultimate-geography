@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:20171118 Vientiane 3220 DxO.jpg",
+    "alt": "Street view in Vientiane"
+  },
+  "facts": [
+    "About 1 million people (2023)",
+    "174 m above sea level, on the Mekong"
+  ],
+  "worth_knowing": "It lies close to the border with Thailand and was the administrative capital during French rule.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Vientiane",
+    "https://www.wikidata.org/wiki/Q9326"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

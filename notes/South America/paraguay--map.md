@@ -18,4 +18,8 @@ What is highlighted on this map?
 
 <div class="cmp-map" data-focus="PRY" data-pin="-25.2945,-57.6435" data-label="Asunción"><img src="../../media/cx-locator-paraguay.svg" alt="Map of Paraguay with Asunción marked"></div>
 
+Neighbours: Bolivia, Brazil and Argentina
+
+Landlocked, but with access to the Atlantic Ocean by the Paraná-Paraguay Waterway, a system of navigable channels shared by five countries.
+
 <a href="https://en.wikipedia.org/wiki/Paraguay">Paraguay on Wikipedia</a>

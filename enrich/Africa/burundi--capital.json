@@ -1,0 +1,21 @@
+{
+  "photo": {
+    "commons": "File:Centre ville de Gitega.jpg",
+    "alt": "The centre of Gitega",
+    "file": "cx-photo-centre-ville-de-gitega.jpg",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Centre_ville_de_Gitega.jpg",
+    "credit": "NIHEREWENIMANA Richard, CC0, via Wikimedia Commons"
+  },
+  "facts": [
+    "About 135,000 people (2020), the country's fourth-largest city",
+    "On the central plateau, about 62 km east of Bujumbura"
+  ],
+  "worth_knowing": "It was the seat of the Kingdom of Burundi and its kings until 1966. Parliament made it the political capital on 16 January 2019, while Bujumbura stayed the economic capital.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Gitega",
+    "https://www.wikidata.org/wiki/Q167551"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

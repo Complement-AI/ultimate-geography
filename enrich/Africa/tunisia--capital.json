@@ -1,0 +1,16 @@
+{
+  "photo": {
+    "commons": "File:Panoramique du centre de Tunis (3197369985) (cropped).jpg",
+    "alt": "Panorama of central Tunis"
+  },
+  "facts": [
+    "About 2.7 million people in Grand Tunis",
+    "On the Gulf of Tunis, behind the Lake of Tunis"
+  ],
+  "worth_knowing": "Its Medina is a World Heritage Site. East of it lies the modern Ville Nouvelle, with Avenue Habib Bourguiba, and the suburbs of Carthage and Sidi Bou Said by the sea.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Tunis"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

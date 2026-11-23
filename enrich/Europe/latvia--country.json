@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Satellite image of Latvia in March 2003.jpg",
+    "alt": "Latvia from orbit in March 2003"
+  },
+  "facts": [
+    "About 1.85 million people (2026)",
+    "One of the three Baltic states, with Estonia and Lithuania"
+  ],
+  "worth_knowing": "Forests cover 56% of the land, the fifth-highest share in the European Union. Independence was restored in 1991 after the Singing Revolution, which began in 1987.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Latvia",
+    "https://www.wikidata.org/wiki/Q211"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

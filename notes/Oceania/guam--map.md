@@ -18,6 +18,10 @@ What is highlighted on this map?
 
 <div class="cmp-map" data-focus="GUM"><img src="../../media/cx-locator-guam.svg" alt="Map of Guam with Hagåtña marked"></div>
 
+Largest and southernmost of the Mariana Islands<br>Highest point: Mount Lamlam
+
+Guam is the closest land mass to the Mariana Trench, the deep subduction zone that runs east of the Marianas.
+
 Unincorporated territory of the United States.
 
 <a href="https://en.wikipedia.org/wiki/Guam">Guam on Wikipedia</a>

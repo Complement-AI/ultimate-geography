@@ -16,4 +16,8 @@ What is the capital of <b>Madagascar</b>?
 
 <div class="cmp-map" data-focus="MDG" data-pin="-18.9147,47.5147" data-label="Antananarivo"><img src="../../media/cx-locator-madagascar.svg" alt="Map of Madagascar with Antananarivo marked"></div>
 
+About 1.28 million people (2018)<br>1,276 m up, in the centre of the island
+
+The highest national capital among island countries. Historically the capital of the Merina people, it has been the country's largest population centre since at least the 18th century.
+
 <a href="https://en.wikipedia.org/wiki/Antananarivo">Antananarivo on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Madagascar">Madagascar on Wikipedia</a>

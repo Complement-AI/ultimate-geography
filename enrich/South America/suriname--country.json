@@ -1,0 +1,14 @@
+{
+  "photo": null,
+  "facts": [
+    "About 613,000 people (2021) in about 165,940 km²",
+    "The smallest sovereign country in South America by population and territory"
+  ],
+  "worth_knowing": "Over 95% of its land is rainforest, the second-highest proportion of forest cover in the world.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Suriname",
+    "https://www.wikidata.org/wiki/Q730"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

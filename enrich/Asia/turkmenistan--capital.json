@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Neutrality-Road-Ashgabat-2015.JPG",
+    "alt": "A wide road lined with white buildings in Ashgabat"
+  },
+  "facts": [
+    "About 1.03 million people (2022 census)",
+    "Between the Karakum Desert and the Köpetdag mountains"
+  ],
+  "worth_knowing": "Founded in 1881 on the basis of an Ahal Teke tribal village. Much of it was destroyed by the 1948 earthquake and rebuilt, with monumental projects sheathed in white marble.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Ashgabat",
+    "https://www.wikidata.org/wiki/Q23438"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

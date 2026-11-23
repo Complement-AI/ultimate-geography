@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Hagatna from Fort Santa Agueda.JPG",
+    "alt": "Hagåtña on the coast seen from a hilltop fort"
+  },
+  "facts": [
+    "About 940 people (2020), the second smallest of Guam's 19 villages",
+    "On the west coast, at the mouth of the Hagåtña River"
+  ],
+  "worth_knowing": "Called Agana until 1998, when the Guam Legislature restored the original Chamorro name. It is the westernmost territorial capital city of the United States.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Hag%C3%A5t%C3%B1a,_Guam",
+    "https://www.wikidata.org/wiki/Q30988"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

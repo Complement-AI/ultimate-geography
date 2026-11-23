@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Dublin - aerial - 2025-07-07 01.jpg",
+    "alt": "Aerial view of Dublin"
+  },
+  "facts": [
+    "About 593,000 people in the city council area (2022 census)",
+    "On Dublin Bay at the mouth of the River Liffey"
+  ],
+  "worth_knowing": "The name comes from the Middle Irish Du(i)blind, literally \"black pool\". It became the capital of the Irish Free State after independence in 1922.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Dublin",
+    "https://www.wikidata.org/wiki/Q1761"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

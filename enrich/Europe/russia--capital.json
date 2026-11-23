@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Saint Basil's Cathedral and the Red Square.jpg",
+    "alt": "Saint Basil's Cathedral on Red Square"
+  },
+  "facts": [
+    "About 13 million people (2025) in the city",
+    "On the Moskva River, in Central Russia"
+  ],
+  "worth_knowing": "First documented in 1147. Peter the Great moved the capital to Saint Petersburg in 1712, and it returned to Moscow in 1918 after the Russian Revolution.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Moscow",
+    "https://www.wikidata.org/wiki/Q649"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

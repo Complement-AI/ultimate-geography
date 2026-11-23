@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Satellite image of Italy in March 2003.jpg",
+    "alt": "Italy from orbit"
+  },
+  "facts": [
+    "A peninsula in the Mediterranean, about 302,000 km2",
+    "Land borders with France, Switzerland, Austria and Slovenia"
+  ],
+  "worth_knowing": "The Alps form its northern land border. It is the tenth-largest country in Europe by area.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Italy",
+    "https://www.wikidata.org/wiki/Q38"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

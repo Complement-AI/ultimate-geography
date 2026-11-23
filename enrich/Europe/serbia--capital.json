@@ -1,0 +1,14 @@
+{
+  "photo": null,
+  "facts": [
+    "About 1.2 million people (2022 census) in the city proper",
+    "At the confluence of the Sava and Danube rivers"
+  ],
+  "worth_knowing": "The name means \"White City\". It is one of the oldest continuously inhabited cities in Europe, and the third most populous on the Danube.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Belgrade",
+    "https://www.wikidata.org/wiki/Q3711"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

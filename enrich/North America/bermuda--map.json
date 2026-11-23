@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:ISS017-E-10695 - View of Bermuda.jpg",
+    "alt": "Bermuda seen from the International Space Station"
+  },
+  "facts": [
+    "Nearest land is North Carolina, about 1,035 km to the west-northwest",
+    "An archipelago of 181 islands in 54 km² of land"
+  ],
+  "worth_knowing": "The most significant islands are joined by bridges and appear to form one landmass. A coral reef gives the territory some protection from tropical cyclones.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Bermuda",
+    "https://www.wikidata.org/wiki/Q23635"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

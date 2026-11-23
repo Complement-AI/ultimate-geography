@@ -18,4 +18,8 @@ What is highlighted on this map?
 
 <div class="cmp-map" data-focus="BEN" data-pin="6.4833,2.6166" data-label="Porto-Novo"><img src="../../media/cx-locator-benin.svg" alt="Map of Benin with Porto-Novo marked"></div>
 
+Borders Togo, Nigeria, Burkina Faso and Niger<br>About 114,763 km², with the highest point at Mont Sokbaro
+
+Most of the population lives on the southern coastline of the Bight of Benin, part of the Gulf of Guinea.
+
 <a href="https://en.wikipedia.org/wiki/Benin">Benin on Wikipedia</a>

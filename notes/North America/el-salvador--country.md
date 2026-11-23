@@ -16,4 +16,8 @@ tags  = ["north_america", "sovereign_state", "country"]
 
 <div class="cmp-map" data-focus="SLV" data-pin="13.7119,-89.205" data-label="San Salvador"><img src="../../media/cx-locator-el-salvador.svg" alt="Map of El Salvador with San Salvador marked"></div>
 
+About 6 million people (2024) in 21,041 km²
+
+The name means 'The Saviour' in Spanish. A 1915 law fixed the form El Salvador in place of Salvador.
+
 <a href="https://en.wikipedia.org/wiki/El_Salvador">El Salvador on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/San_Salvador">San Salvador on Wikipedia</a>

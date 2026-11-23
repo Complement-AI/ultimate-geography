@@ -16,4 +16,8 @@ tags  = ["africa", "east_africa", "sovereign_state", "country"]
 
 <div class="cmp-map" data-focus="ETH" data-pin="9.0353,38.6981" data-label="Addis Ababa"><img src="../../media/cx-locator-ethiopia.svg" alt="Map of Ethiopia with Addis Ababa marked"></div>
 
+About 138 million people (2026)<br>Second most populous country in Africa
+
+Anatomically modern humans emerged in what is now Ethiopia. The Kingdom of Aksum kept a unified civilisation in the region for 900 years.
+
 <a href="https://en.wikipedia.org/wiki/Ethiopia">Ethiopia on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Addis_Ababa">Addis Ababa on Wikipedia</a>

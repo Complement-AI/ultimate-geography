@@ -16,6 +16,8 @@ What is highlighted on this map?
 
 ## Extra
 
+The north-east of the island of Ireland<br>Open border to the south and west with the Republic of Ireland
+
 Constituent country of the United Kingdom.
 
 <a href="https://en.wikipedia.org/wiki/Northern_Ireland">Northern Ireland on Wikipedia</a>

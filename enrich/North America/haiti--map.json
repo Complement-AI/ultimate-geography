@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:ISS020-E-43300 - View of Haiti.jpg",
+    "alt": "Haiti seen from the International Space Station"
+  },
+  "facts": [
+    "Shares Hispaniola with the Dominican Republic, to the east",
+    "Highest point Peak la Selle"
+  ],
+  "worth_knowing": "It occupies the western side of Hispaniola, east of Cuba and Jamaica, and is the third-largest country in the Caribbean by area.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Haiti",
+    "https://www.wikidata.org/wiki/Q790"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

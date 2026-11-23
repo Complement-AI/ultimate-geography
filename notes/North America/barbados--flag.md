@@ -18,4 +18,8 @@ Whose flag is this?
 
 <div class="cmp-map" data-focus="BRB" data-pin="13.102,-59.6165" data-label="Bridgetown"><img src="../../media/cx-locator-barbados.svg" alt="Map of Barbados with Bridgetown marked"></div>
 
+Adopted at midnight on 30 November 1966, the day of independence
+
+The trident head on the gold band is broken, for the break from colonial rule. Ultramarine stands for the sea and sky, and gold for the sand.
+
 <a href="https://en.wikipedia.org/wiki/Flag_of_Barbados">Flag of Barbados on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Barbados">Barbados on Wikipedia</a>

@@ -18,4 +18,8 @@ What is highlighted on this map?
 
 <div class="cmp-map" data-focus="MNE" data-pin="42.466,19.2663" data-label="Podgorica"><img src="../../media/cx-locator-montenegro.svg" alt="Map of Montenegro with Podgorica marked"></div>
 
+Borders Serbia, Bosnia and Herzegovina, Kosovo, Albania and Croatia<br>Highest point: Zla Kolata
+
+It lies on the Balkan Peninsula, with a coastline along the Adriatic Sea to the southwest.
+
 <a href="https://en.wikipedia.org/wiki/Montenegro">Montenegro on Wikipedia</a>

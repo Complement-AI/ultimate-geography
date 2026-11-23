@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Bishkek City's business center.jpg",
+    "alt": "Bishkek's business centre"
+  },
+  "facts": [
+    "About 1.19 million people (2025)",
+    "Just off the northern fringe of the Kyrgyz Ala-Too Range"
+  ],
+  "worth_knowing": "Called Pishpek until 1926, then Frunze after the Bolshevik Mikhail Frunze, who was born there. Parliament changed the name to Bishkek in 1991.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Bishkek",
+    "https://www.wikidata.org/wiki/Q9361"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

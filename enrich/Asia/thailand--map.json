@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Temple of the Emerald of buddha or Wat Phra Kaew (cropped).jpg",
+    "alt": "The gilded spires of a Buddhist temple"
+  },
+  "facts": [
+    "Borders Myanmar, Laos, Cambodia and Malaysia",
+    "Area of about 513,000 km²"
+  ],
+  "worth_knowing": "Its coasts lie on the Gulf of Thailand and the Andaman Sea. The highest point is Doi Inthanon.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Thailand",
+    "https://www.wikidata.org/wiki/Q869"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

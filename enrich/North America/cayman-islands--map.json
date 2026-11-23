@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:ISS014-E-20406 - View of the Cayman Islands.jpg",
+    "alt": "Low islands seen from the International Space Station"
+  },
+  "facts": [
+    "Three islands: Grand Cayman, Cayman Brac and Little Cayman",
+    "About 88,800 people (2024) in 262 km²"
+  ],
+  "worth_knowing": "The islands lie south of Cuba and north-east of Honduras, between Jamaica and Mexico's Yucatán Peninsula. Grand Cayman is the largest and the most populous.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Cayman_Islands",
+    "https://www.wikidata.org/wiki/Q5785"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

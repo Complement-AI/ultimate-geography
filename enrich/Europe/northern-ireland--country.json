@@ -1,0 +1,14 @@
+{
+  "photo": null,
+  "facts": [
+    "About 1.9 million people (2021) in 14,130 km²",
+    "Highest point: Slieve Donard"
+  ],
+  "worth_knowing": "Created in 1921, when Ireland was partitioned by the Government of Ireland Act 1920. It has been variously described as a country, province or region.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Northern_Ireland",
+    "https://www.wikidata.org/wiki/Q26"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:An aerial view of Djibouti City.jpg",
+    "alt": "An aerial view of a coastal city"
+  },
+  "facts": [
+    "Borders Eritrea, Ethiopia and Somalia",
+    "About 23,200 km²"
+  ],
+  "worth_knowing": "It looks out on the Red Sea and the Gulf of Aden. Its railroad to Dire Dawa, later extended to Addis Ababa, made its port the main outlet for southern Ethiopia.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Djibouti",
+    "https://www.wikidata.org/wiki/Q977"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

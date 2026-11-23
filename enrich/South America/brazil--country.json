@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Cidade Maravilhosa.jpg",
+    "alt": "A view of the city of Rio de Janeiro"
+  },
+  "facts": [
+    "About 214 million people (2026), the seventh most populous country",
+    "About 8.5 million km², the fifth-largest country by area"
+  ],
+  "worth_knowing": "The only Portuguese-speaking country in the Americas. It contains most of the Amazon basin, with the world's largest river system and most extensive virgin tropical forest.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Brazil",
+    "https://www.wikidata.org/wiki/Q155"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

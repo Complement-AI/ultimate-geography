@@ -18,4 +18,8 @@ What is highlighted on this map?
 
 <div class="cmp-map" data-focus="RWA" data-pin="-1.9516,30.0586" data-label="Kigali"><img src="../../media/cx-locator-rwanda.svg" alt="Map of Rwanda with Kigali marked"></div>
 
+Borders Uganda, Burundi, the DR Congo and Tanzania<br>About 26,300 km2
+
+Mountains dominate the west and savanna the southeast. Several Virunga volcanoes stand in the northwest, and the largest lakes are mainly in the west and north.
+
 <a href="https://en.wikipedia.org/wiki/Rwanda">Rwanda on Wikipedia</a>

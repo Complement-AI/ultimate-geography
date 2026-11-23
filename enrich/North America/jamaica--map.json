@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Satellite image of Jamaica in November 2001.jpg",
+    "alt": "Jamaica from orbit, November 2001"
+  },
+  "facts": [
+    "About 145 km south of Cuba",
+    "Highest point Blue Mountain Peak"
+  ],
+  "worth_knowing": "It lies 191 km west of Hispaniola and 215 km southeast of the Cayman Islands.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Jamaica",
+    "https://www.wikidata.org/wiki/Q766"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

@@ -16,6 +16,10 @@ tags  = ["africa", "sovereign_state", "west_africa", "country"]
 
 <div class="cmp-map" data-focus="CIV" data-pin="6.8184,-5.2755" data-label="Yamoussoukro"><img src="../../media/cx-locator-ivory-coast.svg" alt="Map of Ivory Coast with Yamoussoukro marked"></div>
 
+About 33.2 million people (2026)<br>Third most populous country in West Africa
+
+Around 78 languages are spoken. French is official, and Bété, Baoulé and Dyula are among the widely used indigenous ones.
+
 Officially Côte d'Ivoire.<br><br>While Yamoussoukro is the official capital, Abidjan is the de facto seat of government.
 
 <a href="https://en.wikipedia.org/wiki/Ivory_Coast">Ivory Coast on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Yamoussoukro">Yamoussoukro on Wikipedia</a>

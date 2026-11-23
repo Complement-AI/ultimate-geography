@@ -16,4 +16,8 @@ What is the capital of <b>Croatia</b>?
 
 <div class="cmp-map" data-focus="HRV" data-pin="45.8,16.0" data-label="Zagreb"><img src="../../media/cx-locator-croatia.svg" alt="Map of Croatia with Zagreb marked"></div>
 
+About 767,000 people (2021 census)<br>On the Sava river, below the Medvednica mountain
+
+The name is first recorded in a charter of 1134, though its etymology is unclear. Zagreb became a free royal city in 1242.
+
 <a href="https://en.wikipedia.org/wiki/Zagreb">Zagreb on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Croatia">Croatia on Wikipedia</a>

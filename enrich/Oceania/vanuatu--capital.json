@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Port Vila aerial.jpg",
+    "alt": "A harbour with a cruise ship, seen from the air"
+  },
+  "facts": [
+    "About 49,000 people (2020 census), 16.3% of the country",
+    "On the west coast of Efate, the country's commercial centre"
+  ],
+  "worth_knowing": "Locally it is simply \"Vila\", a variant of Efil and Ifira, the names of the area in two local languages. Melanesian people have occupied the area for thousands of years.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Port_Vila",
+    "https://www.wikidata.org/wiki/Q37806"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

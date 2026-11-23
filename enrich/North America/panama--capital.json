@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Panorámica nocturna de la ciudad de Panamá.jpg",
+    "alt": "Panama City at night"
+  },
+  "facts": [
+    "Founded on 15 August 1519",
+    "At the Pacific entrance of the Panama Canal"
+  ],
+  "worth_knowing": "Founded by the Spanish conquistador Pedro Arias Dávila. Its metropolitan area is home to nearly half of the country's inhabitants.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Panama_City",
+    "https://www.wikidata.org/wiki/Q3306"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

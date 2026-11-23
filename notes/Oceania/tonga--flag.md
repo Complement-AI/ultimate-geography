@@ -18,4 +18,8 @@ Whose flag is this?
 
 <div class="cmp-map" data-focus="TON" data-pin="-21.1385,-175.2206" data-label="Nukuʻalofa"><img src="../../media/cx-locator-tonga.svg" alt="Map of Tonga with Nukuʻalofa marked"></div>
 
+Adopted in 1875 and written into the constitution, which says it can never be changed
+
+The red cross in the canton alludes to Christianity. White stands for purity and red for the blood of Jesus Christ.
+
 <a href="https://en.wikipedia.org/wiki/Flag_of_Tonga">Flag of Tonga on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Tonga">Tonga on Wikipedia</a>

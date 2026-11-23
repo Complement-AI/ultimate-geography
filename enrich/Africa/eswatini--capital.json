@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Mbabane (6035476964).jpg",
+    "alt": "A town among hills"
+  },
+  "facts": [
+    "About 76,000 people (2025)",
+    "1,243 m up, in the Mdzimba Mountains"
+  ],
+  "worth_knowing": "The executive capital; Lobamba is the legislative one. It is named for a chief, Mbabane Kunene, and grew after the administrative centre moved from Bremersdorp in 1902.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Mbabane",
+    "https://www.wikidata.org/wiki/Q3904"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

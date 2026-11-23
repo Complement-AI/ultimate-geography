@@ -18,4 +18,8 @@ Whose flag is this?
 
 <div class="cmp-map" data-focus="WSM" data-pin="-13.8415,-171.7386" data-label="Apia"><img src="../../media/cx-locator-samoa.svg" alt="Map of Samoa with Apia marked"></div>
 
+Designed in 1948 with four stars; the fifth was added in 1949
+
+A red field with a blue canton holding five white stars in the shape of the Southern Cross. Paramount chiefs Malietoa Tanumafili II and Tupua Tamasese Meaʻole designed it.
+
 <a href="https://en.wikipedia.org/wiki/Flag_of_Samoa">Flag of Samoa on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Samoa">Samoa on Wikipedia</a>

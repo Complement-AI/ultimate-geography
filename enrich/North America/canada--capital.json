@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Ottawa Montage 2020.jpg",
+    "alt": "A montage of views of Ottawa"
+  },
+  "facts": [
+    "About 1.02 million people in the city itself (2021)",
+    "70 m up, where the Ottawa and Rideau rivers meet"
+  ],
+  "worth_knowing": "Founded in 1826 as Bytown, after Colonel John By, who ran the Rideau Canal project. It was renamed Ottawa in 1855, after the Ottawa River, and chosen as capital after years of rivalry between larger cities.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Ottawa",
+    "https://www.wikidata.org/wiki/Q1930"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

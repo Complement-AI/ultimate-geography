@@ -16,4 +16,8 @@ tags  = ["north_america", "sovereign_state", "country"]
 
 <div class="cmp-map" data-focus="HND" data-pin="14.104,-87.2195" data-label="Tegucigalpa"><img src="../../media/cx-locator-honduras.svg" alt="Map of Honduras with Tegucigalpa marked"></div>
 
+About 11 million people (2025) in 112,492 km²
+
+Home to several important Mesoamerican cultures, most notably the Maya, before the Spanish colonized it in the 16th century.
+
 <a href="https://en.wikipedia.org/wiki/Honduras">Honduras on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Tegucigalpa">Tegucigalpa on Wikipedia</a>

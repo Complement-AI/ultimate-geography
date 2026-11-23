@@ -16,4 +16,8 @@ What is highlighted on this map?
 
 ## Extra
 
+About 14.06 million km², the smallest and shallowest ocean<br>Reaches south to about 60°N
+
+The coldest ocean and the least salty of the five, because of low evaporation, heavy river inflow and little exchange with saltier oceans.
+
 <a href="https://en.wikipedia.org/wiki/Arctic_Ocean">Arctic Ocean on Wikipedia</a>

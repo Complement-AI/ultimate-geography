@@ -16,4 +16,8 @@ tags  = ["caribbean", "north_america", "sovereign_state", "country"]
 
 <div class="cmp-map" data-focus="LCA" data-pin="14.002,-61.0" data-label="Castries"><img src="../../media/cx-locator-saint-lucia.svg" alt="Map of Saint Lucia with Castries marked"></div>
 
+About 168,000 people (2023) in 617 km²
+
+Because it switched so often between British and French control, it was known as the 'Helen of the West'. It became independent on 22 February 1979.
+
 <a href="https://en.wikipedia.org/wiki/Saint_Lucia">Saint Lucia on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Castries">Castries on Wikipedia</a>

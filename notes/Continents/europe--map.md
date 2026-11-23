@@ -16,4 +16,8 @@ What is highlighted on this map?
 
 ## Extra
 
+About 10.19 million km², the second-smallest continent<br>About 745 million people (2021)
+
+Commonly separated from Asia by the Ural Mountains, the Ural River, the Caspian Sea, the Greater Caucasus, the Black Sea and the Turkish straits.
+
 <a href="https://en.wikipedia.org/wiki/Europe">Europe on Wikipedia</a>

@@ -16,6 +16,10 @@ tags  = ["africa", "sovereign_state", "country"]
 
 <div class="cmp-map" data-focus="ZAF" data-pin="-29.12,26.2299" data-label="Pretoria, Cape Town, Bloemfontein"><img src="../../media/cx-locator-south-africa.svg" alt="Map of South Africa with Pretoria, Cape Town, Bloemfontein marked"></div>
 
+About 62 million people (2022), the sixth-most populated country in Africa<br>Highest point: Mafadi
+
+The southernmost country in Africa, with 2,798 km of coastline along the South Atlantic and Indian oceans.
+
 South Africa has no legally defined capital: the branches of government are split over three cities: Pretoria (executive), Cape Town (legislative) and Bloemfontein (judicial).
 
 <a href="https://en.wikipedia.org/wiki/South_Africa">South Africa on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Pretoria">Pretoria on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Cape_Town">Cape Town on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Bloemfontein">Bloemfontein on Wikipedia</a>

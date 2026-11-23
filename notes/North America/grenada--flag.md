@@ -18,4 +18,8 @@ Whose flag is this?
 
 <div class="cmp-map" data-focus="GRD" data-pin="12.0526,-61.7416" data-label="St. George's"><img src="../../media/cx-locator-grenada.svg" alt="Map of Grenada with St. George's marked"></div>
 
+Adopted in 1974, at independence
+
+The nutmeg at the hoist stands for the islands' primary export and is the one feature kept from the previous flag. Seven stars: six on the red border and one on the central disc.
+
 <a href="https://en.wikipedia.org/wiki/Flag_of_Grenada">Flag of Grenada on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Grenada">Grenada on Wikipedia</a>

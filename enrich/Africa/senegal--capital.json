@@ -1,0 +1,16 @@
+{
+  "photo": {
+    "commons": "File:Pointe des Almadies - Senegal.jpg",
+    "alt": "Rocky shore at the Pointe des Almadies"
+  },
+  "facts": [
+    "Metropolitan area of 4.0 million people (2023)",
+    "On the Cap-Vert peninsula, the westernmost point of mainland Africa"
+  ],
+  "worth_knowing": "In 1902 it replaced Saint-Louis as the capital of French West Africa. From 1959 to 1960 it was the capital of the short-lived Mali Federation.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Dakar"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

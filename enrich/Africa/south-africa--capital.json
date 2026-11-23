@@ -1,0 +1,18 @@
+{
+  "photo": {
+    "commons": "File:Ciudad del Cabo desde Cabeza de León, Sudáfrica, 2018-07-22, DD 34.jpg",
+    "alt": "Cape Town seen from Lion's Head"
+  },
+  "facts": [
+    "Pretoria is the executive capital and hosts all foreign embassies",
+    "Cape Town is the legislative capital, Bloemfontein the judicial capital"
+  ],
+  "worth_knowing": "Cape Town, the country's oldest city, is the seat of Parliament. The Constitutional Court, the highest court, has been in Johannesburg since 1994, not in Bloemfontein.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pretoria",
+    "https://en.wikipedia.org/wiki/Cape_Town",
+    "https://en.wikipedia.org/wiki/Bloemfontein"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

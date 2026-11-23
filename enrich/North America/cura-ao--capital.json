@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Handelskade in Willemstad.jpg",
+    "alt": "Colourful Dutch colonial buildings along a harbour quay"
+  },
+  "facts": [
+    "About 137,000 people (2011), around 90% of Curaçao's population",
+    "Sint Anna Bay splits the centre into Punda and Otrobanda"
+  ],
+  "worth_knowing": "Punda was established in 1634 when the Dutch West India Company captured the island from Spain, and Otrobanda followed in 1707. The city centre is a UNESCO World Heritage Site.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Willemstad",
+    "https://www.wikidata.org/wiki/Q132679"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

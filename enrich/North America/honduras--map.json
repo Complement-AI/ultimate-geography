@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Copan sculpture.jpg",
+    "alt": "A carved Maya sculpture at the Copán World Heritage Site"
+  },
+  "facts": [
+    "Borders Guatemala, El Salvador and Nicaragua",
+    "Highest point Cerro Las Minas"
+  ],
+  "worth_knowing": "It reaches the Pacific at the Gulf of Fonseca and the Caribbean Sea at the Gulf of Honduras. In 1960 the northern Mosquito Coast was transferred from Nicaragua to Honduras.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Honduras",
+    "https://www.wikidata.org/wiki/Q783"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

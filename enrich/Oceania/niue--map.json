@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Niue ISS004.jpg",
+    "alt": "Niue seen from orbit"
+  },
+  "facts": [
+    "About 260 km²",
+    "2,400 km northeast of New Zealand"
+  ],
+  "worth_knowing": "A raised coral island with two levels: a limestone cliff along the coast with a central plateau about 60 m up, and a lower coastal terrace. A reef circles it, broken only near Alofi.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Niue",
+    "https://www.wikidata.org/wiki/Q34020"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

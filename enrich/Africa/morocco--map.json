@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Volubilis Longshot II.jpg",
+    "alt": "The ruins of Volubilis"
+  },
+  "facts": [
+    "Coasts on the Mediterranean Sea to the north and the Atlantic Ocean to the west",
+    "Borders Algeria to the east, with Western Sahara to the south"
+  ],
+  "worth_knowing": "One of only three countries, with Spain and France, to have both Atlantic and Mediterranean coastlines. Its geography runs from the Atlantic through mountains to the Sahara desert.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Morocco",
+    "https://www.wikidata.org/wiki/Q1028"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

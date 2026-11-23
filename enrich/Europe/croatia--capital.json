@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Zagreb (29255640143).jpg",
+    "alt": "A cathedral and a public square in Zagreb"
+  },
+  "facts": [
+    "About 767,000 people (2021 census)",
+    "On the Sava river, below the Medvednica mountain"
+  ],
+  "worth_knowing": "The name is first recorded in a charter of 1134, though its etymology is unclear. Zagreb became a free royal city in 1242.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Zagreb",
+    "https://www.wikidata.org/wiki/Q1435"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

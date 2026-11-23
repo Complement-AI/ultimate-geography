@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Nakhal Fort Sultanate of Oman 001.jpg",
+    "alt": "Nakhal Fort, a stone fort in Oman"
+  },
+  "facts": [
+    "Land borders with Saudi Arabia, the United Arab Emirates and Yemen",
+    "Area of 315,331 km²"
+  ],
+  "worth_knowing": "Two exclaves, Madha and Musandam, are surrounded by the United Arab Emirates on their land borders. Musandam faces the Strait of Hormuz.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Oman",
+    "https://www.wikidata.org/wiki/Q842"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

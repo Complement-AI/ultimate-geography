@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:FACHADA ASAMBLEA NACIONAL. QUITO, 20 DE FEBRERO 2020. 01.jpg",
+    "alt": "The National Assembly building in Quito"
+  },
+  "facts": [
+    "About 1.76 million people (2022)",
+    "2,850 m up, in a valley on the slopes of the Pichincha volcano"
+  ],
+  "worth_knowing": "Either the highest or second-highest national capital, depending on whether La Paz or Sucre counts for Bolivia. Its historic centre was among the first UNESCO World Cultural Heritage Sites, in 1978.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Quito",
+    "https://www.wikidata.org/wiki/Q2900"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

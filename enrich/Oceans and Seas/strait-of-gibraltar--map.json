@@ -1,0 +1,14 @@
+{
+  "photo": null,
+  "facts": [
+    "14.3 km wide at its narrowest",
+    "Depth 300 to 900 m"
+  ],
+  "worth_knowing": "It connects the Atlantic Ocean to the Mediterranean and separates Europe from Africa; ferries cross in as little as 35 minutes.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Strait_of_Gibraltar",
+    "https://www.wikidata.org/wiki/Q36124"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

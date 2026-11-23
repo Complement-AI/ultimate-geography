@@ -16,6 +16,10 @@ What is highlighted on this map?
 
 ## Extra
 
+An overseas department and region of France<br>About 1,628 km²
+
+Six inhabited islands, among them Basse-Terre and Grande-Terre, lie south of Antigua and Barbuda and Montserrat and north of Dominica.
+
 Overseas department of France.
 
 <a href="https://en.wikipedia.org/wiki/Guadeloupe">Guadeloupe on Wikipedia</a>

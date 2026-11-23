@@ -16,4 +16,8 @@ tags  = ["asia", "southeast_asia", "sovereign_state", "country"]
 
 <div class="cmp-map" data-focus="BRN" data-pin="4.8833,114.9333" data-label="Bandar Seri Begawan"><img src="../../media/cx-locator-brunei.svg" alt="Map of Brunei with Bandar Seri Begawan marked"></div>
 
+About 466,000 people (2025) in about 5,765 km²
+
+An absolute monarchy ruled by the Sultan. Sunni Islam is the state religion, and the law blends English common law with jurisprudence inspired by Islam.
+
 <a href="https://en.wikipedia.org/wiki/Brunei">Brunei on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Bandar_Seri_Begawan">Bandar Seri Begawan on Wikipedia</a>

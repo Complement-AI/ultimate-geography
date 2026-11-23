@@ -18,4 +18,8 @@ Whose flag is this?
 
 <div class="cmp-map" data-focus="UKR" data-pin="50.4353,30.5147" data-label="Kyiv"><img src="../../media/cx-locator-ukraine.svg" alt="Map of Ukraine with Kyiv marked"></div>
 
+Officially adopted on 28 January 1992
+
+Equal bands of blue over yellow. The bicolour was first seen in 1848 in Lemberg (Lviv), and the Soviet era replaced it with a red flag until 1991.
+
 <a href="https://en.wikipedia.org/wiki/Flag_of_Ukraine">Flag of Ukraine on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Ukraine">Ukraine on Wikipedia</a>

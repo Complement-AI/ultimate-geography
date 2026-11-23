@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Stone Bridge Skopje 4.jpg",
+    "alt": "The Stone Bridge over the Vardar in Skopje"
+  },
+  "facts": [
+    "About 527,000 people (2021 census), a quarter of the country",
+    "On the Vardar River in the Skopje Valley"
+  ],
+  "worth_knowing": "Founded as Scupi in the late 1st century under Domitian, it was abandoned in 518 after an earthquake destroyed it. It was rebuilt under Justinian I and ruled by the Ottomans for over five centuries.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Skopje",
+    "https://www.wikidata.org/wiki/Q384"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

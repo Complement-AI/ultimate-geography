@@ -1,0 +1,14 @@
+{
+  "photo": null,
+  "facts": [
+    "About 1.4 million people (2025)",
+    "Highest point: Suur Munamägi"
+  ],
+  "worth_knowing": "Present-day Estonia has been inhabited since at least 9,000 BC. It is one of the least populous member states of the European Union.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Estonia",
+    "https://www.wikidata.org/wiki/Q191"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Belgique - Bruxelles - Grand-Place - Côté nord-est.jpg",
+    "alt": "A historic square with ornate guild houses"
+  },
+  "facts": [
+    "About 11.8 million people (2025)",
+    "Three regions: Flanders, Wallonia and Brussels-Capital"
+  ],
+  "worth_knowing": "Independent since the Belgian Revolution of 1830. After the 2010 federal election it went a record 589 days without a government formation.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Belgium",
+    "https://www.wikidata.org/wiki/Q31"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

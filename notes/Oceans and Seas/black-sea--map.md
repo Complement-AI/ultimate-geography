@@ -16,4 +16,8 @@ What is highlighted on this map?
 
 ## Extra
 
+About 436,400 km², up to 2,212 m deep<br>Bordered by Bulgaria, Georgia, Romania, Russia, Turkey and Ukraine
+
+A deep layer of its water does not drain or mix, so it is anoxic. That layer has preserved ancient shipwrecks.
+
 <a href="https://en.wikipedia.org/wiki/Black_Sea">Black Sea on Wikipedia</a>

@@ -1,0 +1,16 @@
+{
+  "photo": {
+    "commons": "File:Badaling China Great-Wall-of-China-01.jpg",
+    "alt": "The Great Wall winding over hills"
+  },
+  "facts": [
+    "Borders Russia, Mongolia, India and Vietnam",
+    "Highest point is Mount Everest"
+  ],
+  "worth_knowing": "Its landscape includes the Himalayas, plateaus, deserts and forests, and the Yangtze and Yellow rivers cross the Central Plain.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/China"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

@@ -1,0 +1,14 @@
+{
+  "photo": null,
+  "facts": [
+    "About 47 million people",
+    "Tenth largest country in the world, at about 2.38 million km²"
+  ],
+  "worth_knowing": "France invaded in 1830 and annexed the country in 1848, though it was not fully conquered until 1903. Algeria gained independence in 1962.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Algeria",
+    "https://www.wikidata.org/wiki/Q262"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

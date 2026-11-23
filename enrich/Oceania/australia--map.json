@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Australia satellite plane.jpg",
+    "alt": "Satellite photograph of the Australian continent"
+  },
+  "facts": [
+    "Neighbours across the sea include Indonesia, Papua New Guinea and New Zealand",
+    "Mainland, the island of Tasmania and many smaller islands"
+  ],
+  "worth_knowing": "Large deserts fill the centre and tropical rainforests line parts of the coast. At 2,228 m, Mount Kosciuszko is the highest mountain on the mainland.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Australia",
+    "https://www.wikidata.org/wiki/Q408"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

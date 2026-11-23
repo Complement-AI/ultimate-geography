@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:SLO — Ljubljana (Blick auf Burg) 2020.JPG",
+    "alt": "Ljubljana with its castle above the old town"
+  },
+  "facts": [
+    "About 284,000 people (2022)",
+    "Near the centre of the country, north of its largest marsh"
+  ],
+  "worth_knowing": "A Roman city called Emona stood here in antiquity. Ljubljana became the capital of the newly formed Slovenia when it became independent in 1991.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Ljubljana",
+    "https://www.wikidata.org/wiki/Q437"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

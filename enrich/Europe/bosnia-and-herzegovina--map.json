@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Gornji Orahovac, Bosnia y Herzegovina, 2014-04-14, DD 10-13 PAN.jpg",
+    "alt": "Panoramic view of a river valley in southern Bosnia and Herzegovina"
+  },
+  "facts": [
+    "Borders Serbia, Montenegro and Croatia",
+    "A coast only 20 km long on the Adriatic Sea"
+  ],
+  "worth_knowing": "Mostly mountainous, with the Dinaric Alps dominating the centre and east. Herzegovina, the smaller southern region, has a Mediterranean climate.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Bosnia_and_Herzegovina",
+    "https://www.wikidata.org/wiki/Q225"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

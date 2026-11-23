@@ -18,4 +18,8 @@ Whose flag is this?
 
 <div class="cmp-map" data-focus="SYC" data-pin="-4.6166,55.45" data-label="Victoria"><img src="../../media/cx-locator-seychelles.svg" alt="Map of Seychelles with Victoria marked"></div>
 
+Adopted on 8 January 1996, the third flag since independence
+
+Five oblique bands that the source says symbolise a dynamic new country: blue for sky and sea, yellow for the sun, red for the people, white for social justice, green for the land.
+
 <a href="https://en.wikipedia.org/wiki/Flag_of_Seychelles">Flag of Seychelles on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Seychelles">Seychelles on Wikipedia</a>

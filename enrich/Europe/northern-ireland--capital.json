@@ -1,0 +1,14 @@
+{
+  "photo": null,
+  "facts": [
+    "About 345,000 people (2021), the largest city in Northern Ireland",
+    "On the banks of the river Lagan, near Belfast Lough"
+  ],
+  "worth_knowing": "The name comes from the Irish Béal Feirste. It became the capital of the six north-eastern counties in 1920–22, and by the 1900s its shipyards were building up to a quarter of all United Kingdom tonnage.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Belfast",
+    "https://www.wikidata.org/wiki/Q10686"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

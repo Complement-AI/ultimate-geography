@@ -18,4 +18,8 @@ What is highlighted on this map?
 
 <div class="cmp-map" data-focus="EST" data-pin="59.4339,24.728" data-label="Tallinn"><img src="../../media/cx-locator-estonia.svg" alt="Map of Estonia with Tallinn marked"></div>
 
+Borders Russia to the east and Latvia to the south<br>The mainland plus Saaremaa, Hiiumaa and over 2,300 other islands and islets
+
+Estonia lies across the Gulf of Finland from Finland, and across the Baltic Sea from Sweden.
+
 <a href="https://en.wikipedia.org/wiki/Estonia">Estonia on Wikipedia</a>

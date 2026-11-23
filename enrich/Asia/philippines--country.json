@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Manila Bay, Roxas Boulevard buildings with navy fleet (Ermita and Malate, Manila)(2017-12-31).jpg",
+    "alt": "Buildings along a waterfront boulevard on Manila Bay"
+  },
+  "facts": [
+    "About 113 million people (2024)",
+    "Independent since 1946"
+  ],
+  "worth_knowing": "Spanish explorer Ruy López de Villalobos named the islands las Islas Filipinas in 1543, in honor of King Philip II.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Philippines",
+    "https://www.wikidata.org/wiki/Q928"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

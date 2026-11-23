@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Dominica from ISS.jpg",
+    "alt": "The island of Dominica seen from the International Space Station"
+  },
+  "facts": [
+    "About 74,700 people (2023) in 751 km²",
+    "Independent since 1978"
+  ],
+  "worth_knowing": "The youngest island in the Lesser Antilles, still being formed by volcanic activity. Its Boiling Lake is the world's second-largest hot spring.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Dominica",
+    "https://www.wikidata.org/wiki/Q784"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

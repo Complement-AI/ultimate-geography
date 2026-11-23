@@ -18,4 +18,8 @@ Whose flag is this?
 
 <div class="cmp-map" data-focus="BIH" data-pin="43.85,18.383" data-label="Sarajevo"><img src="../../media/cx-locator-bosnia-and-herzegovina.svg" alt="Map of Bosnia and Herzegovina with Sarajevo marked"></div>
 
+Adopted in 1998
+
+The three points of the triangle stand for the three constituent peoples: Bosniaks, Croats and Serbs. The stars represent Europe and are meant to be infinite in number.
+
 <a href="https://en.wikipedia.org/wiki/Flag_of_Bosnia_and_Herzegovina">Flag of Bosnia and Herzegovina on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Bosnia_and_Herzegovina">Bosnia and Herzegovina on Wikipedia</a>

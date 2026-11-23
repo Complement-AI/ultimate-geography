@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Manila Bay, Roxas Boulevard buildings with navy fleet (Ermita and Malate, Manila)(2017-12-31).jpg",
+    "alt": "Buildings along a waterfront boulevard on Manila Bay"
+  },
+  "facts": [
+    "About 7,641 islands, in three main groups: Luzon, Visayas and Mindanao",
+    "Highest point: Mount Apo"
+  ],
+  "worth_knowing": "Bounded by the South China Sea to the west, the Philippine Sea to the east and the Celebes Sea to the south.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Philippines",
+    "https://www.wikidata.org/wiki/Q928"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

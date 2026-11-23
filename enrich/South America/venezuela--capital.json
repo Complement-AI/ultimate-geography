@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Caracas desde el ávila.jpg",
+    "alt": "Caracas seen from Cerro El Ávila"
+  },
+  "facts": [
+    "About 2.2 million people (2017)",
+    "920 m up in a valley of the coastal mountains"
+  ],
+  "worth_knowing": "Officially Santiago de León de Caracas, founded in 1567. A steep 2,200 m mountain range, Cerro El Ávila, separates the valley from the Caribbean shore.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Caracas",
+    "https://www.wikidata.org/wiki/Q1533"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

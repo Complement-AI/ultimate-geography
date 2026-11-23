@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Budapest, Hungary (explored) (14995308504).jpg",
+    "alt": "A view over Budapest"
+  },
+  "facts": [
+    "About 1.7 million people (2026), 117 m above sea level",
+    "On the Danube, in the centre of the Pannonian Basin"
+  ],
+  "worth_knowing": "Home to about a third of the country's population, it produces more than 40% of its economic output.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Budapest",
+    "https://www.wikidata.org/wiki/Q1781"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

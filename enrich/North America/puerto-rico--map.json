@@ -1,0 +1,14 @@
+{
+  "photo": null,
+  "facts": [
+    "About 1,600 km southeast of Miami",
+    "Highest point Cerro de Punta"
+  ],
+  "worth_knowing": "It lies between the Dominican Republic and the US Virgin Islands. Besides the main island it includes Vieques, Culebra and Mona.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Puerto_Rico",
+    "https://www.wikidata.org/wiki/Q1183"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

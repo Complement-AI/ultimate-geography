@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Kichi Ak Suu Sanctuary, Issyk Kul Region, Kyrgyzstan 001.jpg",
+    "alt": "Mountain valley in the Issyk-Kul region"
+  },
+  "facts": [
+    "Borders Kazakhstan, Uzbekistan, Tajikistan and China",
+    "Bishkek lies on the northern border with Kazakhstan"
+  ],
+  "worth_knowing": "It lies in the Tian Shan and Pamir mountain ranges, and its highly mountainous terrain leaves it geographically isolated.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Kyrgyzstan",
+    "https://www.wikidata.org/wiki/Q813"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

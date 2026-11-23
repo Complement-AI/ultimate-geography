@@ -18,4 +18,8 @@ Whose flag is this?
 
 <div class="cmp-map" data-focus="PHL" data-pin="14.6061,120.9803" data-label="Manila"><img src="../../media/cx-locator-philippines.svg" alt="Map of Philippines with Manila marked"></div>
 
+Adopted on 12 June 1898
+
+The sun's eight rays stand for the eight provinces that rebelled against Spain in 1896, and the three stars for Luzon, Visayas and Mindanao. Flown with the red side on top, it indicates a state of war.
+
 <a href="https://en.wikipedia.org/wiki/Flag_of_the_Philippines">Flag of the Philippines on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Philippines">Philippines on Wikipedia</a>

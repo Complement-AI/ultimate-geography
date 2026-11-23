@@ -18,4 +18,8 @@ Whose flag is this?
 
 <div class="cmp-map" data-focus="HUN" data-pin="47.502,19.0814" data-label="Budapest"><img src="../../media/cx-locator-hungary.svg" alt="Map of Hungary with Budapest marked"></div>
 
+Official in its present form since 23 May 1957
+
+After the coat of arms was removed in 1957, it became one of only three flags of a socialist state in Europe with no socialist symbolism, alongside Poland's and Czechoslovakia's.
+
 <a href="https://en.wikipedia.org/wiki/Flag_of_Hungary">Flag of Hungary on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Hungary">Hungary on Wikipedia</a>

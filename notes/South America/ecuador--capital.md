@@ -16,4 +16,8 @@ What is the capital of <b>Ecuador</b>?
 
 <div class="cmp-map" data-focus="ECU" data-pin="-0.213,-78.502" data-label="Quito"><img src="../../media/cx-locator-ecuador.svg" alt="Map of Ecuador with Quito marked"></div>
 
+About 1.76 million people (2022)<br>2,850 m up, in a valley on the slopes of the Pichincha volcano
+
+Either the highest or second-highest national capital, depending on whether La Paz or Sucre counts for Bolivia. Its historic centre was among the first UNESCO World Cultural Heritage Sites, in 1978.
+
 <a href="https://en.wikipedia.org/wiki/Quito">Quito on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Ecuador">Ecuador on Wikipedia</a>

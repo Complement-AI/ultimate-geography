@@ -1,0 +1,21 @@
+{
+  "photo": {
+    "commons": "File:Monument aux héros nationaux - Ouagadougou - 2024.jpg",
+    "alt": "The national heroes monument in Ouagadougou",
+    "file": "cx-photo-monument-aux-h-ros-nationaux-ouagadougou-2024.jpg",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Monument_aux_h%C3%A9ros_nationaux_-_Ouagadougou_-_2024.jpg",
+    "credit": "The black photographer, CC0, via Wikimedia Commons"
+  },
+  "facts": [
+    "About 2.4 million people (2019)",
+    "Home to one of West Africa's largest markets"
+  ],
+  "worth_knowing": "Possibly founded as early as 1050, it became the main centre of the Mossi states around 1495. In 1919 the French colonial administration made it capital of Upper Volta.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Ouagadougou",
+    "https://www.wikidata.org/wiki/Q3777"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

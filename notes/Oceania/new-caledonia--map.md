@@ -18,6 +18,10 @@ What is highlighted on this map?
 
 <div class="cmp-map" data-focus="NCL" data-pin="-22.2625,166.4443" data-label="Nouméa"><img src="../../media/cx-locator-new-caledonia.svg" alt="Map of New Caledonia with Nouméa marked"></div>
 
+Main island Grande Terre, plus the Loyalty Islands and the Isle of Pines
+
+The territory lies 1,210 km east of Australia and 220 km southwest of Vanuatu. The four inhabited Loyalty Islands off the east coast are Ouvéa, Lifou, Tiga and Maré.
+
 Overseas territory of France.
 
 <a href="https://en.wikipedia.org/wiki/New_Caledonia">New Caledonia on Wikipedia</a>

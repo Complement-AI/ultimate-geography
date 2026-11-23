@@ -16,4 +16,8 @@ What is the capital of <b>Egypt</b>?
 
 <div class="cmp-map" data-focus="EGY" data-pin="30.0519,31.248" data-label="Cairo"><img src="../../media/cx-locator-egypt.svg" alt="Map of Egypt with Cairo marked"></div>
 
+About 9.8 million people (2023)<br>Near the Nile Delta
+
+Founded in 969, and nicknamed "the city of a thousand minarets" for its Islamic architecture. It superseded the earlier city of Fustat as the main urban centre.
+
 <a href="https://en.wikipedia.org/wiki/Cairo">Cairo on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Egypt">Egypt on Wikipedia</a>

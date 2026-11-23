@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Cairo Skyline (2020).jpg",
+    "alt": "A city skyline"
+  },
+  "facts": [
+    "About 9.8 million people (2023)",
+    "Near the Nile Delta"
+  ],
+  "worth_knowing": "Founded in 969, and nicknamed \"the city of a thousand minarets\" for its Islamic architecture. It superseded the earlier city of Fustat as the main urban centre.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Cairo",
+    "https://www.wikidata.org/wiki/Q85"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

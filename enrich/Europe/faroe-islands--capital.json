@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Tinganes 57.jpg",
+    "alt": "The Tinganes peninsula and harbour"
+  },
+  "facts": [
+    "About 14,000 people in the city itself (2024)",
+    "On the east coast of the island of Streymoy"
+  ],
+  "worth_knowing": "The name means \"Thor's harbour\". The Norse established their parliament on the Tinganes peninsula in AD 850, and the city has been the capital ever since.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Tórshavn",
+    "https://www.wikidata.org/wiki/Q10704"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

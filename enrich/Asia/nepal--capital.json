@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Kathmandu Avion 01.JPG",
+    "alt": "Aerial view of Kathmandu"
+  },
+  "facts": [
+    "About 846,000 people (2021 census)",
+    "1,324 m above sea level, in the Kathmandu Valley"
+  ],
+  "worth_knowing": "The name comes from Kasthamandap, a public pavilion: in Sanskrit, kāṣṭha means \"wood\" and maṇḍapa \"pavilion\". Legend says all the timber for it came from a single tree.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Kathmandu",
+    "https://www.wikidata.org/wiki/Q3037"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

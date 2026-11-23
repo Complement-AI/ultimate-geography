@@ -1,0 +1,16 @@
+{
+  "photo": {
+    "commons": "File:Freetown-aerialview.jpg",
+    "alt": "Aerial view of the city and its harbour"
+  },
+  "facts": [
+    "About 1.35 million people (2024 census)",
+    "A major Atlantic port on the Sierra Leone River estuary"
+  ],
+  "worth_knowing": "Founded on 11 March 1792 by 1,196 African Americans at the foot of the Cotton Tree, as a settlement for freed and liberated slaves.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Freetown"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

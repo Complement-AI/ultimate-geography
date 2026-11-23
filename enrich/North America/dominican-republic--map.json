@@ -1,0 +1,14 @@
+{
+  "photo": null,
+  "facts": [
+    "Land border with Haiti to the west",
+    "Second-largest country in the Antilles by area, after Cuba"
+  ],
+  "worth_knowing": "It occupies the eastern five-eighths of Hispaniola. With Saint Martin, Hispaniola is one of only two Caribbean islands shared by two sovereign states.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Dominican_Republic",
+    "https://www.wikidata.org/wiki/Q786"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

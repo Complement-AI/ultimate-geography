@@ -16,6 +16,10 @@ What is the capital of <b>Somaliland</b>?
 
 <div class="cmp-map" data-focus="SOL" data-pin="9.56,44.0653" data-label="Hargeisa"><img src="../../media/cx-locator-somaliland.svg" alt="Map of Somaliland with Hargeisa marked"></div>
 
+About 1.23 million people (2025)<br>1,260 m up
+
+Capital of a partially recognised state that is still considered internationally part of Somalia. It was founded as a watering and trading stop between the coast and the interior.
+
 Independent state claimed by Somalia.
 
 <a href="https://en.wikipedia.org/wiki/Hargeisa">Hargeisa on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Somaliland">Somaliland on Wikipedia</a>

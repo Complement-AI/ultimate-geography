@@ -16,4 +16,8 @@ tags  = ["africa", "east_africa", "sovereign_state", "country"]
 
 <div class="cmp-map" data-focus="MDG" data-pin="-18.9147,47.5147" data-label="Antananarivo"><img src="../../media/cx-locator-madagascar.svg" alt="Map of Madagascar with Antananarivo marked"></div>
 
+About 32 million people (2024)<br>The world's fourth-largest island
+
+A biodiversity hotspot: over 90% of its wildlife is endemic, and it is one of the world's 17 megadiverse countries.
+
 <a href="https://en.wikipedia.org/wiki/Madagascar">Madagascar on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Antananarivo">Antananarivo on Wikipedia</a>

@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Cidade Maravilhosa.jpg",
+    "alt": "A view of the city of Rio de Janeiro"
+  },
+  "facts": [
+    "A coastline of 7,491 km on the Atlantic, among the longest in the world",
+    "Borders every South American country except Ecuador and Chile"
+  ],
+  "worth_knowing": "It covers roughly half of South America's land area, from tropical forest and wetlands to savannas, plateaus and low mountains.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Brazil",
+    "https://www.wikidata.org/wiki/Q155"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

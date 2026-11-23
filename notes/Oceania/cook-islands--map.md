@@ -18,4 +18,8 @@ What is highlighted on this map?
 
 <div class="cmp-map" data-focus="COK" data-pin="-21.1962,-159.7854" data-label="Avarua"><img src="../../media/cx-locator-cook-islands.svg" alt="Map of Cook Islands with Avarua marked"></div>
 
+15 islands with about 236.7 km² of land<br>In Polynesia, in the South Pacific Ocean
+
+Small islands spread over a vast sea: their exclusive economic zone covers about 1.96 million km² of ocean, against about 237 km² of land.
+
 <a href="https://en.wikipedia.org/wiki/Cook_Islands">Cook Islands on Wikipedia</a>

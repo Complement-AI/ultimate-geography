@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Temple of the Emerald of buddha or Wat Phra Kaew (cropped).jpg",
+    "alt": "The gilded spires of a Buddhist temple"
+  },
+  "facts": [
+    "About 66 million people (2017)",
+    "Formerly known as Siam"
+  ],
+  "worth_knowing": "The Tai people began migrating into the territory between the 8th and 10th centuries. Kingdoms such as Sukhothai, Lan Na and Ayutthaya were established in the classical period.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Thailand",
+    "https://www.wikidata.org/wiki/Q869"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

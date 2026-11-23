@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Samoa - Apia Govt buildings.jpg",
+    "alt": "Government buildings in Apia"
+  },
+  "facts": [
+    "About 36,000 people in the urban area (2021 census)",
+    "On the central north coast of Upolu, 2 m above sea level"
+  ],
+  "worth_knowing": "Grew from a small village that had 304 people in 1800. The modern city was founded in the 1850s and has been the official capital since 1959.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Apia",
+    "https://www.wikidata.org/wiki/Q36260"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

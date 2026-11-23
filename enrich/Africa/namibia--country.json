@@ -1,0 +1,16 @@
+{
+  "photo": {
+    "commons": "File:Duna en Sossusvlei, Namibia, 2018-08-06, DD 002.jpg",
+    "alt": "A red sand dune at Sossusvlei in the Namib desert"
+  },
+  "facts": [
+    "About 2.5 million people (2017)",
+    "Highest point: Brandberg"
+  ],
+  "worth_knowing": "The driest country in sub-Saharan Africa, with the Atlantic Ocean on its west coast. It became independent from South Africa in 1990.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Namibia"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

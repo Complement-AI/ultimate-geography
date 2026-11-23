@@ -18,6 +18,10 @@ Whose flag is this?
 
 <div class="cmp-map" data-focus="CPV" data-pin="14.9167,-23.5167" data-label="Praia"><img src="../../media/cx-locator-cape-verde.svg" alt="Map of Cape Verde with Praia marked"></div>
 
+Adopted on 25 September 1992
+
+Ten yellow stars in a circle stand for the ten islands. The flag was introduced to symbolise the shift from a socialist state to a multi-party democracy.
+
 Also known as Cabo Verde.
 
 <a href="https://en.wikipedia.org/wiki/Flag_of_Cape_Verde">Flag of Cape Verde on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Cape_Verde">Cape Verde on Wikipedia</a>

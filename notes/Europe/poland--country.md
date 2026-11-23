@@ -16,4 +16,8 @@ tags  = ["europe", "european_union", "sovereign_state", "country"]
 
 <div class="cmp-map" data-focus="POL" data-pin="52.2519,20.9981" data-label="Warsaw"><img src="../../media/cx-locator-poland.svg" alt="Map of Poland with Warsaw marked"></div>
 
+About 37.6 million people (2024) in 312,683 km²<br>Sixteen voivodeships
+
+The Polish–Lithuanian Commonwealth, formed in 1569, adopted Europe's first modern constitution in 1791. The name comes from the Polans, a West Slavic tribe.
+
 <a href="https://en.wikipedia.org/wiki/Poland">Poland on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Warsaw">Warsaw on Wikipedia</a>

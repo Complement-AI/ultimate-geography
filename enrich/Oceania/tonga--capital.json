@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Royal Palace, Nuku'alofa, Nov 18.jpg",
+    "alt": "The Royal Palace in Nukuʻalofa"
+  },
+  "facts": [
+    "About 23,000 people (2016)",
+    "On the north coast of Tongatapu"
+  ],
+  "worth_knowing": "The world's westernmost capital of a sovereign state, despite lying in the southernmost island group of Tonga.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Nuku%CA%BBalofa",
+    "https://www.wikidata.org/wiki/Q38834"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

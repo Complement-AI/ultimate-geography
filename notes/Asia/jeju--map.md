@@ -16,6 +16,10 @@ What is highlighted on this map?
 
 ## Extra
 
+About 671,000 people (2024) in 1,848 km²<br>Highest point is Hallasan, 1,950 m
+
+The southernmost province of South Korea. Its main island, South Korea's largest, is home to the shield volcano Hallasan.
+
 Autonomous province of South Korea.
 
 <a href="https://en.wikipedia.org/wiki/Jeju_Province">Jeju Province on Wikipedia</a>

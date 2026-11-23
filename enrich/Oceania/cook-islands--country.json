@@ -1,0 +1,16 @@
+{
+  "photo": {
+    "commons": "File:ISS006-E-38664 - View of the Cook Islands.jpg",
+    "alt": "Cook Islands seen from the International Space Station"
+  },
+  "facts": [
+    "About 15,000 people (2021 census)"
+  ],
+  "worth_knowing": "Self-governing, but in free association with New Zealand. Most Cook Islanders hold New Zealand citizenship, and a larger population of Cook Islanders lives in New Zealand and Australia.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Cook_Islands",
+    "https://www.wikidata.org/wiki/Q26988"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

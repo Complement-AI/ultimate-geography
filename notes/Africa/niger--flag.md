@@ -18,4 +18,8 @@ Whose flag is this?
 
 <div class="cmp-map" data-focus="NER" data-pin="13.4916,7.0964" data-label="Niamey"><img src="../../media/cx-locator-niger.svg" alt="Map of Niger with Niamey marked"></div>
 
+Adopted on 23 November 1959
+
+Commonly read, though not officially confirmed, as orange for the Sahara in the north, white for the Sahel, green for the fertile south, with the orange disc as the sun.
+
 <a href="https://en.wikipedia.org/wiki/Flag_of_Niger">Flag of Niger on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Niger">Niger on Wikipedia</a>

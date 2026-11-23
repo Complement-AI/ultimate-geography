@@ -16,4 +16,8 @@ What is highlighted on this map?
 
 ## Extra
 
+About 24.7 million km², the third-largest continent<br>About 592 million people (2021)
+
+Splits into Northern America, which includes Canada, Greenland and the continental United States, and Middle America: Mexico, Central America and the Caribbean.
+
 <a href="https://en.wikipedia.org/wiki/North_America">North America on Wikipedia</a>

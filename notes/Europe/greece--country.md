@@ -16,4 +16,8 @@ tags  = ["europe", "european_union", "mediterranean", "sovereign_state", "countr
 
 <div class="cmp-map" data-focus="GRC" data-pin="37.9853,23.7314" data-label="Athens"><img src="../../media/cx-locator-greece.svg" alt="Map of Greece with Athens marked"></div>
 
+About 10.6 million people (2022)<br>Highest point: Mount Olympus
+
+The birthplace of democracy, theatre and the Olympic Games through the Ancient Greeks, and often considered the cradle of Western civilisation.
+
 <a href="https://en.wikipedia.org/wiki/Greece">Greece on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Athens">Athens on Wikipedia</a>

@@ -18,4 +18,8 @@ What is highlighted on this map?
 
 <div class="cmp-map" data-focus="ALB" data-pin="41.3275,19.8189" data-label="Tirana"><img src="../../media/cx-locator-albania.svg" alt="Map of Albania with Tirana marked"></div>
 
+Borders Montenegro, Kosovo, North Macedonia and Greece<br>On the Adriatic and Ionian Seas
+
+Rugged snow-capped mountains, such as the Albanian Alps, give way to fertile lowland plains along the Adriatic and Ionian coasts.
+
 <a href="https://en.wikipedia.org/wiki/Albania">Albania on Wikipedia</a>

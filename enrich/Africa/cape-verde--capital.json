@@ -1,0 +1,21 @@
+{
+  "photo": {
+    "commons": "File:Praia Harbor.jpg",
+    "alt": "The harbour of a coastal city",
+    "file": "cx-photo-praia-harbor.jpg",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Praia_Harbor.jpg",
+    "credit": "Xandu, Public domain, via Wikimedia Commons"
+  },
+  "facts": [
+    "About 159,000 people (2017)",
+    "On the southern coast of Santiago island"
+  ],
+  "worth_knowing": "Portuguese for \"beach\". It grew up around a natural harbour and gradually overtook the older Cidade Velha, whose plateau site was better protected against pirates.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Praia",
+    "https://www.wikidata.org/wiki/Q3751"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

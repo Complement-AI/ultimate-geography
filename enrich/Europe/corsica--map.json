@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Corse-photosat.jpg",
+    "alt": "Satellite photo of an island in the Mediterranean"
+  },
+  "facts": [
+    "Fourth-largest island in the Mediterranean, about 8,680 km2",
+    "About 355,000 people (2023)"
+  ],
+  "worth_knowing": "A single chain of mountains makes up two-thirds of the island. Its nearest land is the Italian island of Sardinia, immediately to the south.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Corsica",
+    "https://www.wikidata.org/wiki/Q14112"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

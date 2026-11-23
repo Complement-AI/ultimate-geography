@@ -16,4 +16,8 @@ What is highlighted on this map?
 
 ## Extra
 
+From Cape Lopez in Gabon to Cape Palmas in Liberia<br>About 755,000 km2 (IHO definition, also used by the UN and USGS)
+
+Null Island, where the Equator meets the Prime Meridian, lies in the gulf.
+
 <a href="https://en.wikipedia.org/wiki/Gulf_of_Guinea">Gulf of Guinea on Wikipedia</a>

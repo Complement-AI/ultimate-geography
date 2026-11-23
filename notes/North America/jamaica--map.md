@@ -18,4 +18,8 @@ What is highlighted on this map?
 
 <div class="cmp-map" data-focus="JAM" data-pin="17.9771,-76.7674" data-label="Kingston"><img src="../../media/cx-locator-jamaica.svg" alt="Map of Jamaica with Kingston marked"></div>
 
+About 145 km south of Cuba<br>Highest point Blue Mountain Peak
+
+It lies 191 km west of Hispaniola and 215 km southeast of the Cayman Islands.
+
 <a href="https://en.wikipedia.org/wiki/Jamaica">Jamaica on Wikipedia</a>

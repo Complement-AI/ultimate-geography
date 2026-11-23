@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Buildings in Guatemala City.jpg",
+    "alt": "Buildings in Guatemala City"
+  },
+  "facts": [
+    "About 995,000 people in the city (2025)",
+    "1,500 m up, in the Valle de la Ermita"
+  ],
+  "worth_knowing": "Nicknamed Guate. Its metropolitan area is the largest in Central America.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Guatemala_City",
+    "https://www.wikidata.org/wiki/Q1555"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

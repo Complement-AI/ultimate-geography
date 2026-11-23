@@ -18,6 +18,10 @@ Whose flag is this?
 
 <div class="cmp-map" data-focus="HKG"><img src="../../media/cx-locator-hong-kong.svg" alt="Map of Hong Kong"></div>
 
+Adopted and hoisted on 1 July 1997, at the handover from the United Kingdom to China
+
+A white five-petal Hong Kong orchid tree flower on red. The flag's design is set out in the territory's Basic Law.
+
 Special Administrative Region of China.
 
 <a href="https://en.wikipedia.org/wiki/Flag_of_Hong_Kong">Flag of Hong Kong on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Hong_Kong">Hong Kong on Wikipedia</a>

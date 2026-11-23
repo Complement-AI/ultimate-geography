@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Kuala Lumpur with Petronas Towers.jpg",
+    "alt": "Kuala Lumpur skyline with the Petronas Towers"
+  },
+  "facts": [
+    "About 2.1 million people in the city itself (2026)",
+    "Greater Kuala Lumpur has 8.81 million (2024)"
+  ],
+  "worth_knowing": "The name means \"muddy confluence\" in Malay, where two rivers join. It began around 1857 as a town serving the region's tin mines.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Kuala_Lumpur",
+    "https://www.wikidata.org/wiki/Q1865"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

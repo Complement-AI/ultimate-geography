@@ -16,4 +16,8 @@ What is the capital of <b>Brunei</b>?
 
 <div class="cmp-map" data-focus="BRN" data-pin="4.8833,114.9333" data-label="Bandar Seri Begawan"><img src="../../media/cx-locator-brunei.svg" alt="Map of Brunei with Bandar Seri Begawan marked"></div>
 
+About 72,000 people (2025 estimate), in the municipal area<br>In Brunei–Muara District, home to over 70 percent of the country's people
+
+Known as Brunei Town until 1970, when it was renamed for Omar Ali Saifuddien III, the 28th Sultan. It grew from a Malay stilt settlement on the Brunei River, the forerunner of Kampong Ayer.
+
 <a href="https://en.wikipedia.org/wiki/Bandar_Seri_Begawan">Bandar Seri Begawan on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Brunei">Brunei on Wikipedia</a>

@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Cityscape Berlin.jpg",
+    "alt": "Berlin seen from the Victory Column"
+  },
+  "facts": [
+    "About 3.9 million people (2025), the most of any city in the EU",
+    "34 m above sea level, surrounded by the state of Brandenburg"
+  ],
+  "worth_knowing": "First documented in the 13th century, at the crossing of two important trade routes. It has been the capital of Prussia, the German Empire and the Weimar Republic.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Berlin",
+    "https://www.wikidata.org/wiki/Q64"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

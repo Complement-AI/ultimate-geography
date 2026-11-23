@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:St George's Cathedral.jpg",
+    "alt": "St George's Cathedral in Georgetown"
+  },
+  "facts": [
+    "About 125,700 people (2022 census)",
+    "At the mouth of the Demerara River, on the Atlantic coast"
+  ],
+  "worth_knowing": "Nicknamed the Garden City of the Caribbean. It is known for British and Dutch colonial architecture, including the tall painted-timber St George's Cathedral and the Stabroek Market.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Georgetown%2C_Guyana",
+    "https://www.wikidata.org/wiki/Q10717"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

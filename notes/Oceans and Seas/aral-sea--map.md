@@ -16,4 +16,8 @@ What is highlighted on this map?
 
 ## Extra
 
+Formerly the fourth-largest lake in the world, about 68,000 km²<br>Between Kazakhstan and Uzbekistan
+
+Shrank after Soviet irrigation projects diverted the rivers that fed it. By 2007 it had fallen to 10% of its original size and split into four lakes.
+
 <a href="https://en.wikipedia.org/wiki/Aral_Sea">Aral Sea on Wikipedia</a>

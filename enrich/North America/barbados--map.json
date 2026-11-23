@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Barbados (50).jpg",
+    "alt": "Crane Beach on the coast"
+  },
+  "facts": [
+    "34 km long and up to 23 km wide",
+    "168 km east of Saint Lucia and Saint Vincent and the Grenadines"
+  ],
+  "worth_knowing": "The easternmost island of the Lesser Antilles, set apart in the Atlantic. It is flat compared with the Windward Islands to its west, rising gently to the central Scotland District.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Barbados",
+    "https://www.wikidata.org/wiki/Q244"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

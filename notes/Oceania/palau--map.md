@@ -18,4 +18,8 @@ What is highlighted on this map?
 
 <div class="cmp-map" data-focus="PLW" data-pin="7.4874,134.6265" data-label="Ngerulmud"><img src="../../media/cx-locator-palau.svg" alt="Map of Palau with Ngerulmud marked"></div>
 
+Neighbours at sea: the Philippines, Indonesia and the Federated States of Micronesia
+
+Koror is the most populous island, while the capital, Ngerulmud, is on the largest island, Babeldaob.
+
 <a href="https://en.wikipedia.org/wiki/Palau">Palau on Wikipedia</a>

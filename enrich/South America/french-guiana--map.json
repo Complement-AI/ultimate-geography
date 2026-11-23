@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:ISS009-E-21542 - View of French Guiana.jpg",
+    "alt": "French Guiana seen from the International Space Station"
+  },
+  "facts": [
+    "About 83,500 km² of land",
+    "Borders Suriname to the west and Brazil to the east and south"
+  ],
+  "worth_knowing": "About 98.9% of it is forest, much of it primeval rainforest. The Guiana Space Centre is the European Space Agency's main launch site, near the equator.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/French_Guiana",
+    "https://www.wikidata.org/wiki/Q3769"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

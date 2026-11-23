@@ -1,0 +1,14 @@
+{
+  "photo": {"commons": "File:Downtown Lusaka.JPG", "alt": "Downtown Lusaka"},
+  "facts": [
+    "About 2.2 million people (2022), Zambia's largest city",
+    "On the central plateau, about 1,279 m up"
+  ],
+  "worth_knowing": "It began in 1905 as a water stop on the railway from the Copperbelt mines, named after a local Lenje chief called Lusaaka. Britain moved the capital here from Livingstone in 1929 for a more central location.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Lusaka",
+    "https://www.wikidata.org/wiki/Q3881"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

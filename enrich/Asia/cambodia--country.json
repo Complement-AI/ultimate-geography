@@ -1,0 +1,16 @@
+{
+  "photo": {
+    "commons": "File:Angkor Wat W-Seite.jpg",
+    "alt": "Angkor Wat seen from its west entrance"
+  },
+  "facts": [
+    "About 17.4 million people (2023) in about 181,000 km²"
+  ],
+  "worth_knowing": "In 802 AD Jayavarman II declared himself king, uniting the warring Khmer princes under the name \"Kambuja\". Cambodia became the centre of power of the Khmer Empire.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Cambodia",
+    "https://www.wikidata.org/wiki/Q424"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

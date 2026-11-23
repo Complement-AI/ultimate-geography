@@ -18,6 +18,10 @@ Whose flag is this?
 
 <div class="cmp-map" data-focus="PYF" data-pin="-17.5334,-149.5667" data-label="Papeete"><img src="../../media/cx-locator-french-polynesia.svg" alt="Map of French Polynesia with Papeete marked"></div>
 
+Adopted in 1984, designed by a teacher with his students
+
+Red and white are traditional Polynesian colours. The canoe on the emblem carries five stars, one for each of the five island groups.
+
 Overseas territory of France.
 
 <a href="https://en.wikipedia.org/wiki/Flag_of_French_Polynesia">Flag of French Polynesia on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/French_Polynesia">French Polynesia on Wikipedia</a>

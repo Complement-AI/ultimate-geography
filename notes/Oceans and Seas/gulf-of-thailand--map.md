@@ -16,6 +16,10 @@ What is highlighted on this map?
 
 ## Extra
 
+About 320,000 km2, around 800 km long<br>Up to 560 km wide
+
+Once called the Gulf of Siam, it was widely known by that name until the country renamed itself Thailand in 1939.
+
 Also known as the Gulf of Siam.
 
 <a href="https://en.wikipedia.org/wiki/Gulf_of_Thailand">Gulf of Thailand on Wikipedia</a>

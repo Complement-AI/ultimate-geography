@@ -1,0 +1,21 @@
+{
+  "photo": {
+    "commons": "File:Satellite image of Cape Verde in December 2002.jpg",
+    "alt": "Satellite view of an island group in the ocean",
+    "file": "cx-photo-satellite-image-of-cape-verde-in-december-2002.jpg",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Satellite_image_of_Cape_Verde_in_December_2002.jpg",
+    "credit": "NASA's Visible Earth, Public domain, via Wikimedia Commons"
+  },
+  "facts": [
+    "About 4,033 km² of land in total",
+    "Highest point: Pico do Fogo"
+  ],
+  "worth_knowing": "An island country in the eastern Atlantic, in the Macaronesia group with the Azores, the Canary Islands, Madeira and the Savage Islands.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Cape_Verde",
+    "https://www.wikidata.org/wiki/Q1011"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

@@ -1,0 +1,16 @@
+{
+  "photo": {
+    "commons": "File:რიწის ტბა.jpg",
+    "alt": "The Ritsa Strict Nature Reserve"
+  },
+  "facts": [
+    "Borders Georgia and Russia",
+    "On the eastern coast of the Black Sea"
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Abkhazia",
+    "https://www.wikidata.org/wiki/Q31354462"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

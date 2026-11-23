@@ -18,4 +18,8 @@ What is highlighted on this map?
 
 <div class="cmp-map" data-focus="MUS" data-pin="-20.1666,57.5" data-label="Port Louis"><img src="../../media/cx-locator-mauritius.svg" alt="Map of Mauritius with Port Louis marked"></div>
 
+About 2,040 km², with outlying islands including Rodrigues and Agaléga<br>One of the Mascarene Islands, east of Madagascar
+
+The main island, where the population is concentrated, was the only known home of the dodo, which became extinct soon after human settlement.
+
 <a href="https://en.wikipedia.org/wiki/Mauritius">Mauritius on Wikipedia</a>

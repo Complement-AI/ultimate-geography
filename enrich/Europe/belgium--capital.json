@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Brussels view from Mont des Arts, Brussels, Belgium (cropped).jpg",
+    "alt": "View over Brussels from the Mont des Arts"
+  },
+  "facts": [
+    "About 196,000 people in the City of Brussels (2024), 70 m above sea level",
+    "Seat of principal European Union institutions, in its European Quarter"
+  ],
+  "worth_knowing": "The City of Brussels is the historical centre of the Brussels-Capital Region. Like all municipalities in Brussels, it is officially bilingual in French and Dutch.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/City_of_Brussels",
+    "https://www.wikidata.org/wiki/Q239"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

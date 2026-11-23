@@ -16,4 +16,8 @@ What is the capital of <b>Morocco</b>?
 
 <div class="cmp-map" data-focus="MAR" data-pin="34.0253,-6.8364" data-label="Rabat"><img src="../../media/cx-locator-morocco.svg" alt="Map of Morocco with Rabat marked"></div>
 
+About 516,000 people (2024), the seventh-largest city in Morocco<br>On the Atlantic coast, at the mouth of the Bou Regreg river
+
+The name comes from the Arabic ribat, an Islamic base or fortification. Rabat became the capital when Morocco gained independence in 1956.
+
 <a href="https://en.wikipedia.org/wiki/Rabat">Rabat on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Morocco">Morocco on Wikipedia</a>

@@ -1,0 +1,14 @@
+{
+  "photo": null,
+  "facts": [
+    "Borders Costa Rica and Colombia",
+    "Highest point Volcán Barú"
+  ],
+  "worth_knowing": "It lies at the southern end of Central America, bordering South America, with the Caribbean Sea to the north and the Pacific Ocean to the south.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Panama",
+    "https://www.wikidata.org/wiki/Q804"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

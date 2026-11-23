@@ -1,0 +1,14 @@
+{
+  "photo": null,
+  "facts": [
+    "More than 330 islands and more than 500 islets",
+    "About 2,000 km north-northeast of New Zealand"
+  ],
+  "worth_knowing": "Most of the islands were formed by volcanic activity, starting around 150 million years ago. Some geothermal activity still occurs on Vanua Levu and Taveuni.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Fiji",
+    "https://www.wikidata.org/wiki/Q712"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

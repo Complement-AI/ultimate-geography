@@ -1,0 +1,11 @@
+{
+  "photo": {"commons": "File:Turks & Caicos (12173672765).jpg", "alt": "A white sand beach and shallow turquoise water with palm trees behind"},
+  "facts": [
+    "Two island groups, the larger Caicos Islands and the smaller Turks Islands",
+    "About 52,000 people (2025 estimate) on 430 km²"
+  ],
+  "worth_knowing": "Caicos comes from the Lucayan caya hico, \"string of islands\". The Turks Islands are named after the Turk's cap cactus, whose red top resembles a fez.",
+  "sources": ["https://en.wikipedia.org/wiki/Turks_and_Caicos_Islands", "https://www.wikidata.org/wiki/Q18221"],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

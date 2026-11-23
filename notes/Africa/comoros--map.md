@@ -18,4 +18,8 @@ What is highlighted on this map?
 
 <div class="cmp-map" data-focus="COM" data-pin="-11.7042,43.2402" data-label="Moroni"><img src="../../media/cx-locator-comoros.svg" alt="Map of Comoros with Moroni marked"></div>
 
+Three main islands: Grande Comore, Anjouan and Mohéli
+
+An archipelago at the northern end of the Mozambique Channel in the Indian Ocean. The islands are all volcanic.
+
 <a href="https://en.wikipedia.org/wiki/Comoros">Comoros on Wikipedia</a>

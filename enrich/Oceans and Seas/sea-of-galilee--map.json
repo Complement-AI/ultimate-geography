@@ -1,0 +1,14 @@
+{
+  "photo": null,
+  "facts": [
+    "About 167 km2, 21 km long and 13 km wide",
+    "Maximum depth about 43 m"
+  ],
+  "worth_knowing": "The lowest freshwater lake on Earth, at 209 to 215 m below sea level.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Sea_of_Galilee",
+    "https://www.wikidata.org/wiki/Q126982"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

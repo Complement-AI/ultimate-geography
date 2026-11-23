@@ -16,6 +16,10 @@ What is highlighted on this map?
 
 ## Extra
 
+About 58,500 people (June 2023) on 34 km²<br>The southern 44% of the island of Saint Martin
+
+Before 10 October 2010 it was an island territory of the Netherlands Antilles. In September 2017 Category 5 Hurricane Irma caused widespread damage.
+
 Constituent country of the Kingdom of the Netherlands.
 
 <a href="https://en.wikipedia.org/wiki/Sint_Maarten">Sint Maarten on Wikipedia</a>

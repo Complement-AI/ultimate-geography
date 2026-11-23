@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:BHA Nassau, Paradise Island, Atlantis Bridge 001.jpg",
+    "alt": "The Atlantis bridge and Paradise Island"
+  },
+  "facts": [
+    "About 228,000 people (2025)",
+    "On New Providence, home to 74% of the country's people"
+  ],
+  "worth_knowing": "Named in honour of William III of England, Prince of Orange-Nassau. It was historically considered a stronghold of pirates.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Nassau%2C_Bahamas",
+    "https://www.wikidata.org/wiki/Q2467"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

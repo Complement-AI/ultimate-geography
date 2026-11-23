@@ -1,0 +1,16 @@
+{
+  "photo": {
+    "commons": "File:Atlantic Ocean in Western Sahara.jpg",
+    "alt": "The Atlantic coast of Western Sahara"
+  },
+  "facts": [
+    "About 600,000 inhabitants, the most sparsely populated territory in Africa",
+    "Mostly desert flatlands"
+  ],
+  "worth_knowing": "A UN-designated non-self-governing territory, sometimes called Africa's last colony. Its status is disputed.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Western_Sahara"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

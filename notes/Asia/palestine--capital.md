@@ -18,6 +18,10 @@ What is the capital of <b>Palestine</b>?
 
 <div class="cmp-map" data-focus="PSX"><img src="../../media/cx-locator-palestine.svg" alt="Map of Palestine with Jerusalem marked"></div>
 
+About 1.05 million people (2024)<br>754 m up, on a plateau in the Judaean Mountains
+
+Holy to Judaism, Christianity and Islam, and one of the oldest cities in the world. Both Israel and Palestine claim it as their capital; neither claim is widely recognised internationally.
+
 Disputed; claimed by Israel; Ramallah is the administrative centre.
 
 <a href="https://en.wikipedia.org/wiki/Jerusalem">Jerusalem on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/State_of_Palestine">State of Palestine on Wikipedia</a>

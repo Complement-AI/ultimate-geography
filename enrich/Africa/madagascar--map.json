@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Satellite image of Madagascar in September 2003.jpg",
+    "alt": "Satellite view of a large island"
+  },
+  "facts": [
+    "About 587,295 km²",
+    "Off the southeastern coast of Africa"
+  ],
+  "worth_knowing": "It split from Africa around 180 million years ago and from the Indian subcontinent about 90 million years ago, leaving its wildlife isolated.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Madagascar",
+    "https://www.wikidata.org/wiki/Q1019"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

@@ -16,4 +16,8 @@ tags  = ["oceania", "sovereign_state", "country"]
 
 <div class="cmp-map" data-focus="FSM" data-pin="6.9166,158.15" data-label="Palikir"><img src="../../media/cx-locator-federated-states-of-micronesia.svg" alt="Map of Federated States of Micronesia with Palikir marked"></div>
 
+Four states: Yap, Chuuk, Pohnpei and Kosrae<br>Highest point: Dolohmwar
+
+It became a sovereign state on 3 November 1986, under a Compact of Free Association with the United States. Before that it was part of the US-administered Trust Territory of the Pacific Islands.
+
 <a href="https://en.wikipedia.org/wiki/Federated_States_of_Micronesia">Federated States of Micronesia on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Palikir">Palikir on Wikipedia</a>

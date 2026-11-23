@@ -1,0 +1,21 @@
+{
+  "photo": {
+    "commons": "File:Moroni harbour (2).jpg",
+    "alt": "A harbour with boats",
+    "file": "cx-photo-moroni-harbour-2.jpg",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Moroni_harbour_(2).jpg",
+    "credit": "Woodlouse, CC BY-SA 2.0, via Wikimedia Commons"
+  },
+  "facts": [
+    "About 85,000 people (2025)",
+    "Capital of the island of Ngazidja, the largest of the three main islands"
+  ],
+  "worth_knowing": "The name means \"at the river\" in Shingazidja. Written evidence of settlement in the Comoros goes back to the 7th century, but when Moroni itself was first settled is not known.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Moroni,_Comoros",
+    "https://www.wikidata.org/wiki/Q3901"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

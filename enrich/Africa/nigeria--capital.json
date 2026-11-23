@@ -1,0 +1,16 @@
+{
+  "photo": {
+    "commons": "File:The National Assembly Globe.jpg",
+    "alt": "The domed National Assembly building"
+  },
+  "facts": [
+    "About 1.7 million people (2022)",
+    "At the geographic midpoint of the country, 360 m up"
+  ],
+  "worth_knowing": "It replaced Lagos as the capital on 12 December 1991. Its geography is defined by Aso Rock, a 400-metre monolith left by water erosion.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Abuja"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

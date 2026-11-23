@@ -1,0 +1,14 @@
+{
+  "photo": null,
+  "facts": [
+    "More than 13,000 islands",
+    "Highest point is Puncak Jaya"
+  ],
+  "worth_knowing": "The world's largest archipelagic state, spread over Sumatra, Java, Sulawesi and parts of Borneo and New Guinea. Sea and air transport connect the islands.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Indonesia",
+    "https://www.wikidata.org/wiki/Q252"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

@@ -1,0 +1,14 @@
+{
+  "photo": null,
+  "facts": [
+    "About 1.29 million people in the city proper (2023 census)",
+    "On the northeastern bank of the Río de la Plata"
+  ],
+  "worth_knowing": "A Portuguese garrison was set up here in 1723 and expelled by the Spanish soldier Bruno Mauricio de Zabala in 1724. The city hosts Mercosur's headquarters.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Montevideo",
+    "https://www.wikidata.org/wiki/Q1335"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

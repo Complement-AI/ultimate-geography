@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Guam satellite photo map.jpg",
+    "alt": "Satellite view of Guam"
+  },
+  "facts": [
+    "About 540 km², the largest island in Micronesia",
+    "Most populous village: Dededo"
+  ],
+  "worth_knowing": "An organized, unincorporated territory of the United States. The US captured it from Spain on 21 June 1898 during the Spanish-American War.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Guam",
+    "https://www.wikidata.org/wiki/Q16635"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

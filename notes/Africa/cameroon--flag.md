@@ -18,6 +18,10 @@ Whose flag is this?
 
 <div class="cmp-map" data-focus="CMR" data-pin="3.8686,11.5147" data-label="Yaoundé"><img src="../../media/cx-locator-cameroon.svg" alt="Map of Cameroon with Yaoundé marked"></div>
 
+Plain tricolour adopted on 26 October 1957, star added on 20 May 1975<br>From 1961 to 1975 it had two gold stars on the green stripe
+
+Green, red and yellow are the pan-African colours, and Cameroon was the second state to adopt them. The star on the red centre stripe is called "the star of unity".
+
 Similar flags: Senegal (green/yellow/red, green star)
 
 <a href="https://en.wikipedia.org/wiki/Flag_of_Cameroon">Flag of Cameroon on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Cameroon">Cameroon on Wikipedia</a>

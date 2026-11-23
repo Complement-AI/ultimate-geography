@@ -16,6 +16,10 @@ tags  = ["oceania", "country"]
 
 <div class="cmp-map" data-focus="GUM"><img src="../../media/cx-locator-guam.svg" alt="Map of Guam with Hagåtña marked"></div>
 
+About 540 km², the largest island in Micronesia<br>Most populous village: Dededo
+
+An organized, unincorporated territory of the United States. The US captured it from Spain on 21 June 1898 during the Spanish-American War.
+
 Unincorporated territory of the United States.
 
 <a href="https://en.wikipedia.org/wiki/Guam">Guam on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Hag%C3%A5t%C3%B1a,_Guam">Hagåtña, Guam on Wikipedia</a>

@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Lake Anosy, Central Antananarivo, Capital of Madagascar, Photo by Sascha Grabow.jpg",
+    "alt": "A lake in the middle of a city"
+  },
+  "facts": [
+    "About 1.28 million people (2018)",
+    "1,276 m up, in the centre of the island"
+  ],
+  "worth_knowing": "The highest national capital among island countries. Historically the capital of the Merina people, it has been the country's largest population centre since at least the 18th century.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Antananarivo",
+    "https://www.wikidata.org/wiki/Q3915"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

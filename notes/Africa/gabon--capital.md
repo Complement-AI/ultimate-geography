@@ -16,4 +16,8 @@ What is the capital of <b>Gabon</b>?
 
 <div class="cmp-map" data-focus="GAB" data-pin="0.3854,9.458" data-label="Libreville"><img src="../../media/cx-locator-gabon.svg" alt="Map of Gabon with Libreville marked"></div>
 
+About 899,000 people (2025)<br>On the Gabon Estuary, near the Gulf of Guinea
+
+At independence in 1960 it was a trading post and minor administrative centre of 32,000 people. It now holds one-third of the national population.
+
 <a href="https://en.wikipedia.org/wiki/Libreville">Libreville on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Gabon">Gabon on Wikipedia</a>

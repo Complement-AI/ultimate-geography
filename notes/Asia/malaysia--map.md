@@ -18,4 +18,8 @@ What is highlighted on this map?
 
 <div class="cmp-map" data-focus="MYS" data-pin="3.1686,101.698" data-label="Kuala Lumpur"><img src="../../media/cx-locator-malaysia.svg" alt="Map of Malaysia with Kuala Lumpur marked"></div>
 
+Borders Thailand, Indonesia and Brunei by land<br>Southernmost point of mainland Asia at Tanjung Piai
+
+Two separate parts, divided by the South China Sea. Peninsular Malaysia holds 40% of the land area and extends 740 km from north to south; the Straits of Johor separate it from Singapore.
+
 <a href="https://en.wikipedia.org/wiki/Malaysia">Malaysia on Wikipedia</a>

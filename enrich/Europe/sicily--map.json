@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:20101207-etna-full (14213006863).jpg",
+    "alt": "Mount Etna rising above Sicily"
+  },
+  "facts": [
+    "About 5 million people (2019) in 25,711 km²",
+    "Separated from Calabria by the Strait of Messina"
+  ],
+  "worth_knowing": "The largest and most populous island in the Mediterranean Sea. Mount Etna, the tallest active volcano in Europe, is its most prominent landmark.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Sicily",
+    "https://www.wikidata.org/wiki/Q1460"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

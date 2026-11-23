@@ -16,4 +16,8 @@ What is highlighted on this map?
 
 ## Extra
 
+About 215,000 km², up to 2,639 m deep<br>Dotted with islands, including Crete and Rhodes
+
+An arm of the Mediterranean between Greece and Turkey. To the north the Dardanelles lead to the Marmara Sea, and the Bosphorus beyond it to the Black Sea.
+
 <a href="https://en.wikipedia.org/wiki/Aegean_Sea">Aegean Sea on Wikipedia</a>

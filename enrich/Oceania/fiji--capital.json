@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Suva, Fiji 52.jpg",
+    "alt": "Suva, Fiji"
+  },
+  "facts": [
+    "About 94,000 people (2017 census), Fiji's most populous settlement",
+    "On a hilly peninsula in the southeast of Viti Levu"
+  ],
+  "worth_knowing": "In 1877 the capital moved here from Levuka, the main European colonial settlement, because of Levuka's restrictive geography. Suva is also Fiji's major port.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Suva",
+    "https://www.wikidata.org/wiki/Q38807"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

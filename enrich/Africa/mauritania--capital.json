@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:15-Nouakchott-eH-R0058185.jpg",
+    "alt": "Central Nouakchott"
+  },
+  "facts": [
+    "About 1.45 million people (2023)",
+    "On the Atlantic coast, 7 m above sea level"
+  ],
+  "worth_knowing": "A coastal village chosen as the capital as Mauritania prepared for independence, with building starting in 1958. It was designed for 15,000 people and grew fast from the 1970s as drought drove people in.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Nouakchott",
+    "https://www.wikidata.org/wiki/Q3688"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

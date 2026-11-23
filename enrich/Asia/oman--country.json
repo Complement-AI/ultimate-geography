@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Nakhal Fort Sultanate of Oman 001.jpg",
+    "alt": "Nakhal Fort, a stone fort in Oman"
+  },
+  "facts": [
+    "About 5.1 million people (2026)",
+    "Third-largest country on the Arabian Peninsula"
+  ],
+  "worth_knowing": "Ruled continuously by the Al Bu Said dynasty since 1744. In the 19th century its influence reached across the Strait of Hormuz to what later became Iran and Pakistan, and south to Zanzibar.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Oman",
+    "https://www.wikidata.org/wiki/Q842"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

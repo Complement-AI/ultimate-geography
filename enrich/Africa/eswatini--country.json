@@ -1,0 +1,14 @@
+{
+  "photo": null,
+  "facts": [
+    "About 1.23 million people (2023)",
+    "Second-smallest country in continental Africa"
+  ],
+  "worth_knowing": "Formerly Swaziland. In April 2018 the king changed the official name to Eswatini, the name commonly used in the Swazi language.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Eswatini",
+    "https://www.wikidata.org/wiki/Q1050"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

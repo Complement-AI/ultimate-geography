@@ -18,4 +18,8 @@ Whose flag is this?
 
 <div class="cmp-map" data-focus="LCA" data-pin="14.002,-61.0" data-label="Castries"><img src="../../media/cx-locator-saint-lucia.svg" alt="Map of Saint Lucia with Castries marked"></div>
 
+Adopted in 1967
+
+It replaced the British Blue Ensign defaced with the colony's arms. A golden triangle sits in front of a white-edged black triangle on a cerulean blue field.
+
 <a href="https://en.wikipedia.org/wiki/Flag_of_Saint_Lucia">Flag of Saint Lucia on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Saint_Lucia">Saint Lucia on Wikipedia</a>

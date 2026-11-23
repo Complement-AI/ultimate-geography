@@ -16,6 +16,10 @@ What is highlighted on this map?
 
 ## Extra
 
+A semi-autonomous region of Tanzania, in the Indian Ocean<br>About 1.5 million people (2012) in 2,461 km²
+
+Two large islands, Unguja and Pemba, plus many small ones. Famous worldwide for its cloves and other spices, the archipelago is sometimes called the Spice Islands.
+
 Semi-autonomous region of Tanzania.
 
 <a href="https://en.wikipedia.org/wiki/Zanzibar">Zanzibar on Wikipedia</a>

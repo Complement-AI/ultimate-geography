@@ -16,4 +16,8 @@ What is the capital of <b>Togo</b>?
 
 <div class="cmp-map" data-focus="TGO" data-pin="6.1339,1.2208" data-label="Lomé"><img src="../../media/cx-locator-togo.svg" alt="Map of Togo with Lomé marked"></div>
 
+About 837,000 people in the city, 2.19 million in the metropolitan area (2022 census)<br>On the Gulf of Guinea, at the southwest corner of the country
+
+The city extends to the Ghana border, a few hundred metres west of the centre. It is Togo's chief port, exporting coffee, cocoa, copra and oil palm kernels.
+
 <a href="https://en.wikipedia.org/wiki/Lom%C3%A9">Lomé on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Togo">Togo on Wikipedia</a>

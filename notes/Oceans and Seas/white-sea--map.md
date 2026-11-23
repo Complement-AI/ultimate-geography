@@ -16,4 +16,8 @@ What is highlighted on this map?
 
 ## Extra
 
+About 90,800 km², an inlet of the Barents Sea<br>Deepest part is the Kandalaksha Gulf, at 340 m
+
+One of four seas named after common colour terms. The port of Arkhangelsk on it was for much of Russia's history its main centre of international maritime trade.
+
 <a href="https://en.wikipedia.org/wiki/White_Sea">White Sea on Wikipedia</a>

@@ -18,6 +18,10 @@ Whose flag is this?
 
 <div class="cmp-map" data-focus="COD" data-pin="-4.3278,15.313" data-label="Kinshasa"><img src="../../media/cx-locator-democratic-republic-of-the-congo.svg" alt="Map of Democratic Republic of the Congo with Kinshasa marked"></div>
 
+Adopted in February 2006
+
+Sky blue stands for peace, red for the blood of the country's martyrs, yellow for its wealth and the star for the future. The diagonal stripe is rare on national flags.
+
 Formerly Zaire.
 
 <a href="https://en.wikipedia.org/wiki/Flag_of_the_Democratic_Republic_of_the_Congo">Flag of the Democratic Republic of the Congo on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Democratic_Republic_of_the_Congo">Democratic Republic of the Congo on Wikipedia</a>

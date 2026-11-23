@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Baku 004 1953c.jpg",
+    "alt": "View of the city from the seafront boulevard"
+  },
+  "facts": [
+    "About 2.3 million people (2021)",
+    "28 m below sea level, the lowest-lying national capital in the world"
+  ],
+  "worth_knowing": "Its nickname is the \"City of Winds\". The first oil well here was drilled in 1846, in the Bibi-Heybat suburb.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Baku",
+    "https://www.wikidata.org/wiki/Q9248"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

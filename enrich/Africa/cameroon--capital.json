@@ -1,0 +1,21 @@
+{
+  "photo": {
+    "commons": "File:Yaoundé view from central market (2014).JPG",
+    "alt": "The centre of Yaoundé seen from the rooftop of the Central Market",
+    "file": "cx-photo-yaound-view-from-central-market-2014.jpg",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Yaound%C3%A9_view_from_central_market_(2014).JPG",
+    "credit": "Bdx, CC BY-SA 4.0, via Wikimedia Commons"
+  },
+  "facts": [
+    "About 2.4 million people (2012), second to the port city of Douala",
+    "About 750 m above sea level, in the Centre Region"
+  ],
+  "worth_knowing": "It began as a German trading base for rubber and ivory, called Jaunde after the local Yaunde or Ewondo people. France chose it as capital of its mandate in 1922.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Yaoundé",
+    "https://www.wikidata.org/wiki/Q3808"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Vista aérea de la Plaza del Congreso 10.jpg",
+    "alt": "An aerial view of Plaza del Congreso in Buenos Aires"
+  },
+  "facts": [
+    "About 3.1 million people in the city proper (2022)",
+    "On the southwest shore of the Río de la Plata"
+  ],
+  "worth_knowing": "Pedro de Mendoza named it Holy Mary of the Fair Winds, after the Virgin of Buen Ayre, whom sailors venerated and called on for fair winds.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Buenos_Aires",
+    "https://www.wikidata.org/wiki/Q1486"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

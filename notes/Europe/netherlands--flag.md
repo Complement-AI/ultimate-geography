@@ -18,6 +18,10 @@ Whose flag is this?
 
 <div class="cmp-map" data-focus="NLD" data-pin="52.3519,4.9147" data-label="Amsterdam"><img src="../../media/cx-locator-netherlands.svg" alt="Map of Netherlands with Amsterdam marked"></div>
 
+Official status reaffirmed by royal decree on 19 February 1937
+
+The oldest tricolour in continuous use, it grew from the orange-white-blue Prince's Flag of the late 16th century. It later inspired the Russian flag and, after 1789, the French tricolour.
+
 Similar flags: Luxembourg (lighter blue)
 
 <a href="https://en.wikipedia.org/wiki/Flag_of_the_Netherlands">Flag of the Netherlands on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Netherlands">Netherlands on Wikipedia</a>

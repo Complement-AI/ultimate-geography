@@ -1,0 +1,14 @@
+{
+  "photo": null,
+  "facts": [
+    "Smallest country by area and least populous",
+    "Official languages: Latin and Italian"
+  ],
+  "worth_knowing": "An absolute monarchy under the pope, who is elected by the College of Cardinals. The modern state was established by the Lateran Treaty of 1929.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Vatican_City",
+    "https://www.wikidata.org/wiki/Q237"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

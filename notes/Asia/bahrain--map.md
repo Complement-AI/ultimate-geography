@@ -18,4 +18,8 @@ What is highlighted on this map?
 
 <div class="cmp-map" data-focus="BHR" data-pin="26.2361,50.5831" data-label="Manama"><img src="../../media/cx-locator-bahrain.svg" alt="Map of Bahrain with Manama marked"></div>
 
+A small archipelago of 33 natural and 50 artificial islands<br>Linked to Saudi Arabia by the King Fahd Causeway
+
+Generally flat and arid: a low desert plain rising to a low central escarpment, topped by the 134 m Mountain of Smoke. Bahrain Island makes up around 80 percent of the land.
+
 <a href="https://en.wikipedia.org/wiki/Bahrain">Bahrain on Wikipedia</a>

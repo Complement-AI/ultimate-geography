@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Noravank panorama.jpg",
+    "alt": "The Noravank monastery in the mountainous Vayots Dzor region"
+  },
+  "facts": [
+    "About 2.9 million people (2017) in 29,743 km²",
+    "Highest point: Mount Aragats"
+  ],
+  "worth_knowing": "In AD 301 it became the first state in the world to adopt Christianity as its official religion.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Armenia",
+    "https://www.wikidata.org/wiki/Q399"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

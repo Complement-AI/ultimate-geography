@@ -1,0 +1,14 @@
+{
+  "photo": null,
+  "facts": [
+    "About 22 million people (2023)",
+    "Formerly known as Ceylon"
+  ],
+  "worth_knowing": "An island with a documented history of over 3,000 years. About 74% of its people are Sinhalese, who speak Sinhala, and about 15% are Tamils, who speak Tamil.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Sri_Lanka",
+    "https://www.wikidata.org/wiki/Q854"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

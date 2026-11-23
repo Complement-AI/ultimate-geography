@@ -16,4 +16,8 @@ What is the capital of <b>Singapore</b>?
 
 <div class="cmp-map" data-focus="SGP" data-pin="1.295,103.8539" data-label="Singapore"><img src="../../media/cx-locator-singapore.svg" alt="Map of Singapore with Singapore marked"></div>
 
+About 5.87 million people (2021)<br>About 137 km north of the equator
+
+Both a city and a country. Known early on as the maritime emporium Temasek, its contemporary era began in 1819, when Stamford Raffles established it as a British trading post.
+
 <a href="https://en.wikipedia.org/wiki/Singapore">Singapore on Wikipedia</a>

@@ -18,4 +18,8 @@ What is highlighted on this map?
 
 <div class="cmp-map" data-focus="FIN" data-pin="60.1775,24.9322" data-label="Helsinki"><img src="../../media/cx-locator-finland.svg" alt="Map of Finland with Helsinki marked"></div>
 
+Borders Sweden, Norway and Russia<br>About 338,000 km2
+
+The Gulf of Bothnia lies to the west and the Gulf of Finland to the south, opposite Estonia. The Finnish Lakeland, around Tampere, Jyväskylä and Kuopio, holds the most lakes.
+
 <a href="https://en.wikipedia.org/wiki/Finland">Finland on Wikipedia</a>

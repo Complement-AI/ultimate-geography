@@ -16,4 +16,8 @@ tags  = ["africa", "sovereign_state", "country"]
 
 <div class="cmp-map" data-focus="COG" data-pin="-4.2572,15.2827" data-label="Brazzaville"><img src="../../media/cx-locator-republic-of-the-congo.svg" alt="Map of Republic of the Congo with Brazzaville marked"></div>
 
+About 6.3 million people (2024)<br>About 342,000 km2
+
+Often called Congo-Brazzaville. Its capital faces Kinshasa, the capital of the Democratic Republic of the Congo, across the Congo River.
+
 <a href="https://en.wikipedia.org/wiki/Republic_of_the_Congo">Republic of the Congo on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Brazzaville">Brazzaville on Wikipedia</a>

@@ -16,4 +16,8 @@ tags  = ["africa", "east_africa", "sovereign_state", "country"]
 
 <div class="cmp-map" data-focus="SYC" data-pin="-4.6166,55.45" data-label="Victoria"><img src="../../media/cx-locator-seychelles.svg" alt="Map of Seychelles with Victoria marked"></div>
 
+About 100,600 people (2022), the least populated sovereign African country<br>Highest point: Morne Seychellois
+
+The smallest country in Africa, yet it has the highest nominal per capita GDP and Human Development Index ranking of any African country.
+
 <a href="https://en.wikipedia.org/wiki/Seychelles">Seychelles on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Victoria,_Seychelles">Victoria, Seychelles on Wikipedia</a>

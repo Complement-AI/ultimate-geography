@@ -18,4 +18,8 @@ What is highlighted on this map?
 
 <div class="cmp-map" data-focus="CAN" data-pin="45.4186,-75.702" data-label="Ottawa"><img src="../../media/cx-locator-canada.svg" alt="Map of Canada with Ottawa marked"></div>
 
+Borders the United States, the longest international land border<br>Ten provinces and three territories
+
+Its provinces and territories reach from the Atlantic Ocean to the Pacific and north into the Arctic Ocean, giving it the longest coastline of any country.
+
 <a href="https://en.wikipedia.org/wiki/Canada">Canada on Wikipedia</a>

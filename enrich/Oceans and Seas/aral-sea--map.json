@@ -1,0 +1,14 @@
+{
+  "photo": null,
+  "facts": [
+    "Formerly the fourth-largest lake in the world, about 68,000 km²",
+    "Between Kazakhstan and Uzbekistan"
+  ],
+  "worth_knowing": "Shrank after Soviet irrigation projects diverted the rivers that fed it. By 2007 it had fallen to 10% of its original size and split into four lakes.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Aral_Sea",
+    "https://www.wikidata.org/wiki/Q35883"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

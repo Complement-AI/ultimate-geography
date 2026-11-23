@@ -1,0 +1,16 @@
+{
+  "photo": {
+    "commons": "File:Beirutcity.jpg",
+    "alt": "Beirut's coastline and buildings"
+  },
+  "facts": [
+    "About 2.4 million people (2023)"
+  ],
+  "worth_knowing": "Inhabited for more than 5,000 years, one of the oldest cities in the world and an important seaport. It was rebuilt after the civil war, the 2006 war and the 2020 port explosion.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Beirut",
+    "https://www.wikidata.org/wiki/Q3820"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

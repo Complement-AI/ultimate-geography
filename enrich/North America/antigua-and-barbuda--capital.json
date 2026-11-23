@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:St Johns Antigua 2012.jpg",
+    "alt": "View of downtown St. John's"
+  },
+  "facts": [
+    "About 21,000 people (2025), the country's largest city",
+    "On St. John's Harbour, in the west of Antigua"
+  ],
+  "worth_knowing": "It was laid out after a French invasion in 1666, chosen for its strategic harbour. It later overtook Falmouth as the island's dominant town.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/St._John's,_Antigua_and_Barbuda",
+    "https://www.wikidata.org/wiki/Q36262"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Hanoi Temple of Literature.jpg",
+    "alt": "A gate of the Temple of Literature"
+  },
+  "facts": [
+    "Borders China, Laos and Cambodia",
+    "Area of about 331,000 km²"
+  ],
+  "worth_knowing": "At the eastern edge of mainland Southeast Asia, along the South China Sea to the east and the Gulf of Thailand to the southwest. Highest point: Fansipan.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Vietnam",
+    "https://www.wikidata.org/wiki/Q881"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

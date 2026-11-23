@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Bagana Volcano.jpg",
+    "alt": "The southwest slopes of a volcano"
+  },
+  "facts": [
+    "About 367,000 people (2024) in 9,384 km²",
+    "Main islands: Bougainville Island and Buka Island"
+  ],
+  "worth_knowing": "Geographically it belongs to the Solomon Islands archipelago, but politically it is separate from the country of Solomon Islands: it is an autonomous region of Papua New Guinea.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Autonomous_Region_of_Bougainville",
+    "https://www.wikidata.org/wiki/Q18826"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

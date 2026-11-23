@@ -1,0 +1,14 @@
+{
+  "photo": null,
+  "facts": [
+    "Highest point: Aconcagua, 6,959 m",
+    "Neighbours: Chile, Bolivia, Paraguay, Brazil and Uruguay"
+  ],
+  "worth_knowing": "It shares the Southern Cone with Chile to the west. Aconcagua, in Mendoza province, is also the highest point in the Southern and Western Hemispheres.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Argentina",
+    "https://www.wikidata.org/wiki/Q414"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

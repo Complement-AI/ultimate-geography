@@ -18,4 +18,8 @@ Whose flag is this?
 
 <div class="cmp-map" data-focus="KNA" data-pin="17.302,-62.717" data-label="Basseterre"><img src="../../media/cx-locator-saint-kitts-and-nevis.svg" alt="Map of Saint Kitts and Nevis with Basseterre marked"></div>
 
+Adopted in 1983, at independence
+
+It uses the colours of the Pan-Africanist movement, though the symbolism is interpreted differently. A yellow-edged black band with two white stars runs diagonally between a green and a red triangle.
+
 <a href="https://en.wikipedia.org/wiki/Flag_of_Saint_Kitts_and_Nevis">Flag of Saint Kitts and Nevis on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Saint_Kitts_and_Nevis">Saint Kitts and Nevis on Wikipedia</a>

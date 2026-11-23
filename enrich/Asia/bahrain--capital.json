@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Bahrain World trade Center .jpg",
+    "alt": "The Bahrain World Trade Center towers in Manama"
+  },
+  "facts": [
+    "About 743,000 people (2025 estimate)",
+    "On the northeastern coast of Bahrain Island, on the Persian Gulf"
+  ],
+  "worth_knowing": "After 1602 it became a regional centre for commerce and pearling. It was declared the capital in 1971, when Bahrain gained independence from British protection.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Manama",
+    "https://www.wikidata.org/wiki/Q3882"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

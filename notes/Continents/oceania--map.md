@@ -16,6 +16,10 @@ What is highlighted on this map?
 
 ## Extra
 
+About 9 million km² of land, the smallest continent<br>About 44.4 million people (2022)
+
+Its regions are Australasia, Melanesia, Micronesia and Polynesia. Outside the English-speaking world it is generally counted as a continent, with mainland Australia as its landmass.
+
 World region covering the Australian continent and most of the islands in the Pacific Ocean.
 
 <a href="https://en.wikipedia.org/wiki/Oceania">Oceania on Wikipedia</a>

@@ -147,11 +147,17 @@ def wiki_line(links: dict, direction: str) -> str:
     return " ".join(anchors)
 
 
+def photo_ready(photo: dict | None) -> bool:
+    """A photo is used once enrich_photos.py has downloaded it and recorded its license."""
+    return bool(photo and photo.get("file") and photo.get("license") and photo.get("source")
+                and (ENRICH / "media" / photo["file"]).exists())
+
+
 def enrichment_block(card: dict) -> str:
     """Render an enrich/ entry as the top of Extra: photo, facts, one paragraph."""
     parts = []
     photo = card.get("photo")
-    if photo:
+    if photo_ready(photo):
         parts.append(f"![{photo['alt']}](../../media/{photo['file']})")
         parts.append(f"<i>Photo: {photo['credit']}</i>")
     if card.get("facts"):
@@ -181,6 +187,7 @@ def main(upstream: Path) -> None:
 
     used_media: set[str] = set()
     photos: dict[str, dict] = {}
+    pending_photos: list[str] = []
     locators: set[str] = set()
     map_index_path = ENRICH / "maps" / "index.json"
     map_index = json.loads(map_index_path.read_text(encoding="utf-8")) if map_index_path.exists() else {}
@@ -218,8 +225,10 @@ def main(upstream: Path) -> None:
             extra = enrichment(folder.name, slug, direction)
             if extra:
                 enriched_files.add(ENRICH / folder.name / f"{slug}--{direction}.json")
-                if extra.get("photo"):
+                if photo_ready(extra.get("photo")):
                     photos[extra["photo"]["file"]] = extra["photo"]
+                elif extra.get("photo"):
+                    pending_photos.append(extra["photo"].get("commons"))
                 def with_extra(body: str) -> str:
                     is_map = body.startswith("![Map of") or body.startswith('<div class="cmp-map"')
                     head, sep, rest = body.partition("\n\n") if is_map else ("", "", body)
@@ -312,7 +321,8 @@ def main(upstream: Path) -> None:
 
     total = sum(counts.values())
     print(f"{len(rows)} entities -> {total} notes {counts}; {len(used_media)} media files; "
-          f"{len(enriched_files)} enriched notes, {len(photos)} photos, {len(locators)} locator maps")
+          f"{len(enriched_files)} enriched notes, {len(photos)} photos, {len(locators)} locator maps"
+          + (f"; {len(pending_photos)} photos not downloaded yet (left out)" if pending_photos else ""))
 
 
 if __name__ == "__main__":

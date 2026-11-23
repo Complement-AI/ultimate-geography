@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Palestine - 20190204-DSC 0007.jpg",
+    "alt": "A landscape in the West Bank"
+  },
+  "facts": [
+    "Made up of the West Bank and the Gaza Strip",
+    "About 5.4 million people (2026)"
+  ],
+  "worth_knowing": "Lies between the Mediterranean Sea and the Jordan River in the Southern Levant. Its proclaimed capital is Jerusalem, while Ramallah serves as its de facto administrative center.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/State_of_Palestine",
+    "https://www.wikidata.org/wiki/Q219060"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

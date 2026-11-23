@@ -16,6 +16,10 @@ tags  = ["africa", "sovereign_state", "country"]
 
 <div class="cmp-map" data-focus="COD" data-pin="-4.3278,15.313" data-label="Kinshasa"><img src="../../media/cx-locator-democratic-republic-of-the-congo.svg" alt="Map of Democratic Republic of the Congo with Kinshasa marked"></div>
 
+About 106 million people (2023)<br>Second-largest country in Africa by land area
+
+The most populous Francophone country in the world. It has over 200 indigenous languages, of which Lingala is the most widely spoken.
+
 Formerly Zaire.
 
 <a href="https://en.wikipedia.org/wiki/Democratic_Republic_of_the_Congo">Democratic Republic of the Congo on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Kinshasa">Kinshasa on Wikipedia</a>

@@ -18,4 +18,8 @@ What is highlighted on this map?
 
 <div class="cmp-map" data-focus="SUR" data-pin="5.835,-55.167" data-label="Paramaribo"><img src="../../media/cx-locator-suriname.svg" alt="Map of Suriname with Paramaribo marked"></div>
 
+Neighbours: French Guiana, Brazil and Guyana, with the Atlantic to the north
+
+It lies slightly north of the equator, on the northern coast of South America.
+
 <a href="https://en.wikipedia.org/wiki/Suriname">Suriname on Wikipedia</a>

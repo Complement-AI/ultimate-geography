@@ -18,4 +18,8 @@ Whose flag is this?
 
 <div class="cmp-map" data-focus="JOR" data-pin="31.952,35.9314" data-label="Amman"><img src="../../media/cx-locator-jordan.svg" alt="Map of Jordan with Amman marked"></div>
 
+Officially adopted on 16 April 1928
+
+Based on the 1916 flag of the Arab Revolt against the Ottoman Empire. The red triangle represents the Hashemite dynasty and the Arab Revolt.
+
 <a href="https://en.wikipedia.org/wiki/Flag_of_Jordan">Flag of Jordan on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Jordan">Jordan on Wikipedia</a>

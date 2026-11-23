@@ -1,0 +1,14 @@
+{
+  "photo": null,
+  "facts": [
+    "Landlocked, between the Zambezi and Limpopo rivers",
+    "Borders South Africa, Botswana, Zambia and Mozambique"
+  ],
+  "worth_knowing": "Most of the country sits on a plateau over 1,000 m high, with the Eastern Highlands rising to Mount Nyangani at 2,592 m. Victoria Falls lies in the far northwest, on the Zambezi.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Zimbabwe",
+    "https://www.wikidata.org/wiki/Q954"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

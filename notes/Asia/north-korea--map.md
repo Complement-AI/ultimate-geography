@@ -18,4 +18,8 @@ What is highlighted on this map?
 
 <div class="cmp-map" data-focus="PRK" data-pin="39.0214,125.7527" data-label="Pyongyang"><img src="../../media/cx-locator-north-korea.svg" alt="Map of North Korea with Pyongyang marked"></div>
 
+Borders China and Russia to the north, South Korea at the DMZ
+
+About 80 percent is mountains and uplands, split by deep, narrow valleys. The Yellow Sea forms the western border and the Sea of Japan the eastern.
+
 <a href="https://en.wikipedia.org/wiki/North_Korea">North Korea on Wikipedia</a>

@@ -16,4 +16,8 @@ tags  = ["asia", "middle_east", "sovereign_state", "country"]
 
 <div class="cmp-map" data-focus="JOR" data-pin="31.952,35.9314" data-label="Amman"><img src="../../media/cx-locator-jordan.svg" alt="Map of Jordan with Amman marked"></div>
 
+About 11.5 million people in 89,342 km²<br>Semi-arid, the eleventh-most populous Arab country
+
+The Arab Nabataeans established their kingdom around Petra in the third century BC. The Jordan River flows along its western border into the Dead Sea.
+
 <a href="https://en.wikipedia.org/wiki/Jordan">Jordan on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Amman">Amman on Wikipedia</a>

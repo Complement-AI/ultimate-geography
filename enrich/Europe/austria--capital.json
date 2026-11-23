@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Wien katedra sw Szczepana widok z wiezy 6.jpg",
+    "alt": "View over the city from the north tower of St. Stephen's Cathedral"
+  },
+  "facts": [
+    "About 2 million people (2025), the most populous city on the Danube",
+    "On the eastern edge of the Vienna Woods, the Alps' northeasternmost foothills"
+  ],
+  "worth_knowing": "The Romans founded a camp here in the 1st century and called it Vindobona. From the 16th century the Habsburgs made it the seat of the Holy Roman emperors.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Vienna",
+    "https://www.wikidata.org/wiki/Q1741"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

@@ -18,6 +18,10 @@ Whose flag is this?
 
 <div class="cmp-map" data-focus="NOR" data-pin="59.9186,10.748" data-label="Oslo"><img src="../../media/cx-locator-norway.svg" alt="Map of Norway with Oslo marked"></div>
 
+Adopted on 13 July 1821
+
+Red with a navy blue Scandinavian cross bordered in white. The vertical part of the cross sits toward the hoist, in the style of the Danish Dannebrog.
+
 Similar flags: Iceland (blue background, red cross), Faroe Islands (white background, red and blue cross)
 
 <a href="https://en.wikipedia.org/wiki/Flag_of_Norway">Flag of Norway on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Norway">Norway on Wikipedia</a>

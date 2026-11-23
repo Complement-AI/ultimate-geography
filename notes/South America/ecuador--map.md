@@ -18,4 +18,8 @@ What is highlighted on this map?
 
 <div class="cmp-map" data-focus="ECU" data-pin="-0.213,-78.502" data-label="Quito"><img src="../../media/cx-locator-ecuador.svg" alt="Map of Ecuador with Quito marked"></div>
 
+Neighbours: Colombia to the north, Peru to the east and south
+
+The Pacific Ocean lies to the west. Ecuador is one of 17 megadiverse countries, with endemic plants and animals such as those of the Galápagos Islands.
+
 <a href="https://en.wikipedia.org/wiki/Ecuador">Ecuador on Wikipedia</a>

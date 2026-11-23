@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Mayotte, vue par Sentinel 2 (cropped).jpg",
+    "alt": "Satellite view of the island"
+  },
+  "facts": [
+    "About 321,000 people (2024 estimate) in 374 km²",
+    "Two main islands, Grande-Terre and Petite-Terre, in the northern Mozambique Channel"
+  ],
+  "worth_knowing": "Grande-Terre is geologically the oldest of the Comoro Islands, 39 km long and 22 km wide, with Mount Benara reaching 660 m. A coral reef encircles much of the island.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Mayotte",
+    "https://www.wikidata.org/wiki/Q17063"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

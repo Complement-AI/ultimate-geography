@@ -16,4 +16,8 @@ What is highlighted on this map?
 
 ## Extra
 
+About 1.42 million km², 230 m deep on average<br>Off the northern coasts of Norway and Russia
+
+A shallow shelf sea of the Arctic Ocean that holds the world's largest remaining cod population. Novaya Zemlya separates it from the Kara Sea.
+
 <a href="https://en.wikipedia.org/wiki/Barents_Sea">Barents Sea on Wikipedia</a>

@@ -1,0 +1,13 @@
+{
+  "photo": null,
+  "facts": [
+    "The north-east of the island of Ireland",
+    "Open border to the south and west with the Republic of Ireland"
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Northern_Ireland",
+    "https://www.wikidata.org/wiki/Q26"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

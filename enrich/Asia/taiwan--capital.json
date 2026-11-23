@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:20260204 Taipei, Taiwan Skyline.jpg",
+    "alt": "The Taipei skyline"
+  },
+  "facts": [
+    "About 2.43 million people (2026)",
+    "About 25 km southwest of the port city of Keelung"
+  ],
+  "worth_knowing": "Most of the city rests on the Taipei Basin, an ancient lakebed. The Keelung and Xindian rivers join to form the Tamsui River along its western border.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Taipei",
+    "https://www.wikidata.org/wiki/Q1867"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

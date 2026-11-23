@@ -16,4 +16,8 @@ tags  = ["africa", "east_africa", "sovereign_state", "country"]
 
 <div class="cmp-map" data-focus="MWI" data-pin="-13.9833,33.7833" data-label="Lilongwe"><img src="../../media/cx-locator-malawi.svg" alt="Map of Malawi with Lilongwe marked"></div>
 
+About 22.2 million people (2025) in 118,484 km²<br>Landlocked, bordered by Zambia, Tanzania and Mozambique
+
+Lake Malawi, in the Great Rift Valley, makes up over three-quarters of the country's eastern boundary. About 587 km long, it is sometimes called the Calendar Lake.
+
 <a href="https://en.wikipedia.org/wiki/Malawi">Malawi on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Lilongwe">Lilongwe on Wikipedia</a>

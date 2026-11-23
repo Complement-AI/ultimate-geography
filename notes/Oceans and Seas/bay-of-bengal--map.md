@@ -16,4 +16,8 @@ What is highlighted on this map?
 
 ## Extra
 
+About 2.6 million km², between India and the Indochinese peninsula<br>The Ganges, Brahmaputra and Irrawaddy flow into it
+
+Its coast includes the Sundarbans, the largest mangrove forest in the world, and Cox's Bazar, one of the world's longest natural beaches.
+
 <a href="https://en.wikipedia.org/wiki/Bay_of_Bengal">Bay of Bengal on Wikipedia</a>

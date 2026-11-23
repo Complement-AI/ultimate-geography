@@ -1,0 +1,11 @@
+{
+  "photo": {"commons": "File:Old city of Maskat.jpg", "alt": "The old city of Muscat with its white buildings below the mountains"},
+  "facts": [
+    "About 1.72 million people in the Muscat Governorate (2022)",
+    "On the Gulf of Oman, below the Hajar Mountains"
+  ],
+  "worth_knowing": "Known since the early 1st century CE as a leading port for trade between the west and the east. The water off the coast runs deep, forming two natural harbours, at Muttrah and Muscat.",
+  "sources": ["https://en.wikipedia.org/wiki/Muscat", "https://www.wikidata.org/wiki/Q3826"],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

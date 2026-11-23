@@ -18,4 +18,8 @@ Whose flag is this?
 
 <div class="cmp-map" data-focus="ARG" data-pin="-34.6006,-58.3995" data-label="Buenos Aires"><img src="../../media/cx-locator-argentina.svg" alt="Map of Argentina with Buenos Aires marked"></div>
 
+First raised at Rosario on 27 February 1812
+
+Sky blue and white bands, created by Manuel Belgrano along with the Cockade of Argentina. The yellow Sun of May was added to the centre in 1818 as a war flag.
+
 <a href="https://en.wikipedia.org/wiki/Flag_of_Argentina">Flag of Argentina on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Argentina">Argentina on Wikipedia</a>

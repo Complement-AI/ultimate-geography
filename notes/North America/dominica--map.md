@@ -18,4 +18,8 @@ What is highlighted on this map?
 
 <div class="cmp-map" data-focus="DMA" data-pin="15.301,-61.387" data-label="Roseau"><img src="../../media/cx-locator-dominica.svg" alt="Map of Dominica with Roseau marked"></div>
 
+Closest neighbours Guadeloupe to the northwest and Martinique to the south-southeast<br>Highest point Morne Diablotins, 1,448 m
+
+Part of the Windward Islands chain in the Lesser Antilles, with lush mountainous rainforest and many rare plants, animals and birds.
+
 <a href="https://en.wikipedia.org/wiki/Dominica">Dominica on Wikipedia</a>

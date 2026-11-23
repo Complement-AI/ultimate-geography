@@ -16,4 +16,8 @@ What is highlighted on this map?
 
 ## Extra
 
+About 472,000 km², up to 6,220 m deep<br>Bordered in the north by the Sulu Archipelago and Mindanao
+
+Part of an ancient ocean basin that formed 42 million years ago. To the southwest it opens through the Makassar Strait into the Java Sea.
+
 <a href="https://en.wikipedia.org/wiki/Celebes_Sea">Celebes Sea on Wikipedia</a>

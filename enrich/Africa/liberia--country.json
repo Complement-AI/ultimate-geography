@@ -1,0 +1,14 @@
+{
+  "photo": null,
+  "facts": [
+    "About 5.2 million people (2021)",
+    "English is official, with over 20 indigenous languages"
+  ],
+  "worth_knowing": "It began as an American Colonization Society project to settle freed Black Americans in Africa. Liberia declared independence on 26 July 1847.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Liberia",
+    "https://www.wikidata.org/wiki/Q1014"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

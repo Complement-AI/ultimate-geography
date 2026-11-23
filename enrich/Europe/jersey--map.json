@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Jersey by Sentinel-2.jpg",
+    "alt": "Satellite view of Jersey"
+  },
+  "facts": [
+    "About 118 km2, 103,000 people (2021 census)",
+    "23 km off the Cotentin Peninsula of France"
+  ],
+  "worth_knowing": "The largest of the Channel Islands. A self-governing Crown Dependency, it has never been part of the Kingdom of England, having remained loyal to the English Crown when the kings lost mainland Normandy.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Jersey",
+    "https://www.wikidata.org/wiki/Q785"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

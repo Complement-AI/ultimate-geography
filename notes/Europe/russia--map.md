@@ -18,4 +18,8 @@ What is highlighted on this map?
 
 <div class="cmp-map" data-focus="RUS" data-pin="55.7541,37.6136" data-label="Moscow"><img src="../../media/cx-locator-russia.svg" alt="Map of Russia with Moscow marked"></div>
 
+Land borders with fourteen countries<br>About 17.1 million km², the largest country in the world
+
+It spans Eastern Europe and North Asia. Mount Elbrus is its highest point.
+
 <a href="https://en.wikipedia.org/wiki/Russia">Russia on Wikipedia</a>

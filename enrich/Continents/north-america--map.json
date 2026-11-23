@@ -1,0 +1,14 @@
+{
+  "photo": null,
+  "facts": [
+    "About 24.7 million km², the third-largest continent",
+    "About 592 million people (2021)"
+  ],
+  "worth_knowing": "Splits into Northern America, which includes Canada, Greenland and the continental United States, and Middle America: Mexico, Central America and the Caribbean.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/North_America",
+    "https://www.wikidata.org/wiki/Q49"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

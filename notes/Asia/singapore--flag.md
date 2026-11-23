@@ -18,4 +18,8 @@ Whose flag is this?
 
 <div class="cmp-map" data-focus="SGP" data-pin="1.295,103.8539" data-label="Singapore"><img src="../../media/cx-locator-singapore.svg" alt="Map of Singapore with Singapore marked"></div>
 
+Adopted in 1959, the year Singapore became self-governing
+
+Red above white, with a white crescent and five small white stars in the upper hoist corner. The elements denote a young nation on the ascendant, universal brotherhood and equality, and national ideals.
+
 <a href="https://en.wikipedia.org/wiki/Flag_of_Singapore">Flag of Singapore on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Singapore">Singapore on Wikipedia</a>

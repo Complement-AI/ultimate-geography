@@ -16,4 +16,8 @@ What is the capital of <b>Liberia</b>?
 
 <div class="cmp-map" data-focus="LBR" data-pin="6.3146,-10.7997" data-label="Monrovia"><img src="../../media/cx-locator-liberia.svg" alt="Map of Liberia with Monrovia marked"></div>
 
+About 1.76 million people (2022 census)<br>On Cape Mesurado, on the Atlantic coast
+
+Founded in April 1822 by the American Colonization Society as a settlement for free people of color, and named for US President James Monroe, a supporter of the project.
+
 <a href="https://en.wikipedia.org/wiki/Monrovia">Monrovia on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Liberia">Liberia on Wikipedia</a>

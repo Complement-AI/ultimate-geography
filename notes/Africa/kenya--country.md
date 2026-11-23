@@ -16,4 +16,8 @@ tags  = ["africa", "east_africa", "sovereign_state", "country"]
 
 <div class="cmp-map" data-focus="KEN" data-pin="-1.2814,36.8147" data-label="Nairobi"><img src="../../media/cx-locator-kenya.svg" alt="Map of Kenya with Nairobi marked"></div>
 
+About 54 million people (2026)<br>Seventh most populous country in Africa
+
+Its earliest inhabitants included some of the first humans to evolve from ancestral members of the genus Homo.
+
 <a href="https://en.wikipedia.org/wiki/Kenya">Kenya on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Nairobi">Nairobi on Wikipedia</a>

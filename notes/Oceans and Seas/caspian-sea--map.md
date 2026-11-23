@@ -16,4 +16,8 @@ What is highlighted on this map?
 
 ## Extra
 
+About 371,000 km², the world's largest inland body of water<br>Bounded by Kazakhstan, Russia, Azerbaijan, Iran and Turkmenistan
+
+Its surface lies about 27 m below sea level, and its salinity is only about a third of average seawater. The Volga, Europe's longest river, feeds it at the shallow north end.
+
 <a href="https://en.wikipedia.org/wiki/Caspian_Sea">Caspian Sea on Wikipedia</a>

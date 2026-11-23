@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Satellite image of Italy in March 2003.jpg",
+    "alt": "Italy from orbit"
+  },
+  "facts": [
+    "About 58.9 million people (2023), third in the EU",
+    "Highest point: Mont Blanc"
+  ],
+  "worth_knowing": "Nearly 800 islands belong to it, notably Sicily and Sardinia. The Vatican City and San Marino are two enclaves within its borders.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Italy",
+    "https://www.wikidata.org/wiki/Q38"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

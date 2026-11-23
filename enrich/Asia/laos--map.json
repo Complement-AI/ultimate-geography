@@ -1,0 +1,16 @@
+{
+  "photo": {
+    "commons": "File:Karst peaks and green paddy fields under a stormy sky, South view from Mount Nam Xay, Vang Vieng, Laos.jpg",
+    "alt": "Karst peaks over green paddy fields"
+  },
+  "facts": [
+    "Borders Myanmar, China, Vietnam, Cambodia and Thailand"
+  ],
+  "worth_knowing": "Landlocked, with Vietnam to the east and Thailand to the west and southwest. The Mekong runs along the border with Thailand near the capital.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Laos",
+    "https://www.wikidata.org/wiki/Q819"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

@@ -16,4 +16,8 @@ What is the capital of <b>Cook Islands</b>?
 
 <div class="cmp-map" data-focus="COK" data-pin="-21.1962,-159.7854" data-label="Avarua"><img src="../../media/cx-locator-cook-islands.svg" alt="Map of Cook Islands with Avarua marked"></div>
 
+About 5,100 people in the district (2021 census)<br>In the north of Rarotonga, the largest of the Cook Islands
+
+The name means "two harbours" in Māori. The town is built around Avatiu Harbour, the main port, and Avarua Harbour, once the main port and now a small fishing port.
+
 <a href="https://en.wikipedia.org/wiki/Avarua">Avarua on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Cook_Islands">Cook Islands on Wikipedia</a>

@@ -16,4 +16,8 @@ tags  = ["africa", "sovereign_state", "west_africa", "country"]
 
 <div class="cmp-map" data-focus="TGO" data-pin="6.1339,1.2208" data-label="Lomé"><img src="../../media/cx-locator-togo.svg" alt="Map of Togo with Lomé marked"></div>
 
+About 12.4 million people (2026)<br>Highest point: Mount Agou
+
+Germany established a protectorate called Togoland there in 1884. Togo gained independence from France in 1960.
+
 <a href="https://en.wikipedia.org/wiki/Togo">Togo on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Lom%C3%A9">Lomé on Wikipedia</a>

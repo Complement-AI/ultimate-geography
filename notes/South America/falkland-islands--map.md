@@ -16,6 +16,10 @@ What is highlighted on this map?
 
 ## Extra
 
+East Falkland, West Falkland and 776 smaller islands<br>About 500 km east of South America's Patagonian coast
+
+The capital and largest settlement, Stanley, is on East Falkland. Both major islands have mountain ranges reaching about 700 m.
+
 Overseas territory of the United Kingdom.
 
 <a href="https://en.wikipedia.org/wiki/Falkland_Islands">Falkland Islands on Wikipedia</a>

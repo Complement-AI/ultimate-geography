@@ -1,0 +1,16 @@
+{
+  "photo": {
+    "commons": "File:New Caledonia after the passage of tropical cyclone Niran.jpg",
+    "alt": "New Caledonia seen from space after a cyclone"
+  },
+  "facts": [
+    "Main island Grande Terre, plus the Loyalty Islands and the Isle of Pines"
+  ],
+  "worth_knowing": "The territory lies 1,210 km east of Australia and 220 km southwest of Vanuatu. The four inhabited Loyalty Islands off the east coast are Ouvéa, Lifou, Tiga and Maré.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/New_Caledonia",
+    "https://www.wikidata.org/wiki/Q33788"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

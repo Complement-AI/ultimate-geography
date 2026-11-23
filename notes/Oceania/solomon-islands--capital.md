@@ -16,4 +16,8 @@ What is the capital of <b>Solomon Islands</b>?
 
 <div class="cmp-map" data-focus="SLB" data-pin="-9.438,159.9498" data-label="Honiara"><img src="../../media/cx-locator-solomon-islands.svg" alt="Map of Solomon Islands with Honiara marked"></div>
 
+About 130,000 people (2019)<br>On the northwestern coast of Guadalcanal
+
+The name comes from nagho ni ara in a Guadalcanal language, roughly "place of the east wind". It became the administrative centre of the British protectorate in 1952.
+
 <a href="https://en.wikipedia.org/wiki/Honiara">Honiara on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Solomon_Islands">Solomon Islands on Wikipedia</a>

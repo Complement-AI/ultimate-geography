@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Gotjawal Forest on Jeju Island-01.jpg",
+    "alt": "A forest on Jeju Island"
+  },
+  "facts": [
+    "About 671,000 people (2024) in 1,848 km²",
+    "Highest point is Hallasan, 1,950 m"
+  ],
+  "worth_knowing": "The southernmost province of South Korea. Its main island, South Korea's largest, is home to the shield volcano Hallasan.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Jeju_Province",
+    "https://www.wikidata.org/wiki/Q41164"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

@@ -1,0 +1,14 @@
+{
+  "photo": null,
+  "facts": [
+    "About 9 million people (2022) in about 84,000 km²",
+    "Highest point: Grossglockner"
+  ],
+  "worth_knowing": "The heartland of the Habsburg monarchy from the late 13th century. After Allied occupation it declared perpetual neutrality in 1955 and joined the European Union in 1995.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Austria",
+    "https://www.wikidata.org/wiki/Q40"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

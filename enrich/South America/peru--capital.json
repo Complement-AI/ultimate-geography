@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Plaza Mayor de Lima-1.jpg",
+    "alt": "The Plaza Mayor in Lima"
+  },
+  "facts": [
+    "About 9.9 million people (2022)",
+    "In the desert of the central coast, overlooking the Pacific Ocean"
+  ],
+  "worth_knowing": "The name comes from Limaq, an oracle in the Rímac Valley that means \"talker\" or \"speaker\" in coastal Quechua. The Spanish replaced the oracle with a church, but the name stayed.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Lima",
+    "https://www.wikidata.org/wiki/Q2868"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

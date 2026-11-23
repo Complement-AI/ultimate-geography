@@ -18,6 +18,10 @@ What is highlighted on this map?
 
 <div class="cmp-map" data-focus="GRL" data-pin="64.1983,-51.7327" data-label="Nuuk"><img src="../../media/cx-locator-greenland.svg" alt="Map of Greenland with Nuuk marked"></div>
 
+About 2.17 million km²<br>East of the Canadian Arctic Archipelago
+
+It lies between the Arctic and Atlantic oceans and is the largest of the three parts of the Kingdom of Denmark by land area.
+
 Constituent country in the Kingdom of Denmark.
 
 <a href="https://en.wikipedia.org/wiki/Greenland">Greenland on Wikipedia</a>

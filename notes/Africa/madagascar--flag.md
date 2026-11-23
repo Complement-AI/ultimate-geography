@@ -18,4 +18,8 @@ Whose flag is this?
 
 <div class="cmp-map" data-focus="MDG" data-pin="-18.9147,47.5147" data-label="Antananarivo"><img src="../../media/cx-locator-madagascar.svg" alt="Map of Madagascar with Antananarivo marked"></div>
 
+Adopted on 21 October 1958
+
+The colours originally had no meaning. At adoption an assembly officer gave them one: white is purity, red is sovereignty and green is hope.
+
 <a href="https://en.wikipedia.org/wiki/Flag_of_Madagascar">Flag of Madagascar on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Madagascar">Madagascar on Wikipedia</a>

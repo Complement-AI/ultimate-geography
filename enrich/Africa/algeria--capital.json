@@ -1,0 +1,21 @@
+{
+  "photo": {
+    "commons": "File:Argel 3.jpg",
+    "alt": "Aerial view of Algiers",
+    "file": "cx-photo-argel-3.jpg",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Argel_3.jpg",
+    "credit": "LBM1948, CC BY-SA 4.0, via Wikimedia Commons"
+  },
+  "facts": [
+    "About 4.3 million people in the urban area (2025)",
+    "On the Bay of Algiers, on the Mediterranean Sea"
+  ],
+  "worth_knowing": "The Arabic name, al-Jazāʾir, means \"the Islands\": it first referred to four islands off the western cape. A pier built in 1525 joined them to the mainland.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Algiers",
+    "https://www.wikidata.org/wiki/Q3561"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

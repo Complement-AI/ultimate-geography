@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Noravank panorama.jpg",
+    "alt": "The Noravank monastery in the mountainous Vayots Dzor region"
+  },
+  "facts": [
+    "Borders Turkey, Georgia, Azerbaijan and Iran",
+    "Landlocked, in the Armenian highlands"
+  ],
+  "worth_knowing": "To the south it also touches Nakhchivan, an Azerbaijani exclave.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Armenia",
+    "https://www.wikidata.org/wiki/Q399"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

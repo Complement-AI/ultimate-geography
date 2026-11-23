@@ -18,4 +18,8 @@ Whose flag is this?
 
 <div class="cmp-map" data-focus="ISR" data-pin="31.7784,35.2066" data-label="Jerusalem"><img src="../../media/cx-locator-israel.svg" alt="Map of Israel with Jerusalem marked"></div>
 
+Officially adopted on 28 October 1948
+
+Blue stripes recall a tallit, the Jewish prayer shawl, above and below a Star of David. The star recalls the legendary Seal of Solomon and was endorsed by the First Zionist Congress in 1897.
+
 <a href="https://en.wikipedia.org/wiki/Flag_of_Israel">Flag of Israel on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Israel">Israel on Wikipedia</a>

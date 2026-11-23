@@ -18,4 +18,8 @@ What is highlighted on this map?
 
 <div class="cmp-map" data-focus="BGR" data-pin="42.6853,23.3147" data-label="Sofia"><img src="../../media/cx-locator-bulgaria.svg" alt="Map of Bulgaria with Sofia marked"></div>
 
+Borders Greece, Turkey, Serbia, North Macedonia and Romania<br>The Danube forms the border with Romania, the Black Sea the east
+
+The Balkan Mountains run from west to east through the middle of the country. Musala, in the Rila range, is the highest point in both Bulgaria and the Balkans.
+
 <a href="https://en.wikipedia.org/wiki/Bulgaria">Bulgaria on Wikipedia</a>

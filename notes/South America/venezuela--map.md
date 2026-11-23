@@ -18,4 +18,8 @@ What is highlighted on this map?
 
 <div class="cmp-map" data-focus="VEN" data-pin="10.5029,-66.919" data-label="Caracas"><img src="../../media/cx-locator-venezuela.svg" alt="Map of Venezuela with Caracas marked"></div>
 
+Neighbours: Colombia, Brazil and Guyana<br>The Caribbean Sea and Atlantic Ocean lie to the north
+
+A continental landmass plus various islands and islets in the Caribbean Sea.
+
 <a href="https://en.wikipedia.org/wiki/Venezuela">Venezuela on Wikipedia</a>

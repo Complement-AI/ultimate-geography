@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Majuro main road.jpg",
+    "alt": "The main road along Majuro, with the lagoon beside it"
+  },
+  "facts": [
+    "About 30,000 people (2008)",
+    "A coral atoll of 64 islands around a 295 km² lagoon"
+  ],
+  "worth_knowing": "Became the capital after the Marshall Islands broke away from the Federated States of Micronesia in 1978, taking over from Jaluit. Germany had annexed the atoll in 1885.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Majuro",
+    "https://www.wikidata.org/wiki/Q12919"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

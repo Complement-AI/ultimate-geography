@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:St. Vincent, Karibik - Kingstown City - panoramio.jpg",
+    "alt": "Kingstown seen from above the town"
+  },
+  "facts": [
+    "About 12,900 people (2012)",
+    "The main port and biggest commercial centre of the islands"
+  ],
+  "worth_knowing": "French settlers founded it shortly after 1722. Its botanical garden, conceived in 1765, is one of the oldest in the Western Hemisphere.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Kingstown",
+    "https://www.wikidata.org/wiki/Q41474"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

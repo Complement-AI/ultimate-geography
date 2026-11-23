@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:San Juan, Puerto Rico (2529298606).jpg",
+    "alt": "Condado Beach at night"
+  },
+  "facts": [
+    "About 342,000 people (2020 census)",
+    "Old San Juan holds Fort San Felipe del Morro and Fort San Cristóbal"
+  ],
+  "worth_knowing": "The Spanish called it Ciudad de Puerto Rico, 'Rich Port City'. It is the second oldest European-established capital in the Americas, after Santo Domingo.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/San_Juan%2C_Puerto_Rico",
+    "https://www.wikidata.org/wiki/Q41211"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

@@ -1,0 +1,14 @@
+{
+  "photo": null,
+  "facts": [
+    "Borders Germany and Belgium",
+    "About 17.9 million people (2024) in 37,378 km²"
+  ],
+  "worth_knowing": "Netherlands means \"lower countries\": 26% of the land is below sea level. Most of that is polders, reclaimed from the water since the 14th century.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Netherlands",
+    "https://www.wikidata.org/wiki/Q55"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

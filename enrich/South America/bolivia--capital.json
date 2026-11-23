@@ -1,0 +1,19 @@
+{
+  "photo": {
+    "commons": "File:Sucre Square.jpg",
+    "alt": "A square in Sucre"
+  },
+  "facts": [
+    "About 360,500 people (2021)",
+    "2,790 m up, the second-highest capital after Quito"
+  ],
+  "worth_knowing": "Bolivia's constitutional capital and the seat of its judiciary, while the government sits in La Paz. It was the first capital of Bolivia.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Sucre",
+    "https://www.wikidata.org/wiki/Q2907",
+    "https://en.wikipedia.org/wiki/Bolivia",
+    "https://www.wikidata.org/wiki/Q750"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

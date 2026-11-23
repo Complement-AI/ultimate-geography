@@ -16,6 +16,10 @@ tags  = ["africa", "east_africa", "sovereign_state", "country"]
 
 <div class="cmp-map" data-focus="BDI" data-pin="-3.426,29.8436" data-label="Gitega"><img src="../../media/cx-locator-burundi.svg" alt="Map of Burundi with Gitega marked"></div>
 
+About 13.7 million people (2023)<br>Landlocked, in the Great Rift Valley
+
+One of the few African countries that is a direct continuation of a pre-colonial state. It was an independent kingdom for more than 200 years.
+
 Official capital was moved from Bujumbura to Gitega in 2019.
 
 <a href="https://en.wikipedia.org/wiki/Burundi">Burundi on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Gitega">Gitega on Wikipedia</a>

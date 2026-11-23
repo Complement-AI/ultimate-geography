@@ -16,6 +16,10 @@ What is highlighted on this map?
 
 ## Extra
 
+About 1.6 million people (2020) in 23,949 km²<br>200 km west of the Italian Peninsula, 16.5 km south of Corsica
+
+The second largest island in the Mediterranean Sea after Sicily, and one of Italy's twenty regions. Its mountains, woods, plains and long beaches have led to it being called a micro-continent.
+
 Autonomous region of Italy.
 
 <a href="https://en.wikipedia.org/wiki/Sardinia">Sardinia on Wikipedia</a>

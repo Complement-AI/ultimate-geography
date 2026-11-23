@@ -1,0 +1,16 @@
+{
+  "photo": {
+    "commons": "File:La Digue asv2024-10 img56 Anse Patates.jpg",
+    "alt": "A beach of granite boulders and palms on La Digue"
+  },
+  "facts": [
+    "About 100,600 people (2022), the least populated sovereign African country",
+    "Highest point: Morne Seychellois"
+  ],
+  "worth_knowing": "The smallest country in Africa, yet it has the highest nominal per capita GDP and Human Development Index ranking of any African country.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Seychelles"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

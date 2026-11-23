@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Autobahnbau in Oyala.JPG",
+    "alt": "A road under construction"
+  },
+  "facts": [
+    "About 2,000 people (2022), planned for about 200,000",
+    "Inland, at 454 m"
+  ],
+  "worth_knowing": "The name means \"City of Peace\". The site, once called Oyala, was chosen for its inland location after a 2004 coup attempt raised fears about maritime access to the capital.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Ciudad_de_la_Paz",
+    "https://www.wikidata.org/wiki/Q1140136"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

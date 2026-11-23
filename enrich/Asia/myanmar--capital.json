@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Naypyidaw -- Water Fountain Garden.JPG",
+    "alt": "The Water Fountain Garden"
+  },
+  "facts": [
+    "Covers 7,054 km², with a very low population density",
+    "Built from 2002 on a greenfield site, about 320 km north of Yangon"
+  ],
+  "worth_knowing": "It replaced Yangon as the administrative capital on 6 November 2005. Its name, Burmese for \"abode of the king\", was made public on Armed Forces Day, 27 March 2006.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Naypyidaw",
+    "https://www.wikidata.org/wiki/Q37400"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

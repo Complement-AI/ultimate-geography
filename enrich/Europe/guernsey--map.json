@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Guernsey from the air - geograph.ci - 371.jpg",
+    "alt": "Guernsey seen from the air"
+  },
+  "facts": [
+    "About 78 km2, about 68,000 people (2024)",
+    "A Crown Dependency off the coast of Normandy"
+  ],
+  "worth_knowing": "The Bailiwick of Guernsey has three jurisdictions: Alderney, Guernsey (including Herm) and Sark.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Bailiwick_of_Guernsey",
+    "https://www.wikidata.org/wiki/Q25230"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

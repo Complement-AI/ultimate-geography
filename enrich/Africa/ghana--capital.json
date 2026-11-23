@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Accra town.jpg",
+    "alt": "A busy city street"
+  },
+  "facts": [
+    "About 1.78 million people in the capital's districts (2021 census)",
+    "On the Gulf of Guinea"
+  ],
+  "worth_knowing": "The name comes from the Akan word Nkran, \"ants\", for the anthills in the surrounding countryside. In 1877 it replaced Cape Coast as capital of the British Gold Coast.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Accra",
+    "https://www.wikidata.org/wiki/Q3761"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

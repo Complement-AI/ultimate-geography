@@ -16,4 +16,8 @@ tags  = ["africa", "east_africa", "sovereign_state", "country"]
 
 <div class="cmp-map" data-focus="SDS"><img src="../../media/cx-locator-south-sudan.svg" alt="Map of South Sudan with Juba marked"></div>
 
+About 12.6 million people (2017)<br>Highest point: Kinyeti
+
+It became independent on 9 July 2011, after 98.8% of voters backed independence in a January 2011 referendum.
+
 <a href="https://en.wikipedia.org/wiki/South_Sudan">South Sudan on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Juba">Juba on Wikipedia</a>

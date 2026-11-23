@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:View of Vaduz.jpg",
+    "alt": "Vaduz and the Rhine valley seen from above"
+  },
+  "facts": [
+    "About 5,700 people (2019)",
+    "455 m up, along the Rhine"
+  ],
+  "worth_knowing": "Vaduz Castle, on a steep hill above the town, is home to the reigning prince. Despite being the capital, Vaduz is not the largest town: neighbouring Schaan has more people.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Vaduz",
+    "https://www.wikidata.org/wiki/Q1844"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

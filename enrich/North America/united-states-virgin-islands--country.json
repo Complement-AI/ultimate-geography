@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:St. John, U.S. Virgin Islands.jpg",
+    "alt": "Natural-colour satellite image of the island of Saint John"
+  },
+  "facts": [
+    "About 105,000 people (2023) in 346 km²",
+    "Main islands: Saint Croix, Saint John and Saint Thomas"
+  ],
+  "worth_knowing": "Once the Danish West Indies, the islands were sold to the United States by Denmark for $25 million in 1917. Their delegate in Congress can debate but not vote.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/United_States_Virgin_Islands",
+    "https://www.wikidata.org/wiki/Q11703"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Niue ISS004.jpg",
+    "alt": "Niue seen from orbit"
+  },
+  "facts": [
+    "About 1,800 people (2025)",
+    "In a triangle between Tonga, Samoa and the Cook Islands"
+  ],
+  "worth_knowing": "Nicknamed The Rock, from its traditional name Rock of Polynesia. As of 2006, between 90% and 95% of Niueans lived in New Zealand.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Niue",
+    "https://www.wikidata.org/wiki/Q34020"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

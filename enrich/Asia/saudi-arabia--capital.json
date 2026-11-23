@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Riyadh Skyline.jpg",
+    "alt": "The Riyadh skyline"
+  },
+  "facts": [
+    "About 7 million people (2022)",
+    "About 612 m up, on the Najd plateau"
+  ],
+  "worth_knowing": "The largest city on the Arabian Peninsula. The current city largely emerged in the 1950s as an expansion of the 18th-century walled town, after its defensive fortifications were dismantled.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Riyadh",
+    "https://www.wikidata.org/wiki/Q3692"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

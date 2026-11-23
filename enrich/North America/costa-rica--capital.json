@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Cityscape of San José, Costa Rica (253552473).jpg",
+    "alt": "Cityscape of San José"
+  },
+  "facts": [
+    "About 335,000 people in the city (2025)",
+    "1,161 m up, in the Central Valley"
+  ],
+  "worth_knowing": "The name is Spanish for Saint Joseph. Founded in 1736, it is the seat of national government and a major transport hub.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/San_Jos%C3%A9%2C_Costa_Rica",
+    "https://www.wikidata.org/wiki/Q3070"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

@@ -18,4 +18,8 @@ Whose flag is this?
 
 <div class="cmp-map" data-focus="LKA" data-pin="6.9,79.95" data-label="Sri Jayawardenepura Kotte"><img src="../../media/cx-locator-sri-lanka.svg" alt="Map of Sri Lanka with Sri Jayawardenepura Kotte marked"></div>
 
+Dates from 1972
+
+A golden lion on maroon, with a teal stripe and an orange stripe. The lion and maroon represent the Sinhalese, the orange stripe the Tamils, and the green stripe the Sri Lankan Moors.
+
 <a href="https://en.wikipedia.org/wiki/Flag_of_Sri_Lanka">Flag of Sri Lanka on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Sri_Lanka">Sri Lanka on Wikipedia</a>

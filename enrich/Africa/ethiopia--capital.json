@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:AddisView.jpg",
+    "alt": "A city spread across hills"
+  },
+  "facts": [
+    "About 6.3 million people (2025)",
+    "2,355 m up, the highest capital in Africa"
+  ],
+  "worth_knowing": "The name is Amharic for \"new flower\". Menelik II founded it in 1886 after finding Mount Entoto unpleasant, and it became the empire's capital in 1889.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Addis_Ababa",
+    "https://www.wikidata.org/wiki/Q3624"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

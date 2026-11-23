@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Santiago de Chile, Desde Cerro San Cristóbal (cropped).jpg",
+    "alt": "Santiago seen from Cerro San Cristóbal"
+  },
+  "facts": [
+    "About 6.3 million people (2017)",
+    "500 to 650 m up in the Central Valley, between the Andes and the Coastal Range"
+  ],
+  "worth_knowing": "Pedro de Valdivia founded it on 12 February 1541 as Santiago del Nuevo Extremo, laying out a grid around the Plaza Mayor, now the Plaza de Armas.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Santiago",
+    "https://www.wikidata.org/wiki/Q2887"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

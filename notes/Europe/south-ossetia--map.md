@@ -16,6 +16,8 @@ What is highlighted on this map?
 
 ## Extra
 
+De facto borders only Russia and Georgia<br>Highest point: Chanchakhi
+
 Independent state claimed by Georgia.
 
 <a href="https://en.wikipedia.org/wiki/South_Ossetia">South Ossetia on Wikipedia</a>

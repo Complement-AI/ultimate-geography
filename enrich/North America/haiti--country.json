@@ -1,0 +1,16 @@
+{
+  "photo": {
+    "commons": "File:ISS020-E-43300 - View of Haiti.jpg",
+    "alt": "Haiti seen from the International Space Station"
+  },
+  "facts": [
+    "About 11 million people (2017) in 27,750 km²"
+  ],
+  "worth_knowing": "The Haitian Revolution of 1791 to 1804 made it the first country in the Americas to officially abolish slavery, and the only country in history established by a slave revolt.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Haiti",
+    "https://www.wikidata.org/wiki/Q790"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

@@ -16,6 +16,10 @@ What is the capital of <b>Timor-Leste</b>?
 
 <div class="cmp-map" data-focus="TLS" data-pin="-8.5594,125.5795" data-label="Dili"><img src="../../media/cx-locator-timor-leste.svg" alt="Map of Timor-Leste with Dili marked"></div>
 
+About 222,000 people (2015)<br>11 m up on the north coast, on flat land hemmed in by mountains
+
+Capital of Portuguese Timor since 1769, it has served as the chief port and economic hub of what is now Timor-Leste ever since.
+
 Also known as East Timor.
 
 <a href="https://en.wikipedia.org/wiki/Dili">Dili on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Timor-Leste">Timor-Leste on Wikipedia</a>

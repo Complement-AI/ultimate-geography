@@ -18,4 +18,8 @@ What is highlighted on this map?
 
 <div class="cmp-map" data-focus="DOM" data-pin="18.472,-69.902" data-label="Santo Domingo"><img src="../../media/cx-locator-dominican-republic.svg" alt="Map of Dominican Republic with Santo Domingo marked"></div>
 
+Land border with Haiti to the west<br>Second-largest country in the Antilles by area, after Cuba
+
+It occupies the eastern five-eighths of Hispaniola. With Saint Martin, Hispaniola is one of only two Caribbean islands shared by two sovereign states.
+
 <a href="https://en.wikipedia.org/wiki/Dominican_Republic">Dominican Republic on Wikipedia</a>

@@ -18,6 +18,10 @@ Whose flag is this?
 
 <div class="cmp-map" data-focus="TLS" data-pin="-8.5594,125.5795" data-label="Dili"><img src="../../media/cx-locator-timor-leste.svg" alt="Map of Timor-Leste with Dili marked"></div>
 
+Defined in Section 15 of the constitution
+
+The white star in the black triangle means the light that guides.
+
 Also known as East Timor.
 
 <a href="https://en.wikipedia.org/wiki/Flag_of_Timor-Leste">Flag of Timor-Leste on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Timor-Leste">Timor-Leste on Wikipedia</a>

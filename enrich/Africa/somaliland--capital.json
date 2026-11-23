@@ -1,0 +1,16 @@
+{
+  "photo": {
+    "commons": "File:HargeisaDrone.jpg",
+    "alt": "Aerial view of the city"
+  },
+  "facts": [
+    "About 1.23 million people (2025)",
+    "1,260 m up"
+  ],
+  "worth_knowing": "Capital of a partially recognised state that is still considered internationally part of Somalia. It was founded as a watering and trading stop between the coast and the interior.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Hargeisa"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

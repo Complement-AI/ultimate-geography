@@ -1,0 +1,16 @@
+{
+  "photo": {
+    "commons": "File:La Digue asv2024-10 img56 Anse Patates.jpg",
+    "alt": "A beach of granite boulders and palms on La Digue"
+  },
+  "facts": [
+    "An archipelago of 115 islands in the Indian Ocean",
+    "1,500 km east of mainland Africa"
+  ],
+  "worth_knowing": "Nearby are the Maldives, Comoros, Madagascar, Mauritius, Mayotte and Réunion, with the Chagos Archipelago to the east.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Seychelles"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

@@ -18,4 +18,8 @@ What is highlighted on this map?
 
 <div class="cmp-map" data-focus="UKR" data-pin="50.4353,30.5147" data-label="Kyiv"><img src="../../media/cx-locator-ukraine.svg" alt="Map of Ukraine with Kyiv marked"></div>
 
+Borders Russia, Belarus, Poland, Slovakia, Hungary, Romania and Moldova<br>Highest point: Hoverla
+
+The Black Sea and the Sea of Azov lie along its south and southeast.
+
 <a href="https://en.wikipedia.org/wiki/Ukraine">Ukraine on Wikipedia</a>

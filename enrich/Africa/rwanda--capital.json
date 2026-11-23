@@ -1,0 +1,16 @@
+{
+  "photo": {
+    "commons": "File:Kigali2018Cropped.jpg",
+    "alt": "The city of rolling hills seen from above"
+  },
+  "facts": [
+    "About 1.75 million people (2022)",
+    "1,567 m up, near the country's geographic centre"
+  ],
+  "worth_knowing": "Founded in 1907 as a German administrative outpost, after the colonial resident chose the site for its central location, views and security. It became the capital at independence in 1962.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Kigali"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

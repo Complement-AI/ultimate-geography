@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Isle of Man by Sentinel-2.jpg",
+    "alt": "Satellite view of the Isle of Man"
+  },
+  "facts": [
+    "About 572 km2, about 84,500 people (2024)",
+    "Highest point: Snaefell"
+  ],
+  "worth_knowing": "A self-governing British Crown Dependency in the Irish Sea, between Great Britain and Ireland. Its parliament, Tynwald, was the first national legislature in the world to give women the vote in a general election, in 1881.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Isle_of_Man",
+    "https://www.wikidata.org/wiki/Q9676"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

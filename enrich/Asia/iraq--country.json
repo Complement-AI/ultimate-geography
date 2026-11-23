@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:View of Sulaymaniyah (Slemani) City in Winter - Snow 2015.JPG",
+    "alt": "Snow-covered city and hills of Sulaymaniyah in winter"
+  },
+  "facts": [
+    "Over 46 million people in 438,317 km²",
+    "Highest point is Cheekha Dar"
+  ],
+  "worth_knowing": "Known as the cradle of civilisation: the fertile plains between the Tigris and Euphrates, called Mesopotamia, fostered Sumer, Akkad, Babylonia and Assyria.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Iraq",
+    "https://www.wikidata.org/wiki/Q796"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

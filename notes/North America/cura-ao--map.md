@@ -18,6 +18,10 @@ What is highlighted on this map?
 
 <div class="cmp-map" data-focus="CUW" data-pin="12.2004,-69.02" data-label="Willemstad"><img src="../../media/cx-locator-cura-ao.svg" alt="Map of Curaçao with Willemstad marked"></div>
 
+Includes the uninhabited island of Klein Curaçao<br>About 80 km southeast of Aruba
+
+The main island and Klein Curaçao, 'Little Curaçao', lie in the southern Caribbean Sea, about 65 km north of Venezuela.
+
 Constituent country of the Kingdom of the Netherlands.
 
 <a href="https://en.wikipedia.org/wiki/Cura%C3%A7ao">Curaçao on Wikipedia</a>

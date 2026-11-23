@@ -18,6 +18,10 @@ Whose flag is this?
 
 <div class="cmp-map" data-focus="AUT" data-pin="48.202,16.3647" data-label="Vienna"><img src="../../media/cx-locator-austria.svg" alt="Map of Austria with Vienna marked"></div>
 
+First recorded in 1230, one of the oldest national symbols still in use
+
+By legend, Duke Leopold V's white surcoat was soaked in blood at the Siege of Acre; the cloth under his belt stayed white. In fact the colours come from the Babenberg dynasty's arms.
+
 Similar flags: Latvia (darker red, narrower white band)
 
 <a href="https://en.wikipedia.org/wiki/Flag_of_Austria">Flag of Austria on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Austria">Austria on Wikipedia</a>

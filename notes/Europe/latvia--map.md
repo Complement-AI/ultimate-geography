@@ -18,4 +18,8 @@ What is highlighted on this map?
 
 <div class="cmp-map" data-focus="LVA" data-pin="56.95,24.1" data-label="Riga"><img src="../../media/cx-locator-latvia.svg" alt="Map of Latvia with Riga marked"></div>
 
+Borders Estonia, Lithuania, Belarus and Russia<br>494 km of Baltic coastline
+
+Mostly fertile lowland plains and moderate hills. The highest point, Gaiziņkalns, reaches only 311.6 m.
+
 <a href="https://en.wikipedia.org/wiki/Latvia">Latvia on Wikipedia</a>

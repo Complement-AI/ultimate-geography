@@ -1,0 +1,14 @@
+{
+  "photo": null,
+  "facts": [
+    "Completely inside Italy, in the city of Rome",
+    "Highest point: Vatican Hill"
+  ],
+  "worth_knowing": "A landlocked city-state, and an enclave within the Italian capital.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Vatican_City",
+    "https://www.wikidata.org/wiki/Q237"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

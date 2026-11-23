@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Satellite image of Madagascar in September 2003.jpg",
+    "alt": "Satellite view of a large island"
+  },
+  "facts": [
+    "About 32 million people (2024)",
+    "The world's fourth-largest island"
+  ],
+  "worth_knowing": "A biodiversity hotspot: over 90% of its wildlife is endemic, and it is one of the world's 17 megadiverse countries.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Madagascar",
+    "https://www.wikidata.org/wiki/Q1019"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

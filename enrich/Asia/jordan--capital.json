@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Amman.jpg",
+    "alt": "View over Amman and its hills"
+  },
+  "facts": [
+    "About 4 million people (2015)",
+    "776 m above sea level"
+  ],
+  "worth_knowing": "Built on seven hills at first, it now spans over 19. It was Rabbath Ammon, then Philadelphia, and was renamed Amman in the 7th century. It became Transjordan's capital in 1921.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Amman",
+    "https://www.wikidata.org/wiki/Q3805"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

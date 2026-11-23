@@ -16,4 +16,8 @@ tags  = ["caribbean", "north_america", "sovereign_state", "country"]
 
 <div class="cmp-map" data-focus="GRD" data-pin="12.0526,-61.7416" data-label="St. George's"><img src="../../media/cx-locator-grenada.svg" alt="Map of Grenada with St. George's marked"></div>
 
+About 114,000 people (2023) in about 345 km²<br>About 160 km north of Trinidad
+
+Known as the 'Island of Spice' for its production of nutmeg and mace.
+
 <a href="https://en.wikipedia.org/wiki/Grenada">Grenada on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/St._George's,_Grenada">St. George's, Grenada on Wikipedia</a>

@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Copenhagen - view from Christiansborg castle.jpg",
+    "alt": "View over Copenhagen from Christiansborg castle"
+  },
+  "facts": [
+    "About 667,000 people (2025)",
+    "On the islands of Zealand and Amager, across the Øresund strait from Malmö"
+  ],
+  "worth_knowing": "A Viking fishing village in the 10th century, it became the capital in the early 15th century. Its Danish name, København, reflects its origin as a harbour and a place of commerce.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Copenhagen",
+    "https://www.wikidata.org/wiki/Q1748"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

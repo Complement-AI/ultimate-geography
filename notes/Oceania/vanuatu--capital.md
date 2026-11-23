@@ -16,4 +16,8 @@ What is the capital of <b>Vanuatu</b>?
 
 <div class="cmp-map" data-focus="VUT" data-pin="-17.7334,168.3166" data-label="Port Vila"><img src="../../media/cx-locator-vanuatu.svg" alt="Map of Vanuatu with Port Vila marked"></div>
 
+About 49,000 people (2020 census), 16.3% of the country<br>On the west coast of Efate, the country's commercial centre
+
+Locally it is simply "Vila", a variant of Efil and Ifira, the names of the area in two local languages. Melanesian people have occupied the area for thousands of years.
+
 <a href="https://en.wikipedia.org/wiki/Port_Vila">Port Vila on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Vanuatu">Vanuatu on Wikipedia</a>

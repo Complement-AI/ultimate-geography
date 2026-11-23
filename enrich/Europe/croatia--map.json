@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Dubrovnik june 2011..JPG",
+    "alt": "Old town of Dubrovnik with its city walls"
+  },
+  "facts": [
+    "Borders Slovenia, Hungary, Serbia, Bosnia and Herzegovina and Montenegro",
+    "About 56,600 km2 along the Adriatic Sea"
+  ],
+  "worth_knowing": "The Croatian archipelago contains over 1,000 islands and islets along the Adriatic coast. It shares a maritime border with Italy to the west.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Croatia",
+    "https://www.wikidata.org/wiki/Q224"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

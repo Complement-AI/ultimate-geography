@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Palikir Government Buildings.jpg",
+    "alt": "The Congress and Supreme Court buildings"
+  },
+  "facts": [
+    "A town of slightly above 5,000 residents",
+    "On the northwest side of Pohnpei, a high volcanic island ringed by a coral reef"
+  ],
+  "worth_knowing": "It was declared the capital in 1989 and is now the hub of the federal administration. Kolonia, the island's largest settlement, lies nearby to the northeast.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Palikir",
+    "https://www.wikidata.org/wiki/Q42751"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

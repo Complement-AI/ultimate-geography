@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Temple of the Emerald of buddha or Wat Phra Kaew (cropped).jpg",
+    "alt": "The gilded spires of a Buddhist temple"
+  },
+  "facts": [
+    "About 9.1 million people (2024)",
+    "In the Chao Phraya River delta in central Thailand"
+  ],
+  "worth_knowing": "Traces its roots to a small trading post of the Ayutthaya era in the 15th century. It later became the site of two capitals: Thonburi in 1767 and Rattanakosin in 1782.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Bangkok",
+    "https://www.wikidata.org/wiki/Q1861"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

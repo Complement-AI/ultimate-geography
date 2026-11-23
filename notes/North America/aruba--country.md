@@ -16,6 +16,10 @@ tags  = ["caribbean", "north_america", "country"]
 
 <div class="cmp-map" data-focus="ABW" data-pin="12.5304,-70.029" data-label="Oranjestad"><img src="../../media/cx-locator-aruba.svg" alt="Map of Aruba with Oranjestad marked"></div>
 
+About 107,000 people (2022) in 179 km²<br>Part of the Kingdom of the Netherlands since 1986 as a constituent country
+
+Unlike much of the Caribbean, Aruba has a dry, arid climate. Its citizens share Dutch nationality.
+
 Constituent country of the Kingdom of the Netherlands.
 
 <a href="https://en.wikipedia.org/wiki/Aruba">Aruba on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Oranjestad">Oranjestad on Wikipedia</a>

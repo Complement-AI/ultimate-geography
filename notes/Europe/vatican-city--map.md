@@ -18,4 +18,8 @@ What is highlighted on this map?
 
 <div class="cmp-map" data-focus="VAT" data-pin="41.9033,12.4534" data-label="Vatican City"><img src="../../media/cx-locator-vatican-city.svg" alt="Map of Vatican City with Vatican City marked"></div>
 
+Completely inside Italy, in the city of Rome<br>Highest point: Vatican Hill
+
+A landlocked city-state, and an enclave within the Italian capital.
+
 <a href="https://en.wikipedia.org/wiki/Vatican_City">Vatican City on Wikipedia</a>

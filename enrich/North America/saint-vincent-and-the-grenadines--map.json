@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:ISS006-E-38029 - View of the Lesser Antilles.jpg",
+    "alt": "The Lesser Antilles seen from the International Space Station"
+  },
+  "facts": [
+    "Saint Lucia to the north, Barbados to the east, Grenada to the south",
+    "Highest point La Soufrière"
+  ],
+  "worth_knowing": "Seven of the islands are inhabited, the largest and most populous being Bequia, Mustique, Canouan and Union Island.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Vincent_and_the_Grenadines",
+    "https://www.wikidata.org/wiki/Q757"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

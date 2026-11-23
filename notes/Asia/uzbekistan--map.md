@@ -18,4 +18,8 @@ What is highlighted on this map?
 
 <div class="cmp-map" data-focus="UZB" data-pin="41.3136,69.293" data-label="Tashkent"><img src="../../media/cx-locator-uzbekistan.svg" alt="Map of Uzbekistan with Tashkent marked"></div>
 
+Borders Kazakhstan, Kyrgyzstan, Tajikistan, Afghanistan and Turkmenistan<br>Area of about 448,978 km²
+
+Doubly landlocked: one of only two such countries in the world, the other being Liechtenstein.
+
 <a href="https://en.wikipedia.org/wiki/Uzbekistan">Uzbekistan on Wikipedia</a>

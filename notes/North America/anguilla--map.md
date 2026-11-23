@@ -16,6 +16,10 @@ What is highlighted on this map?
 
 ## Extra
 
+Main island about 26 km long and 5 km wide at its widest<br>Lies directly north of Saint Martin
+
+A flat, low-lying island of coral and limestone. Its name is the Italian word for "eel", given for the island's shape.
+
 Overseas territory of the United Kingdom.
 
 <a href="https://en.wikipedia.org/wiki/Anguilla">Anguilla on Wikipedia</a>

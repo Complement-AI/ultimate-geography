@@ -16,4 +16,8 @@ What is the capital of <b>Niue</b>?
 
 <div class="cmp-map" data-focus="NIU" data-pin="-19.066,-169.9136" data-label="Alofi"><img src="../../media/cx-locator-niue.svg" alt="Map of Niue with Alofi marked"></div>
 
+About 575 people (2025)<br>On Alofi Bay, on the west coast
+
+The second-smallest national capital by population. After Cyclone Heta in 2004 wrecked many buildings, including the hospital, government offices moved about 3 km inland.
+
 <a href="https://en.wikipedia.org/wiki/Alofi">Alofi on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Niue">Niue on Wikipedia</a>

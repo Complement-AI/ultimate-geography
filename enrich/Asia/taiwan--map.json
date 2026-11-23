@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Taipei Night Skyline from Hongludi 20240113.jpg",
+    "alt": "The Taipei skyline at night"
+  },
+  "facts": [
+    "Main island of 35,808 km²",
+    "Highest point: Yushan Main Peak"
+  ],
+  "worth_knowing": "The main island, formerly known as Formosa, lies between the East and South China Seas. Mountain ranges dominate the eastern two-thirds and plains the western third.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Taiwan",
+    "https://www.wikidata.org/wiki/Q865"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

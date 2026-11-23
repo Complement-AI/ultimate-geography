@@ -16,6 +16,10 @@ What is highlighted on this map?
 
 ## Extra
 
+About 78 km2, about 68,000 people (2024)<br>A Crown Dependency off the coast of Normandy
+
+The Bailiwick of Guernsey has three jurisdictions: Alderney, Guernsey (including Herm) and Sark.
+
 Crown dependency of the United Kingdom.
 
 <a href="https://en.wikipedia.org/wiki/Bailiwick_of_Guernsey">Bailiwick of Guernsey on Wikipedia</a>

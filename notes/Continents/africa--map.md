@@ -16,4 +16,8 @@ What is highlighted on this map?
 
 ## Extra
 
+About 30.3 million km², the second-largest continent<br>About 1.4 billion people, the youngest population of any continent
+
+Straddles both the equator and the prime meridian. Algeria is the largest country by area and Nigeria the largest by population.
+
 <a href="https://en.wikipedia.org/wiki/Africa">Africa on Wikipedia</a>

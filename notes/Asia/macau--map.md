@@ -18,6 +18,10 @@ What is highlighted on this map?
 
 <div class="cmp-map" data-focus="MAC"><img src="../../media/cx-locator-macau.svg" alt="Map of Macau"></div>
 
+Made up of the Macau Peninsula and the islands of Taipa and Coloane<br>About 118 km² in total
+
+The Cotai reclamation zone joins Taipa and Coloane, and two-thirds of the territory's area is built on land reclaimed from the sea.
+
 Special Administrative Region of China.
 
 <a href="https://en.wikipedia.org/wiki/Macau">Macau on Wikipedia</a>

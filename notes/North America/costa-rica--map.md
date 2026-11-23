@@ -18,4 +18,8 @@ What is highlighted on this map?
 
 <div class="cmp-map" data-focus="CRI" data-pin="9.937,-84.086" data-label="San José"><img src="../../media/cx-locator-costa-rica.svg" alt="Map of Costa Rica with San José marked"></div>
 
+Borders Nicaragua and Panama<br>Highest point Cerro Chirripó
+
+The Caribbean Sea lies to the northeast and the Pacific Ocean to the southwest. In some accounts Columbus first called it 'rich coast' in 1502, after seeing gold jewellery.
+
 <a href="https://en.wikipedia.org/wiki/Costa_Rica">Costa Rica on Wikipedia</a>

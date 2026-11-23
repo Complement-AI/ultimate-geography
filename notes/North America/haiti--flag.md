@@ -18,4 +18,8 @@ Whose flag is this?
 
 <div class="cmp-map" data-focus="HTI" data-pin="18.543,-72.338" data-label="Port-au-Prince"><img src="../../media/cx-locator-haiti.svg" alt="Map of Haiti with Port-au-Prince marked"></div>
 
+Present design first used in 1806
+
+The coat of arms shows a palm for independence, topped by the Cap of Liberty, over the motto L'Union fait la Force, 'Unity is strength'.
+
 <a href="https://en.wikipedia.org/wiki/Flag_of_Haiti">Flag of Haiti on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Haiti">Haiti on Wikipedia</a>

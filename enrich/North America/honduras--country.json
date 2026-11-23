@@ -1,0 +1,16 @@
+{
+  "photo": {
+    "commons": "File:Copan sculpture.jpg",
+    "alt": "A carved Maya sculpture at the Copán World Heritage Site"
+  },
+  "facts": [
+    "About 11 million people (2025) in 112,492 km²"
+  ],
+  "worth_knowing": "Home to several important Mesoamerican cultures, most notably the Maya, before the Spanish colonized it in the 16th century.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Honduras",
+    "https://www.wikidata.org/wiki/Q783"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

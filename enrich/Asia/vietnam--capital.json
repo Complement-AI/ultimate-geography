@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Tháp Rùa - NKS.jpg",
+    "alt": "Turtle Tower on its small island in a lake"
+  },
+  "facts": [
+    "About 8.7 million people (2026)",
+    "Second-most populous city, after Ho Chi Minh City"
+  ],
+  "worth_knowing": "Home to the Imperial Citadel of Thăng Long, the Ho Chi Minh Mausoleum and Hoàn Kiếm Lake. Its architecture mixes pre-colonial Vietnamese, French colonial and brutalist styles.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Hanoi",
+    "https://www.wikidata.org/wiki/Q1858"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

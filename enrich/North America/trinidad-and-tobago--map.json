@@ -1,0 +1,11 @@
+{
+  "photo": {"commons": "File:Pigeon Point beach.jpg", "alt": "Pigeon Point beach on Tobago"},
+  "facts": [
+    "Two main islands, Trinidad and Tobago",
+    "Highest point: El Cerro del Aripo, 940 m"
+  ],
+  "worth_knowing": "The southernmost of the Caribbean's eastern islands, and so close to South America that Trinidad lies just 11 km off the coast of Venezuela, across the Columbus Channel.",
+  "sources": ["https://en.wikipedia.org/wiki/Trinidad_and_Tobago", "https://www.wikidata.org/wiki/Q754"],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

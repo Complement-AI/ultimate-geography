@@ -16,6 +16,10 @@ tags  = ["africa", "sovereign_state", "country"]
 
 <div class="cmp-map" data-focus="SAH"><img src="../../media/cx-locator-sahrawi-arab-democratic-republic.svg" alt="Map of Sahrawi Arab Democratic Republic with Laayoune marked"></div>
 
+About 600,000 inhabitants, the most sparsely populated territory in Africa<br>Mostly desert flatlands
+
+A UN-designated non-self-governing territory, sometimes called Africa's last colony. Its status is disputed.
+
 Partially recognised state claimed by Morocco. Also known as Western Sahara.<br><br>While Laayoune, also known as El Aaiún, is the declared capital, Tifariti is the de facto seat of government.
 
 <a href="https://en.wikipedia.org/wiki/Western_Sahara">Western Sahara on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Laayoune">Laayoune on Wikipedia</a>

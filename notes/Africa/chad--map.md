@@ -18,4 +18,8 @@ What is highlighted on this map?
 
 <div class="cmp-map" data-focus="TCD" data-pin="12.115,15.0472" data-label="N'Djamena"><img src="../../media/cx-locator-chad.svg" alt="Map of Chad with N'Djamena marked"></div>
 
+Borders Libya, Sudan, the Central African Republic, Cameroon, Nigeria and Niger<br>Highest point: Emi Koussi
+
+Landlocked, and meeting Nigeria at Lake Chad in the southwest. It has a Sahelian strip, whose states once fought to control trans-Saharan trade routes.
+
 <a href="https://en.wikipedia.org/wiki/Chad">Chad on Wikipedia</a>

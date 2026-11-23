@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Petřín Tower View IMG 3020.JPG",
+    "alt": "View over Prague from Petřín hill"
+  },
+  "facts": [
+    "About 1.4 million people (2025)",
+    "On the Vltava river, 235 m above sea level"
+  ],
+  "worth_knowing": "The name Praha is thought to come from an old Slavic word for a ford or rapid, from the city's origin at a crossing of the Vltava. Its historic centre has been a UNESCO World Heritage Site since 1992.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Prague",
+    "https://www.wikidata.org/wiki/Q1085"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

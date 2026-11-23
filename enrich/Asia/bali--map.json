@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Bali panorama.jpg",
+    "alt": "Terraced rice fields among palm trees"
+  },
+  "facts": [
+    "East of Java and west of Lombok",
+    "About 4.4 million people (2024) in about 5,780 km²"
+  ],
+  "worth_knowing": "Bali is the only Hindu-majority province in Indonesia, with 86.40% of its people adhering to Balinese Hinduism. It is also the country's main tourist destination.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Bali",
+    "https://www.wikidata.org/wiki/Q3125978"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

@@ -18,4 +18,8 @@ What is highlighted on this map?
 
 <div class="cmp-map" data-focus="KNA" data-pin="17.302,-62.717" data-label="Basseterre"><img src="../../media/cx-locator-saint-kitts-and-nevis.svg" alt="Map of Saint Kitts and Nevis with Basseterre marked"></div>
 
+Two islands, Saint Kitts and Nevis, in the Leeward Islands<br>Highest point Mount Liamuiga
+
+The Kalinago, the island's pre-European inhabitants, called Saint Kitts Liamuiga, roughly 'fertile land'.
+
 <a href="https://en.wikipedia.org/wiki/Saint_Kitts_and_Nevis">Saint Kitts and Nevis on Wikipedia</a>

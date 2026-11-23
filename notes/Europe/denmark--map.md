@@ -18,4 +18,8 @@ What is highlighted on this map?
 
 <div class="cmp-map" data-focus="DNK" data-pin="55.6805,12.5615" data-label="Copenhagen"><img src="../../media/cx-locator-denmark.svg" alt="Map of Denmark with Copenhagen marked"></div>
 
+Borders Germany, with Sweden and Norway across the water<br>About 42,900 km2
+
+Metropolitan Denmark is the northern Jutland peninsula plus an archipelago of 406 islands, between the North Sea to the west and the Baltic Sea to the east.
+
 <a href="https://en.wikipedia.org/wiki/Denmark">Denmark on Wikipedia</a>

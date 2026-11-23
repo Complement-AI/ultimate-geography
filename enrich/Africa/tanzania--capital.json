@@ -1,0 +1,16 @@
+{
+  "photo": {
+    "commons": "File:Scene at Nyerere Square, Dodoma City.jpg",
+    "alt": "A square in the city"
+  },
+  "facts": [
+    "About 765,000 people (2022)",
+    "1,120 m up"
+  ],
+  "worth_knowing": "The name means \"It has sunk\" in Gogo. In 1974 the government announced the capital would move from Dar es Salaam; Dodoma became the official capital in 1996.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Dodoma"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

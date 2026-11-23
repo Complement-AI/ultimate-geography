@@ -16,4 +16,8 @@ tags  = ["europe", "sovereign_state", "country"]
 
 <div class="cmp-map" data-focus="GBR" data-pin="51.5019,-0.1187" data-label="London"><img src="../../media/cx-locator-united-kingdom.svg" alt="Map of United Kingdom with London marked"></div>
 
+About 67 million people (2021) in 242,495 km²<br>England, Scotland, Wales and Northern Ireland
+
+The Kingdoms of England and Scotland united under the Treaty of Union in 1707 to create the Kingdom of Great Britain.
+
 <a href="https://en.wikipedia.org/wiki/United_Kingdom">United Kingdom on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/London">London on Wikipedia</a>

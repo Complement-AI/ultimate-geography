@@ -16,6 +16,10 @@ What is highlighted on this map?
 
 ## Extra
 
+About 47,400 people (2024), mostly on Tutuila<br>199 km² of volcanic islands and atolls
+
+The eastern part of the Samoan archipelago: five inhabited volcanic islands and the uninhabited Rose Atoll, plus Swains Island, a remote coral atoll in the Tokelau group.
+
 Unincorporated territory of the United States.
 
 <a href="https://en.wikipedia.org/wiki/American_Samoa">American Samoa on Wikipedia</a>

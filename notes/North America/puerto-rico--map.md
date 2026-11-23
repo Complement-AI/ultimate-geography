@@ -18,6 +18,10 @@ What is highlighted on this map?
 
 <div class="cmp-map" data-focus="PRI" data-pin="18.44,-66.13" data-label="San Juan"><img src="../../media/cx-locator-puerto-rico.svg" alt="Map of Puerto Rico with San Juan marked"></div>
 
+About 1,600 km southeast of Miami<br>Highest point Cerro de Punta
+
+It lies between the Dominican Republic and the US Virgin Islands. Besides the main island it includes Vieques, Culebra and Mona.
+
 Unincorporated territory of the United States.
 
 <a href="https://en.wikipedia.org/wiki/Puerto_Rico">Puerto Rico on Wikipedia</a>

@@ -18,4 +18,8 @@ What is highlighted on this map?
 
 <div class="cmp-map" data-focus="SVN" data-pin="46.0553,14.515" data-label="Ljubljana"><img src="../../media/cx-locator-slovenia.svg" alt="Map of Slovenia with Ljubljana marked"></div>
 
+Borders Italy, Austria, Hungary and Croatia<br>Highest point: Triglav
+
+Its southwestern boundary is a 46.6 km coastline on the Adriatic Sea.
+
 <a href="https://en.wikipedia.org/wiki/Slovenia">Slovenia on Wikipedia</a>

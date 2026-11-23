@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Dome of the Rock seen from the Mount of Olives (12395649153) (cropped).jpg",
+    "alt": "The golden Dome of the Rock seen across Jerusalem"
+  },
+  "facts": [
+    "About 1.05 million people (2024)",
+    "754 m up, on a plateau in the Judaean Mountains"
+  ],
+  "worth_knowing": "Holy to Judaism, Christianity and Islam, and one of the oldest cities in the world. Both Israel and Palestine claim it as their capital; neither claim is widely recognised internationally.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Jerusalem",
+    "https://www.wikidata.org/wiki/Q1218"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

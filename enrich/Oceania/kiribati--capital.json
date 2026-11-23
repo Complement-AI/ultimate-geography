@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:South Tarawa from the air.jpg",
+    "alt": "South Tarawa from the air, a thin strip of land in the lagoon"
+  },
+  "facts": [
+    "About 63,000 people (2020)",
+    "3 m above sea level"
+  ],
+  "worth_knowing": "A string of small islets joined by one main road, from Betio in the west to Bonriki and Tanaea in the northeast. It holds most of the government and more than half of Kiribati's people.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/South_Tarawa",
+    "https://www.wikidata.org/wiki/Q131233"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

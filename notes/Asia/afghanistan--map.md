@@ -18,4 +18,8 @@ What is highlighted on this map?
 
 <div class="cmp-map" data-focus="AFG" data-pin="34.5186,69.1813" data-label="Kabul"><img src="../../media/cx-locator-afghanistan.svg" alt="Map of Afghanistan with Kabul marked"></div>
 
+Borders Pakistan, Iran, Turkmenistan, Uzbekistan, Tajikistan and China<br>Highest point: Noshaq
+
+Predominantly mountainous, with plains in the north and the southwest. The Hindu Kush range separates the two.
+
 <a href="https://en.wikipedia.org/wiki/Afghanistan">Afghanistan on Wikipedia</a>

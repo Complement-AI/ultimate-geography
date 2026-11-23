@@ -18,4 +18,8 @@ Whose flag is this?
 
 <div class="cmp-map" data-focus="GNQ" data-pin="3.75,8.7833" data-label="Ciudad de la Paz"><img src="../../media/cx-locator-equatorial-guinea.svg" alt="Map of Equatorial Guinea with Ciudad de la Paz marked"></div>
 
+Adopted on 21 August 1979
+
+A silk-cotton tree on the coat of arms recalls the local legend that indigenous and Spanish representatives signed their first treaty beneath one. Six stars stand for the mainland and five islands.
+
 <a href="https://en.wikipedia.org/wiki/Flag_of_Equatorial_Guinea">Flag of Equatorial Guinea on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Equatorial_Guinea">Equatorial Guinea on Wikipedia</a>

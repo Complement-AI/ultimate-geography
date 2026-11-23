@@ -16,6 +16,10 @@ What is the capital of <b>Democratic Republic of the Congo</b>?
 
 <div class="cmp-map" data-focus="COD" data-pin="-4.3278,15.313" data-label="Kinshasa"><img src="../../media/cx-locator-democratic-republic-of-the-congo.svg" alt="Map of Democratic Republic of the Congo with Kinshasa marked"></div>
 
+About 18.5 million people (2026 estimate)<br>Seventh-most populous city proper in the world
+
+Named Léopoldville from 1881 to 1966. The site was known as Nshasa and was home to the Teke and Humbu people for centuries before it became a commercial hub.
+
 Formerly Zaire.
 
 <a href="https://en.wikipedia.org/wiki/Kinshasa">Kinshasa on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Democratic_Republic_of_the_Congo">Democratic Republic of the Congo on Wikipedia</a>

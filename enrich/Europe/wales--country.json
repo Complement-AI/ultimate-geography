@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Arthog - Barmouth Bridge - 20070915150033.jpg",
+    "alt": "A long bridge crossing an estuary below hills"
+  },
+  "facts": [
+    "About 3.1 million people (2021)",
+    "Highest point: Snowdon"
+  ],
+  "worth_knowing": "Two-thirds of the population live in South Wales, around Cardiff, Swansea and Newport. The Senedd, the Welsh Parliament, was formed in 1998 and handles devolved policy.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Wales",
+    "https://www.wikidata.org/wiki/Q25"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

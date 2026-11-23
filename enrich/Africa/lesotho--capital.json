@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Maseru from Parliament Hill.jpg",
+    "alt": "A town seen from a hill"
+  },
+  "facts": [
+    "About 331,000 people (2016 census)",
+    "On the Caledon River, directly on the South African border"
+  ],
+  "worth_knowing": "The name is a Sesotho word meaning \"red sandstones\". The British founded it as a police camp in 1869, and it kept its status as capital at independence in 1966.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Maseru",
+    "https://www.wikidata.org/wiki/Q3909"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

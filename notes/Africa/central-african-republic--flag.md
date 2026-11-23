@@ -18,4 +18,8 @@ Whose flag is this?
 
 <div class="cmp-map" data-focus="CAF" data-pin="4.3666,18.5583" data-label="Bangui"><img src="../../media/cx-locator-central-african-republic.svg" alt="Map of Central African Republic with Bangui marked"></div>
 
+Adopted in 1958
+
+Blue and white stand for France, green and yellow for Africa, and the red vertical stripe joins them in unity. The star stands for independence and African unity.
+
 <a href="https://en.wikipedia.org/wiki/Flag_of_the_Central_African_Republic">Flag of the Central African Republic on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Central_African_Republic">Central African Republic on Wikipedia</a>

@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:India Gate Legendary Saga Of Supreme Sacrifice.jpg",
+    "alt": "India Gate, a large stone arch"
+  },
+  "facts": [
+    "About 250,000 people (2011) in the New Delhi municipality",
+    "216 m above sea level"
+  ],
+  "worth_knowing": "Its foundation stone was laid by George V at the Delhi Durbar of 1911. It was designed by the British architects Edwin Lutyens and Herbert Baker and inaugurated on 13 February 1931.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/New_Delhi",
+    "https://www.wikidata.org/wiki/Q987"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

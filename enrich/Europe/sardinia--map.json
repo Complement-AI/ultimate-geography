@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Sardinia satellite.jpg",
+    "alt": "Sardinia from space"
+  },
+  "facts": [
+    "About 1.6 million people (2020) in 23,949 km²",
+    "200 km west of the Italian Peninsula, 16.5 km south of Corsica"
+  ],
+  "worth_knowing": "The second largest island in the Mediterranean Sea after Sicily, and one of Italy's twenty regions. Its mountains, woods, plains and long beaches have led to it being called a micro-continent.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Sardinia",
+    "https://www.wikidata.org/wiki/Q1462"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

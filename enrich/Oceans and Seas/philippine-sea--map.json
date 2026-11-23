@@ -1,0 +1,14 @@
+{
+  "photo": null,
+  "facts": [
+    "About 5 million km2",
+    "East of the Philippine Archipelago"
+  ],
+  "worth_knowing": "The largest sea in the world, in the Western Pacific.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Philippine_Sea",
+    "https://www.wikidata.org/wiki/Q159183"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

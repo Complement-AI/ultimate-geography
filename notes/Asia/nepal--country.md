@@ -16,4 +16,8 @@ tags  = ["asia", "sovereign_state", "country"]
 
 <div class="cmp-map" data-focus="NPL" data-pin="27.7186,85.3147" data-label="Kathmandu"><img src="../../media/cx-locator-nepal.svg" alt="Map of Nepal with Kathmandu marked"></div>
 
+About 29.2 million people (2021) in 147,000 km²<br>Landlocked, in South Asia
+
+A secular republic since 2008, which ended the world's last Hindu monarchy. The Kingdom of Nepal had been established in 1768.
+
 <a href="https://en.wikipedia.org/wiki/Nepal">Nepal on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Kathmandu">Kathmandu on Wikipedia</a>

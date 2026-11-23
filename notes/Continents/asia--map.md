@@ -16,4 +16,8 @@ What is highlighted on this map?
 
 ## Extra
 
+More than 44 million km², the largest continent<br>About 4.7 billion people, roughly 60% of the world's population
+
+Home to the majority of the world's people for a long time, and the site of many of the first civilisations.
+
 <a href="https://en.wikipedia.org/wiki/Asia">Asia on Wikipedia</a>

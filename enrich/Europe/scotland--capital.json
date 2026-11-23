@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Edinburgh cityscapes - aerial - 2025-04-19 20.jpg",
+    "alt": "Aerial view of Edinburgh"
+  },
+  "facts": [
+    "About 506,000 people (2020), the second most populous city in Scotland",
+    "Between the Firth of Forth and the Pentland Hills"
+  ],
+  "worth_knowing": "The Fringe, held here every year, is the world's largest annual international arts festival. Edinburgh has been recognised as the capital of Scotland since at least the 15th century.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Edinburgh",
+    "https://www.wikidata.org/wiki/Q23436"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

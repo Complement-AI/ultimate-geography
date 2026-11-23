@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Scotland from satellite.jpg",
+    "alt": "Scotland seen from satellite"
+  },
+  "facts": [
+    "Borders England to the south",
+    "The northern part of Great Britain, plus the Hebrides and the Northern Isles"
+  ],
+  "worth_knowing": "It meets the Atlantic Ocean to the north and west, the North Sea to the east and the Irish Sea to the south-west.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Scotland",
+    "https://www.wikidata.org/wiki/Q22"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

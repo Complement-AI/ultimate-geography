@@ -18,4 +18,8 @@ What is highlighted on this map?
 
 <div class="cmp-map" data-focus="SLB" data-pin="-9.438,159.9498" data-label="Honiara"><img src="../../media/cx-locator-solomon-islands.svg" alt="Map of Solomon Islands with Honiara marked"></div>
 
+Six major islands and over 1,000 smaller ones
+
+Honiara, the capital and largest city, is on the largest island, Guadalcanal. Bougainville lies just to the west.
+
 <a href="https://en.wikipedia.org/wiki/Solomon_Islands">Solomon Islands on Wikipedia</a>

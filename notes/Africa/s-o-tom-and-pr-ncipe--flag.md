@@ -18,4 +18,8 @@ Whose flag is this?
 
 <div class="cmp-map" data-focus="STP" data-pin="0.3334,6.7333" data-label="São Tomé"><img src="../../media/cx-locator-s-o-tom-and-pr-ncipe.svg" alt="Map of São Tomé and Príncipe with São Tomé marked"></div>
 
+Adopted on 12 July 1975, at independence
+
+The presidency gives green, yellow and red as Pan-African colours, the triangle as equality, and the two black stars as the two islands. Sources differ on other meanings.
+
 <a href="https://en.wikipedia.org/wiki/Flag_of_S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe">Flag of São Tomé and Príncipe on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe">São Tomé and Príncipe on Wikipedia</a>

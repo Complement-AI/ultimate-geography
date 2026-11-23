@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Centro historico de Tegucigalpa y Comayagüela.jpg",
+    "alt": "Colonial and modern buildings in the historic centre"
+  },
+  "facts": [
+    "About 851,000 people (2025)",
+    "990 m up, in the southern-central highlands"
+  ],
+  "worth_knowing": "Claimed by Spain in 1578, it became the capital in 1880, when President Marco Aurelio Soto moved the seat of government from Comayagua. Sister city Comayagüela forms the Central District with it.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Tegucigalpa",
+    "https://www.wikidata.org/wiki/Q3238"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

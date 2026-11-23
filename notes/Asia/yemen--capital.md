@@ -16,6 +16,10 @@ What is the capital of <b>Yemen</b>?
 
 <div class="cmp-map" data-focus="YEM" data-pin="15.3567,44.2046" data-label="Sanaa"><img src="../../media/cx-locator-yemen.svg" alt="Map of Yemen with Sanaa marked"></div>
 
+About 3.3 million people (2023)<br>2,300 m up, the seventh-highest capital in the world
+
+Its Old City is a UNESCO World Heritage Site, known for multi-story buildings decorated with geometric patterns. It is Yemen's constitutional capital and largest city.
+
 Also spelled as Sana'a.
 
 <a href="https://en.wikipedia.org/wiki/Sanaa">Sanaa on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Yemen">Yemen on Wikipedia</a>

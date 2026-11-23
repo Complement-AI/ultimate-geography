@@ -16,6 +16,10 @@ What is highlighted on this map?
 
 ## Extra
 
+East of Java and west of Lombok<br>About 4.4 million people (2024) in about 5,780 km²
+
+Bali is the only Hindu-majority province in Indonesia, with 86.40% of its people adhering to Balinese Hinduism. It is also the country's main tourist destination.
+
 Island of Indonesia.
 
 <a href="https://en.wikipedia.org/wiki/Bali">Bali on Wikipedia</a>

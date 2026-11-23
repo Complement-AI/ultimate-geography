@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Satellite image of Vanuatu in October 1998.jpg",
+    "alt": "Satellite image of an island chain in the South Pacific"
+  },
+  "facts": [
+    "About 300,000 people (2020) in 12,190 km²",
+    "Official languages: Bislama, English and French"
+  ],
+  "worth_knowing": "The name joins vanua, 'land' or 'home', and tu, 'to stand' or 'remain'. France and the United Kingdom agreed in 1906 to manage it jointly as the New Hebrides, an Anglo-French condominium.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Vanuatu",
+    "https://www.wikidata.org/wiki/Q686"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

@@ -1,0 +1,14 @@
+{
+  "photo": null,
+  "facts": [
+    "About 10.3 million people (2021) in 92,225 km²",
+    "Includes the Atlantic archipelagos of Madeira and the Azores"
+  ],
+  "worth_knowing": "A kingdom since 1179, it built the Portuguese Empire during the Age of Discovery. It became a republic in 1910, and democracy was established in 1976 after the 1974 overthrow of a dictatorship.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Portugal",
+    "https://www.wikidata.org/wiki/Q45"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

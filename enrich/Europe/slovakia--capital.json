@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Hlavné Namestie (35096533142).jpg",
+    "alt": "Hlavné námestie, the main square of Bratislava"
+  },
+  "facts": [
+    "About 481,000 people (2025)",
+    "On both banks of the Danube, at the foot of the Little Carpathians"
+  ],
+  "worth_knowing": "The only national capital to have land borders with two other sovereign states, Austria and Hungary. Vienna is just 50 km away, the closest pair of capitals in Europe.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Bratislava",
+    "https://www.wikidata.org/wiki/Q1780"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

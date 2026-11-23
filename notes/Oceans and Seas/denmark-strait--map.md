@@ -16,4 +16,8 @@ What is highlighted on this map?
 
 ## Extra
 
+480 km long, 290 km wide at its narrowest<br>Separates Greenland from Iceland
+
+Connects the Greenland Sea to the Irminger Sea. The world's largest known underwater waterfall, the Denmark Strait cataract, flows down its western side.
+
 <a href="https://en.wikipedia.org/wiki/Denmark_Strait">Denmark Strait on Wikipedia</a>

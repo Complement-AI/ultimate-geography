@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Waterkant Paramaribo with the Unesco Heritage Buildings.jpg",
+    "alt": "The Paramaribo waterfront with its UNESCO-listed buildings"
+  },
+  "facts": [
+    "About 252,600 people (2025 estimate), almost half the country",
+    "On the banks of the Suriname River"
+  ],
+  "worth_knowing": "Named for the Paramaribo people at the river's mouth, from Tupi-Guarani words for \"large river\" and \"inhabitants\". Its historic inner city has been a UNESCO World Heritage Site since 2002.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Paramaribo",
+    "https://www.wikidata.org/wiki/Q3001"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

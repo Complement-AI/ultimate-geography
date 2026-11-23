@@ -1,0 +1,14 @@
+{
+  "photo": null,
+  "facts": [
+    "About 67 million people (2021) in 242,495 km²",
+    "England, Scotland, Wales and Northern Ireland"
+  ],
+  "worth_knowing": "The Kingdoms of England and Scotland united under the Treaty of Union in 1707 to create the Kingdom of Great Britain.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/United_Kingdom",
+    "https://www.wikidata.org/wiki/Q145"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

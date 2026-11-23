@@ -14,6 +14,10 @@ tags  = ["europe", "country"]
 
 ## Extra
 
+About 56.5 million people (2021 census), 84% of the United Kingdom's<br>Highest point: Scafell Pike
+
+Named after the Angles, a Germanic tribe who settled in the 5th and 6th centuries. The Industrial Revolution began here in the 18th century.
+
 Constituent country of the United Kingdom.
 
 <a href="https://en.wikipedia.org/wiki/England">England on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/London">London on Wikipedia</a>

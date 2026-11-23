@@ -18,4 +18,8 @@ What is highlighted on this map?
 
 <div class="cmp-map" data-focus="BEL" data-pin="50.8353,4.3314" data-label="Brussels"><img src="../../media/cx-locator-belgium.svg" alt="Map of Belgium with Brussels marked"></div>
 
+Borders the Netherlands, Germany, Luxembourg and France<br>About 30,700 km2, with the North Sea to the west
+
+It lies in a coastal lowland region known as the Low Countries. The highest point, Signal de Botrange, is in the east.
+
 <a href="https://en.wikipedia.org/wiki/Belgium">Belgium on Wikipedia</a>

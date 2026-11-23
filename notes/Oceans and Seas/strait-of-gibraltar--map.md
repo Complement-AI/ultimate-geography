@@ -16,4 +16,8 @@ What is highlighted on this map?
 
 ## Extra
 
+14.3 km wide at its narrowest<br>Depth 300 to 900 m
+
+It connects the Atlantic Ocean to the Mediterranean and separates Europe from Africa; ferries cross in as little as 35 minutes.
+
 <a href="https://en.wikipedia.org/wiki/Strait_of_Gibraltar">Strait of Gibraltar on Wikipedia</a>

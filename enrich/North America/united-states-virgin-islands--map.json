@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:St. John, U.S. Virgin Islands.jpg",
+    "alt": "Natural-colour satellite image of the island of Saint John"
+  },
+  "facts": [
+    "Three main islands and 50 smaller islands and cays",
+    "In the Leeward Islands of the Lesser Antilles"
+  ],
+  "worth_knowing": "Christopher Columbus named them in 1493 after the legend of Saint Ursula and the 11,000 virgins. The name was later shortened to the Virgin Islands.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/United_States_Virgin_Islands",
+    "https://www.wikidata.org/wiki/Q11703"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

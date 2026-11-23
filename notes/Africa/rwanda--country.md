@@ -16,4 +16,8 @@ tags  = ["africa", "east_africa", "sovereign_state", "country"]
 
 <div class="cmp-map" data-focus="RWA" data-pin="-1.9516,30.0586" data-label="Kigali"><img src="../../media/cx-locator-rwanda.svg" alt="Map of Rwanda with Kigali marked"></div>
 
+About 14.6 million people (2025)<br>Highest point: Mount Karisimbi
+
+Landlocked, with a tropical highland climate, and the 21st most densely populated country in the world, at about 578 people per square kilometre.
+
 <a href="https://en.wikipedia.org/wiki/Rwanda">Rwanda on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Kigali">Kigali on Wikipedia</a>

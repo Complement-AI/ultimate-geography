@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Embalse la Vueltosa 2022.jpg",
+    "alt": "The La Vueltosa reservoir in Venezuela"
+  },
+  "facts": [
+    "Neighbours: Colombia, Brazil and Guyana",
+    "The Caribbean Sea and Atlantic Ocean lie to the north"
+  ],
+  "worth_knowing": "A continental landmass plus various islands and islets in the Caribbean Sea.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Venezuela",
+    "https://www.wikidata.org/wiki/Q717"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

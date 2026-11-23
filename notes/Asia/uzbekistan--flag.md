@@ -18,4 +18,8 @@ Whose flag is this?
 
 <div class="cmp-map" data-focus="UZB" data-pin="41.3136,69.293" data-label="Tashkent"><img src="../../media/cx-locator-uzbekistan.svg" alt="Map of Uzbekistan with Tashkent marked"></div>
 
+Adopted in 1991, replacing the Uzbek Soviet flag
+
+No symbolism is officially designated. Common readings: azure for sky and clear water, white for peace and good luck, green for nature and harvest, and the red lines for the power of life.
+
 <a href="https://en.wikipedia.org/wiki/Flag_of_Uzbekistan">Flag of Uzbekistan on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Uzbekistan">Uzbekistan on Wikipedia</a>

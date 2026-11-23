@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Dhaka skyline1.jpg",
+    "alt": "The Dhaka skyline"
+  },
+  "facts": [
+    "About 16.8 million people (2017)",
+    "On the Ganges Delta, bounded by four rivers including the Buriganga"
+  ],
+  "worth_knowing": "The Mughal city was named Jahangirnagar, \"the City of Jahangir\", after the emperor. It became the capital of an independent Bangladesh in 1971, after the Liberation War.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Dhaka",
+    "https://www.wikidata.org/wiki/Q1354"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

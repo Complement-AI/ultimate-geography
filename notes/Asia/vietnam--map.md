@@ -18,4 +18,8 @@ What is highlighted on this map?
 
 <div class="cmp-map" data-focus="VNM" data-pin="21.0353,105.8481" data-label="Hanoi"><img src="../../media/cx-locator-vietnam.svg" alt="Map of Vietnam with Hanoi marked"></div>
 
+Borders China, Laos and Cambodia<br>Area of about 331,000 km²
+
+At the eastern edge of mainland Southeast Asia, along the South China Sea to the east and the Gulf of Thailand to the southwest. Highest point: Fansipan.
+
 <a href="https://en.wikipedia.org/wiki/Vietnam">Vietnam on Wikipedia</a>

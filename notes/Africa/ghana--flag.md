@@ -18,6 +18,10 @@ Whose flag is this?
 
 <div class="cmp-map" data-focus="GHA" data-pin="5.552,-0.2187" data-label="Accra"><img src="../../media/cx-locator-ghana.svg" alt="Map of Ghana with Accra marked"></div>
 
+Adopted on 6 March 1957
+
+Red for the blood of those who fought for independence, gold for mineral wealth, green for forests. The black star, for African emancipation, comes from Marcus Garvey's Black Star Line.
+
 Similar flags: Bolivia (coat of arms instead of star)
 
 <a href="https://en.wikipedia.org/wiki/Flag_of_Ghana">Flag of Ghana on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Ghana">Ghana on Wikipedia</a>

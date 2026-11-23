@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Skyline of Doha West Bay.jpg",
+    "alt": "Skyscrapers of West Bay in Doha"
+  },
+  "facts": [
+    "Occupies the Qatar Peninsula, with its only land border with Saudi Arabia",
+    "Area of about 11,437 km²"
+  ],
+  "worth_knowing": "Most of the land is flat, low-lying desert. The Gulf of Bahrain, an inlet of the Persian Gulf, separates Qatar from nearby Bahrain.",
+  "sources": [
+    "https://www.wikidata.org/wiki/Qatar",
+    "https://www.wikidata.org/wiki/Q846"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

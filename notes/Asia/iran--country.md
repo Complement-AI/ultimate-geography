@@ -16,4 +16,8 @@ tags  = ["asia", "middle_east", "sovereign_state", "country"]
 
 <div class="cmp-map" data-focus="IRN" data-pin="35.6739,51.4224" data-label="Tehran"><img src="../../media/cx-locator-iran.svg" alt="Map of Iran with Tehran marked"></div>
 
+About 92 million people (2025) in 1.65 million km²<br>Highest point is Damavand
+
+Borders the Caspian Sea to the north and the Persian Gulf and Gulf of Oman to the south.
+
 <a href="https://en.wikipedia.org/wiki/Iran">Iran on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Tehran">Tehran on Wikipedia</a>

@@ -16,4 +16,8 @@ What is highlighted on this map?
 
 ## Extra
 
+About 85.1 million km², the second-largest ocean<br>Up to 8,376 m deep, in the Puerto Rico Trench
+
+An S-shaped basin between the Americas and Europe and Africa, split lengthwise by the Mid-Atlantic Ridge, a submarine mountain range.
+
 <a href="https://en.wikipedia.org/wiki/Atlantic_Ocean">Atlantic Ocean on Wikipedia</a>

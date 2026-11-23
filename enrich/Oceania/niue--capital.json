@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Main street of Alofi.jpg",
+    "alt": "The main street of Alofi"
+  },
+  "facts": [
+    "About 575 people (2025)",
+    "On Alofi Bay, on the west coast"
+  ],
+  "worth_knowing": "The second-smallest national capital by population. After Cyclone Heta in 2004 wrecked many buildings, including the hospital, government offices moved about 3 km inland.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Alofi",
+    "https://www.wikidata.org/wiki/Q30966"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

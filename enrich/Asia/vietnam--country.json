@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Hanoi Temple of Literature.jpg",
+    "alt": "A gate of the Temple of Literature"
+  },
+  "facts": [
+    "About 96 million people (2019)",
+    "Current state dates from 1976"
+  ],
+  "worth_knowing": "Northern and central Vietnam were under Chinese rule from 111 BC until the first dynasty emerged in 939.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Vietnam",
+    "https://www.wikidata.org/wiki/Q881"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

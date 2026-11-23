@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Harare skyline.jpg",
+    "alt": "Skyline of the city centre"
+  },
+  "facts": [
+    "About 1.85 million people (2022 census)",
+    "On a plateau 1,483 m above sea level"
+  ],
+  "worth_knowing": "Founded in 1890 as Fort Salisbury, after the British Prime Minister Lord Salisbury. It was renamed Harare in 1982, on the second anniversary of independence.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Harare",
+    "https://www.wikidata.org/wiki/Q3921"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

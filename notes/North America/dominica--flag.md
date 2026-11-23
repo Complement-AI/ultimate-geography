@@ -18,4 +18,8 @@ Whose flag is this?
 
 <div class="cmp-map" data-focus="DMA" data-pin="15.301,-61.387" data-label="Roseau"><img src="../../media/cx-locator-dominica.svg" alt="Map of Dominica with Roseau marked"></div>
 
+Adopted on 3 November 1978
+
+Designed by playwright Alwin Bully before independence. One of the few flags of sovereign states with purple, which comes from the sisserou parrot, an endangered species found only on the island.
+
 <a href="https://en.wikipedia.org/wiki/Flag_of_Dominica">Flag of Dominica on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Dominica">Dominica on Wikipedia</a>

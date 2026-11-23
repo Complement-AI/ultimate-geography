@@ -1,0 +1,21 @@
+{
+  "photo": {
+    "commons": "File:Canary Islands (6630087415).jpg",
+    "alt": "The Canary Islands from orbit, off the northwest coast of Africa",
+    "file": "cx-photo-canary-islands-6630087415.jpg",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Canary_Islands_(6630087415).jpg",
+    "credit": "NASA Goddard Space Flight Center from Greenbelt, MD, USA, Public domain, via Wikimedia Commons"
+  },
+  "facts": [
+    "About 2.26 million people (2025) on about 7,446 km²",
+    "Seven main islands, the largest being Tenerife"
+  ],
+  "worth_knowing": "A Spanish autonomous community about 100 km off the northwest coast of Africa. Mount Teide on Tenerife is the highest peak in Spain.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Canary_Islands",
+    "https://www.wikidata.org/wiki/Q5813"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Damascus, Syria, Panoramic view of Damascus.jpg",
+    "alt": "Panoramic view of a city of flat-roofed buildings"
+  },
+  "facts": [
+    "About 23 million people (2026)",
+    "Comprises 14 governorates"
+  ],
+  "worth_knowing": "The modern state encompasses the sites of several ancient kingdoms and empires, including the Eblan civilization.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Syria",
+    "https://www.wikidata.org/wiki/Q858"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

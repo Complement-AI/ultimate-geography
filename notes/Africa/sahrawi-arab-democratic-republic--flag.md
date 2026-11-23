@@ -18,6 +18,10 @@ Whose flag is this?
 
 <div class="cmp-map" data-focus="SAH"><img src="../../media/cx-locator-sahrawi-arab-democratic-republic.svg" alt="Map of Sahrawi Arab Democratic Republic with Laayoune marked"></div>
 
+Adopted on 27 February 1976 as the flag of the Sahrawi Arab Democratic Republic
+
+It combines the Pan-Arab colours of black, green, white and red with the Islamic star and crescent.
+
 Similar flags: Palestine (no symbol)<br><br>Partially recognised state claimed by Morocco. Also known as Western Sahara.
 
 <a href="https://en.wikipedia.org/wiki/Flag_of_Western_Sahara">Flag of Western Sahara on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Western_Sahara">Western Sahara on Wikipedia</a>

@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Karst peaks and green paddy fields under a stormy sky, South view from Mount Nam Xay, Vang Vieng, Laos.jpg",
+    "alt": "Karst peaks over green paddy fields"
+  },
+  "facts": [
+    "About 6.9 million people (2017) in 236,800 km²",
+    "Highest point is Phou Bia"
+  ],
+  "worth_knowing": "The only landlocked country in Southeast Asia. It takes part in the Greater Mekong Subregion economic cooperation programme.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Laos",
+    "https://www.wikidata.org/wiki/Q819"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Archipel des Tuamotu.jpg",
+    "alt": "Coral atolls of the Tuamotu archipelago seen from orbit"
+  },
+  "facts": [
+    "About 279,000 people (2022), about 69% on Tahiti",
+    "121 islands and atolls across more than 2,000 km"
+  ],
+  "worth_knowing": "An overseas collectivity of France in the South Pacific. France declared a protectorate over Tahiti in 1842, and the islands became a full overseas collectivity in 2003.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/French_Polynesia",
+    "https://www.wikidata.org/wiki/Q30971"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

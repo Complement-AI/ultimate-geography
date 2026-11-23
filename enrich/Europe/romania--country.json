@@ -1,0 +1,14 @@
+{
+  "photo": null,
+  "facts": [
+    "About 19 million people (2022) in 238,397 km²",
+    "Twelfth-largest country in Europe by area"
+  ],
+  "worth_knowing": "The modern state was formed in 1859 by the unification of Moldavia and Wallachia, and took the name Romania in 1866. It became a kingdom in 1881 under Carol I.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Romania",
+    "https://www.wikidata.org/wiki/Q218"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

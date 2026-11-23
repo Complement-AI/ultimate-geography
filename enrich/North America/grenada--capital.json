@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Grenada - St. George.jpg",
+    "alt": "An overview of the town and its harbour"
+  },
+  "facts": [
+    "Grenada's main port",
+    "On the southwest coast"
+  ],
+  "worth_knowing": "Surrounded by the hillside of an old volcano crater, it sits on a horseshoe-shaped harbour. The French founded it in 1650, when Jacques Dyel du Parquet, governor of Martinique, colonised 'La Grenade'.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/St._George%27s%2C_Grenada",
+    "https://www.wikidata.org/wiki/Q41547"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

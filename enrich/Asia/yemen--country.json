@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:MallaDistrict.jpg",
+    "alt": "Buildings in the Malla district of Yemen"
+  },
+  "facts": [
+    "About 34 million people (2026)",
+    "Second-largest country on the Arabian Peninsula by area and population"
+  ],
+  "worth_knowing": "Yemen has been at the crossroads of many civilisations for over 7,000 years. The Sabaeans formed a thriving commercial kingdom there.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Yemen",
+    "https://www.wikidata.org/wiki/Q805"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

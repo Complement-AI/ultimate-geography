@@ -16,6 +16,10 @@ tags  = ["africa", "east_africa", "sovereign_state", "country"]
 
 <div class="cmp-map" data-focus="TZA" data-pin="-6.1833,35.75" data-label="Dodoma"><img src="../../media/cx-locator-tanzania.svg" alt="Map of Tanzania with Dodoma marked"></div>
 
+About 67.5 million people (2024 estimate), the most populous country entirely south of the equator<br>Highest point: Mount Kibo
+
+Tanganyika and Zanzibar merged in 1964 to form it, after independence in 1961 and 1963. Many important hominid fossils have been found here.
+
 While Dodoma is the official capital, Dar es Salaam is the de facto seat of government.
 
 <a href="https://en.wikipedia.org/wiki/Tanzania">Tanzania on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Dodoma">Dodoma on Wikipedia</a>

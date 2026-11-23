@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Facades of Handelskade, Willemstad, Curaçao - February 2020.jpg",
+    "alt": "Dutch colonial buildings along the Handelskade harbour front"
+  },
+  "facts": [
+    "Includes the uninhabited island of Klein Curaçao",
+    "About 80 km southeast of Aruba"
+  ],
+  "worth_knowing": "The main island and Klein Curaçao, 'Little Curaçao', lie in the southern Caribbean Sea, about 65 km north of Venezuela.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Cura%C3%A7ao",
+    "https://www.wikidata.org/wiki/Q25279"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

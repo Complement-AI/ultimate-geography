@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Nicosia 01-2017 img22 View from Shacolas Tower.jpg",
+    "alt": "The Selimiye Mosque seen over the rooftops of Nicosia"
+  },
+  "facts": [
+    "About 61,000 people (2011), the largest settlement in Northern Cyprus",
+    "The northern part of the divided city of Nicosia"
+  ],
+  "worth_knowing": "Nicosia was divided into Greek and Turkish Cypriot quarters by the Green Line, named for the colour of the pen a United Nations officer used to draw it on a map.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/North_Nicosia",
+    "https://www.wikidata.org/wiki/Q2762100"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

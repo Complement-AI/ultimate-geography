@@ -18,4 +18,8 @@ What is highlighted on this map?
 
 <div class="cmp-map" data-focus="PNG" data-pin="-9.4647,147.1925" data-label="Port Moresby"><img src="../../media/cx-locator-papua-new-guinea.svg" alt="Map of Papua New Guinea with Port Moresby marked"></div>
 
+The eastern half of New Guinea, plus hundreds of offshore islands
+
+The one land border is with Indonesia in the west. Australia lies south across a maritime border, and the Solomon Islands east.
+
 <a href="https://en.wikipedia.org/wiki/Papua_New_Guinea">Papua New Guinea on Wikipedia</a>

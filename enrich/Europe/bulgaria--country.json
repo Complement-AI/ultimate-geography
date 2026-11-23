@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Rila Monastery, August 2013.jpg",
+    "alt": "Rila Monastery among forested mountains"
+  },
+  "facts": [
+    "About 6.4 million people (2025), area about 111,000 km2",
+    "Highest point: Musala, 2,925 m"
+  ],
+  "worth_knowing": "Its Varna culture produced the oldest golden jewellery in the world, over 6,000 years old. Bulgaria also developed the Cyrillic script.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Bulgaria",
+    "https://www.wikidata.org/wiki/Q219"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

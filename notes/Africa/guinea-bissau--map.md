@@ -18,4 +18,6 @@ What is highlighted on this map?
 
 <div class="cmp-map" data-focus="GNB" data-pin="11.865,-15.5984" data-label="Bissau"><img src="../../media/cx-locator-guinea-bissau.svg" alt="Map of Guinea-Bissau with Bissau marked"></div>
 
+Borders Senegal to the north and Guinea to the southeast<br>Highest point: Monte Torin
+
 <a href="https://en.wikipedia.org/wiki/Guinea-Bissau">Guinea-Bissau on Wikipedia</a>

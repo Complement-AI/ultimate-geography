@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:North of tehran.jpg",
+    "alt": "Tehran with mountains behind"
+  },
+  "facts": [
+    "About 8.7 million people (2016)",
+    "1,179 m above sea level"
+  ],
+  "worth_knowing": "Agha Mohammad Khan chose it as capital in 1786, for its proximity to Iran's Caucasus territories and to avoid rival factions. Air pollution, earthquakes and water scarcity have prompted relocation plans, none approved.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Tehran",
+    "https://www.wikidata.org/wiki/Q3616"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

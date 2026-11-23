@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Funafuti township.jpg",
+    "alt": "The main road running through a low-lying town"
+  },
+  "facts": [
+    "About 6,320 people (2017 census), roughly 60% of the nation",
+    "A narrow ring of land, 20 to 400 m wide, around a lagoon 18 km long"
+  ],
+  "worth_knowing": "An American sea captain named it Ellice's Island in 1819, after an English politician. In World War II the Americans dredged its lagoon harbour and built the airfield.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Funafuti",
+    "https://www.wikidata.org/wiki/Q34126"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

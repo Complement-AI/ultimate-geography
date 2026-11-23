@@ -18,4 +18,8 @@ What is highlighted on this map?
 
 <div class="cmp-map" data-focus="PRT" data-pin="38.7247,-9.1468" data-label="Lisbon"><img src="../../media/cx-locator-portugal.svg" alt="Map of Portugal with Lisbon marked"></div>
 
+Borders only Spain, to the north and east<br>Mainland on the southwestern Iberian Peninsula
+
+Internal waters and territorial sea together account for two-fifths of its territory, and its exclusive economic zone is one of Europe's largest.
+
 <a href="https://en.wikipedia.org/wiki/Portugal">Portugal on Wikipedia</a>

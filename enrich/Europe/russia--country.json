@@ -1,0 +1,14 @@
+{
+  "photo": null,
+  "facts": [
+    "Spans eleven time zones",
+    "Over 140 million people, the most populous country in Europe"
+  ],
+  "worth_knowing": "Proclaimed an empire in 1721, it later became the largest part of the Soviet Union, formed in 1922. Three-fourths of its people live in urban areas.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Russia",
+    "https://www.wikidata.org/wiki/Q159"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:ISS006-E-38664 - View of the Cook Islands.jpg",
+    "alt": "Cook Islands seen from the International Space Station"
+  },
+  "facts": [
+    "15 islands with about 236.7 km² of land",
+    "In Polynesia, in the South Pacific Ocean"
+  ],
+  "worth_knowing": "Small islands spread over a vast sea: their exclusive economic zone covers about 1.96 million km² of ocean, against about 237 km² of land.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Cook_Islands",
+    "https://www.wikidata.org/wiki/Q26988"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

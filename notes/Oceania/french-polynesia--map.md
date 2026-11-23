@@ -18,6 +18,10 @@ What is highlighted on this map?
 
 <div class="cmp-map" data-focus="PYF" data-pin="-17.5334,-149.5667" data-label="Papeete"><img src="../../media/cx-locator-french-polynesia.svg" alt="Map of French Polynesia with Papeete marked"></div>
 
+Land area of 3,521 km², scattered over more than 2,000 km of ocean<br>Highest point: Mount Orohena on Tahiti
+
+Tahiti, in the Society Islands, is the largest and most populated island. Bora Bora, Mo'orea and Nuku Hiva are among the other important islands.
+
 Overseas territory of France.
 
 <a href="https://en.wikipedia.org/wiki/French_Polynesia">French Polynesia on Wikipedia</a>

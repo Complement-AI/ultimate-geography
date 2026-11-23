@@ -16,4 +16,8 @@ What is highlighted on this map?
 
 ## Extra
 
+About 300,000 km2, over 700 km north to south<br>Maximum depth 69 m
+
+A very shallow sea off northern Australia: its general depth is only 55 to 66 m.
+
 <a href="https://en.wikipedia.org/wiki/Gulf_of_Carpentaria">Gulf of Carpentaria on Wikipedia</a>

@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Un aperçu de la ville de conakry.jpg",
+    "alt": "A view over a port city"
+  },
+  "facts": [
+    "About 3.4 million people (2025 census)",
+    "On the Kaloum Peninsula, a narrow strip of land"
+  ],
+  "worth_knowing": "The city was essentially founded after Britain ceded Tombo Island to France in 1887. It became capital of French Guinea in 1904 and prospered as an export port.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Conakry",
+    "https://www.wikidata.org/wiki/Q3733"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

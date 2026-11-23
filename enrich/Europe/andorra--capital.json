@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Andorra la Vella - view2.jpg",
+    "alt": "View of the town from its northern side"
+  },
+  "facts": [
+    "About 24,000 people (2023)",
+    "1,023 m up, the highest capital city in Europe"
+  ],
+  "worth_knowing": "The name means \"the city of Andorra\"; vella here comes from the Latin villa, \"city\", not from the similar word for \"old\". The Casa de la Vall, built in the early 16th century, has been the parliament house since 1702.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Andorra_la_Vella",
+    "https://www.wikidata.org/wiki/Q1863"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

@@ -16,6 +16,10 @@ What is highlighted on this map?
 
 ## Extra
 
+About 83,500 km² of land<br>Borders Suriname to the west and Brazil to the east and south
+
+About 98.9% of it is forest, much of it primeval rainforest. The Guiana Space Centre is the European Space Agency's main launch site, near the equator.
+
 Overseas department of France.
 
 <a href="https://en.wikipedia.org/wiki/French_Guiana">French Guiana on Wikipedia</a>

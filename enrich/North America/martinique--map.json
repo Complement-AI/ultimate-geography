@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Martinique 14.6346N 61.0051W Landsat7.jpg",
+    "alt": "Martinique from orbit"
+  },
+  "facts": [
+    "About 350,000 people (January 2024) on 1,128 km²",
+    "Highest point Mount Pelée"
+  ],
+  "worth_knowing": "It lies directly north of Saint Lucia and south of Dominica. Its name is thought to be a corruption of Madinina, 'island of flowers'.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Martinique",
+    "https://www.wikidata.org/wiki/Q17054"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

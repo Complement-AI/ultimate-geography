@@ -1,0 +1,14 @@
+{
+  "photo": null,
+  "facts": [
+    "About 1.33 billion people (2020), the most of any country",
+    "Highest point is Kanchenjunga"
+  ],
+  "worth_knowing": "The world's most populous country and seventh largest by area. It is bounded by the Indian Ocean, the Arabian Sea and the Bay of Bengal.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/India",
+    "https://www.wikidata.org/wiki/Q668"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

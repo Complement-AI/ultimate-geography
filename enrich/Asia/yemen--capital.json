@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:San'a03 flickr.jpg",
+    "alt": "Tall decorated buildings in the old city of Sanaa"
+  },
+  "facts": [
+    "About 3.3 million people (2023)",
+    "2,300 m up, the seventh-highest capital in the world"
+  ],
+  "worth_knowing": "Its Old City is a UNESCO World Heritage Site, known for multi-story buildings decorated with geometric patterns. It is Yemen's constitutional capital and largest city.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Sanaa",
+    "https://www.wikidata.org/wiki/Q2471"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

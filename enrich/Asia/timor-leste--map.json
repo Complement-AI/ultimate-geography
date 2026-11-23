@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Lospalos klein.jpg",
+    "alt": "A town view in eastern Timor-Leste"
+  },
+  "facts": [
+    "Land area of 15,007 km²",
+    "Only land border is with Indonesia, to the west"
+  ],
+  "worth_knowing": "Comprises the eastern half of Timor, the coastal exclave of Oecusse in the northwest, and the islands of Atauro and Jaco. Australia lies across the Timor Sea.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Timor-Leste",
+    "https://www.wikidata.org/wiki/Q574"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

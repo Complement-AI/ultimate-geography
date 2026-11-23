@@ -1,0 +1,16 @@
+{
+  "photo": {
+    "commons": "File:Embalse la Vueltosa 2022.jpg",
+    "alt": "The La Vueltosa reservoir in Venezuela"
+  },
+  "facts": [
+    "About 31.3 million people (2024) on 912,050 km²"
+  ],
+  "worth_knowing": "Stilt houses around Lake Maracaibo reminded Amerigo Vespucci of Venice, so he called the region Veneziola, \"Little Venice\".",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Venezuela",
+    "https://www.wikidata.org/wiki/Q717"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

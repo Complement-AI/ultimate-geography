@@ -16,6 +16,10 @@ What is highlighted on this map?
 
 ## Extra
 
+Nearest land is North Carolina, about 1,035 km to the west-northwest<br>An archipelago of 181 islands in 54 km² of land
+
+The most significant islands are joined by bridges and appear to form one landmass. A coral reef gives the territory some protection from tropical cyclones.
+
 Overseas territory of the United Kingdom.
 
 <a href="https://en.wikipedia.org/wiki/Bermuda">Bermuda on Wikipedia</a>

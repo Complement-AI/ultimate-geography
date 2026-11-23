@@ -18,6 +18,10 @@ Whose flag is this?
 
 <div class="cmp-map" data-focus="SLV" data-pin="13.7119,-89.205" data-label="San Salvador"><img src="../../media/cx-locator-el-salvador.svg" alt="Map of El Salvador with San Salvador marked"></div>
 
+Adopted on 24 March 1916
+
+Officially the Bandera Magna, 'Great Flag'. It follows the flag of the Federal Republic of Central America, itself inspired by Argentina's. From 1865 to 1912 the flag resembled that of the United States.
+
 Similar flags: Nicaragua (different coat of arms, slightly lighter blue)
 
 <a href="https://en.wikipedia.org/wiki/Flag_of_El_Salvador">Flag of El Salvador on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/El_Salvador">El Salvador on Wikipedia</a>

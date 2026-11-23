@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Greenland 42.74746W 71.57394N.jpg",
+    "alt": "Satellite photo of Greenland"
+  },
+  "facts": [
+    "About 56,500 people (2025)",
+    "Highest point Gunnbjørn Fjeld"
+  ],
+  "worth_knowing": "The world's largest island. Its citizens are citizens of Denmark and so of the EU, though Greenland itself is not part of the EU.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Greenland",
+    "https://www.wikidata.org/wiki/Q223"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

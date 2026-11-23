@@ -16,4 +16,8 @@ What is highlighted on this map?
 
 ## Extra
 
+About 4.79 million km², extending 2,000 km down Australia's northeast coast<br>Between Queensland, Vanuatu and New Caledonia
+
+Contains the Great Barrier Reef, the world's largest reef system. It was also the site of the Battle of the Coral Sea in World War II.
+
 <a href="https://en.wikipedia.org/wiki/Coral_Sea">Coral Sea on Wikipedia</a>

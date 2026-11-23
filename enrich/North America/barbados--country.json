@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Barbados (50).jpg",
+    "alt": "Crane Beach on the coast"
+  },
+  "facts": [
+    "About 303,000 people (2023) in 439 km²",
+    "Highest point: Mount Hillaby, 340 m"
+  ],
+  "worth_knowing": "A sovereign state since 30 November 1966, it became a republic within the Commonwealth on 30 November 2021, replacing its monarchy with a ceremonial president.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Barbados",
+    "https://www.wikidata.org/wiki/Q244"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

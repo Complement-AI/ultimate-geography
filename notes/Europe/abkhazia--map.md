@@ -16,6 +16,8 @@ What is highlighted on this map?
 
 ## Extra
 
+Borders Georgia and Russia<br>On the eastern coast of the Black Sea
+
 Independent state claimed by Georgia.
 
 <a href="https://en.wikipedia.org/wiki/Abkhazia">Abkhazia on Wikipedia</a>

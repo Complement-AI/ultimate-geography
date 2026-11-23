@@ -18,6 +18,10 @@ What is highlighted on this map?
 
 <div class="cmp-map" data-focus="CZE" data-pin="50.0853,14.464" data-label="Prague"><img src="../../media/cx-locator-czech-republic.svg" alt="Map of Czech Republic with Prague marked"></div>
 
+Landlocked, bordered by Austria, Germany, Poland and Slovakia<br>About 78,900 km2
+
+A hilly country, traditionally divided into three lands: Bohemia in the west, Moravia in the east and Czech Silesia in the northeast.
+
 Also known as Czechia.
 
 <a href="https://en.wikipedia.org/wiki/Czech_Republic">Czech Republic on Wikipedia</a>

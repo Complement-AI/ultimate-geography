@@ -18,4 +18,8 @@ Whose flag is this?
 
 <div class="cmp-map" data-focus="URY" data-pin="-34.8561,-56.173" data-label="Montevideo"><img src="../../media/cx-locator-uruguay.svg" alt="Map of Uruguay with Montevideo marked"></div>
 
+First adopted by law on 18 December 1828, with 19 stripes until 1830
+
+Nine stripes stand for the nine original departments, modelled on the US flag. The golden Sun of May, with 16 rays, represents the May Revolution of 1810.
+
 <a href="https://en.wikipedia.org/wiki/Flag_of_Uruguay">Flag of Uruguay on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Uruguay">Uruguay on Wikipedia</a>

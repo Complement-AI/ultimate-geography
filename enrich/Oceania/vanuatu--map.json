@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Satellite image of Vanuatu in October 1998.jpg",
+    "alt": "Satellite image of an island chain in the South Pacific"
+  },
+  "facts": [
+    "An archipelago of volcanic origin",
+    "1,750 km east of northern Australia"
+  ],
+  "worth_knowing": "The largest island is Espíritu Santo. The archipelago lies 540 km northeast of New Caledonia and west of Fiji.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Vanuatu",
+    "https://www.wikidata.org/wiki/Q686"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

@@ -1,0 +1,16 @@
+{
+  "photo": {
+    "commons": "File:Elmek Nimir Bridge.jpg",
+    "alt": "A bridge over the Nile at the city"
+  },
+  "facts": [
+    "Metropolitan area of about 5.3 million people (2018)",
+    "At the confluence of the White Nile and the Blue Nile"
+  ],
+  "worth_knowing": "Founded in 1821 by Muhammad Ali Pasha, north of the ancient city of Soba. Bridges link Khartoum proper to Khartoum North and Omdurman.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Khartoum"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

@@ -1,0 +1,16 @@
+{
+  "photo": {
+    "commons": "File:Quartier OCH.jpg",
+    "alt": "A neighbourhood of the city"
+  },
+  "facts": [
+    "About 2.1 million people (2023), over a third of the country",
+    "On the north bank of the Congo River, opposite Kinshasa"
+  ],
+  "worth_knowing": "Named for the explorer Pierre Savorgnan de Brazza, credited with founding the town. From 1940 to 1942 it was the de facto capital of Free France.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Brazzaville"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

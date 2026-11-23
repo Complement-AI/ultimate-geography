@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Ankara (16290014657).jpg",
+    "alt": "A view of Ankara"
+  },
+  "facts": [
+    "About 5.8 million people (2023), second to Istanbul",
+    "938 m up, in central Anatolia"
+  ],
+  "worth_knowing": "Historically known as Ancyra and Angora. The Grand National Assembly of Turkey was established here on 23 April 1920, in the years of the Turkish National Movement.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Ankara",
+    "https://www.wikidata.org/wiki/Q3640"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

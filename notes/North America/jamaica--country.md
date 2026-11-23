@@ -16,4 +16,8 @@ tags  = ["caribbean", "north_america", "sovereign_state", "country"]
 
 <div class="cmp-map" data-focus="JAM" data-pin="17.9771,-76.7674" data-label="Kingston"><img src="../../media/cx-locator-jamaica.svg" alt="Map of Jamaica with Kingston marked"></div>
 
+About 2.7 million people (2019) in 10,992 km²
+
+The third-largest island in the Greater Antilles and the Caribbean, after Cuba and Hispaniola.
+
 <a href="https://en.wikipedia.org/wiki/Jamaica">Jamaica on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Kingston,_Jamaica">Kingston, Jamaica on Wikipedia</a>

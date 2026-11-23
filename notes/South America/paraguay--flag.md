@@ -18,4 +18,8 @@ Whose flag is this?
 
 <div class="cmp-map" data-focus="PRY" data-pin="-25.2945,-57.6435" data-label="Asunción"><img src="../../media/cx-locator-paraguay.svg" alt="Map of Paraguay with Asunción marked"></div>
 
+First adopted in 1842
+
+The only national flag in the world with a different design on each side: the national seal on the front and the seal of the treasury on the back. Its colours echo the French Tricolour.
+
 <a href="https://en.wikipedia.org/wiki/Flag_of_Paraguay">Flag of Paraguay on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Paraguay">Paraguay on Wikipedia</a>

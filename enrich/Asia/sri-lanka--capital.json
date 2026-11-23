@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Fountain at Diyatha Uyana.JPG",
+    "alt": "A fountain in a park in Sri Jayawardenepura Kotte"
+  },
+  "facts": [
+    "About 116,000 people (2025)",
+    "Next to Colombo, the largest city"
+  ],
+  "worth_knowing": "The legislative capital of Sri Lanka. In the 13th century a local chieftain, Nissanka Alagakkonara, built a Kotte, or fortress, on a naturally secure site at the meeting of two streams.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Sri_Jayawardenepura_Kotte",
+    "https://www.wikidata.org/wiki/Q41963"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

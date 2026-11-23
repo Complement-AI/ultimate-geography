@@ -1,0 +1,16 @@
+{
+  "photo": {
+    "commons": "File:Approaching St Kitts and Nevis - southern tip of St. Kitts - panoramio.jpg",
+    "alt": "The southern tip of Saint Kitts seen from the sea"
+  },
+  "facts": [
+    "About 47,000 people (2025) in 261 km²"
+  ],
+  "worth_knowing": "The smallest sovereign state in the Western Hemisphere in both area and population, and the world's smallest sovereign federation.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Kitts_and_Nevis",
+    "https://www.wikidata.org/wiki/Q763"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

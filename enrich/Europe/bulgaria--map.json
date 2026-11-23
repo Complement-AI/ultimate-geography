@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Rila Monastery, August 2013.jpg",
+    "alt": "Rila Monastery among forested mountains"
+  },
+  "facts": [
+    "Borders Greece, Turkey, Serbia, North Macedonia and Romania",
+    "The Danube forms the border with Romania, the Black Sea the east"
+  ],
+  "worth_knowing": "The Balkan Mountains run from west to east through the middle of the country. Musala, in the Rila range, is the highest point in both Bulgaria and the Balkans.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Bulgaria",
+    "https://www.wikidata.org/wiki/Q219"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

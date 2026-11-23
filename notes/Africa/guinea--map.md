@@ -18,4 +18,6 @@ What is highlighted on this map?
 
 <div class="cmp-map" data-focus="GIN" data-pin="9.5335,-13.6822" data-label="Conakry"><img src="../../media/cx-locator-guinea.svg" alt="Map of Guinea with Conakry marked"></div>
 
+Atlantic coast, bordering Guinea-Bissau, Senegal, Mali, Ivory Coast, Sierra Leone and Liberia<br>Highest point: Mount Richard-Molard
+
 <a href="https://en.wikipedia.org/wiki/Guinea">Guinea on Wikipedia</a>

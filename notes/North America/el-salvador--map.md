@@ -18,4 +18,8 @@ What is highlighted on this map?
 
 <div class="cmp-map" data-focus="SLV" data-pin="13.7119,-89.205" data-label="San Salvador"><img src="../../media/cx-locator-el-salvador.svg" alt="Map of El Salvador with San Salvador marked"></div>
 
+Borders Guatemala and Honduras<br>Highest point Cerro El Pital
+
+It lies along the Pacific coast, with Guatemala to the northwest and Honduras to the northeast. Volcanic ash has blanketed possible archaeological sites.
+
 <a href="https://en.wikipedia.org/wiki/El_Salvador">El Salvador on Wikipedia</a>

@@ -18,4 +18,8 @@ What is highlighted on this map?
 
 <div class="cmp-map" data-focus="TON" data-pin="-21.1385,-175.2206" data-label="Nukuʻalofa"><img src="../../media/cx-locator-tonga.svg" alt="Map of Tonga with Nukuʻalofa marked"></div>
 
+About 750 km² of land scattered over 700,000 km² of ocean<br>About 800 km from north to south
+
+70% of the people live on the main island, Tongatapu. Niue is the nearest foreign territory, to the east.
+
 <a href="https://en.wikipedia.org/wiki/Tonga">Tonga on Wikipedia</a>

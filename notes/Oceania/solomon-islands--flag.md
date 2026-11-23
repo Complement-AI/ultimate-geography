@@ -18,4 +18,8 @@ Whose flag is this?
 
 <div class="cmp-map" data-focus="SLB" data-pin="-9.438,159.9498" data-label="Honiara"><img src="../../media/cx-locator-solomon-islands.svg" alt="Map of Solomon Islands with Honiara marked"></div>
 
+Adopted on 18 November 1977, eight months before independence
+
+Blue for water, green for the land and a yellow diagonal for the sun. The five stars first stood for the five provinces, and the number stayed the same as new provinces were created.
+
 <a href="https://en.wikipedia.org/wiki/Flag_of_Solomon_Islands">Flag of Solomon Islands on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Solomon_Islands">Solomon Islands on Wikipedia</a>

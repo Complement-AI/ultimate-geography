@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:New Caledonia after the passage of tropical cyclone Niran.jpg",
+    "alt": "New Caledonia seen from space after a cyclone"
+  },
+  "facts": [
+    "About 264,600 people (April 2025 census)",
+    "18,575 km² of land"
+  ],
+  "worth_knowing": "Grande Terre is nicknamed le Caillou, the Pebble, a name also used for the whole territory. The indigenous Kanak people make up 41% of the population.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/New_Caledonia",
+    "https://www.wikidata.org/wiki/Q33788"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

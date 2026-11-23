@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Mauritius 23.08.2009 11-42-31.jpg",
+    "alt": "Landscape in the Domaine du Chasseur nature reserve, Grand Port"
+  },
+  "facts": [
+    "About 2,040 km², with outlying islands including Rodrigues and Agaléga",
+    "One of the Mascarene Islands, east of Madagascar"
+  ],
+  "worth_knowing": "The main island, where the population is concentrated, was the only known home of the dodo, which became extinct soon after human settlement.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Mauritius",
+    "https://www.wikidata.org/wiki/Q1027"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

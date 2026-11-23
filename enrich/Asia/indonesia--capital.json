@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Jakarta.jpg",
+    "alt": "Jakarta's skyline"
+  },
+  "facts": [
+    "About 11.1 million people (2024)",
+    "91 m above sea level"
+  ],
+  "worth_knowing": "The Dutch East India Company seized Jayakarta in 1619 and rebuilt it as Batavia. The Japanese renamed it Jakarta during World War II. Plans to move the capital to Nusantara began in 2022.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Jakarta",
+    "https://www.wikidata.org/wiki/Q3630"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

@@ -1,0 +1,14 @@
+{
+  "photo": null,
+  "facts": [
+    "About 138,600 km², up to 1,233 m deep",
+    "Coasts on Albania, Bosnia and Herzegovina, Croatia, Italy, Montenegro and Slovenia"
+  ],
+  "worth_knowing": "Less salty than the Mediterranean it feeds into, because it collects a third of the fresh water flowing into the Mediterranean.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Adriatic_Sea",
+    "https://www.wikidata.org/wiki/Q13924"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

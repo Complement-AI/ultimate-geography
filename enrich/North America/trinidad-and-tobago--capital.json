@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:POS SKYLINE 2024 BEAUTIFUL EVAN-P 2024 10-8.jpg",
+    "alt": "The Port of Spain skyline in 2024"
+  },
+  "facts": [
+    "About 49,900 people in the municipality (2017)",
+    "On the Gulf of Paria, on the northwest coast of Trinidad"
+  ],
+  "worth_knowing": "It has been the island's capital since 1757. It is part of a conurbation of about 600,000 people stretching from Chaguaramas to Arima.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Port_of_Spain",
+    "https://www.wikidata.org/wiki/Q39178"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

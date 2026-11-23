@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Asunción Paraguay.jpg",
+    "alt": "The city of Asunción"
+  },
+  "facts": [
+    "About 462,000 people (2022)",
+    "On the eastern bank of the Paraguay River"
+  ],
+  "worth_knowing": "Known as the Mother of Cities. It is one of the oldest cities in South America, and colonial expeditions set out from it to found others, including the second founding of Buenos Aires.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Asunci%C3%B3n",
+    "https://www.wikidata.org/wiki/Q2933"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

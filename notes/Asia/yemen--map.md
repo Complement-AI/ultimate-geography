@@ -18,4 +18,8 @@ What is highlighted on this map?
 
 <div class="cmp-map" data-focus="YEM" data-pin="15.3567,44.2046" data-label="Sanaa"><img src="../../media/cx-locator-yemen.svg" alt="Map of Yemen with Sanaa marked"></div>
 
+Borders Saudi Arabia and Oman<br>Area of 455,503 km², with about 2,000 km of coast
+
+Includes the Socotra Archipelago. The Red Sea lies to the west, the Gulf of Aden to the south and the Arabian Sea to the east.
+
 <a href="https://en.wikipedia.org/wiki/Yemen">Yemen on Wikipedia</a>

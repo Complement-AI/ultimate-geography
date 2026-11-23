@@ -67,6 +67,34 @@ repeat the capital card's fact on the country card.
 5. A second model checks each card against the same sources file and sets
    `checked_by`. A card it can't verify is removed, not softened.
 
+## Photos
+
+- At most two photos per place: the capital's city photo on its `--capital` card,
+  and one landscape for the country, used by both its `--country` and `--map` cards
+  (write the same `commons` name in both files; it is stored once).
+- Take the photo from the sources file's `image` (the article's Wikidata picture)
+  when `usable` is true and it shows the place, not a flag, coat of arms, map,
+  locator, seal or portrait. Otherwise pick a well-known Commons photo that the
+  article itself uses, or set `photo` to `null`. Never guess a file name: it must
+  appear in the sources file or the article.
+- Flags, oceans, seas and continents: `photo` is `null` unless a striking,
+  clearly-licensed photo is in the sources file.
+
+## Working in batches
+
+Several writers may run at once, one batch of places each.
+
+- Write only the `enrich/<Subdeck>/<slug>--<direction>.json` files of your batch.
+  Don't touch other files, don't run `enrich_photos.py` or `convert.py` (they are
+  run once at the end), and don't commit.
+- Fetch sources with `enrich_sources.py` into `enrich/_sources/` and wait a second
+  between fetches; it backs off on Wikipedia's 429s.
+- Read sources with targeted searches (grep the `extract` for the sentences you
+  need, read the `wikidata` block), not whole 30 KB extracts.
+- `written_by` is your model id; leave `checked_by` null. A second pass checks
+  every file against the same sources and sets it.
+- Skip a card rather than pad it: no file is fine.
+
 ## Style
 
 - Facts: short noun phrases, no full stop, at most two. Round numbers ("about

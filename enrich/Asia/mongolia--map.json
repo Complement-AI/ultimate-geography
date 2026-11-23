@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Gurvger.jpg",
+    "alt": "A ger below the Gurvan Saikhan mountains in the Gobi"
+  },
+  "facts": [
+    "Landlocked between Russia and China",
+    "1.56 million km², the second largest landlocked country"
+  ],
+  "worth_knowing": "Grassy steppe covers much of it, with mountains to the north and west and the Gobi Desert to the south.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Mongolia",
+    "https://www.wikidata.org/wiki/Q711"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

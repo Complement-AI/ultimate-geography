@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Kichi Ak Suu Sanctuary, Issyk Kul Region, Kyrgyzstan 001.jpg",
+    "alt": "Mountain valley in the Issyk-Kul region"
+  },
+  "facts": [
+    "About 7.3 million people (2025) in 199,951 km²",
+    "Highest point is Jengish Chokusu"
+  ],
+  "worth_knowing": "Landlocked and highly mountainous, but at the crossroads of several civilisations as part of the Silk Road.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Kyrgyzstan",
+    "https://www.wikidata.org/wiki/Q813"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

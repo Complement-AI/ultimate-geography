@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:ARUBA-oranjestad-hafen-1.jpg",
+    "alt": "View over Oranjestad from the cruise port"
+  },
+  "facts": [
+    "About 28,700 people (2020)",
+    "On the southwestern coast of the island"
+  ],
+  "worth_knowing": "The name is Dutch for \"Orange City\". It grew from a trading settlement on Paardenbaai (\"Bay of Horses\"), where urban development began in the 1790s.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Oranjestad",
+    "https://www.wikidata.org/wiki/Q131243"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

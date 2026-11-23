@@ -18,6 +18,10 @@ Whose flag is this?
 
 <div class="cmp-map" data-focus="BHR" data-pin="26.2361,50.5831" data-label="Manama"><img src="../../media/cx-locator-bahrain.svg" alt="Map of Bahrain with Manama marked"></div>
 
+Five points since 14 February 2002, down from eight in 1972
+
+The five white points stand for the five pillars of Islam, the red for the blood of the martyrs and the battles of Bahrain, and the white for peace. Qatar's similar flag is maroon, with nine points.
+
 Similar flags: Qatar (wider, more serrated edges, maroon)
 
 <a href="https://en.wikipedia.org/wiki/Flag_of_Bahrain">Flag of Bahrain on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Bahrain">Bahrain on Wikipedia</a>

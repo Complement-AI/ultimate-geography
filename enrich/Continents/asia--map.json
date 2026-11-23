@@ -1,0 +1,14 @@
+{
+  "photo": null,
+  "facts": [
+    "More than 44 million km², the largest continent",
+    "About 4.7 billion people, roughly 60% of the world's population"
+  ],
+  "worth_knowing": "Home to the majority of the world's people for a long time, and the site of many of the first civilisations.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Asia",
+    "https://www.wikidata.org/wiki/Q48"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

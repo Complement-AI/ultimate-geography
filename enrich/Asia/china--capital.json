@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Skyline of Beijing CBD with B-5906 approaching (20211016171955).jpg",
+    "alt": "Skyline of Beijing's central business district"
+  },
+  "facts": [
+    "More than 21.8 million residents (2020 census)",
+    "Stands 43 m above sea level"
+  ],
+  "worth_knowing": "The world's most populous national capital, and the last of the Four Great Ancient Capitals of China. It has been the country's political center for most of the past eight centuries.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Beijing",
+    "https://www.wikidata.org/wiki/Q956"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

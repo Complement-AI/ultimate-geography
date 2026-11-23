@@ -1,0 +1,21 @@
+{
+  "photo": {
+    "commons": "File:Place de la nation4 (Tchad).jpg",
+    "alt": "A square in a city",
+    "file": "cx-photo-place-de-la-nation4-tchad.jpg",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Place_de_la_nation4_(Tchad).jpg",
+    "credit": "Yacoub, CC BY-SA 4.0, via Wikimedia Commons"
+  },
+  "facts": [
+    "About 1.09 million people (2012)",
+    "On the Chari River, near Lake Chad"
+  ],
+  "worth_knowing": "Founded by the French in 1900 as Fort-Lamy and renamed in 1973 to reflect its local Chadian heritage. It grew from a small trading hub into the country's political and economic centre.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/N'Djamena",
+    "https://www.wikidata.org/wiki/Q3659"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

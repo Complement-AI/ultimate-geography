@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:King Faisal Mosque.jpg",
+    "alt": "A large modern mosque below wooded hills"
+  },
+  "facts": [
+    "About 1.01 million people (2017)",
+    "490 m up, along the Margalla Hills"
+  ],
+  "worth_knowing": "A planned city, established in 1967 to replace Karachi as the capital. The Greek architect Constantinos Apostolou Doxiadis drew the master plan and divided it into eight zones.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Islamabad",
+    "https://www.wikidata.org/wiki/Q1362"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

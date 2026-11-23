@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Cloud-free Iceland ESA22181280 (cropped).jpeg",
+    "alt": "Iceland from orbit on a cloud-free day"
+  },
+  "facts": [
+    "An island country on the Mid-Atlantic Ridge, about 103,000 km2",
+    "Europe's westernmost country"
+  ],
+  "worth_knowing": "The interior is a volcanic plateau with sand and lava fields, mountains and glaciers, and many glacial rivers flow to the sea through the lowlands.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Iceland",
+    "https://www.wikidata.org/wiki/Q189"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

@@ -18,4 +18,8 @@ Whose flag is this?
 
 <div class="cmp-map" data-focus="SOM" data-pin="2.0686,45.3647" data-label="Mogadishu"><img src="../../media/cx-locator-somalia.svg" alt="Map of Somalia with Mogadishu marked"></div>
 
+Adopted on 12 October 1954
+
+Designed by Mohammed Awale Liban. The white five-pointed star represents the five regions where Somalis live.
+
 <a href="https://en.wikipedia.org/wiki/Flag_of_Somalia">Flag of Somalia on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Somalia">Somalia on Wikipedia</a>

@@ -16,4 +16,8 @@ What is the capital of <b>Tajikistan</b>?
 
 <div class="cmp-map" data-focus="TJK" data-pin="38.56,68.7739" data-label="Dushanbe"><img src="../../media/cx-locator-tajikistan.svg" alt="Map of Tajikistan with Dushanbe marked"></div>
 
+About 1.2 million people (2022)<br>In the Hisar Valley, at 750 to 930 m
+
+Known in Russian as Dyushambe until 1929, then as Stalinabad, after Joseph Stalin, until 1961.
+
 <a href="https://en.wikipedia.org/wiki/Dushanbe">Dushanbe on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Tajikistan">Tajikistan on Wikipedia</a>

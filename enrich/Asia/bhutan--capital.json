@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Thimphu-12-vom Buddha Dordenma-2015-gje.jpg",
+    "alt": "View over Thimphu"
+  },
+  "facts": [
+    "About 115,000 people (2017)",
+    "2,248 to 2,648 m up, the highest capital in Asia"
+  ],
+  "worth_knowing": "Thimphu replaced Punakha as the capital in 1955 and was officially declared the capital in 1961. It has no airport of its own and relies on Paro, 52 km away by road.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Thimphu",
+    "https://www.wikidata.org/wiki/Q9270"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

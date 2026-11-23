@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Madrid (38624991251).jpg",
+    "alt": "Street scene in central Madrid"
+  },
+  "facts": [
+    "About 3.5 million people (2025) in the city proper",
+    "About 660 m above sea level, on the River Manzanares"
+  ],
+  "worth_knowing": "It began as a walled military outpost in the late 9th century and became the permanent seat of the court in 1561. It is the second-largest city in the European Union, after Berlin.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Madrid",
+    "https://www.wikidata.org/wiki/Q2807"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

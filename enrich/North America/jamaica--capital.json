@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:PortofKingston.jpg",
+    "alt": "Ships at the port of Kingston"
+  },
+  "facts": [
+    "About 938,000 people (2025)",
+    "On the southeastern coast, facing a natural harbour"
+  ],
+  "worth_knowing": "The Palisadoes, a long sand spit, protects the harbour and links Port Royal and the airport to the rest of the island. It is the largest English-speaking city south of the United States in the Western Hemisphere.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Kingston%2C_Jamaica",
+    "https://www.wikidata.org/wiki/Q34692"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

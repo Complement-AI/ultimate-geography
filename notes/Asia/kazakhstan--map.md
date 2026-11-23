@@ -18,4 +18,8 @@ What is highlighted on this map?
 
 <div class="cmp-map" data-focus="KAZ" data-pin="51.1811,71.4278" data-label="Astana"><img src="../../media/cx-locator-kazakhstan.svg" alt="Map of Kazakhstan with Astana marked"></div>
 
+Borders Russia, China, Kyrgyzstan, Uzbekistan and Turkmenistan<br>Highest point is Khan Tengri
+
+Primarily in Central Asia, with a portion extending into Eastern Europe, and a coastline along the Caspian Sea.
+
 <a href="https://en.wikipedia.org/wiki/Kazakhstan">Kazakhstan on Wikipedia</a>

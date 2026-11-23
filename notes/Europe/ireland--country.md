@@ -16,4 +16,8 @@ tags  = ["europe", "european_union", "sovereign_state", "country"]
 
 <div class="cmp-map" data-focus="IRL" data-pin="53.335,-6.2509" data-label="Dublin"><img src="../../media/cx-locator-ireland.svg" alt="Map of Ireland with Dublin marked"></div>
 
+About 5.1 million people (2022 census)<br>Highest point: Carrauntoohil
+
+It consists of 26 of the 32 counties of the island of Ireland. Its legislature, the Oireachtas, has a lower house, Dáil Éireann, and an upper house, Seanad Éireann.
+
 <a href="https://en.wikipedia.org/wiki/Republic_of_Ireland">Republic of Ireland on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Dublin">Dublin on Wikipedia</a>

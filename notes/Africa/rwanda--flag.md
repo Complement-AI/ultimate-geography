@@ -18,4 +18,8 @@ Whose flag is this?
 
 <div class="cmp-map" data-focus="RWA" data-pin="-1.9516,30.0586" data-label="Kigali"><img src="../../media/cx-locator-rwanda.svg" alt="Map of Rwanda with Kigali marked"></div>
 
+Adopted on 31 December 2001
+
+Its designer Alphonse Kirimobenecyo showed the sun illuminating Rwanda's vegetation. The golden sun stands for national unity, transparency and the enlightenment of the Rwandan people.
+
 <a href="https://en.wikipedia.org/wiki/Flag_of_Rwanda">Flag of Rwanda on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Rwanda">Rwanda on Wikipedia</a>

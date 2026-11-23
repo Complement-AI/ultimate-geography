@@ -1,0 +1,16 @@
+{
+  "photo": {
+    "commons": "File:Windhoek-Skyline.jpg",
+    "alt": "The skyline of the city"
+  },
+  "facts": [
+    "About 486,000 people (2023), the country's largest city",
+    "On the Khomas Highland plateau, around 1,700 m above sea level"
+  ],
+  "worth_knowing": "It grew at a hot spring known to local pastoral tribes, then was founded a second time in 1890 by a German army major when the territory was colonised by the German Empire.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Windhoek"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

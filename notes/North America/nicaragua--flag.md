@@ -18,6 +18,10 @@ Whose flag is this?
 
 <div class="cmp-map" data-focus="NIC" data-pin="12.155,-86.2704" data-label="Managua"><img src="../../media/cx-locator-nicaragua.svg" alt="Map of Nicaragua with Managua marked"></div>
 
+First adopted in 1908, made official on 27 August 1971
+
+One of the few flags with purple, which comes from the rainbow in its coat of arms. Like Guatemala, El Salvador, Honduras and Costa Rica, it is based on the flag of the Federal Republic of Central America.
+
 Similar flags: El Salvador (different coat of arms, slightly darker blue)
 
 <a href="https://en.wikipedia.org/wiki/Flag_of_Nicaragua">Flag of Nicaragua on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Nicaragua">Nicaragua on Wikipedia</a>

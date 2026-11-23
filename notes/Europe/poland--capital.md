@@ -16,4 +16,8 @@ What is the capital of <b>Poland</b>?
 
 <div class="cmp-map" data-focus="POL" data-pin="52.2519,20.9981" data-label="Warsaw"><img src="../../media/cx-locator-poland.svg" alt="Map of Poland with Warsaw marked"></div>
 
+About 1.87 million people (2024) in the city<br>On the Vistula river, in east-central Poland
+
+The capital moved here from Kraków after 1596, when Sigismund III relocated his court. Much of the historic city was destroyed in World War II.
+
 <a href="https://en.wikipedia.org/wiki/Warsaw">Warsaw on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Poland">Poland on Wikipedia</a>

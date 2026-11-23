@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Aussenministerium und Avenida de Portugal.jpg",
+    "alt": "A government building on an avenue in Dili"
+  },
+  "facts": [
+    "About 222,000 people (2015)",
+    "11 m up on the north coast, on flat land hemmed in by mountains"
+  ],
+  "worth_knowing": "Capital of Portuguese Timor since 1769, it has served as the chief port and economic hub of what is now Timor-Leste ever since.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Dili",
+    "https://www.wikidata.org/wiki/Q9310"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

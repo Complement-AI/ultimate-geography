@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Marcus Aurelius Arch Tripoli Libya.jpg",
+    "alt": "A Roman triumphal arch in a city"
+  },
+  "facts": [
+    "About 3.2 million people (2021)",
+    "On a rocky point projecting into the Mediterranean"
+  ],
+  "worth_knowing": "Founded in the 7th century BC by the Phoenicians, who called it Oyat. It later passed to the Greek rulers of Cyrenaica as Oea.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Tripoli,_Libya",
+    "https://www.wikidata.org/wiki/Q3579"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

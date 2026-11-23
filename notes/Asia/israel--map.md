@@ -18,4 +18,8 @@ What is highlighted on this map?
 
 <div class="cmp-map" data-focus="ISR" data-pin="31.7784,35.2066" data-label="Jerusalem"><img src="../../media/cx-locator-israel.svg" alt="Map of Israel with Jerusalem marked"></div>
 
+Highest point is Meron<br>Borders Lebanon, Syria, Jordan and Egypt
+
+A narrow country with a western coast on the Mediterranean Sea. It reaches the Red Sea at its southern tip, and Earth's lowest point is near the Dead Sea to the east.
+
 <a href="https://en.wikipedia.org/wiki/Israel">Israel on Wikipedia</a>

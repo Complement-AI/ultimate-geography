@@ -16,6 +16,10 @@ What is highlighted on this map?
 
 ## Extra
 
+About 11.1 million people (2020)<br>Four independent countries: Fiji, Vanuatu, Solomon Islands and Papua New Guinea
+
+The name was first used in 1832 by the French navigator Jules Dumont d'Urville, who also coined Micronesia. It comes from Greek for the Black Islands.
+
 Subregion of Oceania, which includes Vanuatu, the Solomon Islands, Fiji, and Papua New Guinea.
 
 <a href="https://en.wikipedia.org/wiki/Melanesia">Melanesia on Wikipedia</a>

@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Souq Al Bahar From Burj Khalifa, Dubai (7997597156).jpg",
+    "alt": "Dubai seen from the Burj Khalifa"
+  },
+  "facts": [
+    "Federation of seven emirates",
+    "About 10.1 million people (2026)"
+  ],
+  "worth_knowing": "Dubai is the largest city, but Abu Dhabi is the capital. Arabic is the official language, while English is the most spoken and the language of business.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/United_Arab_Emirates",
+    "https://www.wikidata.org/wiki/Q878"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

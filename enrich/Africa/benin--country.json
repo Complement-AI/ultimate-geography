@@ -1,0 +1,14 @@
+{
+  "photo": null,
+  "facts": [
+    "About 14.1 million people (2023)",
+    "Independent from France since 1 August 1960"
+  ],
+  "worth_knowing": "Called Dahomey until 1975, when it was renamed after the Bight of Benin. The bight itself takes its name from the Kingdom of Benin, which lay in present-day Nigeria.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Benin",
+    "https://www.wikidata.org/wiki/Q962"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

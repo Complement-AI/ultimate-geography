@@ -16,4 +16,8 @@ What is highlighted on this map?
 
 ## Extra
 
+About 1,249,000 km2<br>Maximum depth 2,716 m, in the Okinawa Trough
+
+Mostly shallow: almost three-fourths of it is less than 200 m deep, and its deepest point lies in the Okinawa Trough.
+
 <a href="https://en.wikipedia.org/wiki/East_China_Sea">East China Sea on Wikipedia</a>

@@ -18,4 +18,8 @@ What is highlighted on this map?
 
 <div class="cmp-map" data-focus="BOL" data-pin="-19.041,-65.2595" data-label="Sucre"><img src="../../media/cx-locator-bolivia.svg" alt="Map of Bolivia with Sucre marked"></div>
 
+Neighbours: Brazil, Paraguay, Argentina, Chile and Peru<br>One-third of the country is in the Andes
+
+Andean region in the west, with the high Altiplano plateau, and tropical lowlands in the east and north. With Paraguay it is one of two landlocked countries in the Americas.
+
 <a href="https://en.wikipedia.org/wiki/Bolivia">Bolivia on Wikipedia</a>

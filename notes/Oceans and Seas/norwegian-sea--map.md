@@ -16,4 +16,8 @@ What is highlighted on this map?
 
 ## Extra
 
+About 1,383,000 km2<br>Bottom lies about 2 km deep on average
+
+Unlike many seas, most of its bottom is not continental shelf, so it is deep; oil and gas are explored where depths reach about 1 km.
+
 <a href="https://en.wikipedia.org/wiki/Norwegian_Sea">Norwegian Sea on Wikipedia</a>

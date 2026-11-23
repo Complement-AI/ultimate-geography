@@ -1,0 +1,14 @@
+{
+  "photo": null,
+  "facts": [
+    "About 436,000 people (2017) on 298 km²",
+    "An archipelago in the Indian Ocean"
+  ],
+  "worth_knowing": "The world's lowest-lying country: ground level averages about 1.5 m above sea level, and the highest natural point is only 2.4 m.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Maldives",
+    "https://www.wikidata.org/wiki/Q826"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

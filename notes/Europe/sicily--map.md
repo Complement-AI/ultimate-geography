@@ -16,6 +16,10 @@ What is highlighted on this map?
 
 ## Extra
 
+About 5 million people (2019) in 25,711 km²<br>Separated from Calabria by the Strait of Messina
+
+The largest and most populous island in the Mediterranean Sea. Mount Etna, the tallest active volcano in Europe, is its most prominent landmark.
+
 Autonomous region of Italy.
 
 <a href="https://en.wikipedia.org/wiki/Sicily">Sicily on Wikipedia</a>

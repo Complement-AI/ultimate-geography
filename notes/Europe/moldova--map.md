@@ -18,4 +18,8 @@ What is highlighted on this map?
 
 <div class="cmp-map" data-focus="MDA" data-pin="47.005,28.8577" data-label="Chișinău"><img src="../../media/cx-locator-moldova.svg" alt="Map of Moldova with Chișinău marked"></div>
 
+Borders Romania and Ukraine<br>Highest point: Bălănești Hill
+
+The Dniester river runs along its eastern side. The unrecognised breakaway state of Transnistria lies across it, on the border with Ukraine.
+
 <a href="https://en.wikipedia.org/wiki/Moldova">Moldova on Wikipedia</a>

@@ -1,0 +1,16 @@
+{
+  "photo": {
+    "commons": "File:Banjul Gambia skyline.jpg",
+    "alt": "The city skyline"
+  },
+  "facts": [
+    "About 26,500 people in the city proper, 405,809 in Greater Banjul (2024 census)",
+    "On St Mary's Island, where the Gambia River enters the Atlantic"
+  ],
+  "worth_knowing": "From the 19th century until 24 April 1973 the city was known as Bathurst. Bridges link the island to the mainland.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Banjul"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

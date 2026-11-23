@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Satellite image of Japan in May 2003.jpg",
+    "alt": "Satellite image of the Japanese islands"
+  },
+  "facts": [
+    "Highest point is Mount Fuji",
+    "Sea of Japan to the west, Sea of Okhotsk in the north, East China Sea in the south"
+  ],
+  "worth_knowing": "An archipelago in the Pacific Ocean off the northeast coast of the mainland. Four major islands sit among over 14,000 smaller ones.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Japan",
+    "https://www.wikidata.org/wiki/Q17"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Beach with palms Ghana.jpg",
+    "alt": "A palm-lined beach"
+  },
+  "facts": [
+    "About 32.8 million people (2021)",
+    "Second most populous country in West Africa"
+  ],
+  "worth_knowing": "On 6 March 1957 it became the first colony in Sub-Saharan Africa to achieve sovereignty, under the name Ghana.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Ghana",
+    "https://www.wikidata.org/wiki/Q117"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

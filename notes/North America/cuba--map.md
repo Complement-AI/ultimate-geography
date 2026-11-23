@@ -18,4 +18,8 @@ What is highlighted on this map?
 
 <div class="cmp-map" data-focus="CUB" data-pin="23.1339,-82.3661" data-label="Havana"><img src="../../media/cx-locator-cuba.svg" alt="Map of Cuba with Havana marked"></div>
 
+Highest point Pico Turquino<br>Where the Caribbean Sea, Gulf of Mexico and Atlantic Ocean meet
+
+It lies east of the Yucatán Peninsula, south of Florida and the Bahamas, west of Hispaniola and north of Jamaica and the Cayman Islands.
+
 <a href="https://en.wikipedia.org/wiki/Cuba">Cuba on Wikipedia</a>

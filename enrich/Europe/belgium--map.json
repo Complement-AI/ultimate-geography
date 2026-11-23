@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Belgique - Bruxelles - Grand-Place - Côté nord-est.jpg",
+    "alt": "A historic square with ornate guild houses"
+  },
+  "facts": [
+    "Borders the Netherlands, Germany, Luxembourg and France",
+    "About 30,700 km2, with the North Sea to the west"
+  ],
+  "worth_knowing": "It lies in a coastal lowland region known as the Low Countries. The highest point, Signal de Botrange, is in the east.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Belgium",
+    "https://www.wikidata.org/wiki/Q31"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

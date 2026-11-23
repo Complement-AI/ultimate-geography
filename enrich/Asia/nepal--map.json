@@ -1,0 +1,16 @@
+{
+  "photo": {
+    "commons": "File:Satellite image of Nepal in October 2002.jpg",
+    "alt": "Nepal seen from orbit"
+  },
+  "facts": [
+    "Borders China to the north and India to the south, east and west"
+  ],
+  "worth_knowing": "Mostly Himalayas, with part of the Indo-Gangetic Plain in the south. It holds eight of the world's ten highest mountains, including Mount Everest.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Nepal",
+    "https://www.wikidata.org/wiki/Q837"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

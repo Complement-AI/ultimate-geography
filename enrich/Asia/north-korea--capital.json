@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Panoramic view from Juche Tower.jpg",
+    "alt": "Panoramic view over the city from the Juche Tower"
+  },
+  "facts": [
+    "About 3.26 million people (2008 census)",
+    "On the Taedong River, 109 km upstream from the Yellow Sea"
+  ],
+  "worth_knowing": "One of the oldest cities in Korea: according to legend it was founded in 1122 BC. The name joins the Sino-Korean words for \"flat\" and \"land\".",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pyongyang",
+    "https://www.wikidata.org/wiki/Q18808"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

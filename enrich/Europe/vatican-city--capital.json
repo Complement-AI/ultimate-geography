@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:0 Basilique Saint-Pierre - Rome (1).JPG",
+    "alt": "St Peter's Basilica and its square"
+  },
+  "facts": [
+    "About 950 people (2024)",
+    "An enclave within the city of Rome"
+  ],
+  "worth_knowing": "The city and the country are the same place: a sovereign city-state ruled by the pope. It is a World Heritage Site that includes St Peter's Basilica.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Vatican_City",
+    "https://www.wikidata.org/wiki/Q237"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

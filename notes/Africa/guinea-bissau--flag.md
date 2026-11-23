@@ -18,4 +18,8 @@ Whose flag is this?
 
 <div class="cmp-map" data-focus="GNB" data-pin="11.865,-15.5984" data-label="Bissau"><img src="../../media/cx-locator-guinea-bissau.svg" alt="Map of Guinea-Bissau with Bissau marked"></div>
 
+Adopted on 24 September 1973, at independence
+
+Almost identical to the flag of the PAIGC independence party. The black star stands for its leadership, yellow for the northern savannas and green for the southern forests.
+
 <a href="https://en.wikipedia.org/wiki/Flag_of_Guinea-Bissau">Flag of Guinea-Bissau on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Guinea-Bissau">Guinea-Bissau on Wikipedia</a>

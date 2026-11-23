@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:London Skyline (125508655).jpeg",
+    "alt": "The London skyline"
+  },
+  "facts": [
+    "About 8.8 million people (2021) in Greater London",
+    "On the River Thames, at the head of an 80 km tidal estuary"
+  ],
+  "worth_knowing": "The Romans founded the City of London as Londinium, and it has kept its medieval boundaries. London has been a major settlement for nearly 2,000 years.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/London",
+    "https://www.wikidata.org/wiki/Q84"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

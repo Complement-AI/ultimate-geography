@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Satellite image of Guatemala in April 2002.jpg",
+    "alt": "Guatemala from orbit, April 2002"
+  },
+  "facts": [
+    "Borders Mexico, Belize, Honduras and El Salvador",
+    "Highest point Volcán Tajumulco"
+  ],
+  "worth_knowing": "Bounded by the Pacific Ocean to the south and the Gulf of Honduras to the northeast.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Guatemala",
+    "https://www.wikidata.org/wiki/Q774"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

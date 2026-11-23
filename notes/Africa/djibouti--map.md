@@ -18,4 +18,8 @@ What is highlighted on this map?
 
 <div class="cmp-map" data-focus="DJI" data-pin="11.595,43.148" data-label="Djibouti"><img src="../../media/cx-locator-djibouti.svg" alt="Map of Djibouti with Djibouti marked"></div>
 
+Borders Eritrea, Ethiopia and Somalia<br>About 23,200 km²
+
+It looks out on the Red Sea and the Gulf of Aden. Its railroad to Dire Dawa, later extended to Addis Ababa, made its port the main outlet for southern Ethiopia.
+
 <a href="https://en.wikipedia.org/wiki/Djibouti">Djibouti on Wikipedia</a>

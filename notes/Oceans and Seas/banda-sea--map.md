@@ -16,4 +16,8 @@ What is highlighted on this map?
 
 ## Extra
 
+About 470,000 km², about 1,000 km east to west<br>Deepest point, Weber Deep, more than 7.2 km down
+
+One of four seas around the Maluku Islands of Indonesia. Its Weber Deep is the world's deepest forearc basin.
+
 <a href="https://en.wikipedia.org/wiki/Banda_Sea">Banda Sea on Wikipedia</a>

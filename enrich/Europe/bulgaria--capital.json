@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Panoramic view over central Sofia and the Vitosha Mountain 2017-10-08.jpg",
+    "alt": "Central Sofia with Vitosha Mountain behind"
+  },
+  "facts": [
+    "About 1.2 million people (2025), 560 m above sea level",
+    "In the Sofia Valley at the foot of Vitosha mountain"
+  ],
+  "worth_knowing": "Known as Serdica in antiquity, after the Celtic tribe Serdi. The Slavic name Sredets, related to the word for \"middle\", first appears in an 11th-century text.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Sofia",
+    "https://www.wikidata.org/wiki/Q472"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

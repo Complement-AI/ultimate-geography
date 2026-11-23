@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Gunung Merapi 2006-05-14, MODIS.jpg",
+    "alt": "Satellite view of a volcano and smoke over Java"
+  },
+  "facts": [
+    "About 160 million people (2015), the world's most populous island",
+    "Jakarta is on its northwestern coast"
+  ],
+  "worth_knowing": "A chain of volcanic mountains forms the island's east-west spine. It holds about 56% of Indonesia's people on only 7% of its land.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Java",
+    "https://www.wikidata.org/wiki/Q3757"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:17 Dead Sea (13) (13252089754).jpg",
+    "alt": "The Dead Sea shore"
+  },
+  "facts": [
+    "Borders Syria, Iraq, Saudi Arabia and Israel",
+    "Highest point is Jabal Umm ad Dami"
+  ],
+  "worth_knowing": "A small coastline on the Red Sea in the southwest, separated from Egypt by the Gulf of Aqaba. The Jordan River flows into the Dead Sea along the western border, in the Jordan Rift Valley.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Jordan",
+    "https://www.wikidata.org/wiki/Q810"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

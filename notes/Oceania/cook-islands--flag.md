@@ -18,4 +18,8 @@ Whose flag is this?
 
 <div class="cmp-map" data-focus="COK" data-pin="-21.1962,-159.7854" data-label="Avarua"><img src="../../media/cx-locator-cook-islands.svg" alt="Map of Cook Islands with Avarua marked"></div>
 
+In use since 1979, replacing the version chosen in a 1973 contest
+
+The fifteen stars in a ring stand for the fifteen islands. The blue represents the ocean and the peaceful nature of the inhabitants.
+
 <a href="https://en.wikipedia.org/wiki/Flag_of_the_Cook_Islands">Flag of the Cook Islands on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Cook_Islands">Cook Islands on Wikipedia</a>

@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Macizo Paine al Amanecer Torres del Paine.jpg",
+    "alt": "The Paine massif at sunrise in Torres del Paine"
+  },
+  "facts": [
+    "About 18.5 million people (2024 census) on 756,102 km²",
+    "Borders Peru, Bolivia and Argentina"
+  ],
+  "worth_knowing": "The southernmost country in the world and the closest to Antarctica, stretched along a narrow strip between the Andes and the Pacific Ocean.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Chile",
+    "https://www.wikidata.org/wiki/Q298"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Hong Kong from Victoria Peak1.jpg",
+    "alt": "Hong Kong's harbour and towers seen from a high peak"
+  },
+  "facts": [
+    "On China's southern coast, just south of Shenzhen",
+    "Highest point is Tai Mo Shan"
+  ],
+  "worth_knowing": "It consists of Hong Kong Island, Kowloon and the New Territories. The colony grew from the island in 1841–1842 to the Kowloon Peninsula in 1860 and then the New Territories, leased in 1898.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Hong_Kong",
+    "https://www.wikidata.org/wiki/Q8646"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

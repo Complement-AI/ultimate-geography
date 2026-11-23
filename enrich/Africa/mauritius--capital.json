@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Mauritius port louis.jpg",
+    "alt": "View of Port Louis"
+  },
+  "facts": [
+    "About 147,000 people (2018 census)",
+    "Home to the biggest port facility in the Indian Ocean region"
+  ],
+  "worth_knowing": "The port is named in honour of King Louis XV. The Moka Mountain Range shelters it from cyclone winds, which is why it was chosen for the island's main harbour and fort.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Port_Louis",
+    "https://www.wikidata.org/wiki/Q3929"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

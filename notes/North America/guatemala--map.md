@@ -18,4 +18,8 @@ What is highlighted on this map?
 
 <div class="cmp-map" data-focus="GTM" data-pin="14.6231,-90.5289" data-label="Guatemala City"><img src="../../media/cx-locator-guatemala.svg" alt="Map of Guatemala with Guatemala City marked"></div>
 
+Borders Mexico, Belize, Honduras and El Salvador<br>Highest point Volcán Tajumulco
+
+Bounded by the Pacific Ocean to the south and the Gulf of Honduras to the northeast.
+
 <a href="https://en.wikipedia.org/wiki/Guatemala">Guatemala on Wikipedia</a>

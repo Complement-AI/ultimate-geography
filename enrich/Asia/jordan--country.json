@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:17 Dead Sea (13) (13252089754).jpg",
+    "alt": "The Dead Sea shore"
+  },
+  "facts": [
+    "About 11.5 million people in 89,342 km²",
+    "Semi-arid, the eleventh-most populous Arab country"
+  ],
+  "worth_knowing": "The Arab Nabataeans established their kingdom around Petra in the third century BC. The Jordan River flows along its western border into the Dead Sea.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Jordan",
+    "https://www.wikidata.org/wiki/Q810"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

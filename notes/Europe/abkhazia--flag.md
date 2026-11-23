@@ -16,6 +16,10 @@ Whose flag is this?
 
 ## Extra
 
+Adopted on 23 July 1992, the day of the declaration of independence
+
+The seven stars in the red canton are now read as the seven historical regions. The green and white stripes stand for the tolerance that lets Christianity and Islam coexist.
+
 Independent state claimed by Georgia.
 
 <a href="https://en.wikipedia.org/wiki/Flag_of_Abkhazia">Flag of Abkhazia on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Abkhazia">Abkhazia on Wikipedia</a>

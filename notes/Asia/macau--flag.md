@@ -18,6 +18,10 @@ Whose flag is this?
 
 <div class="cmp-map" data-focus="MAC"><img src="../../media/cx-locator-macau.svg" alt="Map of Macau"></div>
 
+Emerald green with five gold stars, a lotus and a bridge
+
+The lotus is Macau's floral emblem. The bridge is the Governador Nobre de Carvalho Bridge, and the water beneath stands for its role as a port.
+
 Special Administrative Region of China.
 
 <a href="https://en.wikipedia.org/wiki/Flag_of_Macau">Flag of Macau on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Macau">Macau on Wikipedia</a>

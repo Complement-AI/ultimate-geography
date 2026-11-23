@@ -16,6 +16,10 @@ What is the capital of <b>Greenland</b>?
 
 <div class="cmp-map" data-focus="GRL" data-pin="64.1983,-51.7327" data-label="Nuuk"><img src="../../media/cx-locator-greenland.svg" alt="Map of Greenland with Nuuk marked"></div>
 
+About 20,100 people (January 2025)<br>Formerly called Godthåb in Danish
+
+One of the smallest capitals in the world by population, yet home to more than a third of Greenland's people. Hans Egede founded it in 1728, after moving from the earlier Hope Colony.
+
 Constituent country in the Kingdom of Denmark.
 
 <a href="https://en.wikipedia.org/wiki/Nuuk">Nuuk on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Greenland">Greenland on Wikipedia</a>

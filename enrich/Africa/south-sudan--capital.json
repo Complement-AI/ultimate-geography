@@ -1,0 +1,16 @@
+{
+  "photo": {
+    "commons": "File:Juba City.jpg",
+    "alt": "The city of Juba"
+  },
+  "facts": [
+    "About 500,000 people (2025)",
+    "On the White Nile, also capital of Central Equatoria State"
+  ],
+  "worth_knowing": "The city was made the capital of Mongalla Province in the late 1920s.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Juba"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Tallinna vanalinn 2015.jpg",
+    "alt": "Aerial view of Tallinn Old Town"
+  },
+  "facts": [
+    "About 458,000 people (2024)",
+    "On the Gulf of Finland, 80 km south of Helsinki"
+  ],
+  "worth_knowing": "Known across much of the world as Reval from the 13th century until the first half of the 20th. Its Old Town is among the best-preserved medieval cities in Europe and a UNESCO World Heritage Site.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Tallinn",
+    "https://www.wikidata.org/wiki/Q1770"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

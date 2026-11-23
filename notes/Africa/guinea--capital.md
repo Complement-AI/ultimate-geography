@@ -16,4 +16,8 @@ What is the capital of <b>Guinea</b>?
 
 <div class="cmp-map" data-focus="GIN" data-pin="9.5335,-13.6822" data-label="Conakry"><img src="../../media/cx-locator-guinea.svg" alt="Map of Guinea with Conakry marked"></div>
 
+About 3.4 million people (2025 census)<br>On the Kaloum Peninsula, a narrow strip of land
+
+The city was essentially founded after Britain ceded Tombo Island to France in 1887. It became capital of French Guinea in 1904 and prospered as an export port.
+
 <a href="https://en.wikipedia.org/wiki/Conakry">Conakry on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Guinea">Guinea on Wikipedia</a>

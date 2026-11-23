@@ -18,4 +18,8 @@ What is highlighted on this map?
 
 <div class="cmp-map" data-focus="ROU" data-pin="44.4353,26.098" data-label="Bucharest"><img src="../../media/cx-locator-romania.svg" alt="Map of Romania with Bucharest marked"></div>
 
+Borders Ukraine, Hungary, Serbia, Bulgaria and Moldova<br>Highest point: Moldoveanu Peak
+
+It lies on the lower course of the Danube, north of the Balkan Peninsula, with the Black Sea along its southeast.
+
 <a href="https://en.wikipedia.org/wiki/Romania">Romania on Wikipedia</a>

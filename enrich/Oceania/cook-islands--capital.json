@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Para o Tane Palace.jpg",
+    "alt": "The Para O Tane palace on Rarotonga"
+  },
+  "facts": [
+    "About 5,100 people in the district (2021 census)",
+    "In the north of Rarotonga, the largest of the Cook Islands"
+  ],
+  "worth_knowing": "The name means \"two harbours\" in Māori. The town is built around Avatiu Harbour, the main port, and Avarua Harbour, once the main port and now a small fishing port.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Avarua",
+    "https://www.wikidata.org/wiki/Q170482"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

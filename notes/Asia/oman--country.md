@@ -16,4 +16,8 @@ tags  = ["asia", "middle_east", "sovereign_state", "country"]
 
 <div class="cmp-map" data-focus="OMN" data-pin="23.6133,58.5933" data-label="Muscat"><img src="../../media/cx-locator-oman.svg" alt="Map of Oman with Muscat marked"></div>
 
+About 5.1 million people (2026)<br>Third-largest country on the Arabian Peninsula
+
+Ruled continuously by the Al Bu Said dynasty since 1744. In the 19th century its influence reached across the Strait of Hormuz to what later became Iran and Pakistan, and south to Zanzibar.
+
 <a href="https://en.wikipedia.org/wiki/Oman">Oman on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Muscat">Muscat on Wikipedia</a>

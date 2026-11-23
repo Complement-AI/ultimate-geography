@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:WellingtonPanorama.jpg",
+    "alt": "A panorama of Wellington and its harbour"
+  },
+  "facts": [
+    "About 216,000 people (2023)",
+    "At the southwestern tip of the North Island, between Cook Strait and the Remutaka Range"
+  ],
+  "worth_knowing": "Named in 1840 after the first Duke of Wellington, victor of Waterloo. The capital since 1865, it is the world's southernmost capital of a sovereign state.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Wellington",
+    "https://www.wikidata.org/wiki/Q23661"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

@@ -16,6 +16,10 @@ What is highlighted on this map?
 
 ## Extra
 
+28,311 km² of land<br>About 1.46 million people (2020)
+
+137 volcanic islands spread over 2,400 km. The eight main ones run from northwest to southeast: Niʻihau, Kauaʻi, Oʻahu, Molokaʻi, Lānaʻi, Kahoʻolawe, Maui and Hawaiʻi, the Big Island.
+
 State of the United States.
 
 <a href="https://en.wikipedia.org/wiki/Hawaii">Hawaii on Wikipedia</a>

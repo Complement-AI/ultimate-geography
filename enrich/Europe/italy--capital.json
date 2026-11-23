@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Rome Skyline (8012016319).jpg",
+    "alt": "Rome skyline with domes and rooftops"
+  },
+  "facts": [
+    "About 2.7 million people (2026), 21 m above sea level",
+    "On the Tiber, in the Lazio region"
+  ],
+  "worth_knowing": "Called the \"City of Seven Hills\" and the \"Eternal City\". Vatican City, an independent country, lies within its municipal boundaries, the only country within a city.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Rome",
+    "https://www.wikidata.org/wiki/Q220"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

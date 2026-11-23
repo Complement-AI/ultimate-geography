@@ -18,4 +18,8 @@ What is highlighted on this map?
 
 <div class="cmp-map" data-focus="KEN" data-pin="-1.2814,36.8147" data-label="Nairobi"><img src="../../media/cx-locator-kenya.svg" alt="Map of Kenya with Nairobi marked"></div>
 
+Borders South Sudan, Ethiopia, Somalia, Tanzania and Uganda<br>Indian Ocean coast to the southeast
+
+The terrain runs from snow-capped peaks on Mount Kenya to absolute deserts such as the Chalbi and Nyiri. Lake Victoria lies on the western edge.
+
 <a href="https://en.wikipedia.org/wiki/Kenya">Kenya on Wikipedia</a>

@@ -18,4 +18,8 @@ Whose flag is this?
 
 <div class="cmp-map" data-focus="ZMB" data-pin="-15.4147,28.2814" data-label="Lusaka"><img src="../../media/cx-locator-zambia.svg" alt="Map of Zambia with Lusaka marked"></div>
 
+Adopted on 24 October 1964, at independence
+
+Green for agriculture, red for the struggle for freedom, black for the people, orange for copper and mineral wealth. The eagle stands for freedom. Its placement at the fly is unusual.
+
 <a href="https://en.wikipedia.org/wiki/Flag_of_Zambia">Flag of Zambia on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Zambia">Zambia on Wikipedia</a>

@@ -16,4 +16,8 @@ What is the capital of <b>Trinidad and Tobago</b>?
 
 <div class="cmp-map" data-focus="TTO" data-pin="10.652,-61.517" data-label="Port of Spain"><img src="../../media/cx-locator-trinidad-and-tobago.svg" alt="Map of Trinidad and Tobago with Port of Spain marked"></div>
 
+About 49,900 people in the municipality (2017)<br>On the Gulf of Paria, on the northwest coast of Trinidad
+
+It has been the island's capital since 1757. It is part of a conurbation of about 600,000 people stretching from Chaguaramas to Arima.
+
 <a href="https://en.wikipedia.org/wiki/Port_of_Spain">Port of Spain on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Trinidad_and_Tobago">Trinidad and Tobago on Wikipedia</a>

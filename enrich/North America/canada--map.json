@@ -1,0 +1,14 @@
+{
+  "photo": null,
+  "facts": [
+    "Borders the United States, the longest international land border",
+    "Ten provinces and three territories"
+  ],
+  "worth_knowing": "Its provinces and territories reach from the Atlantic Ocean to the Pacific and north into the Arctic Ocean, giving it the longest coastline of any country.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Canada",
+    "https://www.wikidata.org/wiki/Q16"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

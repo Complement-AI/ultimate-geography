@@ -1,0 +1,21 @@
+{
+  "photo": {
+    "commons": "File:Gaborone skyline.JPG",
+    "alt": "The Gaborone skyline",
+    "file": "cx-photo-gaborone-skyline.jpg",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Gaborone_skyline.JPG",
+    "credit": "Njengabenngugi, CC BY-SA 4.0, via Wikimedia Commons"
+  },
+  "facts": [
+    "About 246,000 people (2022 census), roughly a tenth of Botswana",
+    "Within 15 km of the South African border"
+  ],
+  "worth_knowing": "Named after Chief Gaborone of the Tlokwa people. It was planned as the capital in the mid-1960s because it had no tie to any one indigenous group and was close to fresh water.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Gaborone",
+    "https://www.wikidata.org/wiki/Q3919"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

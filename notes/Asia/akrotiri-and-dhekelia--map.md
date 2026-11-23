@@ -16,6 +16,10 @@ What is highlighted on this map?
 
 ## Extra
 
+Two separate areas on the island of Cyprus<br>About 18,000 people (2026) in about 254 km²
+
+A British Overseas Territory. The areas, home to British military bases, were retained by the UK under the 1960 treaty of independence, when Cyprus left the British Empire.
+
 Overseas territory of the United Kingdom.
 
 <a href="https://en.wikipedia.org/wiki/Akrotiri_and_Dhekelia">Akrotiri and Dhekelia on Wikipedia</a>

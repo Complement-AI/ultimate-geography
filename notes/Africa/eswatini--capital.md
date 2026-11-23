@@ -16,6 +16,10 @@ What is the capital of <b>Eswatini</b>?
 
 <div class="cmp-map" data-focus="SWZ" data-pin="-26.3167,31.1333" data-label="Mbabane"><img src="../../media/cx-locator-eswatini.svg" alt="Map of Eswatini with Mbabane marked"></div>
 
+About 76,000 people (2025)<br>1,243 m up, in the Mdzimba Mountains
+
+The executive capital; Lobamba is the legislative one. It is named for a chief, Mbabane Kunene, and grew after the administrative centre moved from Bremersdorp in 1902.
+
 While Mbabane is the official, executive capital, Lobamba is the traditional, spiritual and legislative capital.<br><br>Known as Swaziland until 2018.
 
 <a href="https://en.wikipedia.org/wiki/Mbabane">Mbabane on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Eswatini">Eswatini on Wikipedia</a>

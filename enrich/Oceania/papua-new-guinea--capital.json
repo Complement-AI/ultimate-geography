@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Port Moresby Town2 Mschlauch.jpg",
+    "alt": "Port Moresby town centre"
+  },
+  "facts": [
+    "About 757,000 people (2024 census)",
+    "On the Coral Sea coast of the Papuan Peninsula"
+  ],
+  "worth_knowing": "Named for Captain John Moresby, the first Briton to see it, in 1873, in honour of his father, Admiral of the Fleet Sir Fairfax Moresby. It is not part of the province around it.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Port_Moresby",
+    "https://www.wikidata.org/wiki/Q36526"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

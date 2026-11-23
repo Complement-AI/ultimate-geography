@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Nuuk - capital of Greenland - panoramio.jpg",
+    "alt": "Nuuk's houses beside the water"
+  },
+  "facts": [
+    "About 20,100 people (January 2025)",
+    "Formerly called Godthåb in Danish"
+  ],
+  "worth_knowing": "One of the smallest capitals in the world by population, yet home to more than a third of Greenland's people. Hans Egede founded it in 1728, after moving from the earlier Hope Colony.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Nuuk",
+    "https://www.wikidata.org/wiki/Q226"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

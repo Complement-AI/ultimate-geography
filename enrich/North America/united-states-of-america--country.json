@@ -1,0 +1,14 @@
+{
+  "photo": null,
+  "facts": [
+    "About 340 million people (2024), the world's third largest population",
+    "A federal republic of 50 states and the federal district of Washington, D.C."
+  ],
+  "worth_knowing": "Independence from Great Britain was formally declared in the Lee Resolution of 2 July 1776, two days before the Declaration of Independence.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/United_States",
+    "https://www.wikidata.org/wiki/Q30"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

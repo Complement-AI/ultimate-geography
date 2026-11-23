@@ -1,0 +1,21 @@
+{
+  "photo": {
+    "commons": "File:Luanda feb09 ost01.jpg",
+    "alt": "Luanda, Angola",
+    "file": "cx-photo-luanda-feb09-ost01.jpg",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Luanda_feb09_ost01.jpg",
+    "credit": "Lars Rohwer, CC BY-SA 3.0, via Wikimedia Commons"
+  },
+  "facts": [
+    "More than 8.8 million people (2024), a third of Angola's population",
+    "Angola's chief seaport, on its northern Atlantic coast"
+  ],
+  "worth_knowing": "Founded in January 1576 as São Paulo da Assunção de Loanda by the Portuguese explorer Paulo Dias de Novais. It is the most populous Portuguese-speaking national capital in the world.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Luanda",
+    "https://www.wikidata.org/wiki/Q3897"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

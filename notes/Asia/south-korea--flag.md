@@ -18,4 +18,8 @@ Whose flag is this?
 
 <div class="cmp-map" data-focus="KOR" data-pin="37.5683,126.9978" data-label="Seoul"><img src="../../media/cx-locator-south-korea.svg" alt="Map of South Korea with Seoul marked"></div>
 
+Adopted as the national flag in 1948
+
+Before 1876 Korea had no national flag, only a royal standard for the king. The lack became a problem in the negotiations for the Japan–Korea Treaty of 1876.
+
 <a href="https://en.wikipedia.org/wiki/Flag_of_South_Korea">Flag of South Korea on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/South_Korea">South Korea on Wikipedia</a>

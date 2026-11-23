@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Australia satellite plane.jpg",
+    "alt": "Satellite photograph of the Australian continent"
+  },
+  "facts": [
+    "About 27.6 million people (2025) in 7.69 million km²",
+    "The sixth-largest country in the world"
+  ],
+  "worth_knowing": "The name comes from the Latin Terra Australis Incognita, 'unknown southern land'. Matthew Flinders popularised it after circumnavigating the continent in 1803.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Australia",
+    "https://www.wikidata.org/wiki/Q408"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

@@ -18,4 +18,8 @@ What is highlighted on this map?
 
 <div class="cmp-map" data-focus="GRD" data-pin="12.0526,-61.7416" data-label="St. George's"><img src="../../media/cx-locator-grenada.svg" alt="Map of Grenada with St. George's marked"></div>
 
+Southernmost of the Windward Islands<br>Highest point Mount Saint Catherine
+
+Besides the main island it includes Carriacou, Petite Martinique and several small islands that are part of the Grenadines, to the north of the main island.
+
 <a href="https://en.wikipedia.org/wiki/Grenada">Grenada on Wikipedia</a>

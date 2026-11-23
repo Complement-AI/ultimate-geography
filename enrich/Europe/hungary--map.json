@@ -1,0 +1,14 @@
+{
+  "photo": null,
+  "facts": [
+    "Landlocked, bordered by seven countries",
+    "About 93,000 km2"
+  ],
+  "worth_knowing": "It lies within the Danube River's drainage basin and is dominated by great lowland plains.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Hungary",
+    "https://www.wikidata.org/wiki/Q28"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

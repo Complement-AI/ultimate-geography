@@ -16,4 +16,8 @@ tags  = ["europe", "european_union", "mediterranean", "sovereign_state", "countr
 
 <div class="cmp-map" data-focus="FRA" data-pin="48.8686,2.3314" data-label="Paris"><img src="../../media/cx-locator-france.svg" alt="Map of France with Paris marked"></div>
 
+About 68.6 million people (2025)<br>Highest point: Mont Blanc
+
+Fourth in the world for UNESCO World Heritage Sites, with 54 in total. Its overseas regions include French Guiana in South America.
+
 <a href="https://en.wikipedia.org/wiki/France">France on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Paris">Paris on Wikipedia</a>

@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Sarajevo City Panorama.JPG",
+    "alt": "Panorama of a city in a valley"
+  },
+  "facts": [
+    "About 276,000 people (2013), in a valley 527 m up",
+    "On the Miljacka river, ringed by the Dinaric Alps"
+  ],
+  "worth_knowing": "The name comes from the Turkish saray, meaning palace. In 1914 the city saw the assassination of Archduke Franz Ferdinand, which sparked World War I.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Sarajevo",
+    "https://www.wikidata.org/wiki/Q11194"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

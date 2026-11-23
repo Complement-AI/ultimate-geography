@@ -18,4 +18,8 @@ What is highlighted on this map?
 
 <div class="cmp-map" data-focus="ZMB" data-pin="-15.4147,28.2814" data-label="Lusaka"><img src="../../media/cx-locator-zambia.svg" alt="Map of Zambia with Lusaka marked"></div>
 
+Borders eight countries, from Angola to Tanzania<br>About 753,000 km²
+
+Zambia touches Namibia only through the Caprivi Strip and Botswana only along a tiny border at Chobe District.
+
 <a href="https://en.wikipedia.org/wiki/Zambia">Zambia on Wikipedia</a>

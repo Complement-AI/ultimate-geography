@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:London Skyline (125508655).jpeg",
+    "alt": "London skyline at sunset"
+  },
+  "facts": [
+    "About 9.1 million people (2025)",
+    "On the River Thames, at the head of an 80 km tidal estuary"
+  ],
+  "worth_knowing": "The City of London was founded by the Romans as Londinium, and the name is attested in the first century AD. The City of Westminster has hosted the national government for centuries.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/London",
+    "https://www.wikidata.org/wiki/Q84"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

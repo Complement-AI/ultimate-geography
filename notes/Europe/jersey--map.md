@@ -16,6 +16,10 @@ What is highlighted on this map?
 
 ## Extra
 
+About 118 km2, 103,000 people (2021 census)<br>23 km off the Cotentin Peninsula of France
+
+The largest of the Channel Islands. A self-governing Crown Dependency, it has never been part of the Kingdom of England, having remained loyal to the English Crown when the kings lost mainland Normandy.
+
 Crown dependency of the United Kingdom.
 
 <a href="https://en.wikipedia.org/wiki/Jersey">Jersey on Wikipedia</a>

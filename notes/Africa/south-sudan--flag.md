@@ -18,4 +18,8 @@ Whose flag is this?
 
 <div class="cmp-map" data-focus="SDS"><img src="../../media/cx-locator-south-sudan.svg" alt="Map of South Sudan with Juba marked"></div>
 
+Adopted in 2005, six years before independence
+
+It was adopted after the Comprehensive Peace Agreement that ended the Second Sudanese Civil War. A different version had been the flag of the Sudan People's Liberation Movement.
+
 <a href="https://en.wikipedia.org/wiki/Flag_of_South_Sudan">Flag of South Sudan on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/South_Sudan">South Sudan on Wikipedia</a>

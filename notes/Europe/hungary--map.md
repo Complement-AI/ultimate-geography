@@ -18,4 +18,8 @@ What is highlighted on this map?
 
 <div class="cmp-map" data-focus="HUN" data-pin="47.502,19.0814" data-label="Budapest"><img src="../../media/cx-locator-hungary.svg" alt="Map of Hungary with Budapest marked"></div>
 
+Landlocked, bordered by seven countries<br>About 93,000 km2
+
+It lies within the Danube River's drainage basin and is dominated by great lowland plains.
+
 <a href="https://en.wikipedia.org/wiki/Hungary">Hungary on Wikipedia</a>

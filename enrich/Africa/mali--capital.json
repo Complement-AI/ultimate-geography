@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Bamako ACI 2000 Aeriel.jpg",
+    "alt": "Aerial view of Bamako"
+  },
+  "facts": [
+    "About 4.2 million people (2022)",
+    "On the Niger River, near the rapids that divide the upper and middle Niger valleys"
+  ],
+  "worth_knowing": "It was founded around 1650 by the Niare family. It grew quickly after a railway reached it in 1904 and it became capital of French Sudan in 1908.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Bamako",
+    "https://www.wikidata.org/wiki/Q3703"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

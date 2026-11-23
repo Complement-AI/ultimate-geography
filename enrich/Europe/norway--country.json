@@ -1,0 +1,14 @@
+{
+  "photo": null,
+  "facts": [
+    "About 5.6 million people (2026)",
+    "Official languages include Norwegian and Sámi"
+  ],
+  "worth_knowing": "The Kingdom of Norway was established in 872 and has existed continuously for over a millennium. It was in a personal union with Sweden from 1814 to 1905.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Norway",
+    "https://www.wikidata.org/wiki/Q20"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

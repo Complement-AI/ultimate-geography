@@ -18,4 +18,8 @@ What is highlighted on this map?
 
 <div class="cmp-map" data-focus="BRN" data-pin="4.8833,114.9333" data-label="Bandar Seri Begawan"><img src="../../media/cx-locator-brunei.svg" alt="Map of Brunei with Bandar Seri Begawan marked"></div>
 
+The only sovereign state entirely on Borneo<br>Highest point: Bukit Pagon
+
+Apart from its South China Sea coast, it is completely surrounded by the Malaysian state of Sarawak, and the Sarawak district of Limbang splits its territory in two.
+
 <a href="https://en.wikipedia.org/wiki/Brunei">Brunei on Wikipedia</a>

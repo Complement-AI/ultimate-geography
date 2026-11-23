@@ -18,6 +18,10 @@ Whose flag is this?
 
 <div class="cmp-map" data-focus="ROU" data-pin="44.4353,26.098" data-label="Bucharest"><img src="../../media/cx-locator-romania.svg" alt="Map of Romania with Bucharest marked"></div>
 
+Current version adopted in 1989, after the Romanian Revolution
+
+Blue, yellow and red bands. The colours had been used on official insignia since the 14th century, but were first officially combined on a flag in the 19th century.
+
 Similar flags: Chad (slightly darker blue)
 
 <a href="https://en.wikipedia.org/wiki/Flag_of_Romania">Flag of Romania on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Romania">Romania on Wikipedia</a>

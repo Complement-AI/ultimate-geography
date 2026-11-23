@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Satellite image of Latvia in March 2003.jpg",
+    "alt": "Latvia from orbit in March 2003"
+  },
+  "facts": [
+    "Borders Estonia, Lithuania, Belarus and Russia",
+    "494 km of Baltic coastline"
+  ],
+  "worth_knowing": "Mostly fertile lowland plains and moderate hills. The highest point, Gaiziņkalns, reaches only 311.6 m.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Latvia",
+    "https://www.wikidata.org/wiki/Q211"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

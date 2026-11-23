@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Inphb de Yamoussoukro (Bosson).jpg",
+    "alt": "A large campus building"
+  },
+  "facts": [
+    "About 340,000 people (2021)",
+    "240 km north-west of Abidjan, among rolling hills and plains"
+  ],
+  "worth_knowing": "It became the legal capital in 1983, though the former capital Abidjan keeps several political functions.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Yamoussoukro",
+    "https://www.wikidata.org/wiki/Q3768"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

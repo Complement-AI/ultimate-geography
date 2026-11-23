@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Gibraltar aerial view looking northwest.jpg",
+    "alt": "Aerial view of the Rock of Gibraltar and its town"
+  },
+  "facts": [
+    "About 6.8 km2, bordered to the north by Spain",
+    "About 38,000 people"
+  ],
+  "worth_knowing": "Near the exit of the Mediterranean into the Atlantic, the landscape is dominated by the Rock of Gibraltar, with a densely populated town at its foot.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Gibraltar",
+    "https://www.wikidata.org/wiki/Q1410"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Dubrovnik june 2011..JPG",
+    "alt": "Old town of Dubrovnik with its city walls"
+  },
+  "facts": [
+    "About 3.9 million people (2021)",
+    "Highest point: Dinara"
+  ],
+  "worth_knowing": "The Croatian coast has over 1,000 islands and islets in the Adriatic Sea. Tourism is a prominent part of its economy.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Croatia",
+    "https://www.wikidata.org/wiki/Q224"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

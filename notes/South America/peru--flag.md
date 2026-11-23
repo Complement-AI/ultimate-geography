@@ -18,4 +18,8 @@ Whose flag is this?
 
 <div class="cmp-map" data-focus="PER" data-pin="-12.0461,-77.052" data-label="Lima"><img src="../../media/cx-locator-peru.svg" alt="Map of Peru with Lima marked"></div>
 
+Adopted by Congress on 25 February 1825, modified in 1950
+
+A vertical triband called la Bicolor. Red is the blood of those who fell for independence and white is purity and peace. The colours are also linked to a red and white flamingo San Martín dreamed of.
+
 <a href="https://en.wikipedia.org/wiki/Flag_of_Peru">Flag of Peru on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Peru">Peru on Wikipedia</a>

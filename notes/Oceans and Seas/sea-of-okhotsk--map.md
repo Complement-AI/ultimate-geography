@@ -16,4 +16,6 @@ What is highlighted on this map?
 
 ## Extra
 
+About 1,583,000 km2<br>A marginal sea of the northwestern Pacific Ocean
+
 <a href="https://en.wikipedia.org/wiki/Sea_of_Okhotsk">Sea of Okhotsk on Wikipedia</a>

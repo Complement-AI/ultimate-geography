@@ -18,6 +18,10 @@ Whose flag is this?
 
 <div class="cmp-map" data-focus="ALD" data-pin="60.097,19.949" data-label="Mariehamn"><img src="../../media/cx-locator-land-islands.svg" alt="Map of Åland Islands with Mariehamn marked"></div>
 
+Adopted in 1954, first hoisted in Mariehamn on 3 April
+
+A Swedish-style flag with a red cross added to symbolise Finland. The last Sunday of April is its flag day.
+
 Autonomous region of Finland.
 
 <a href="https://en.wikipedia.org/wiki/Flag_of_%C3%85land">Flag of Åland on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/%C3%85land">Åland on Wikipedia</a>

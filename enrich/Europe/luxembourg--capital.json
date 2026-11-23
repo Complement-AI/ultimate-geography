@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Luxembourg City Hall (54540726309).jpg",
+    "alt": "Luxembourg City Hall"
+  },
+  "facts": [
+    "About 138,000 people (2026)",
+    "300 m up, where the Alzette and Pétrusse rivers meet"
+  ],
+  "worth_knowing": "Its fortress held out so long under siege that the French engineer Lazare Carnot called it \"the best fortress in the world, except Gibraltar\", which gave the city the nickname \"Gibraltar of the North\".",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Luxembourg_City",
+    "https://www.wikidata.org/wiki/Q1842"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

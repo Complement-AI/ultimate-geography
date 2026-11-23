@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Historical peninsula and modern skyline of Istanbul.jpg",
+    "alt": "Istanbul's historic peninsula beside modern towers"
+  },
+  "facts": [
+    "About 85 million people (2023)",
+    "Mainly in Anatolia, with a smaller part in Southeast Europe"
+  ],
+  "worth_knowing": "First inhabited by modern humans in the Late Paleolithic. The Seljuk Turks began migrating into Anatolia in the 11th century.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Turkey",
+    "https://www.wikidata.org/wiki/Q43"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Approaching St Kitts and Nevis - southern tip of St. Kitts - panoramio.jpg",
+    "alt": "The southern tip of Saint Kitts seen from the sea"
+  },
+  "facts": [
+    "Two islands, Saint Kitts and Nevis, in the Leeward Islands",
+    "Highest point Mount Liamuiga"
+  ],
+  "worth_knowing": "The Kalinago, the island's pre-European inhabitants, called Saint Kitts Liamuiga, roughly 'fertile land'.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Saint_Kitts_and_Nevis",
+    "https://www.wikidata.org/wiki/Q763"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Djibouti City.jpg",
+    "alt": "A coastal city seen from above"
+  },
+  "facts": [
+    "About 604,000 people (2018)",
+    "On the Gulf of Tadjoura"
+  ],
+  "worth_knowing": "Founded in 1888 by the French, on land leased from the ruling Somali and Afar sultans. It served as the capital of French Somaliland and then of the French Territory of the Afars and Issas.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Djibouti_City",
+    "https://www.wikidata.org/wiki/Q3604"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

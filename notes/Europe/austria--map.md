@@ -18,4 +18,8 @@ What is highlighted on this map?
 
 <div class="cmp-map" data-focus="AUT" data-pin="48.202,16.3647" data-label="Vienna"><img src="../../media/cx-locator-austria.svg" alt="Map of Austria with Vienna marked"></div>
 
+Borders Germany, the Czech Republic, Slovakia, Hungary, Slovenia, Italy, Switzerland and Liechtenstein<br>Landlocked, in the Eastern Alps
+
+A federation of nine states, one of which is the capital, Vienna.
+
 <a href="https://en.wikipedia.org/wiki/Austria">Austria on Wikipedia</a>

@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Panorama of Macau Peninsula2021.jpg",
+    "alt": "Panorama of the Macau Peninsula"
+  },
+  "facts": [
+    "Made up of the Macau Peninsula and the islands of Taipa and Coloane",
+    "About 118 km² in total"
+  ],
+  "worth_knowing": "The Cotai reclamation zone joins Taipa and Coloane, and two-thirds of the territory's area is built on land reclaimed from the sea.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Macau",
+    "https://www.wikidata.org/wiki/Q14773"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

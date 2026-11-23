@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:LagunaChiarKhota2013.jpg",
+    "alt": "A high Andean lagoon, Laguna Chiar Khota"
+  },
+  "facts": [
+    "About 12.2 million people (2023) on 1,098,581 km²",
+    "The largest landlocked country in the Southern Hemisphere"
+  ],
+  "worth_knowing": "Named in 1825 in honour of Simón Bolívar, by Antonio José de Sucre, who chose independence for the region over joining Peru or Argentina's predecessor state.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Bolivia",
+    "https://www.wikidata.org/wiki/Q750"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

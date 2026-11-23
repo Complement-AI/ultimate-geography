@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Reykjavík 5545 (cropped).JPG",
+    "alt": "A view of Reykjavík"
+  },
+  "facts": [
+    "About 139,000 people (2025), 8 m above sea level",
+    "On the southern shore of Faxaflói bay"
+  ],
+  "worth_knowing": "The world's northernmost capital of a sovereign state. The name comes from Old Norse for \"smoke\" and \"bay\"; settlement is said to have begun here with Ingólfur Arnarson in 874.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Reykjavík",
+    "https://www.wikidata.org/wiki/Q1764"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

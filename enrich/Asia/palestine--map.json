@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Palestine - 20190204-DSC 0007.jpg",
+    "alt": "A landscape in the West Bank"
+  },
+  "facts": [
+    "Borders Israel, Jordan and Egypt",
+    "Area of about 6,020 km²"
+  ],
+  "worth_knowing": "Two separate territories: the West Bank, which borders Jordan to the east, and the Gaza Strip, which borders Egypt to the southwest.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/State_of_Palestine",
+    "https://www.wikidata.org/wiki/Q219060"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

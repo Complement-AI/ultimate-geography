@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:덕수궁의 가을.jpg",
+    "alt": "Autumn colours at a palace in Seoul"
+  },
+  "facts": [
+    "About 9.67 million people (2020)",
+    "Its metropolitan area holds more than half of South Korea's population"
+  ],
+  "worth_knowing": "Founded in 18 BC by the people of Baekje. Under the Joseon dynasty it was designated the capital and surrounded by the Fortress Wall of Seoul.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Seoul",
+    "https://www.wikidata.org/wiki/Q8684"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

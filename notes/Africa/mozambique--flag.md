@@ -18,4 +18,8 @@ Whose flag is this?
 
 <div class="cmp-map" data-focus="MOZ" data-pin="-25.9533,32.5872" data-label="Maputo"><img src="../../media/cx-locator-mozambique.svg" alt="Map of Mozambique with Maputo marked"></div>
 
+Adopted on 1 May 1983
+
+The only national flag that features a modern firearm, an AK-47. With the hoe and the book it symbolises defence, production and education.
+
 <a href="https://en.wikipedia.org/wiki/Flag_of_Mozambique">Flag of Mozambique on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Mozambique">Mozambique on Wikipedia</a>

@@ -18,6 +18,10 @@ Whose flag is this?
 
 <div class="cmp-map" data-focus="MMR" data-pin="19.7685,96.1167" data-label="Naypyidaw"><img src="../../media/cx-locator-myanmar.svg" alt="Map of Myanmar with Naypyidaw marked"></div>
 
+Adopted on 21 October 2010
+
+The tricolour honours the colours used in the independence struggle. Yellow stands for unity, green for fertility and peace, red for bravery, and the white star for purity and power.
+
 Also known as Burma.
 
 <a href="https://en.wikipedia.org/wiki/Flag_of_Myanmar">Flag of Myanmar on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Myanmar">Myanmar on Wikipedia</a>

@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Nauru-parliament.jpg",
+    "alt": "Nauru's Parliament House in Yaren"
+  },
+  "facts": [
+    "747 people in the district (2011)",
+    "25 m above sea level on the south coast"
+  ],
+  "worth_knowing": "Nauru has no official capital, and the UN accepts Yaren as its main district. Its old name, Makwa, refers to Moqua Well, an underground lake that was the main source of drinking water.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Yaren",
+    "https://www.wikidata.org/wiki/Q31026"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

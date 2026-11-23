@@ -16,6 +16,10 @@ What is highlighted on this map?
 
 ## Extra
 
+Archipelago of 61,022 km², about midway between Norway and the North Pole<br>Highest point: Newtontoppen
+
+The islands lie between 74° and 81° north. The largest island is Spitsbergen, at 37,673 km², and the largest settlement is Longyearbyen.
+
 Unincorporated internal area of Norway.
 
 <a href="https://en.wikipedia.org/wiki/Svalbard">Svalbard on Wikipedia</a>

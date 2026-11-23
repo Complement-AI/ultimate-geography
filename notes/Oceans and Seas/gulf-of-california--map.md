@@ -16,6 +16,10 @@ What is highlighted on this map?
 
 ## Extra
 
+About 160,000 km2, with about 4,000 km of coastline<br>Maximum depths exceed 3,000 m
+
+It separates the Baja California peninsula from the Mexican mainland and is also called the Sea of Cortez.
+
 Also known as the Sea of Cortez.
 
 <a href="https://en.wikipedia.org/wiki/Gulf_of_California">Gulf of California on Wikipedia</a>

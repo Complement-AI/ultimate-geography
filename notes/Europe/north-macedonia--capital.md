@@ -16,6 +16,10 @@ What is the capital of <b>North Macedonia</b>?
 
 <div class="cmp-map" data-focus="MKD" data-pin="42.0,21.4335" data-label="Skopje"><img src="../../media/cx-locator-north-macedonia.svg" alt="Map of North Macedonia with Skopje marked"></div>
 
+About 527,000 people (2021 census), a quarter of the country<br>On the Vardar River in the Skopje Valley
+
+Founded as Scupi in the late 1st century under Domitian, it was abandoned in 518 after an earthquake destroyed it. It was rebuilt under Justinian I and ruled by the Ottomans for over five centuries.
+
 Formerly known as Macedonia.
 
 <a href="https://en.wikipedia.org/wiki/Skopje">Skopje on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/North_Macedonia">North Macedonia on Wikipedia</a>

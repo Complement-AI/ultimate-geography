@@ -18,4 +18,8 @@ What is highlighted on this map?
 
 <div class="cmp-map" data-focus="SLE" data-pin="8.472,-13.2362" data-label="Freetown"><img src="../../media/cx-locator-sierra-leone.svg" alt="Map of Sierra Leone with Freetown marked"></div>
 
+Borders Liberia and Guinea<br>Land area 73,252 km2
+
+A tropical country on the west coast of West Africa, with environments ranging from savannahs to rainforests.
+
 <a href="https://en.wikipedia.org/wiki/Sierra_Leone">Sierra Leone on Wikipedia</a>

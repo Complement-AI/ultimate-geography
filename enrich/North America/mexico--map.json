@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Ciudad.de.Mexico.City.Distrito.Federal.DF.Paseo.Reforma.Skyline.jpg",
+    "alt": "Skyscrapers along Paseo de la Reforma"
+  },
+  "facts": [
+    "Borders the United States, Guatemala and Belize",
+    "About 1.96 million km²"
+  ],
+  "worth_knowing": "It has coasts on the Pacific Ocean to the west, the Gulf of Mexico to the east and the Caribbean Sea to the southeast.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Mexico",
+    "https://www.wikidata.org/wiki/Q96"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

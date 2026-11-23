@@ -16,4 +16,8 @@ What is the capital of <b>Zimbabwe</b>?
 
 <div class="cmp-map" data-focus="ZWE" data-pin="-17.8158,31.0428" data-label="Harare"><img src="../../media/cx-locator-zimbabwe.svg" alt="Map of Zimbabwe with Harare marked"></div>
 
+About 1.85 million people (2022 census)<br>On a plateau 1,483 m above sea level
+
+Founded in 1890 as Fort Salisbury, after the British Prime Minister Lord Salisbury. It was renamed Harare in 1982, on the second anniversary of independence.
+
 <a href="https://en.wikipedia.org/wiki/Harare">Harare on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Zimbabwe">Zimbabwe on Wikipedia</a>

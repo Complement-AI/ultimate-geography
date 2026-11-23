@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Philipsburg and the Great Bay, Sint Maarten, Caribbean.jpg",
+    "alt": "Philipsburg and the Great Bay"
+  },
+  "facts": [
+    "About 58,500 people (June 2023) on 34 km²",
+    "The southern 44% of the island of Saint Martin"
+  ],
+  "worth_knowing": "Before 10 October 2010 it was an island territory of the Netherlands Antilles. In September 2017 Category 5 Hurricane Irma caused widespread damage.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Sint_Maarten",
+    "https://www.wikidata.org/wiki/Q26273"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

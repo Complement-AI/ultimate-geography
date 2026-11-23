@@ -18,4 +18,8 @@ What is highlighted on this map?
 
 <div class="cmp-map" data-focus="WSM" data-pin="-13.8415,-171.7386" data-label="Apia"><img src="../../media/cx-locator-samoa.svg" alt="Map of Samoa with Apia marked"></div>
 
+Two main islands, Savaiʻi and Upolu<br>Two smaller inhabited islands, Manono and Apolima
+
+The archipelago has seen volcanic hotspot activity for the past 2 million years. Several smaller uninhabited islands, including the Aleipata Islands, lie off Upolu.
+
 <a href="https://en.wikipedia.org/wiki/Samoa">Samoa on Wikipedia</a>

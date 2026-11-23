@@ -18,4 +18,8 @@ Whose flag is this?
 
 <div class="cmp-map" data-focus="IRN" data-pin="35.6739,51.4224" data-label="Tehran"><img src="../../media/cx-locator-iran.svg" alt="Map of Iran with Tehran marked"></div>
 
+Adopted on 29 July 1980
+
+Green, white and red, with the Islamic emblem in red on the white band. The Takbir is written 11 times in white Kufic script along the edge of each of the green and red bands.
+
 <a href="https://en.wikipedia.org/wiki/Flag_of_Iran">Flag of Iran on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Iran">Iran on Wikipedia</a>

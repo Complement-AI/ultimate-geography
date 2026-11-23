@@ -1,0 +1,14 @@
+{
+  "photo": null,
+  "facts": [
+    "Metropolitan France borders Belgium, Luxembourg, Germany, Switzerland, Italy, Monaco, Andorra and Spain",
+    "About 643,800 km2 including overseas regions"
+  ],
+  "worth_knowing": "The mainland runs from the Rhine to the Atlantic Ocean and from the Mediterranean Sea to the English Channel and the North Sea.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/France",
+    "https://www.wikidata.org/wiki/Q142"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

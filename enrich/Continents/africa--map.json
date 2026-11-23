@@ -1,0 +1,14 @@
+{
+  "photo": null,
+  "facts": [
+    "About 30.3 million km², the second-largest continent",
+    "About 1.4 billion people, the youngest population of any continent"
+  ],
+  "worth_knowing": "Straddles both the equator and the prime meridian. Algeria is the largest country by area and Nigeria the largest by population.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Africa",
+    "https://www.wikidata.org/wiki/Q15"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

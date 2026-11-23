@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Aerial view of White House and downtown, Washington, D.C LCCN2010630891.jpg",
+    "alt": "Aerial view of the White House and downtown"
+  },
+  "facts": [
+    "About 690,000 people (2020 census)",
+    "On the northeast bank of the Potomac River, bordered by Maryland and Virginia"
+  ],
+  "worth_knowing": "A federal district that belongs to no state, created by the Residence Act of 1790. It is named for Columbia, a personification of the nation, and the capital moved here from Philadelphia in 1800.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Washington,_D.C.",
+    "https://www.wikidata.org/wiki/Q61"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

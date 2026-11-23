@@ -1,0 +1,14 @@
+{
+  "photo": null,
+  "facts": [
+    "Land border only with the Republic of Ireland",
+    "Highest point: Ben Nevis"
+  ],
+  "worth_knowing": "The UK includes the island of Great Britain, the north-eastern part of the island of Ireland and most of the smaller islands in the British Isles.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/United_Kingdom",
+    "https://www.wikidata.org/wiki/Q145"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

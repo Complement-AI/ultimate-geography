@@ -1,0 +1,16 @@
+{
+  "photo": {
+    "commons": "File:Satellite image of Jamaica in November 2001.jpg",
+    "alt": "Jamaica from orbit, November 2001"
+  },
+  "facts": [
+    "About 2.7 million people (2019) in 10,992 km²"
+  ],
+  "worth_knowing": "The third-largest island in the Greater Antilles and the Caribbean, after Cuba and Hispaniola.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Jamaica",
+    "https://www.wikidata.org/wiki/Q766"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

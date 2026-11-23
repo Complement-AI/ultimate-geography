@@ -14,6 +14,10 @@ What is the capital of <b>Transnistria</b>?
 
 ## Extra
 
+About 134,000 people (2014), the largest city of Transnistria<br>On the eastern bank of the Dniester River
+
+Founded in 1792 by the Russian generalissimo Alexander Suvorov. The city celebrates its anniversary every year on 14 October.
+
 Independent state claimed by Moldova.
 
 <a href="https://en.wikipedia.org/wiki/Tiraspol">Tiraspol on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Transnistria">Transnistria on Wikipedia</a>

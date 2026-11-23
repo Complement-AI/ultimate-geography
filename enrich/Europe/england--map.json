@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:England satellite image.png",
+    "alt": "Satellite view of England, Wales and the Isle of Man"
+  },
+  "facts": [
+    "Borders Scotland to the north and Wales to the west",
+    "About 130,300 km2, 62% of the island of Great Britain"
+  ],
+  "worth_knowing": "Surrounded by the North Sea, the English Channel, the Celtic Sea and the Irish Sea, with continental Europe to the south-east.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/England",
+    "https://www.wikidata.org/wiki/Q21"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

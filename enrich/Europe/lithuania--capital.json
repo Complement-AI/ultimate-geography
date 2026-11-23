@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Gedimino pilis by Augustas Didzgalvis.jpg",
+    "alt": "Gediminas Tower above the city"
+  },
+  "facts": [
+    "About 619,000 people (2026), the most in the Baltic states",
+    "98 m up, where the Vilnia meets the Neris"
+  ],
+  "worth_knowing": "Its Old Town, a UNESCO World Heritage Site since 1994, is one of Europe's largest and best-preserved. The city has been Lithuania's capital since at least 1323.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Vilnius",
+    "https://www.wikidata.org/wiki/Q216"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

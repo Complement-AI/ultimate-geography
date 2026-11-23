@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Stockholm gamlastan etc.jpg",
+    "alt": "Gamla stan, the old town of Stockholm, from above"
+  },
+  "facts": [
+    "About 985,000 people (2022) in the municipality",
+    "Spread across fourteen islands where Lake Mälaren meets the Baltic Sea"
+  ],
+  "worth_knowing": "Founded as a city in 1252 by the statesman Birger Jarl. It hosts the annual Nobel Prize ceremonies, and its Vasa Museum is the most visited museum in Scandinavia.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Stockholm",
+    "https://www.wikidata.org/wiki/Q1754"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

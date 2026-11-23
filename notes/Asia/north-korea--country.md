@@ -16,4 +16,8 @@ tags  = ["asia", "sovereign_state", "country"]
 
 <div class="cmp-map" data-focus="PRK" data-pin="39.0214,125.7527" data-label="Pyongyang"><img src="../../media/cx-locator-north-korea.svg" alt="Map of North Korea with Pyongyang marked"></div>
 
+About 26.4 million people (2023) in 120,540 km²
+
+The northern half of the Korean Peninsula. Korea was divided along the 38th parallel in 1945, and the Democratic People's Republic of Korea was established in the north on 9 September 1948.
+
 <a href="https://en.wikipedia.org/wiki/North_Korea">North Korea on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Pyongyang">Pyongyang on Wikipedia</a>

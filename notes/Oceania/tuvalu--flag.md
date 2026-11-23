@@ -18,4 +18,8 @@ Whose flag is this?
 
 <div class="cmp-map" data-focus="TUV" data-pin="-8.5167,179.2166" data-label="Funafuti"><img src="../../media/cx-locator-tuvalu.svg" alt="Map of Tuvalu with Funafuti marked"></div>
 
+Adopted on 1 October 1978, the day Tuvalu became independent
+
+The nine stars are placed like Tuvalu's nine islands on a map, with north pointing to the hoist. A new flag introduced in 1995 was reversed in 1997, restoring this one.
+
 <a href="https://en.wikipedia.org/wiki/Flag_of_Tuvalu">Flag of Tuvalu on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Tuvalu">Tuvalu on Wikipedia</a>

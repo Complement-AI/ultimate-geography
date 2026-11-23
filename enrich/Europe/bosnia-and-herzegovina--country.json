@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Gornji Orahovac, Bosnia y Herzegovina, 2014-04-14, DD 10-13 PAN.jpg",
+    "alt": "Panoramic view of a river valley in southern Bosnia and Herzegovina"
+  },
+  "facts": [
+    "About 3.8 million people (2022)",
+    "Highest point: Maglić"
+  ],
+  "worth_knowing": "Herzegovina takes its name from the title of a 15th-century magnate, Stjepan Vukčić Kosača, who was Herceg (Herzog) of Hum and the Coast.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Bosnia_and_Herzegovina",
+    "https://www.wikidata.org/wiki/Q225"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

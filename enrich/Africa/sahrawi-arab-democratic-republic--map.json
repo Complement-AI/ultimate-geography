@@ -1,0 +1,16 @@
+{
+  "photo": {
+    "commons": "File:Atlantic Ocean in Western Sahara.jpg",
+    "alt": "The Atlantic coast of Western Sahara"
+  },
+  "facts": [
+    "Borders Morocco, Mauritania and Algeria",
+    "About 272,000 km2"
+  ],
+  "worth_knowing": "It lies in north-western Africa and consists mainly of desert flatlands.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Western_Sahara"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

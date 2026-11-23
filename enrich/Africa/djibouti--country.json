@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:An aerial view of Djibouti City.jpg",
+    "alt": "An aerial view of a coastal city"
+  },
+  "facts": [
+    "About 1.07 million people (2024 census)",
+    "The smallest population in mainland Africa"
+  ],
+  "worth_knowing": "The republic is named after its capital. It voted for independence in 1977, a decade after being renamed the French Territory of the Afars and the Issas.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Djibouti",
+    "https://www.wikidata.org/wiki/Q977"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

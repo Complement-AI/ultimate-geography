@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:AmericanSamoa.jpg",
+    "alt": "A village and palm-lined beach below forested headlands"
+  },
+  "facts": [
+    "About 47,400 people (2024), mostly on Tutuila",
+    "199 km² of volcanic islands and atolls"
+  ],
+  "worth_knowing": "The eastern part of the Samoan archipelago: five inhabited volcanic islands and the uninhabited Rose Atoll, plus Swains Island, a remote coral atoll in the Tokelau group.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/American_Samoa",
+    "https://www.wikidata.org/wiki/Q16641"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

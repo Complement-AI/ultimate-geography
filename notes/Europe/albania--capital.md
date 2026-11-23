@@ -16,4 +16,8 @@ What is the capital of <b>Albania</b>?
 
 <div class="cmp-map" data-focus="ALB" data-pin="41.3275,19.8189" data-label="Tirana"><img src="../../media/cx-locator-albania.svg" alt="Map of Albania with Tirana marked"></div>
 
+About 389,000 people (2023)<br>Enclosed by mountains, with Dajti rising to the east
+
+Founded in 1614 by the Ottoman Albanian nobleman Sylejman Pasha Bargjini around the Old Mosque. It stayed fairly unimportant until the Congress of Lushnjë proclaimed it Albania's capital after independence in 1912.
+
 <a href="https://en.wikipedia.org/wiki/Tirana">Tirana on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Albania">Albania on Wikipedia</a>

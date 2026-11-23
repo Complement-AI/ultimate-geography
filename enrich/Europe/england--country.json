@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:England satellite image.png",
+    "alt": "Satellite view of England, Wales and the Isle of Man"
+  },
+  "facts": [
+    "About 56.5 million people (2021 census), 84% of the United Kingdom's",
+    "Highest point: Scafell Pike"
+  ],
+  "worth_knowing": "Named after the Angles, a Germanic tribe who settled in the 5th and 6th centuries. The Industrial Revolution began here in the 18th century.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/England",
+    "https://www.wikidata.org/wiki/Q21"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

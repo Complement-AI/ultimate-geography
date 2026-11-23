@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Doha skyline in the morning (12544910974).jpg",
+    "alt": "The Doha skyline in the morning"
+  },
+  "facts": [
+    "About 1.19 million people (2020)",
+    "On the Persian Gulf coast, in the east of the country"
+  ],
+  "worth_knowing": "Founded in the 1820s as an offshoot of Al Bidda, and declared the capital in 1971 when Qatar became independent of Britain. Over 80% of the nation lives in Doha or its suburbs.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Doha",
+    "https://www.wikidata.org/wiki/Q3861"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

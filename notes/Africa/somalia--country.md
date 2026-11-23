@@ -16,4 +16,8 @@ tags  = ["africa", "east_africa", "sovereign_state", "country"]
 
 <div class="cmp-map" data-focus="SOM" data-pin="2.0686,45.3647" data-label="Mogadishu"><img src="../../media/cx-locator-somalia.svg" alt="Map of Somalia with Mogadishu marked"></div>
 
+Easternmost country in continental Africa<br>Around 85% of residents are ethnic Somalis
+
+Somalia has the longest coastline on Africa's mainland.
+
 <a href="https://en.wikipedia.org/wiki/Somalia">Somalia on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Mogadishu">Mogadishu on Wikipedia</a>

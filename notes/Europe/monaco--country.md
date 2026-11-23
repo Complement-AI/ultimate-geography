@@ -16,4 +16,8 @@ tags  = ["europe", "mediterranean", "sovereign_state", "country"]
 
 <div class="cmp-map" data-focus="MCO" data-pin="43.7396,7.4069" data-label="Monaco"><img src="../../media/cx-locator-monaco.svg" alt="Map of Monaco with Monaco marked"></div>
 
+Borders only France<br>Fewer than 10,000 residents are Monégasque nationals
+
+A semi-constitutional monarchy with Prince Albert II as head of state. French is the official language, but Italian and Monégasque are also widely spoken.
+
 <a href="https://en.wikipedia.org/wiki/Monaco">Monaco on Wikipedia</a>

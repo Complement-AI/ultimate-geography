@@ -18,4 +18,8 @@ What is highlighted on this map?
 
 <div class="cmp-map" data-focus="CHE" data-pin="46.9167,7.467" data-label="Bern"><img src="../../media/cx-locator-switzerland.svg" alt="Map of Switzerland with Bern marked"></div>
 
+Borders Germany, France, Italy, Austria and Liechtenstein<br>Highest point: Dufourspitze
+
+Landlocked. The Alps cover most of the territory, but most of the people live on the Swiss Plateau between the Alps and the Jura Mountains.
+
 <a href="https://en.wikipedia.org/wiki/Switzerland">Switzerland on Wikipedia</a>

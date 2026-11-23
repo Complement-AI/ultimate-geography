@@ -16,4 +16,8 @@ What is highlighted on this map?
 
 ## Extra
 
+About 1.6 million km2, about 1,500 km wide<br>Contains about 2.4 million cubic km of water
+
+Mostly surrounded by North America, it is one of the largest offshore petroleum regions in the world.
+
 <a href="https://en.wikipedia.org/wiki/Gulf_of_Mexico">Gulf of Mexico on Wikipedia</a>

@@ -1,0 +1,16 @@
+{
+  "photo": {
+    "commons": "File:Satellite image of Guatemala in April 2002.jpg",
+    "alt": "Guatemala from orbit, April 2002"
+  },
+  "facts": [
+    "About 17.3 million people (2018) in 108,889 km²"
+  ],
+  "worth_knowing": "The territory hosted the core of the Maya civilization, which spread across Mesoamerica. The Spanish conquered most of it in the 16th century.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Guatemala",
+    "https://www.wikidata.org/wiki/Q774"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

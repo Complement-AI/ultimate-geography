@@ -14,6 +14,10 @@ tags  = ["europe", "country"]
 
 ## Extra
 
+About 1.9 million people (2021) in 14,130 km²<br>Highest point: Slieve Donard
+
+Created in 1921, when Ireland was partitioned by the Government of Ireland Act 1920. It has been variously described as a country, province or region.
+
 Constituent country of the United Kingdom.
 
 <a href="https://en.wikipedia.org/wiki/Northern_Ireland">Northern Ireland on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Belfast">Belfast on Wikipedia</a>

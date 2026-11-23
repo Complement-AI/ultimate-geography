@@ -18,4 +18,8 @@ What is highlighted on this map?
 
 <div class="cmp-map" data-focus="POL" data-pin="52.2519,20.9981" data-label="Warsaw"><img src="../../media/cx-locator-poland.svg" alt="Map of Poland with Warsaw marked"></div>
 
+Borders Germany, Czech Republic, Slovakia, Ukraine, Belarus, Lithuania and Russia<br>Highest point: Rysy
+
+It extends from the Baltic Sea in the north to the Sudetes and Carpathian Mountains in the south, with a varied landscape.
+
 <a href="https://en.wikipedia.org/wiki/Poland">Poland on Wikipedia</a>

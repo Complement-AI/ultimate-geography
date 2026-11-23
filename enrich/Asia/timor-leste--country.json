@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Lospalos klein.jpg",
+    "alt": "A town view in eastern Timor-Leste"
+  },
+  "facts": [
+    "About 1.4 million people (2024)",
+    "Declared independence in 1975"
+  ],
+  "worth_knowing": "Under Portuguese influence from the sixteenth century and a colony until 1975, when a declaration of independence was followed by an Indonesian invasion and annexation.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Timor-Leste",
+    "https://www.wikidata.org/wiki/Q574"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

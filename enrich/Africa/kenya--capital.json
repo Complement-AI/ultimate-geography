@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Nairobi, view from KICC.JPG",
+    "alt": "A city skyline seen from a tower"
+  },
+  "facts": [
+    "About 5.6 million people (2026)",
+    "1,661 m up"
+  ],
+  "worth_knowing": "Its name comes from the Maasai Enkare Nyirobi, \"place of cool waters\". It is the only capital in the world with a national park inside its boundaries.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Nairobi",
+    "https://www.wikidata.org/wiki/Q3870"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

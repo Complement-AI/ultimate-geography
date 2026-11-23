@@ -16,6 +16,10 @@ What is highlighted on this map?
 
 ## Extra
 
+About 251,000 people (2021)<br>About 805 km southwest of mainland Portugal, in the Atlantic
+
+The archipelago includes the islands of Madeira, Porto Santo and the Desertas, administered together with the separate Savage Islands. Roughly half of the population lives in Funchal.
+
 Autonomous region of Portugal.
 
 <a href="https://en.wikipedia.org/wiki/Madeira">Madeira on Wikipedia</a>

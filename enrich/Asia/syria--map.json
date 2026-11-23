@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Damascus, Syria, Panoramic view of Damascus.jpg",
+    "alt": "Panoramic view of a city of flat-roofed buildings"
+  },
+  "facts": [
+    "Borders Turkey, Iraq, Jordan, Israel and Lebanon",
+    "Area of 185,180 km²"
+  ],
+  "worth_knowing": "Borders the Mediterranean Sea to the west. Its highest point is Mount Hermon.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Syria",
+    "https://www.wikidata.org/wiki/Q858"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

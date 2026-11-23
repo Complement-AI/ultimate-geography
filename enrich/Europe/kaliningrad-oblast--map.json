@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Берег Куршского залива.jpg",
+    "alt": "A shore in the Curonian Spit National Park"
+  },
+  "facts": [
+    "About 15,100 km2, about 1 million people (2021 census)",
+    "Borders Poland to the south and Lithuania to the north and east"
+  ],
+  "worth_knowing": "A semi-exclave of Russia on the Baltic Sea. Baltiysk is Russia's only Baltic port that remains ice-free in winter.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Kaliningrad_Oblast",
+    "https://www.wikidata.org/wiki/Q1749"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

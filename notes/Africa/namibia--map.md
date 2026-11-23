@@ -18,4 +18,8 @@ What is highlighted on this map?
 
 <div class="cmp-map" data-focus="NAM" data-pin="-22.57,17.0835" data-label="Windhoek"><img src="../../media/cx-locator-namibia.svg" alt="Map of Namibia with Windhoek marked"></div>
 
+Borders Angola, Zambia, Botswana and South Africa<br>About 826,000 km2
+
+The narrow Caprivi Strip in the northeast is how Namibia reaches Zambia. Near Kazungula, Zimbabwe lies less than 200 metres away across the Zambezi.
+
 <a href="https://en.wikipedia.org/wiki/Namibia">Namibia on Wikipedia</a>

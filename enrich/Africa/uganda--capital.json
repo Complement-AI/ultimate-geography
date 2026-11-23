@@ -1,0 +1,16 @@
+{
+  "photo": {
+    "commons": "File:View from 7th floor on Crane Chambers at Kampala road - panoramio.jpg",
+    "alt": "View over the city from an upper floor"
+  },
+  "facts": [
+    "About 1.8 million people in the city proper (2024 census)",
+    "1,190 m up, on the Buganda hills"
+  ],
+  "worth_knowing": "The name comes from \"Hill of the Impala\": British officials were given a hill that had been a hunting reserve of the Kabaka of Buganda, with many impala. Akasozi k'empala was shortened to Kampala.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Kampala"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

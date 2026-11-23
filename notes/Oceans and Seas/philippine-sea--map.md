@@ -16,4 +16,8 @@ What is highlighted on this map?
 
 ## Extra
 
+About 5 million km2<br>East of the Philippine Archipelago
+
+The largest sea in the world, in the Western Pacific.
+
 <a href="https://en.wikipedia.org/wiki/Philippine_Sea">Philippine Sea on Wikipedia</a>

@@ -1,0 +1,14 @@
+{
+  "photo": null,
+  "facts": [
+    "About 371,000 km², the world's largest inland body of water",
+    "Bounded by Kazakhstan, Russia, Azerbaijan, Iran and Turkmenistan"
+  ],
+  "worth_knowing": "Its surface lies about 27 m below sea level, and its salinity is only about a third of average seawater. The Volga, Europe's longest river, feeds it at the shallow north end.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Caspian_Sea",
+    "https://www.wikidata.org/wiki/Q5484"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Satellite image of Belarus in December 2002.jpg",
+    "alt": "Belarus from orbit in December"
+  },
+  "facts": [
+    "Area about 207,600 km2",
+    "Highest point: Dziaržynkaja hara"
+  ],
+  "worth_knowing": "Landlocked and relatively flat, stretching 560 km north to south and 650 km west to east. Large tracts are marshy, and the Pripyat flows east to the Dnieper.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Belarus",
+    "https://www.wikidata.org/wiki/Q184"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

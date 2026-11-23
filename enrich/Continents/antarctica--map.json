@@ -1,0 +1,14 @@
+{
+  "photo": null,
+  "facts": [
+    "About 14.2 million km², the fifth-largest continent",
+    "Surrounded by the Southern Ocean, with the geographic South Pole"
+  ],
+  "worth_knowing": "The coldest, driest and windiest continent on average, with the highest average elevation. Most of it lies under an ice sheet averaging 1.9 km thick.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Antarctica",
+    "https://www.wikidata.org/wiki/Q51"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

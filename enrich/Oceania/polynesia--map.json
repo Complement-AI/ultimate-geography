@@ -1,0 +1,14 @@
+{
+  "photo": null,
+  "facts": [
+    "More than 1,000 islands",
+    "About 300,000 km² of land, over 270,000 km² of it in New Zealand"
+  ],
+  "worth_knowing": "The islands form the Polynesian Triangle, which includes the Hawaiian Islands in the north Pacific. Most of the area is ocean, with only a small amount of land.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Polynesia",
+    "https://www.wikidata.org/wiki/Q35942"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

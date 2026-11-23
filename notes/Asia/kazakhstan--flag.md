@@ -18,4 +18,8 @@ Whose flag is this?
 
 <div class="cmp-map" data-focus="KAZ" data-pin="51.1811,71.4278" data-label="Astana"><img src="../../media/cx-locator-kazakhstan.svg" alt="Map of Kazakhstan with Astana marked"></div>
 
+Adopted on 4 June 1992
+
+A turquoise banner with a 32-ray golden sun above a soaring steppe eagle. A national ornamental pattern, qoshqar-muiiz, runs down the hoist side.
+
 <a href="https://en.wikipedia.org/wiki/Flag_of_Kazakhstan">Flag of Kazakhstan on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Kazakhstan">Kazakhstan on Wikipedia</a>

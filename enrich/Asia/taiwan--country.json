@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Taipei Night Skyline from Hongludi 20240113.jpg",
+    "alt": "The Taipei skyline at night"
+  },
+  "facts": [
+    "About 23.3 million people (2026)",
+    "Among the most densely populated countries"
+  ],
+  "worth_knowing": "The island has been settled for at least 25,000 years. Ancestors of Taiwanese indigenous peoples settled it around 6,000 years ago.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Taiwan",
+    "https://www.wikidata.org/wiki/Q865"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

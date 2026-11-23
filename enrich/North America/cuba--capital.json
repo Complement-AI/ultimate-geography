@@ -1,0 +1,14 @@
+{
+  "photo": null,
+  "facts": [
+    "About 2.1 million people in the city (2021)",
+    "The Caribbean's most populous city"
+  ],
+  "worth_knowing": "Founded in 1519 by Spain, it overtook Santiago in the mid-16th century thanks to its harbour and became the island's capital in 1552. Walls and forts protected it from naval attack.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Havana",
+    "https://www.wikidata.org/wiki/Q1563"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

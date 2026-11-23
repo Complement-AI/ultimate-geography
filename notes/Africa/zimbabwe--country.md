@@ -16,4 +16,8 @@ tags  = ["africa", "east_africa", "sovereign_state", "country"]
 
 <div class="cmp-map" data-focus="ZWE" data-pin="-17.8158,31.0428" data-label="Harare"><img src="../../media/cx-locator-zimbabwe.svg" alt="Map of Zimbabwe with Harare marked"></div>
 
+About 17.3 million people (2026 estimate)<br>16 official languages
+
+The name comes from a Shona term for Great Zimbabwe, the medieval city whose ruins lie near Masvingo. Nationalists chose it in place of "Rhodesia", which they saw as colonial.
+
 <a href="https://en.wikipedia.org/wiki/Zimbabwe">Zimbabwe on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Harare">Harare on Wikipedia</a>

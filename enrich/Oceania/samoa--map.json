@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Beach on Upolu Island, Samoa, 2009.jpg",
+    "alt": "A beach on Upolu Island"
+  },
+  "facts": [
+    "Two main islands, Savaiʻi and Upolu",
+    "Two smaller inhabited islands, Manono and Apolima"
+  ],
+  "worth_knowing": "The archipelago has seen volcanic hotspot activity for the past 2 million years. Several smaller uninhabited islands, including the Aleipata Islands, lie off Upolu.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Samoa",
+    "https://www.wikidata.org/wiki/Q683"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:MallaDistrict.jpg",
+    "alt": "Buildings in the Malla district of Yemen"
+  },
+  "facts": [
+    "Borders Saudi Arabia and Oman",
+    "Area of 455,503 km², with about 2,000 km of coast"
+  ],
+  "worth_knowing": "Includes the Socotra Archipelago. The Red Sea lies to the west, the Gulf of Aden to the south and the Arabian Sea to the east.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Yemen",
+    "https://www.wikidata.org/wiki/Q805"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

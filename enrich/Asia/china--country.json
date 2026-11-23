@@ -1,0 +1,16 @@
+{
+  "photo": {
+    "commons": "File:Badaling China Great-Wall-of-China-01.jpg",
+    "alt": "The Great Wall winding over hills"
+  },
+  "facts": [
+    "About 1.4 billion people (2025) in 9.56 million km²"
+  ],
+  "worth_knowing": "The world's second-most populous country after India, and the third largest by area. Its land runs from the Himalayas to deserts and the Yellow and Yangtze river plains.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/China",
+    "https://www.wikidata.org/wiki/Q148"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

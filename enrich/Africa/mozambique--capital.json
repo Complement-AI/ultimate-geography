@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Maputo seen from southeast - October 2006.jpg",
+    "alt": "Aerial view of the city from the southeast"
+  },
+  "facts": [
+    "About 1.09 million people (2017)",
+    "On a large natural bay on the Indian Ocean"
+  ],
+  "worth_knowing": "It was called Lourenço Marques, after a Portuguese navigator who explored the area in 1544, until independence made it the national capital and it was renamed Maputo.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Maputo",
+    "https://www.wikidata.org/wiki/Q3889"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

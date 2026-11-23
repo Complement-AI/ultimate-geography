@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Vue Kinshasa.jpg",
+    "alt": "Tall buildings along a wide river"
+  },
+  "facts": [
+    "About 18.5 million people (2026 estimate)",
+    "Seventh-most populous city proper in the world"
+  ],
+  "worth_knowing": "Named Léopoldville from 1881 to 1966. The site was known as Nshasa and was home to the Teke and Humbu people for centuries before it became a commercial hub.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Kinshasa",
+    "https://www.wikidata.org/wiki/Q3838"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

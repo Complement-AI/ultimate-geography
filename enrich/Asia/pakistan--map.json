@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Blue Hour at Pakistan Monument.jpg",
+    "alt": "A stone monument lit at dusk"
+  },
+  "facts": [
+    "Borders India, Afghanistan, Iran and China",
+    "Area of about 882,000 km²"
+  ],
+  "worth_knowing": "Afghanistan's narrow Wakhan Corridor separates Pakistan from Tajikistan in the northwest. The Arabian Sea lies to the south and the Gulf of Oman to the southwest.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Pakistan",
+    "https://www.wikidata.org/wiki/Q843"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

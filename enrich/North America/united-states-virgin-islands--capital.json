@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:View of St. Thomas.jpg",
+    "alt": "Panoramic view of Saint Thomas and nearby islands"
+  },
+  "facts": [
+    "About 8,200 people (2020), the territory's most densely populated town",
+    "On Saint Thomas, at the head of Charlotte Amalie Harbor"
+  ],
+  "worth_knowing": "Founded in 1666 as Taphus, Danish for \"beer house\". It was renamed in 1691 for Charlotte Amalie of Hesse-Kassel, wife of the Danish king Christian V.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Charlotte_Amalie,_U.S._Virgin_Islands",
+    "https://www.wikidata.org/wiki/Q51681"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

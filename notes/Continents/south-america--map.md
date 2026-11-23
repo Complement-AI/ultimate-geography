@@ -16,4 +16,8 @@ What is highlighted on this map?
 
 ## Extra
 
+About 17.5 million km², about 438 million people (2025)<br>Twelve sovereign countries, Brazil the largest
+
+Home to the Amazon, the largest river by volume, and the Andes, the longest mountain range. The Andes' highest peak is Aconcagua at 6,962 m.
+
 <a href="https://en.wikipedia.org/wiki/South_America">South America on Wikipedia</a>

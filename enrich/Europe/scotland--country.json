@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Scotland from satellite.jpg",
+    "alt": "Scotland seen from satellite"
+  },
+  "facts": [
+    "About 5.4 million people (2022) in 78,782 km²",
+    "Highest point: Ben Nevis"
+  ],
+  "worth_knowing": "Scotland and England combined to form the Kingdom of Great Britain on 1 May 1707. A Scottish Parliament was re-established in 1999 and has devolved authority over many areas of domestic policy.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Scotland",
+    "https://www.wikidata.org/wiki/Q22"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

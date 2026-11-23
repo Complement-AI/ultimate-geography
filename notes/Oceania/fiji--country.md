@@ -16,4 +16,8 @@ tags  = ["oceania", "sovereign_state", "country"]
 
 <div class="cmp-map" data-focus="FJI" data-pin="-18.133,178.4417" data-label="Suva"><img src="../../media/cx-locator-fiji.svg" alt="Map of Fiji with Suva marked"></div>
 
+About 926,000 people (2018) in 18,300 km²<br>Official languages: English, Fijian and Fiji Hindi
+
+About 87% of the population lives on the two major islands, Viti Levu and Vanua Levu. The interior of Viti Levu is sparsely inhabited because of its terrain.
+
 <a href="https://en.wikipedia.org/wiki/Fiji">Fiji on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Suva">Suva on Wikipedia</a>

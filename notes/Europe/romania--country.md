@@ -16,4 +16,8 @@ tags  = ["europe", "european_union", "sovereign_state", "country"]
 
 <div class="cmp-map" data-focus="ROU" data-pin="44.4353,26.098" data-label="Bucharest"><img src="../../media/cx-locator-romania.svg" alt="Map of Romania with Bucharest marked"></div>
 
+About 19 million people (2022) in 238,397 km²<br>Twelfth-largest country in Europe by area
+
+The modern state was formed in 1859 by the unification of Moldavia and Wallachia, and took the name Romania in 1866. It became a kingdom in 1881 under Carol I.
+
 <a href="https://en.wikipedia.org/wiki/Romania">Romania on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Bucharest">Bucharest on Wikipedia</a>

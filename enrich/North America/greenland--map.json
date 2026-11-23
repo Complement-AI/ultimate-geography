@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Greenland 42.74746W 71.57394N.jpg",
+    "alt": "Satellite photo of Greenland"
+  },
+  "facts": [
+    "About 2.17 million km²",
+    "East of the Canadian Arctic Archipelago"
+  ],
+  "worth_knowing": "It lies between the Arctic and Atlantic oceans and is the largest of the three parts of the Kingdom of Denmark by land area.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Greenland",
+    "https://www.wikidata.org/wiki/Q223"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

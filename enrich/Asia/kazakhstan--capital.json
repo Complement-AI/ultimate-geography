@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Trip to Astana (2015-10-24) 01.jpg",
+    "alt": "Astana's modern buildings"
+  },
+  "facts": [
+    "About 1.7 million people within the city limits",
+    "On the Ishim river, in the north of the country"
+  ],
+  "worth_knowing": "Founded as Aqmoly in 1830, then Akmolinsk, Tselinograd and Aqmola. It became Astana, 'capital' in Kazakh, in 1998. As Nur-Sultan from 2019, it reverted to Astana in 2022.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Astana",
+    "https://www.wikidata.org/wiki/Q1520"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

@@ -16,6 +16,10 @@ What is highlighted on this map?
 
 ## Extra
 
+Connects the Arabian Sea with the Strait of Hormuz<br>Borders Iran, Pakistan, Oman and the United Arab Emirates
+
+It holds one of the world's largest marine dead zones, confirmed in 2018, where there is little or no oxygen.
+
 Also known as Gulf of Makran.
 
 <a href="https://en.wikipedia.org/wiki/Gulf_of_Oman">Gulf of Oman on Wikipedia</a>

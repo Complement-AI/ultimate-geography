@@ -16,4 +16,8 @@ What is the capital of <b>Cyprus</b>?
 
 <div class="cmp-map" data-focus="CYP" data-pin="35.1667,33.3666" data-label="Nicosia"><img src="../../media/cx-locator-cyprus.svg" alt="Map of Cyprus with Nicosia marked"></div>
 
+About 57,000 people (2021)
+
+The last divided capital in Europe: the dividing line since 1974 runs through the city. It has been Cyprus's capital since the 10th century.
+
 <a href="https://en.wikipedia.org/wiki/Nicosia">Nicosia on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Cyprus">Cyprus on Wikipedia</a>

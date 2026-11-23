@@ -18,4 +18,8 @@ What is highlighted on this map?
 
 <div class="cmp-map" data-focus="ARE" data-pin="24.4667,54.3666" data-label="Abu Dhabi"><img src="../../media/cx-locator-united-arab-emirates.svg" alt="Map of United Arab Emirates with Abu Dhabi marked"></div>
 
+Borders Oman and Saudi Arabia<br>Area of about 83,600 km²
+
+Sits at the eastern end of the Arabian Peninsula, with the Persian Gulf to the north and west and the Gulf of Oman to the east. Highest point: Jebel Jais.
+
 <a href="https://en.wikipedia.org/wiki/United_Arab_Emirates">United Arab Emirates on Wikipedia</a>

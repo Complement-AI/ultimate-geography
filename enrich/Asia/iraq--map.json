@@ -1,0 +1,16 @@
+{
+  "photo": {
+    "commons": "File:View of Sulaymaniyah (Slemani) City in Winter - Snow 2015.JPG",
+    "alt": "Snow-covered city and hills of Sulaymaniyah in winter"
+  },
+  "facts": [
+    "Borders Turkey, Syria, Jordan, Saudi Arabia, Kuwait and Iran"
+  ],
+  "worth_knowing": "The fertile plains lie between the Tigris and Euphrates rivers, with the Persian Gulf to the southeast.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Iraq",
+    "https://www.wikidata.org/wiki/Q796"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

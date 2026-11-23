@@ -1,0 +1,14 @@
+{
+  "photo": null,
+  "facts": [
+    "About 331,000 people in the city (2024)",
+    "670 m up, among volcanoes in the highlands"
+  ],
+  "worth_knowing": "Gonzalo de Alvarado founded a mission named San Salvador in 1525. The name likely refers to the Transfiguration of Jesus, celebrated on 6 August. The city is prone to earthquakes.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/San_Salvador",
+    "https://www.wikidata.org/wiki/Q3110"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

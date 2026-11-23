@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Raffles Place.jpg",
+    "alt": "Skyscrapers around Raffles Place in Singapore"
+  },
+  "facts": [
+    "Independent from Malaysia on 9 August 1965",
+    "Island country and city-state"
+  ],
+  "worth_knowing": "Under direct British control from 1867 as part of the Straits Settlements. It was occupied by Japan in 1942 and returned to Britain as a Crown colony in 1945.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Singapore",
+    "https://www.wikidata.org/wiki/Q334"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

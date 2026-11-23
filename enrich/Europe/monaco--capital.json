@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Panorama von Monaco-La Turbie.jpg",
+    "alt": "Panorama of Monaco and its harbour from La Turbie"
+  },
+  "facts": [
+    "About 38,900 people (2025) in 2.08 km²",
+    "On the French Riviera, on the Mediterranean"
+  ],
+  "worth_knowing": "The city and the country are the same place: a city-state, the second smallest sovereign state in the world after Vatican City and the most densely populated.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Monaco",
+    "https://www.wikidata.org/wiki/Q235"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

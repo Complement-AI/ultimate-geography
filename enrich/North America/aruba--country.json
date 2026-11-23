@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Aruba World Wind.jpg",
+    "alt": "Satellite view of the island"
+  },
+  "facts": [
+    "About 107,000 people (2022) in 179 km²",
+    "Part of the Kingdom of the Netherlands since 1986 as a constituent country"
+  ],
+  "worth_knowing": "Unlike much of the Caribbean, Aruba has a dry, arid climate. Its citizens share Dutch nationality.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Aruba",
+    "https://www.wikidata.org/wiki/Q21203"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

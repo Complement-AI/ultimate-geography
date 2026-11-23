@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:British Virgin Islands.jpg",
+    "alt": "True-colour satellite image of Tortola and its smaller neighbours"
+  },
+  "facts": [
+    "East of Puerto Rico and the U.S. Virgin Islands, north-west of Anguilla",
+    "Four main islands: Tortola, Virgin Gorda, Anegada and Jost Van Dyke"
+  ],
+  "worth_knowing": "More than 50 smaller islands and cays surround them, and about 16 of the islands are inhabited. Tortola, the largest, is about 20 km long and 5 km wide.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/British_Virgin_Islands",
+    "https://www.wikidata.org/wiki/Q25305"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

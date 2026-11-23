@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Belmopan Parliament.jpg",
+    "alt": "The Parliament building"
+  },
+  "facts": [
+    "About 20,800 people (2022), the smallest capital in the continental Americas",
+    "76 m above sea level, inland on the Belize River"
+  ],
+  "worth_knowing": "A planned city, built after Hurricane Hattie in 1961 nearly destroyed coastal Belize City. The government moved here in 1970, and its name joins \"Belize\" and \"Mopan\", two rivers.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Belmopan",
+    "https://www.wikidata.org/wiki/Q3043"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

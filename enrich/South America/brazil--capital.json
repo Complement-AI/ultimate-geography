@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Planalto Central (cropped).jpg",
+    "alt": "Brasília seen from above, with its planned avenues"
+  },
+  "facts": [
+    "About 3.0 million people (2025)",
+    "1,171 m up in the Brazilian Highlands"
+  ],
+  "worth_knowing": "Planned by Lúcio Costa and Oscar Niemeyer and founded on 21 April 1960 to replace Rio de Janeiro. It is laid out in the shape of an airplane, and became a UNESCO World Heritage Site in 1987.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Bras%C3%ADlia",
+    "https://www.wikidata.org/wiki/Q2844"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

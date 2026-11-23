@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Phnom Penh aerial.jpg",
+    "alt": "Aerial view of Phnom Penh"
+  },
+  "facts": [
+    "About 2.1 million people (2019)",
+    "Where the Tonlé Sap and Mekong rivers meet"
+  ],
+  "worth_knowing": "The name comes from Wat Phnom, a Buddhist temple, and Lady Penh, the city's founder. It has been the national capital since 1865 and was once nicknamed the \"Pearl of Asia\".",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Phnom_Penh",
+    "https://www.wikidata.org/wiki/Q1850"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

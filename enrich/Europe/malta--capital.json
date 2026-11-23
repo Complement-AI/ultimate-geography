@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Malta, 2010 - panoramio - Bengt Nyman (23).jpg",
+    "alt": "Valletta's bastions and domed church above the harbour"
+  },
+  "facts": [
+    "About 5,200 people (2024)",
+    "At 0.61 km², the European Union's smallest capital city"
+  ],
+  "worth_knowing": "Named after Jean Parisot de Valette, who defended the island in the Great Siege of Malta, and built by the Knights Hospitaller in the 16th century. It is also the southernmost capital of Europe.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Valletta",
+    "https://www.wikidata.org/wiki/Q23800"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

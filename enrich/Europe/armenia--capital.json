@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Mount Ararat and the Yerevan skyline in spring (28mm).jpg",
+    "alt": "The city skyline in spring, with Mount Ararat behind"
+  },
+  "facts": [
+    "About 1.1 million people (2024)",
+    "987 m up, on the Hrazdan River"
+  ],
+  "worth_knowing": "It began in 782 BC as Erebuni, a fortress founded by King Argishti I of Urartu, which makes it one of the world's oldest continuously inhabited cities. It has been the capital since 1918.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Yerevan",
+    "https://www.wikidata.org/wiki/Q1953"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

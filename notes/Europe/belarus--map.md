@@ -18,4 +18,8 @@ What is highlighted on this map?
 
 <div class="cmp-map" data-focus="BLR" data-pin="53.9019,27.5647" data-label="Minsk"><img src="../../media/cx-locator-belarus.svg" alt="Map of Belarus with Minsk marked"></div>
 
+Area about 207,600 km2<br>Highest point: Dziaržynkaja hara
+
+Landlocked and relatively flat, stretching 560 km north to south and 650 km west to east. Large tracts are marshy, and the Pripyat flows east to the Dnieper.
+
 <a href="https://en.wikipedia.org/wiki/Belarus">Belarus on Wikipedia</a>

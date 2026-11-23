@@ -16,6 +16,10 @@ tags  = ["asia", "southeast_asia", "sovereign_state", "country"]
 
 <div class="cmp-map" data-focus="TLS" data-pin="-8.5594,125.5795" data-label="Dili"><img src="../../media/cx-locator-timor-leste.svg" alt="Map of Timor-Leste with Dili marked"></div>
 
+About 1.4 million people (2024)<br>Declared independence in 1975
+
+Under Portuguese influence from the sixteenth century and a colony until 1975, when a declaration of independence was followed by an Indonesian invasion and annexation.
+
 Also known as East Timor.
 
 <a href="https://en.wikipedia.org/wiki/Timor-Leste">Timor-Leste on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Dili">Dili on Wikipedia</a>

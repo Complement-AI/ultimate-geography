@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Papeete - Marina Taina.JPG",
+    "alt": "Marina Taina at Papeete"
+  },
+  "facts": [
+    "About 27,000 people in the commune and 124,000 in the urban area (2022)",
+    "On Tahiti, in the Windward Islands"
+  ],
+  "worth_knowing": "The name means \"water from a basket\", a result of a naming taboo under Pōmare I that replaced the word vai for water with pape. It is the hub of the territory's tourism and a common port of call.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Papeete",
+    "https://www.wikidata.org/wiki/Q130800"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

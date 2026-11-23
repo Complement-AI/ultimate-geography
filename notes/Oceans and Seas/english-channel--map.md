@@ -16,4 +16,8 @@ What is highlighted on this map?
 
 ## Extra
 
+About 560 km long, 75,000 km2<br>34 km wide at its narrowest, in the Strait of Dover
+
+It separates southern England from northern France, and is the smallest of the shallow seas around the continental shelf of Europe.
+
 <a href="https://en.wikipedia.org/wiki/English_Channel">English Channel on Wikipedia</a>

@@ -18,4 +18,8 @@ What is highlighted on this map?
 
 <div class="cmp-map" data-focus="GRC" data-pin="37.9853,23.7314" data-label="Athens"><img src="../../media/cx-locator-greece.svg" alt="Map of Greece with Athens marked"></div>
 
+Borders Albania, North Macedonia, Bulgaria and Turkey<br>Up to 227 inhabited islands, the longest coastline on the Mediterranean
+
+Mostly on the Balkan peninsula, with the Ionian Sea west of the mainland and the Aegean Sea to the east.
+
 <a href="https://en.wikipedia.org/wiki/Greece">Greece on Wikipedia</a>

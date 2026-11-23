@@ -1,0 +1,14 @@
+{
+  "photo": null,
+  "facts": [
+    "About 9.5 million people (2025)",
+    "Highest point: Kékes"
+  ],
+  "worth_knowing": "Hungarian is one of the few languages in Europe outside the Indo-European family. The \"H\" in the English name is most likely linked to the Huns.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Hungary",
+    "https://www.wikidata.org/wiki/Q28"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

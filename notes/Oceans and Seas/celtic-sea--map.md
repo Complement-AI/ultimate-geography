@@ -16,4 +16,8 @@ What is highlighted on this map?
 
 ## Extra
 
+Off the southern coast of Ireland<br>Includes the Isles of Scilly and the Iroise Sea off Brittany
+
+Named for the Celtic heritage of the lands to its north and east. No land features divide it from the open Atlantic to the south and west.
+
 <a href="https://en.wikipedia.org/wiki/Celtic_Sea">Celtic Sea on Wikipedia</a>

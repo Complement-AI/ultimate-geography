@@ -16,4 +16,8 @@ What is highlighted on this map?
 
 ## Extra
 
+About 138,600 km², up to 1,233 m deep<br>Coasts on Albania, Bosnia and Herzegovina, Croatia, Italy, Montenegro and Slovenia
+
+Less salty than the Mediterranean it feeds into, because it collects a third of the fresh water flowing into the Mediterranean.
+
 <a href="https://en.wikipedia.org/wiki/Adriatic_Sea">Adriatic Sea on Wikipedia</a>

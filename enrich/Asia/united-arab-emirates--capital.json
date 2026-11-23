@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Абу-Даби (Abu Dhabi) - panoramio (1).jpg",
+    "alt": "The Abu Dhabi waterfront"
+  },
+  "facts": [
+    "About 1.57 million people (2023)",
+    "On a T-shaped island extending into the Persian Gulf"
+  ],
+  "worth_knowing": "The second-most populous city after Dubai. The Abu Dhabi Investment Authority, based here, is estimated to manage about US$1 trillion, the world's third-largest sovereign wealth fund.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Abu_Dhabi",
+    "https://www.wikidata.org/wiki/Q1519"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

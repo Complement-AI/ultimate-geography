@@ -18,4 +18,8 @@ What is highlighted on this map?
 
 <div class="cmp-map" data-focus="KGZ" data-pin="42.875,74.5833" data-label="Bishkek"><img src="../../media/cx-locator-kyrgyzstan.svg" alt="Map of Kyrgyzstan with Bishkek marked"></div>
 
+Borders Kazakhstan, Uzbekistan, Tajikistan and China<br>Bishkek lies on the northern border with Kazakhstan
+
+It lies in the Tian Shan and Pamir mountain ranges, and its highly mountainous terrain leaves it geographically isolated.
+
 <a href="https://en.wikipedia.org/wiki/Kyrgyzstan">Kyrgyzstan on Wikipedia</a>

@@ -18,4 +18,8 @@ What is highlighted on this map?
 
 <div class="cmp-map" data-focus="GAB" data-pin="0.3854,9.458" data-label="Libreville"><img src="../../media/cx-locator-gabon.svg" alt="Map of Gabon with Libreville marked"></div>
 
+Borders Equatorial Guinea, Cameroon and the Republic of the Congo<br>About 270,000 km²
+
+Coastal plains, with the Crystal Mountains and the Chaillu Massif in the centre and savanna in the east.
+
 <a href="https://en.wikipedia.org/wiki/Gabon">Gabon on Wikipedia</a>

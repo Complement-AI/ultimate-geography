@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Castle Square (22346p).jpg",
+    "alt": "Castle Square in Warsaw"
+  },
+  "facts": [
+    "About 1.87 million people (2024) in the city",
+    "On the Vistula river, in east-central Poland"
+  ],
+  "worth_knowing": "The capital moved here from Kraków after 1596, when Sigismund III relocated his court. Much of the historic city was destroyed in World War II.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Warsaw",
+    "https://www.wikidata.org/wiki/Q270"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

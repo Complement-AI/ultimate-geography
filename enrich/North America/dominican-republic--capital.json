@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Santo Domingo (Dominican Republic) taken atop Novocentro tower viewing the city to the southwest 2010.jpg",
+    "alt": "The city seen from the top of a tall tower"
+  },
+  "facts": [
+    "About 1.03 million people in the city centre (2022)",
+    "Greater Santo Domingo has about 4.3 million"
+  ],
+  "worth_knowing": "Founded in 1496 by Spain, it is the oldest continuously inhabited European settlement in the Americas. From 1936 to 1961 it was called Ciudad Trujillo, after the dictator who named it after himself.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Santo_Domingo",
+    "https://www.wikidata.org/wiki/Q34820"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

@@ -18,4 +18,8 @@ What is highlighted on this map?
 
 <div class="cmp-map" data-focus="MOZ" data-pin="-25.9533,32.5872" data-label="Maputo"><img src="../../media/cx-locator-mozambique.svg" alt="Map of Mozambique with Maputo marked"></div>
 
+Borders Tanzania, Malawi, Zambia, Zimbabwe, Eswatini and South Africa<br>About 801,590 km², the world's 35th-largest country
+
+The Zambezi River splits it into two regions: a narrow coastal strip giving way to hills and plateaus in the north, and broader lowlands in the south. The Indian Ocean lies to the east.
+
 <a href="https://en.wikipedia.org/wiki/Mozambique">Mozambique on Wikipedia</a>

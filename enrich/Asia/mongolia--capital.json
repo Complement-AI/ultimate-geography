@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:UB downtown.jpg",
+    "alt": "Central Ulaanbaatar with the Blue Sky Tower"
+  },
+  "facts": [
+    "About 1.6 million people (2022), almost half of the country",
+    "About 1,300 m up, in a valley on the Tuul River"
+  ],
+  "worth_knowing": "Founded in 1639 as a nomadic Buddhist monastic centre, it moved 29 times before settling at its present site in 1778. It took the name Ulaanbaatar in 1924, when it became the capital.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Ulaanbaatar",
+    "https://www.wikidata.org/wiki/Q23430"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

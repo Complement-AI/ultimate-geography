@@ -16,6 +16,10 @@ What is highlighted on this map?
 
 ## Extra
 
+Two island groups, the larger Caicos Islands and the smaller Turks Islands<br>About 52,000 people (2025 estimate) on 430 km²
+
+Caicos comes from the Lucayan caya hico, "string of islands". The Turks Islands are named after the Turk's cap cactus, whose red top resembles a fez.
+
 Overseas territory of the United Kingdom.
 
 <a href="https://en.wikipedia.org/wiki/Turks_and_Caicos_Islands">Turks and Caicos Islands on Wikipedia</a>

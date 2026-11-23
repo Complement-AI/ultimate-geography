@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Svalbard (MODIS).jpg",
+    "alt": "Svalbard from satellite, with snow and ice"
+  },
+  "facts": [
+    "Archipelago of 61,022 km², about midway between Norway and the North Pole",
+    "Highest point: Newtontoppen"
+  ],
+  "worth_knowing": "The islands lie between 74° and 81° north. The largest island is Spitsbergen, at 37,673 km², and the largest settlement is Longyearbyen.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Svalbard",
+    "https://www.wikidata.org/wiki/Q25231"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

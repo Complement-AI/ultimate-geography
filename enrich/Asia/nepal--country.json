@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Satellite image of Nepal in October 2002.jpg",
+    "alt": "Nepal seen from orbit"
+  },
+  "facts": [
+    "About 29.2 million people (2021) in 147,000 km²",
+    "Landlocked, in South Asia"
+  ],
+  "worth_knowing": "A secular republic since 2008, which ended the world's last Hindu monarchy. The Kingdom of Nepal had been established in 1768.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Nepal",
+    "https://www.wikidata.org/wiki/Q837"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

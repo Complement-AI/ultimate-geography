@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Nui atoll.jpg",
+    "alt": "An atoll seen from space"
+  },
+  "facts": [
+    "Three reef islands and six atolls",
+    "About 26 km² of land, the fourth smallest country in the world"
+  ],
+  "worth_knowing": "It lies about midway between Hawaii and Australia. The islands are so low-lying that Tuvalu is extremely vulnerable to sea level rise.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Tuvalu",
+    "https://www.wikidata.org/wiki/Q672"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

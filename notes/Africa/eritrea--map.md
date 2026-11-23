@@ -18,4 +18,8 @@ What is highlighted on this map?
 
 <div class="cmp-map" data-focus="ERI" data-pin="15.3333,38.9333" data-label="Asmara"><img src="../../media/cx-locator-eritrea.svg" alt="Map of Eritrea with Asmara marked"></div>
 
+Borders Sudan, Ethiopia and Djibouti<br>About 117,600 km²
+
+Includes the Dahlak Archipelago and several of the Hanish Islands off its Red Sea coast.
+
 <a href="https://en.wikipedia.org/wiki/Eritrea">Eritrea on Wikipedia</a>

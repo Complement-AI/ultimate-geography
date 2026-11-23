@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Coral reef on Nauru.jpg",
+    "alt": "A coral reef on Nauru"
+  },
+  "facts": [
+    "About 13,650 people (2017) on 21 km²",
+    "Nearest neighbour is Banaba, in Kiribati, about 300 km east"
+  ],
+  "worth_knowing": "The third-smallest country in the world, and the smallest member of the Commonwealth of Nations by both area and population.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Nauru",
+    "https://www.wikidata.org/wiki/Q697"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

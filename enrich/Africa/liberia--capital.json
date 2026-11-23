@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Liberia, Africa - panoramio (256).jpg",
+    "alt": "A view of a coastal city"
+  },
+  "facts": [
+    "About 1.76 million people (2022 census)",
+    "On Cape Mesurado, on the Atlantic coast"
+  ],
+  "worth_knowing": "Founded in April 1822 by the American Colonization Society as a settlement for free people of color, and named for US President James Monroe, a supporter of the project.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Monrovia",
+    "https://www.wikidata.org/wiki/Q3748"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

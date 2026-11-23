@@ -1,0 +1,14 @@
+{
+  "photo": null,
+  "facts": [
+    "About 750 km² of land scattered over 700,000 km² of ocean",
+    "About 800 km from north to south"
+  ],
+  "worth_knowing": "70% of the people live on the main island, Tongatapu. Niue is the nearest foreign territory, to the east.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Tonga",
+    "https://www.wikidata.org/wiki/Q678"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

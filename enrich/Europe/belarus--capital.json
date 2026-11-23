@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Мінск. Сквер па плошчы Незалежнасці.jpg",
+    "alt": "A public square in Minsk"
+  },
+  "facts": [
+    "About 2 million people (2026)",
+    "On the Svislach river, 280 m above sea level"
+  ],
+  "worth_knowing": "Minsk became the capital of newly independent Belarus when the Soviet Union dissolved. It reached 1 million people in 1972, and its metro opened in 1984.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Minsk",
+    "https://www.wikidata.org/wiki/Q2280"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

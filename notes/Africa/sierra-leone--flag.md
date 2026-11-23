@@ -18,4 +18,8 @@ Whose flag is this?
 
 <div class="cmp-map" data-focus="SLE" data-pin="8.472,-13.2362" data-label="Freetown"><img src="../../media/cx-locator-sierra-leone.svg" alt="Map of Sierra Leone with Freetown marked"></div>
 
+Adopted in 1961, the year of independence
+
+Green for agriculture and mountains, white for unity and justice, blue for the natural harbour of Freetown and the hope of contributing to world peace.
+
 <a href="https://en.wikipedia.org/wiki/Flag_of_Sierra_Leone">Flag of Sierra Leone on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Sierra_Leone">Sierra Leone on Wikipedia</a>

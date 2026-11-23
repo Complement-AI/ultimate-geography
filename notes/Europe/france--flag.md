@@ -18,4 +18,8 @@ Whose flag is this?
 
 <div class="cmp-map" data-focus="FRA" data-pin="48.8686,2.3314" data-label="Paris"><img src="../../media/cx-locator-france.svg" alt="Map of France with Paris marked"></div>
 
+Adopted during the French Revolution
+
+Blue and red are the traditional colours of Paris, worn on a cockade by the militia that stormed the Bastille. Lafayette added white, which he called the ancient French colour.
+
 <a href="https://en.wikipedia.org/wiki/Flag_of_France">Flag of France on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/France">France on Wikipedia</a>

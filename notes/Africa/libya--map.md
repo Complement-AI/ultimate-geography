@@ -18,4 +18,6 @@ What is highlighted on this map?
 
 <div class="cmp-map" data-focus="LBY" data-pin="32.8925,13.18" data-label="Tripoli"><img src="../../media/cx-locator-libya.svg" alt="Map of Libya with Tripoli marked"></div>
 
+Borders Egypt, Sudan, Chad, Niger, Algeria and Tunisia<br>Almost 1.8 million km²
+
 <a href="https://en.wikipedia.org/wiki/Libya">Libya on Wikipedia</a>

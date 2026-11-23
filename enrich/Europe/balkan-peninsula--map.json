@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Balkan-range-satellite.jpg",
+    "alt": "Satellite view of the Balkan Mountains"
+  },
+  "facts": [
+    "Bordered by the Adriatic, Ionian, Aegean and Black seas",
+    "Highest point: Musala, 2,925 m, in Bulgaria"
+  ],
+  "worth_knowing": "The region is named for the Balkan Mountains, which run across Bulgaria. German geographer August Zeune coined the peninsula in 1808, wrongly thinking those mountains spanned the region.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Balkans",
+    "https://www.wikidata.org/wiki/Q23522"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

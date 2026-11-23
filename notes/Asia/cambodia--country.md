@@ -16,4 +16,8 @@ tags  = ["asia", "southeast_asia", "sovereign_state", "country"]
 
 <div class="cmp-map" data-focus="KHM" data-pin="11.552,104.9147" data-label="Phnom Penh"><img src="../../media/cx-locator-cambodia.svg" alt="Map of Cambodia with Phnom Penh marked"></div>
 
+About 17.4 million people (2023) in about 181,000 km²
+
+In 802 AD Jayavarman II declared himself king, uniting the warring Khmer princes under the name "Kambuja". Cambodia became the centre of power of the Khmer Empire.
+
 <a href="https://en.wikipedia.org/wiki/Cambodia">Cambodia on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Phnom_Penh">Phnom Penh on Wikipedia</a>

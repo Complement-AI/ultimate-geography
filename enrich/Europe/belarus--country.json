@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Satellite image of Belarus in December 2002.jpg",
+    "alt": "Belarus from orbit in December"
+  },
+  "facts": [
+    "About 9.1 million people (2026)",
+    "Neighbours: Russia, Ukraine, Poland, Lithuania, Latvia"
+  ],
+  "worth_knowing": "A landlocked, relatively flat country with large marshy areas, about 40% forest and 11,000 lakes. Its three major rivers, the Neman, Pripyat and Dnieper, flow to the Baltic and Black seas.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Belarus",
+    "https://www.wikidata.org/wiki/Q184"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

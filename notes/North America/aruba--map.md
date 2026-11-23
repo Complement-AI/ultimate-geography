@@ -18,6 +18,10 @@ What is highlighted on this map?
 
 <div class="cmp-map" data-focus="ABW" data-pin="12.5304,-70.029" data-label="Oranjestad"><img src="../../media/cx-locator-aruba.svg" alt="Map of Aruba with Oranjestad marked"></div>
 
+29 km north of Venezuela's Paraguaná peninsula, and 80 km north-west of Curaçao<br>32 km long and 10 km across at its widest
+
+Geologically Aruba lies in South America, on the continental shelf. With Bonaire and Curaçao it forms the ABC islands.
+
 Constituent country of the Kingdom of the Netherlands.
 
 <a href="https://en.wikipedia.org/wiki/Aruba">Aruba on Wikipedia</a>

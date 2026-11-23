@@ -18,4 +18,8 @@ Whose flag is this?
 
 <div class="cmp-map" data-focus="GMB" data-pin="13.4539,-16.5917" data-label="Banjul"><img src="../../media/cx-locator-the-gambia.svg" alt="Map of The Gambia with Banjul marked"></div>
 
+Adopted in 1965, at independence
+
+Red, blue and green bands separated by thin white stripes. It replaced the British Blue Ensign with the arms of the Gambia Colony and Protectorate.
+
 <a href="https://en.wikipedia.org/wiki/Flag_of_the_Gambia">Flag of the Gambia on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/The_Gambia">The Gambia on Wikipedia</a>

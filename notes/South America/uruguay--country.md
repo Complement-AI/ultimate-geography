@@ -16,4 +16,8 @@ tags  = ["south_america", "sovereign_state", "country"]
 
 <div class="cmp-map" data-focus="URY" data-pin="-34.8561,-56.173" data-label="Montevideo"><img src="../../media/cx-locator-uruguay.svg" alt="Map of Uruguay with Montevideo marked"></div>
 
+Almost 3.5 million people (2023), nearly 2 million of them in the capital's metropolitan area
+
+The second-smallest sovereign nation in South America, after Suriname.
+
 <a href="https://en.wikipedia.org/wiki/Uruguay">Uruguay on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Montevideo">Montevideo on Wikipedia</a>

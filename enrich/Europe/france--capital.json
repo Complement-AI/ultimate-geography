@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:La Tour Eiffel vue de la Tour Saint-Jacques, Paris août 2014 (2).jpg",
+    "alt": "The Eiffel Tower rising above city rooftops"
+  },
+  "facts": [
+    "About 2.1 million people in the city itself (2023), 48 m above sea level",
+    "On the Seine, in the centre of the Île-de-France region"
+  ],
+  "worth_knowing": "First mentioned by Julius Caesar in the mid-1st century BC as Lutetia of the Parisii. It is nicknamed the City of Light mainly for its role in the Age of Enlightenment.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Paris",
+    "https://www.wikidata.org/wiki/Q90"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Vistas desde la iglesia de San Pedro, Riga, Letonia, 2012-08-07, DD 12.JPG",
+    "alt": "View of Riga from St. Peter's Church"
+  },
+  "facts": [
+    "About 589,000 people (2026)",
+    "Flat, sandy plain 1 to 10 m above sea level, at the mouth of the Daugava"
+  ],
+  "worth_knowing": "Founded in 1201 and a former Hanseatic League member. Its historical centre is a UNESCO World Heritage Site, noted for its Art Nouveau architecture.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Riga",
+    "https://www.wikidata.org/wiki/Q1773"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

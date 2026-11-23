@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Basseterre.jpeg",
+    "alt": "A view over Basseterre"
+  },
+  "facts": [
+    "About 12,900 people (2025)",
+    "On the south-western coast of Saint Kitts"
+  ],
+  "worth_knowing": "The French founded it in 1627 under Sieur Pierre Belain d'Esnambuc. It is one of the oldest towns in the Eastern Caribbean and a chief commercial depot of the Leeward Islands.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Basseterre",
+    "https://www.wikidata.org/wiki/Q41295"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

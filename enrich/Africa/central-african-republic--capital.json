@@ -1,0 +1,21 @@
+{
+  "photo": {
+    "commons": "File:Bangui City Centre.jpg",
+    "alt": "Buildings in a city centre",
+    "file": "cx-photo-bangui-city-centre.jpg",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Bangui_City_Centre.jpg",
+    "credit": "Alllexxxis, CC BY-SA 4.0, via Wikimedia Commons"
+  },
+  "facts": [
+    "About 889,000 people (2020)",
+    "On the northern bank of the Ubangi River"
+  ],
+  "worth_knowing": "Founded in 1889 as a French outpost. It is named after the river, whose own name comes from a Bobangi word for the rapids beside the settlement.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Bangui",
+    "https://www.wikidata.org/wiki/Q3832"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

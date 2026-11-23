@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Skyscrapers of Shinjuku 2009 January (revised).jpg",
+    "alt": "Skyscrapers of Shinjuku, Tokyo"
+  },
+  "facts": [
+    "About 14.3 million people (2022) in the metropolis",
+    "Greater Tokyo has 33 million (2025)"
+  ],
+  "worth_knowing": "Originally Edo, it rose to prominence in 1603 as seat of the Tokugawa shogunate. After the Meiji Restoration of 1868 the capital moved from Kyoto and the city was renamed Tokyo, 'Eastern Capital'.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Tokyo",
+    "https://www.wikidata.org/wiki/Q1490"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

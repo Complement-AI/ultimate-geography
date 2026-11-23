@@ -18,4 +18,8 @@ Whose flag is this?
 
 <div class="cmp-map" data-focus="MYS" data-pin="3.1686,101.698" data-label="Kuala Lumpur"><img src="../../media/cx-locator-malaysia.svg" alt="Map of Malaysia with Kuala Lumpur marked"></div>
 
+Adopted on 16 September 1963
+
+The 14 stripes and the 14 points of the star stand for the 13 states and the federal territories. The crescent represents Islam, the state religion.
+
 <a href="https://en.wikipedia.org/wiki/Flag_of_Malaysia">Flag of Malaysia on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Malaysia">Malaysia on Wikipedia</a>

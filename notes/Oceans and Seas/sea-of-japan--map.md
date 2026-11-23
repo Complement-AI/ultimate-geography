@@ -16,6 +16,10 @@ What is highlighted on this map?
 
 ## Extra
 
+About 978,000 km2<br>Between the Japanese archipelago, Sakhalin, the Korean Peninsula and the Russian Far East
+
+Almost completely enclosed from the Pacific, it has almost no tides, like the Mediterranean.
+
 A naming dispute exists between the sea's bordering countries, with South Korea notably supporting the name East Sea.
 
 <a href="https://en.wikipedia.org/wiki/Sea_of_Japan">Sea of Japan on Wikipedia</a>

@@ -18,4 +18,8 @@ What is highlighted on this map?
 
 <div class="cmp-map" data-focus="AUS" data-pin="-35.283,149.129" data-label="Canberra"><img src="../../media/cx-locator-australia.svg" alt="Map of Australia with Canberra marked"></div>
 
+Neighbours across the sea include Indonesia, Papua New Guinea and New Zealand<br>Mainland, the island of Tasmania and many smaller islands
+
+Large deserts fill the centre and tropical rainforests line parts of the coast. At 2,228 m, Mount Kosciuszko is the highest mountain on the mainland.
+
 <a href="https://en.wikipedia.org/wiki/Australia">Australia on Wikipedia</a>

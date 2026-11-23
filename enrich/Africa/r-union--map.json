@@ -1,0 +1,16 @@
+{
+  "photo": {
+    "commons": "File:L'île de la Réunion vue par le satellite Sentinel-2 (cropped).jpg",
+    "alt": "Réunion seen from the Sentinel-2 satellite"
+  },
+  "facts": [
+    "An overseas department of France, about 890,000 people (2023)",
+    "679 km east of Madagascar, 175 km southwest of Mauritius"
+  ],
+  "worth_knowing": "Piton de la Fournaise is one of Earth's most active volcanoes. Piton des Neiges, the island's highest point at 3,070 m, is dormant.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Réunion"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

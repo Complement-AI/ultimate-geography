@@ -18,6 +18,10 @@ Whose flag is this?
 
 <div class="cmp-map" data-focus="SWZ" data-pin="-26.3167,31.1333" data-label="Mbabane"><img src="../../media/cx-locator-eswatini.svg" alt="Map of Eswatini with Mbabane marked"></div>
 
+Adopted on 6 October 1968
+
+Red stands for past battles, blue for peace and stability, yellow for the country's resources. The Nguni shield and two spears symbolise protection from enemies.
+
 Known as Swaziland until 2018.
 
 <a href="https://en.wikipedia.org/wiki/Flag_of_Eswatini">Flag of Eswatini on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Eswatini">Eswatini on Wikipedia</a>

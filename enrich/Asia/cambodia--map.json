@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Angkor Wat W-Seite.jpg",
+    "alt": "Angkor Wat seen from its west entrance"
+  },
+  "facts": [
+    "Borders Thailand, Laos and Vietnam, with a coast on the Gulf of Thailand",
+    "Highest point: Phnom Aural"
+  ],
+  "worth_knowing": "A low-lying plain, dominated by the confluence of the Mekong river and Tonlé Sap, Southeast Asia's largest lake.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Cambodia",
+    "https://www.wikidata.org/wiki/Q424"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

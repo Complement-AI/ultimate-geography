@@ -16,4 +16,8 @@ tags  = ["europe", "european_union", "sovereign_state", "country"]
 
 <div class="cmp-map" data-focus="DNK" data-pin="55.6805,12.5615" data-label="Copenhagen"><img src="../../media/cx-locator-denmark.svg" alt="Map of Denmark with Copenhagen marked"></div>
 
+About 5.8 million people (2020)<br>Highest point: Møllehøj
+
+Part of the Kingdom of Denmark, which also includes the autonomous Faroe Islands and Greenland. Mostly flat, arable land with sandy coasts and low elevation.
+
 <a href="https://en.wikipedia.org/wiki/Denmark">Denmark on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Copenhagen">Copenhagen on Wikipedia</a>

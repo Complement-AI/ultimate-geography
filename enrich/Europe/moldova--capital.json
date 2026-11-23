@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Arch of Triumph, Chisinau, Republic of Moldova (51160304626 cropped).jpg",
+    "alt": "The Triumphal Arch in the city centre"
+  },
+  "facts": [
+    "About 567,000 people (2024 census) in the city proper",
+    "On the river Bîc, a tributary of the Dniester"
+  ],
+  "worth_knowing": "Formerly known by its Russian form, Kishinev. It hosts the national wine festival every October, in a country whose winemaking dates back to at least 3,000 BC.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Chișinău",
+    "https://www.wikidata.org/wiki/Q21197"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

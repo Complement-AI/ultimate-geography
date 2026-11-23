@@ -18,4 +18,8 @@ Whose flag is this?
 
 <div class="cmp-map" data-focus="PRT" data-pin="38.7247,-9.1468" data-label="Lisbon"><img src="../../media/cx-locator-portugal.svg" alt="Map of Portugal with Lisbon marked"></div>
 
+Announced in 1910; official decree published on 30 June 1911
+
+Green and red were the colours of the Republican Party, which brought down the monarchy on 5 October 1910. Green was a radical break with the former monarchical flag.
+
 <a href="https://en.wikipedia.org/wiki/Flag_of_Portugal">Flag of Portugal on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Portugal">Portugal on Wikipedia</a>

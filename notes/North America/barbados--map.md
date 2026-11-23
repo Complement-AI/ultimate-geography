@@ -18,4 +18,8 @@ What is highlighted on this map?
 
 <div class="cmp-map" data-focus="BRB" data-pin="13.102,-59.6165" data-label="Bridgetown"><img src="../../media/cx-locator-barbados.svg" alt="Map of Barbados with Bridgetown marked"></div>
 
+34 km long and up to 23 km wide<br>168 km east of Saint Lucia and Saint Vincent and the Grenadines
+
+The easternmost island of the Lesser Antilles, set apart in the Atlantic. It is flat compared with the Windward Islands to its west, rising gently to the central Scotland District.
+
 <a href="https://en.wikipedia.org/wiki/Barbados">Barbados on Wikipedia</a>

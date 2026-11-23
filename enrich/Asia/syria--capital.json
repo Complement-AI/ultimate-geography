@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Damascus coll.jpg",
+    "alt": "Views of Damascus"
+  },
+  "facts": [
+    "About 2.69 million people (2024)",
+    "680 m up on a plateau in the Anti-Lebanon foothills, 80 km inland"
+  ],
+  "worth_knowing": "Described as the oldest capital city in the world, and one of the oldest continuously inhabited. It was chosen as the capital of the Umayyad Caliphate from 661 to 750.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Damascus",
+    "https://www.wikidata.org/wiki/Q3766"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

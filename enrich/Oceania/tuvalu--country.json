@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Nui atoll.jpg",
+    "alt": "An atoll seen from space"
+  },
+  "facts": [
+    "About 10,600 people (2022 census)",
+    "Official languages: English and Tuvaluan"
+  ],
+  "worth_knowing": "The name means 'eight standing together' in Tuvaluan. It became fully independent on 1 October 1978, as a sovereign state within the Commonwealth.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Tuvalu",
+    "https://www.wikidata.org/wiki/Q672"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

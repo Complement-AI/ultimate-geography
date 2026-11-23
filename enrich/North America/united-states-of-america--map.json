@@ -1,0 +1,14 @@
+{
+  "photo": null,
+  "facts": [
+    "Borders Canada to the north and Mexico to the south",
+    "About 9.83 million km², the world's fourth-largest total area"
+  ],
+  "worth_knowing": "The 48 contiguous states are joined by Alaska, a semi-exclave in the northwest, and Hawaii, an archipelago in the Pacific Ocean.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/United_States",
+    "https://www.wikidata.org/wiki/Q30"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

@@ -16,4 +16,8 @@ What is highlighted on this map?
 
 ## Extra
 
+About 3,500,000 km2<br>Borders South China, Indochina, Taiwan, the Philippines and Borneo
+
+A major shipping route: $3.4 trillion of the world's $16 trillion maritime trade passed through it in 2016.
+
 <a href="https://en.wikipedia.org/wiki/South_China_Sea">South China Sea on Wikipedia</a>

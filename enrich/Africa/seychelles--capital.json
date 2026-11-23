@@ -1,0 +1,16 @@
+{
+  "photo": {
+    "commons": "File:Victoria view from Bel Eau asv2024-09 img3.jpg",
+    "alt": "The town and harbour seen from a hillside"
+  },
+  "facts": [
+    "About 24,700 people (2014)",
+    "On the north-eastern side of Mahé, the main island"
+  ],
+  "worth_knowing": "First established as the seat of the British colonial government. Its port is known as Port Victoria.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Victoria,_Seychelles"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Beirut skyline, Beirut, Lebanon.jpg",
+    "alt": "Beirut skyline on the Mediterranean"
+  },
+  "facts": [
+    "About 5.3 million people (2026) in 10,452 km²",
+    "Highest point is Qurnat as Sawda'"
+  ],
+  "worth_knowing": "From 3200 to 539 BC it was part of Phoenicia, a maritime civilization that spanned the Mediterranean Basin.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Lebanon",
+    "https://www.wikidata.org/wiki/Q822"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

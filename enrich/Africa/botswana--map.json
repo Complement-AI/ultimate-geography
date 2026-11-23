@@ -1,0 +1,21 @@
+{
+  "photo": {
+    "commons": "File:Okavango Delta, Botswana (2674364913).jpg",
+    "alt": "The Okavango Delta",
+    "file": "cx-photo-okavango-delta-botswana-2674364913.jpg",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Okavango_Delta,_Botswana_(2674364913).jpg",
+    "credit": "Joachim Huber, Joachim Huber from Switzerland, via Wikimedia Commons"
+  },
+  "facts": [
+    "Borders South Africa, Namibia, Zambia and Zimbabwe",
+    "About 582,000 km²"
+  ],
+  "worth_knowing": "Topographically flat, with approximately 70% of its territory part of the Kalahari Desert.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Botswana",
+    "https://www.wikidata.org/wiki/Q963"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

@@ -18,4 +18,8 @@ Whose flag is this?
 
 <div class="cmp-map" data-focus="UGA" data-pin="0.3186,32.5814" data-label="Kampala"><img src="../../media/cx-locator-uganda.svg" alt="Map of Uganda with Kampala marked"></div>
 
+Adopted on 9 October 1962, the day of independence
+
+Six bands of black, yellow and red with a white disc holding a crested crane. The colonial badge of the British Protectorate of Uganda also featured a crested crane.
+
 <a href="https://en.wikipedia.org/wiki/Flag_of_Uganda">Flag of Uganda on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Uganda">Uganda on Wikipedia</a>

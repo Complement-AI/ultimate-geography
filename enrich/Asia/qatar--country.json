@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Skyline of Doha West Bay.jpg",
+    "alt": "Skyscrapers of West Bay in Doha"
+  },
+  "facts": [
+    "About 3.18 million people (2026), 3.02 million of them foreign expatriates and migrant workers",
+    "Gained independence in 1971"
+  ],
+  "worth_knowing": "Ruled by the House of Thani since 1868, it became a British protectorate in 1916. It has the world's third-largest natural gas reserves.",
+  "sources": [
+    "https://www.wikidata.org/wiki/Qatar",
+    "https://www.wikidata.org/wiki/Q846"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

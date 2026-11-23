@@ -18,4 +18,8 @@ Whose flag is this?
 
 <div class="cmp-map" data-focus="CYP" data-pin="35.1667,33.3666" data-label="Nicosia"><img src="../../media/cx-locator-cyprus.svg" alt="Map of Cyprus with Nicosia marked"></div>
 
+Introduced on 16 August 1960
+
+The copper-orange map of the island, perhaps the source of its name, sits above two olive branches. The olive branches and the white field stand for peace between Greek and Turkish Cypriots.
+
 <a href="https://en.wikipedia.org/wiki/Flag_of_Cyprus">Flag of Cyprus on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Cyprus">Cyprus on Wikipedia</a>

@@ -18,6 +18,10 @@ Whose flag is this?
 
 <div class="cmp-map" data-focus="YEM" data-pin="15.3567,44.2046" data-label="Sanaa"><img src="../../media/cx-locator-yemen.svg" alt="Map of Yemen with Sanaa marked"></div>
 
+Adopted on 22 May 1990, the day of unification
+
+Red stands for unity and the bloodshed of martyrs, white for a bright future, and black for the supposed dark past.
+
 Similar flags: Egypt (with emblem), Iraq (with text)
 
 <a href="https://en.wikipedia.org/wiki/Flag_of_Yemen">Flag of Yemen on Wikipedia</a> <a href="https://en.wikipedia.org/wiki/Yemen">Yemen on Wikipedia</a>

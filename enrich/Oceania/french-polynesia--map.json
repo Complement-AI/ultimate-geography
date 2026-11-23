@@ -1,0 +1,17 @@
+{
+  "photo": {
+    "commons": "File:Archipel des Tuamotu.jpg",
+    "alt": "Coral atolls of the Tuamotu archipelago seen from orbit"
+  },
+  "facts": [
+    "Land area of 3,521 km², scattered over more than 2,000 km of ocean",
+    "Highest point: Mount Orohena on Tahiti"
+  ],
+  "worth_knowing": "Tahiti, in the Society Islands, is the largest and most populated island. Bora Bora, Mo'orea and Nuku Hiva are among the other important islands.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/French_Polynesia",
+    "https://www.wikidata.org/wiki/Q30971"
+  ],
+  "written_by": "claude-sonnet-5-5",
+  "checked_by": null
+}

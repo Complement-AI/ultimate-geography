@@ -18,4 +18,8 @@ What is highlighted on this map?
 
 <div class="cmp-map" data-focus="MHL" data-pin="7.103,171.38" data-label="Majuro"><img src="../../media/cx-locator-marshall-islands.svg" alt="Map of Marshall Islands with Majuro marked"></div>
 
+29 coral atolls and five main islands
+
+Two island chains run side by side: Ratak in the east and Ralik in the west. Besides the atolls and main islands there are 1,220 other very small ones.
+
 <a href="https://en.wikipedia.org/wiki/Marshall_Islands">Marshall Islands on Wikipedia</a>
