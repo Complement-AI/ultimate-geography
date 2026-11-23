@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:ISS006-E-38664 - View of the Cook Islands.jpg",
-    "alt": "Cook Islands seen from the International Space Station"
+    "alt": "Cook Islands seen from the International Space Station",
+    "file": "cx-photo-iss006-e-38664-view-of-the-cook-islands.jpg",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:ISS006-E-38664_-_View_of_the_Cook_Islands.jpg",
+    "credit": "Earth Science and Remote Sensing Unit, Lyndon B. Johnson Space Center, Public domain, via Wikimedia Commons"
   },
   "facts": [
     "15 islands with about 236.7 km² of land",

@@ -16,6 +16,10 @@ What is the capital of <b>Moldova</b>?
 
 <div class="cmp-map" data-focus="MDA" data-pin="47.005,28.8577" data-label="Chișinău"><img src="../../media/cx-locator-moldova.svg" alt="Map of Moldova with Chișinău marked"></div>
 
+![The Triumphal Arch in the city centre](../../media/cx-photo-arch-of-triumph-chisinau-republic-of-moldova-51160304626-cro.jpg)
+
+<i>Photo: Photobank MD from Chisinau, Moldova, CC0, via Wikimedia Commons</i>
+
 About 567,000 people (2024 census) in the city proper<br>On the river Bîc, a tributary of the Dniester
 
 Formerly known by its Russian form, Kishinev. It hosts the national wine festival every October, in a country whose winemaking dates back to at least 3,000 BC.

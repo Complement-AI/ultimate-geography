@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Djibouti City.jpg",
-    "alt": "A coastal city seen from above"
+    "alt": "A coastal city seen from above",
+    "file": "cx-photo-djibouti-city.jpg",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Djibouti_City.jpg",
+    "credit": "Skilla1st, CC BY-SA 3.0, via Wikimedia Commons"
   },
   "facts": [
     "About 604,000 people (2018)",

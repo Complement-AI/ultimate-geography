@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Main street of Alofi.jpg",
-    "alt": "The main street of Alofi"
+    "alt": "The main street of Alofi",
+    "file": "cx-photo-main-street-of-alofi.jpg",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Main_street_of_Alofi.jpg",
+    "credit": "Pseudopanax at English Wikipedia, Public domain, via Wikimedia Commons"
   },
   "facts": [
     "About 575 people (2025)",

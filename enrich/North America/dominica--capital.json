@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:RoseauWide..jpg",
-    "alt": "Roseau seen from the sea"
+    "alt": "Roseau seen from the sea",
+    "file": "cx-photo-roseauwide.jpg",
+    "license": "CC BY 2.5",
+    "source": "https://commons.wikimedia.org/wiki/File:RoseauWide..jpg",
+    "credit": "RufusTeleStrat at en.wikipedia, Ted Rufus Ross, via Wikimedia Commons"
   },
   "facts": [
     "About 16,600 people (2025)",

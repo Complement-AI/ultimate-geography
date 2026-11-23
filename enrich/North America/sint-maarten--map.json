@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Philipsburg and the Great Bay, Sint Maarten, Caribbean.jpg",
-    "alt": "Philipsburg and the Great Bay"
+    "alt": "Philipsburg and the Great Bay",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Philipsburg_and_the_Great_Bay%2C_Sint_Maarten%2C_Caribbean.jpg",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Philipsburg_and_the_Great_Bay,_Sint_Maarten,_Caribbean.jpg",
+    "credit": "Clavius66, CC BY-SA 3.0, via Wikimedia Commons"
   },
   "facts": [
     "About 58,500 people (June 2023) on 34 km²",

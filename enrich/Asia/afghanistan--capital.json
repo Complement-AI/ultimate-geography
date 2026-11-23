@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Kabul TV Hill view.jpg",
-    "alt": "View over Kabul from TV Hill"
+    "alt": "View over Kabul from TV Hill",
+    "file": "cx-photo-kabul-tv-hill-view.jpg",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kabul_TV_Hill_view.jpg",
+    "credit": "Sven Dirks, Wien, CC BY-SA 3.0, via Wikimedia Commons"
   },
   "facts": [
     "About 5.3 million people (2025 estimate)",

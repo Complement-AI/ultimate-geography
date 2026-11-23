@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Vista aérea de la Plaza del Congreso 10.jpg",
-    "alt": "An aerial view of Plaza del Congreso in Buenos Aires"
+    "alt": "An aerial view of Plaza del Congreso in Buenos Aires",
+    "file": "cx-photo-vista-a-rea-de-la-plaza-del-congreso-10.jpg",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Vista_a%C3%A9rea_de_la_Plaza_del_Congreso_10.jpg",
+    "credit": "ProtoplasmaKid, CC BY-SA 4.0, via Wikimedia Commons"
   },
   "facts": [
     "About 3.1 million people in the city proper (2022)",

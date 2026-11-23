@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Cityscape Berlin.jpg",
-    "alt": "Berlin seen from the Victory Column"
+    "alt": "Berlin seen from the Victory Column",
+    "file": "cx-photo-cityscape-berlin.jpg",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Cityscape_Berlin.jpg",
+    "credit": "Thomas Wolf, www.foto-tw.de, Thomas Wolf, www.foto-tw.de, via Wikimedia Commons"
   },
   "facts": [
     "About 3.9 million people (2025), the most of any city in the EU",

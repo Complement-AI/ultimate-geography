@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Tallinna vanalinn 2015.jpg",
-    "alt": "Aerial view of Tallinn Old Town"
+    "alt": "Aerial view of Tallinn Old Town",
+    "file": "cx-photo-tallinna-vanalinn-2015.jpg",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Tallinna_vanalinn_2015.jpg",
+    "credit": "Hiiumaamudeliklubi, CC BY-SA 4.0, via Wikimedia Commons"
   },
   "facts": [
     "About 458,000 people (2024)",

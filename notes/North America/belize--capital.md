@@ -16,6 +16,10 @@ What is the capital of <b>Belize</b>?
 
 <div class="cmp-map" data-focus="BLZ" data-pin="17.252,-88.7671" data-label="Belmopan"><img src="../../media/cx-locator-belize.svg" alt="Map of Belize with Belmopan marked"></div>
 
+![The Parliament building](../../media/cx-photo-belmopan-parliament.jpg)
+
+<i>Photo: Haakon S. Krohn, CC BY-SA 3.0, via Wikimedia Commons</i>
+
 About 20,800 people (2022), the smallest capital in the continental Americas<br>76 m above sea level, inland on the Belize River
 
 A planned city, built after Hurricane Hattie in 1961 nearly destroyed coastal Belize City. The government moved here in 1970, and its name joins "Belize" and "Mopan", two rivers.

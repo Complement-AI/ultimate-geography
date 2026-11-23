@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:San'a03 flickr.jpg",
-    "alt": "Tall decorated buildings in the old city of Sanaa"
+    "alt": "Tall decorated buildings in the old city of Sanaa",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/San%27a03_flickr.jpg",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:San%27a03_flickr.jpg",
+    "credit": "ai@ce, CC BY 2.0, via Wikimedia Commons"
   },
   "facts": [
     "About 3.3 million people (2023)",

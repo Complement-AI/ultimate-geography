@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Nui atoll.jpg",
-    "alt": "An atoll seen from space"
+    "alt": "An atoll seen from space",
+    "file": "cx-photo-nui-atoll.jpg",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Nui_atoll.jpg",
+    "credit": "NASA, Public domain, via Wikimedia Commons"
   },
   "facts": [
     "Three reef islands and six atolls",

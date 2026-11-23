@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:View of Vaduz.jpg",
-    "alt": "Vaduz and the Rhine valley seen from above"
+    "alt": "Vaduz and the Rhine valley seen from above",
+    "file": "cx-photo-view-of-vaduz.jpg",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:View_of_Vaduz.jpg",
+    "credit": "Lucas Kendall, CC BY-SA 4.0, via Wikimedia Commons"
   },
   "facts": [
     "About 5,700 people (2019)",

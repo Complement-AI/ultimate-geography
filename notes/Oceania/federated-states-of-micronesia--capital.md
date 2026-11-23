@@ -16,6 +16,10 @@ What is the capital of <b>Federated States of Micronesia</b>?
 
 <div class="cmp-map" data-focus="FSM" data-pin="6.9166,158.15" data-label="Palikir"><img src="../../media/cx-locator-federated-states-of-micronesia.svg" alt="Map of Federated States of Micronesia with Palikir marked"></div>
 
+![The Congress and Supreme Court buildings](../../media/cx-photo-palikir-government-buildings.jpg)
+
+<i>Photo: MaxMonaco, CC BY-SA 4.0, via Wikimedia Commons</i>
+
 A town of slightly above 5,000 residents<br>On the northwest side of Pohnpei, a high volcanic island ringed by a coral reef
 
 It was declared the capital in 1989 and is now the hub of the federal administration. Kolonia, the island's largest settlement, lies nearby to the northeast.

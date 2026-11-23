@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:ISS017-E-10695 - View of Bermuda.jpg",
-    "alt": "Bermuda seen from the International Space Station"
+    "alt": "Bermuda seen from the International Space Station",
+    "file": "cx-photo-iss017-e-10695-view-of-bermuda.jpg",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:ISS017-E-10695_-_View_of_Bermuda.jpg",
+    "credit": "Earth Science and Remote Sensing Unit, Lyndon B. Johnson Space Center, Public domain, via Wikimedia Commons"
   },
   "facts": [
     "Nearest land is North Carolina, about 1,035 km to the west-northwest",

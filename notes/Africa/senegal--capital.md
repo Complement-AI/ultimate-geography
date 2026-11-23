@@ -16,6 +16,10 @@ What is the capital of <b>Senegal</b>?
 
 <div class="cmp-map" data-focus="SEN" data-pin="14.7178,-17.4751" data-label="Dakar"><img src="../../media/cx-locator-senegal.svg" alt="Map of Senegal with Dakar marked"></div>
 
+![Rocky shore at the Pointe des Almadies](../../media/cx-photo-pointe-des-almadies-senegal.jpg)
+
+<i>Photo: Jeff Attaway, CC BY 2.0, via Wikimedia Commons</i>
+
 Metropolitan area of 4.0 million people (2023)<br>On the Cap-Vert peninsula, the westernmost point of mainland Africa
 
 In 1902 it replaced Saint-Louis as the capital of French West Africa. From 1959 to 1960 it was the capital of the short-lived Mali Federation.

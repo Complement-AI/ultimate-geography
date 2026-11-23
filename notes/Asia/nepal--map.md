@@ -18,6 +18,10 @@ What is highlighted on this map?
 
 <div class="cmp-map" data-focus="NPL" data-pin="27.7186,85.3147" data-label="Kathmandu"><img src="../../media/cx-locator-nepal.svg" alt="Map of Nepal with Kathmandu marked"></div>
 
+![Nepal seen from orbit](../../media/cx-photo-satellite-image-of-nepal-in-october-2002.jpg)
+
+<i>Photo: Jacques Descloitres, MODIS Rapid Response Team, NASA/GSFC, Public domain, via Wikimedia Commons</i>
+
 Borders China to the north and India to the south, east and west
 
 Mostly Himalayas, with part of the Indo-Gangetic Plain in the south. It holds eight of the world's ten highest mountains, including Mount Everest.

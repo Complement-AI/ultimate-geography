@@ -16,6 +16,10 @@ tags  = ["asia", "sovereign_state", "country"]
 
 <div class="cmp-map" data-focus="KGZ" data-pin="42.875,74.5833" data-label="Bishkek"><img src="../../media/cx-locator-kyrgyzstan.svg" alt="Map of Kyrgyzstan with Bishkek marked"></div>
 
+![Mountain valley in the Issyk-Kul region](../../media/cx-photo-kichi-ak-suu-sanctuary-issyk-kul-region-kyrgyzstan-001.jpg)
+
+<i>Photo: Vilya Shoni, CC BY-SA 4.0, via Wikimedia Commons</i>
+
 About 7.3 million people (2025) in 199,951 km²<br>Highest point is Jengish Chokusu
 
 Landlocked and highly mountainous, but at the crossroads of several civilisations as part of the Silk Road.

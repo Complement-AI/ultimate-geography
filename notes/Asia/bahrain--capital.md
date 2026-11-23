@@ -16,6 +16,10 @@ What is the capital of <b>Bahrain</b>?
 
 <div class="cmp-map" data-focus="BHR" data-pin="26.2361,50.5831" data-label="Manama"><img src="../../media/cx-locator-bahrain.svg" alt="Map of Bahrain with Manama marked"></div>
 
+![The Bahrain World Trade Center towers in Manama](../../media/cx-photo-bahrain-world-trade-center.jpg)
+
+<i>Photo: B.alotaby, CC BY-SA 4.0, via Wikimedia Commons</i>
+
 About 743,000 people (2025 estimate)<br>On the northeastern coast of Bahrain Island, on the Persian Gulf
 
 After 1602 it became a regional centre for commerce and pearling. It was declared the capital in 1971, when Bahrain gained independence from British protection.

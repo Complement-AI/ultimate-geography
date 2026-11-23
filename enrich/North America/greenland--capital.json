@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Nuuk - capital of Greenland - panoramio.jpg",
-    "alt": "Nuuk's houses beside the water"
+    "alt": "Nuuk's houses beside the water",
+    "file": "cx-photo-nuuk-capital-of-greenland-panoramio.jpg",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Nuuk_-_capital_of_Greenland_-_panoramio.jpg",
+    "credit": "patano, patano, via Wikimedia Commons"
   },
   "facts": [
     "About 20,100 people (January 2025)",

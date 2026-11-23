@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:FACHADA ASAMBLEA NACIONAL. QUITO, 20 DE FEBRERO 2020. 01.jpg",
-    "alt": "The National Assembly building in Quito"
+    "alt": "The National Assembly building in Quito",
+    "file": "cx-photo-fachada-asamblea-nacional-quito-20-de-febrero-2020-01.jpg",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:FACHADA_ASAMBLEA_NACIONAL._QUITO,_20_DE_FEBRERO_2020._01.jpg",
+    "credit": "Asamblea Nacional del Ecuador, CC BY-SA 2.0, via Wikimedia Commons"
   },
   "facts": [
     "About 1.76 million people (2022)",

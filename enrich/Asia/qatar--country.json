@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Skyline of Doha West Bay.jpg",
-    "alt": "Skyscrapers of West Bay in Doha"
+    "alt": "Skyscrapers of West Bay in Doha",
+    "file": "cx-photo-skyline-of-doha-west-bay.jpg",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Skyline_of_Doha_West_Bay.jpg",
+    "credit": "Ceslou, CC BY-SA 4.0, via Wikimedia Commons"
   },
   "facts": [
     "About 3.18 million people (2026), 3.02 million of them foreign expatriates and migrant workers",

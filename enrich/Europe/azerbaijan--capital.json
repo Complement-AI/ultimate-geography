@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Baku 004 1953c.jpg",
-    "alt": "View of the city from the seafront boulevard"
+    "alt": "View of the city from the seafront boulevard",
+    "file": "cx-photo-baku-004-1953c.jpg",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Baku_004_1953c.jpg",
+    "credit": "Ludvig14, CC BY-SA 4.0, via Wikimedia Commons"
   },
   "facts": [
     "About 2.3 million people (2021)",

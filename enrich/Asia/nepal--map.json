@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Satellite image of Nepal in October 2002.jpg",
-    "alt": "Nepal seen from orbit"
+    "alt": "Nepal seen from orbit",
+    "file": "cx-photo-satellite-image-of-nepal-in-october-2002.jpg",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Satellite_image_of_Nepal_in_October_2002.jpg",
+    "credit": "Jacques Descloitres, MODIS Rapid Response Team, NASA/GSFC, Public domain, via Wikimedia Commons"
   },
   "facts": [
     "Borders China to the north and India to the south, east and west"

@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:CastriesStLucia.JPG",
-    "alt": "The port of Castries"
+    "alt": "The port of Castries",
+    "file": "cx-photo-castriesstlucia.jpg",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:CastriesStLucia.JPG",
+    "credit": "UpstateNYer, CC BY-SA 3.0, via Wikimedia Commons"
   },
   "facts": [
     "About 20,000 people in the urban area (2013)",

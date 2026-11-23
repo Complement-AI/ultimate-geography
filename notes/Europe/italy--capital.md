@@ -16,6 +16,10 @@ What is the capital of <b>Italy</b>?
 
 <div class="cmp-map" data-focus="ITA" data-pin="41.8979,12.4813" data-label="Rome"><img src="../../media/cx-locator-italy.svg" alt="Map of Italy with Rome marked"></div>
 
+![Rome skyline with domes and rooftops](../../media/cx-photo-rome-skyline-8012016319.jpg)
+
+<i>Photo: Bert Kaufmann from Roermond, Netherlands, CC BY-SA 2.0, via Wikimedia Commons</i>
+
 About 2.7 million people (2026), 21 m above sea level<br>On the Tiber, in the Lazio region
 
 Called the "City of Seven Hills" and the "Eternal City". Vatican City, an independent country, lies within its municipal boundaries, the only country within a city.

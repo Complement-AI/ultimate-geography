@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:San Juan, Puerto Rico (2529298606).jpg",
-    "alt": "Condado Beach at night"
+    "alt": "Condado Beach at night",
+    "file": "cx-photo-san-juan-puerto-rico-2529298606.jpg",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:San_Juan,_Puerto_Rico_(2529298606).jpg",
+    "credit": "James Willamor from Raleigh, NC, USA, CC BY-SA 2.0, via Wikimedia Commons"
   },
   "facts": [
     "About 342,000 people (2020 census)",

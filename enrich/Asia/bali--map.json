@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Bali panorama.jpg",
-    "alt": "Terraced rice fields among palm trees"
+    "alt": "Terraced rice fields among palm trees",
+    "file": "cx-photo-bali-panorama.jpg",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Bali_panorama.jpg",
+    "credit": "Unknown author, CC BY-SA 3.0, via Wikimedia Commons"
   },
   "facts": [
     "East of Java and west of Lombok",

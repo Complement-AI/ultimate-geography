@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Port Vila aerial.jpg",
-    "alt": "A harbour with a cruise ship, seen from the air"
+    "alt": "A harbour with a cruise ship, seen from the air",
+    "file": "cx-photo-port-vila-aerial.jpg",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Port_Vila_aerial.jpg",
+    "credit": "Phillip Capper from Wellington, New Zealand, CC BY 2.0, via Wikimedia Commons"
   },
   "facts": [
     "About 49,000 people (2020 census), 16.3% of the country",

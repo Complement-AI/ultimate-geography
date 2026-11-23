@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Beirutcity.jpg",
-    "alt": "Beirut's coastline and buildings"
+    "alt": "Beirut's coastline and buildings",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Beirutcity.jpg",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Beirutcity.jpg",
+    "credit": "Yoniw, CC BY-SA 3.0, via Wikimedia Commons"
   },
   "facts": [
     "About 2.4 million people (2023)"

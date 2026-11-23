@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Dome of the Rock seen from the Mount of Olives (12395649153) (cropped).jpg",
-    "alt": "The golden Dome of the Rock seen across Jerusalem"
+    "alt": "The golden Dome of the Rock seen across Jerusalem",
+    "file": "cx-photo-dome-of-the-rock-seen-from-the-mount-of-olives-12395649153-c.jpg",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Dome_of_the_Rock_seen_from_the_Mount_of_Olives_(12395649153)_(cropped).jpg",
+    "credit": "askii, CC BY-SA 2.0, via Wikimedia Commons"
   },
   "facts": [
     "About 1.05 million people (2024)",

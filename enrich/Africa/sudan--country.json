@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Western Deffufa - Kerma.jpg",
-    "alt": "The Western Deffufa at Kerma"
+    "alt": "The Western Deffufa at Kerma",
+    "file": "cx-photo-western-deffufa-kerma.jpg",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Western_Deffufa_-_Kerma.jpg",
+    "credit": "walter callens, CC BY 2.0, via Wikimedia Commons"
   },
   "facts": [
     "About 51.8 million people (2025)",

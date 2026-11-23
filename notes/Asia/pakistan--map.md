@@ -18,6 +18,10 @@ What is highlighted on this map?
 
 <div class="cmp-map" data-focus="PAK" data-pin="33.7019,73.1647" data-label="Islamabad"><img src="../../media/cx-locator-pakistan.svg" alt="Map of Pakistan with Islamabad marked"></div>
 
+![A stone monument lit at dusk](../../media/cx-photo-blue-hour-at-pakistan-monument.jpg)
+
+<i>Photo: Muhammad Ashar, Muhammad Ashar, via Wikimedia Commons</i>
+
 Borders India, Afghanistan, Iran and China<br>Area of about 882,000 km²
 
 Afghanistan's narrow Wakhan Corridor separates Pakistan from Tajikistan in the northwest. The Arabian Sea lies to the south and the Gulf of Oman to the southwest.

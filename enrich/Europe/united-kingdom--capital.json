@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:London Skyline (125508655).jpeg",
-    "alt": "The London skyline"
+    "alt": "The London skyline",
+    "file": "cx-photo-london-skyline-125508655.jpg",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:London_Skyline_(125508655).jpeg",
+    "credit": "Ilya Grigorik, CC BY-SA 3.0, via Wikimedia Commons"
   },
   "facts": [
     "About 8.8 million people (2021) in Greater London",

@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Açores 2010-07-19 (5047589237).jpg",
-    "alt": "A coastline of one of the Azores islands"
+    "alt": "A coastline of one of the Azores islands",
+    "file": "cx-photo-a-ores-2010-07-19-5047589237.jpg",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:A%C3%A7ores_2010-07-19_(5047589237).jpg",
+    "credit": "Guillaume Baviere from Helsingborg, Sweden, CC BY 2.0, via Wikimedia Commons"
   },
   "facts": [
     "Nine volcanic islands, about 1,400 km west of mainland Portugal",

@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Bridgetown aerial.JPG",
-    "alt": "Aerial view of western Bridgetown"
+    "alt": "Aerial view of western Bridgetown",
+    "file": "cx-photo-bridgetown-aerial.jpg",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Bridgetown_aerial.JPG",
+    "credit": "P.Lechien, CC0, via Wikimedia Commons"
   },
   "facts": [
     "About 98,500 people (2025)",

@@ -16,6 +16,10 @@ What is the capital of <b>New Caledonia</b>?
 
 <div class="cmp-map" data-focus="NCL" data-pin="-22.2625,166.4443" data-label="Nouméa"><img src="../../media/cx-locator-new-caledonia.svg" alt="Map of New Caledonia with Nouméa marked"></div>
 
+![Central Nouméa](../../media/cx-photo-noum-acentre.jpg)
+
+<i>Photo: Torbenbrinker, CC BY-SA 3.0, via Wikimedia Commons</i>
+
 About 86,000 people in the city proper (2025 census)<br>On a peninsula in the south of the main island, Grande Terre
 
 The largest Francophone city in Oceania. It sits on a protected deepwater harbour that serves as the chief port for New Caledonia.

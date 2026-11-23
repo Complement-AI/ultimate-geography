@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:ARUBA-oranjestad-hafen-1.jpg",
-    "alt": "View over Oranjestad from the cruise port"
+    "alt": "View over Oranjestad from the cruise port",
+    "file": "cx-photo-aruba-oranjestad-hafen-1.jpg",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:ARUBA-oranjestad-hafen-1.jpg",
+    "credit": "User: Bgabel at wikivoyage shared, Bgabel, via Wikimedia Commons"
   },
   "facts": [
     "About 28,700 people (2020)",

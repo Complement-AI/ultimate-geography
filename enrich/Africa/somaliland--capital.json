@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:HargeisaDrone.jpg",
-    "alt": "Aerial view of the city"
+    "alt": "Aerial view of the city",
+    "file": "cx-photo-hargeisadrone.jpg",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:HargeisaDrone.jpg",
+    "credit": "Somaliland.com, Public domain, via Wikimedia Commons"
   },
   "facts": [
     "About 1.23 million people (2025)",

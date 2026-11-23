@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Svalbard (MODIS).jpg",
-    "alt": "Svalbard from satellite, with snow and ice"
+    "alt": "Svalbard from satellite, with snow and ice",
+    "file": "cx-photo-svalbard-modis.jpg",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Svalbard_(MODIS).jpg",
+    "credit": "MODIS Land Rapid Response Team, NASA GSFC, Public domain, via Wikimedia Commons"
   },
   "facts": [
     "Archipelago of 61,022 km², about midway between Norway and the North Pole",

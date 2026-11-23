@@ -16,6 +16,10 @@ What is the capital of <b>Vatican City</b>?
 
 <div class="cmp-map" data-focus="VAT" data-pin="41.9033,12.4534" data-label="Vatican City"><img src="../../media/cx-locator-vatican-city.svg" alt="Map of Vatican City with Vatican City marked"></div>
 
+![St Peter's Basilica and its square](../../media/cx-photo-0-basilique-saint-pierre-rome-1.jpg)
+
+<i>Photo: Jean-Pol GRANDMONT, CC BY-SA 3.0, via Wikimedia Commons</i>
+
 About 950 people (2024)<br>An enclave within the city of Rome
 
 The city and the country are the same place: a sovereign city-state ruled by the pope. It is a World Heritage Site that includes St Peter's Basilica.

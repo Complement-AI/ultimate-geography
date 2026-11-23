@@ -18,6 +18,10 @@ What is highlighted on this map?
 
 <div class="cmp-map" data-focus="OMN" data-pin="23.6133,58.5933" data-label="Muscat"><img src="../../media/cx-locator-oman.svg" alt="Map of Oman with Muscat marked"></div>
 
+![Nakhal Fort, a stone fort in Oman](../../media/cx-photo-nakhal-fort-sultanate-of-oman-001.jpg)
+
+<i>Photo: Sakralamn, CC BY-SA 4.0, via Wikimedia Commons</i>
+
 Land borders with Saudi Arabia, the United Arab Emirates and Yemen<br>Area of 315,331 km²
 
 Two exclaves, Madha and Musandam, are surrounded by the United Arab Emirates on their land borders. Musandam faces the Strait of Hormuz.

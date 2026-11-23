@@ -16,6 +16,10 @@ tags  = ["north_america", "country"]
 
 <div class="cmp-map" data-focus="GRL" data-pin="64.1983,-51.7327" data-label="Nuuk"><img src="../../media/cx-locator-greenland.svg" alt="Map of Greenland with Nuuk marked"></div>
 
+![Satellite photo of Greenland](../../media/cx-photo-greenland-42-74746w-71-57394n.jpg)
+
+<i>Photo: NASA / Ames Research Center, Public domain, via Wikimedia Commons</i>
+
 About 56,500 people (2025)<br>Highest point Gunnbjørn Fjeld
 
 The world's largest island. Its citizens are citizens of Denmark and so of the EU, though Greenland itself is not part of the EU.

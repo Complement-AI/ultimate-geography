@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:ISS014-E-20406 - View of the Cayman Islands.jpg",
-    "alt": "Low islands seen from the International Space Station"
+    "alt": "Low islands seen from the International Space Station",
+    "file": "cx-photo-iss014-e-20406-view-of-the-cayman-islands.jpg",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:ISS014-E-20406_-_View_of_the_Cayman_Islands.jpg",
+    "credit": "Earth Science and Remote Sensing Unit, Lyndon B. Johnson Space Center, Public domain, via Wikimedia Commons"
   },
   "facts": [
     "Three islands: Grand Cayman, Cayman Brac and Little Cayman",

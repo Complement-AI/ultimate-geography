@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:SLO — Ljubljana (Blick auf Burg) 2020.JPG",
-    "alt": "Ljubljana with its castle above the old town"
+    "alt": "Ljubljana with its castle above the old town",
+    "file": "cx-photo-slo-ljubljana-blick-auf-burg-2020.jpg",
+    "license": "CC BY 3.0 de",
+    "source": "https://commons.wikimedia.org/wiki/File:SLO_%E2%80%94_Ljubljana_(Blick_auf_Burg)_2020.JPG",
+    "credit": "User:Mateus2019, CC BY 3.0 de, via Wikimedia Commons"
   },
   "facts": [
     "About 284,000 people (2022)",

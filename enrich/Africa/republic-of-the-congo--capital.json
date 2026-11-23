@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Quartier OCH.jpg",
-    "alt": "A neighbourhood of the city"
+    "alt": "A neighbourhood of the city",
+    "file": "cx-photo-quartier-och.jpg",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Quartier_OCH.jpg",
+    "credit": "Prével EPOTA, CC BY-SA 4.0, via Wikimedia Commons"
   },
   "facts": [
     "About 2.1 million people (2023), over a third of the country",

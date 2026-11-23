@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Nicosia 01-2017 img22 View from Shacolas Tower.jpg",
-    "alt": "The Selimiye Mosque seen over the rooftops of Nicosia"
+    "alt": "The Selimiye Mosque seen over the rooftops of Nicosia",
+    "file": "cx-photo-nicosia-01-2017-img22-view-from-shacolas-tower.jpg",
+    "license": "FAL",
+    "source": "https://commons.wikimedia.org/wiki/File:Nicosia_01-2017_img22_View_from_Shacolas_Tower.jpg",
+    "credit": "A.Savin, FAL, via Wikimedia Commons"
   },
   "facts": [
     "About 61,000 people (2011), the largest settlement in Northern Cyprus",

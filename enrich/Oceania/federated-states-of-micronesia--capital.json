@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Palikir Government Buildings.jpg",
-    "alt": "The Congress and Supreme Court buildings"
+    "alt": "The Congress and Supreme Court buildings",
+    "file": "cx-photo-palikir-government-buildings.jpg",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Palikir_Government_Buildings.jpg",
+    "credit": "MaxMonaco, CC BY-SA 4.0, via Wikimedia Commons"
   },
   "facts": [
     "A town of slightly above 5,000 residents",

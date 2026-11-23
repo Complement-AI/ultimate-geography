@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Un aperçu de la ville de conakry.jpg",
-    "alt": "A view over a port city"
+    "alt": "A view over a port city",
+    "file": "cx-photo-un-aper-u-de-la-ville-de-conakry.jpg",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Un_aper%C3%A7u_de_la_ville_de_conakry.jpg",
+    "credit": "Alpha hmd, CC BY-SA 4.0, via Wikimedia Commons"
   },
   "facts": [
     "About 3.4 million people (2025 census)",

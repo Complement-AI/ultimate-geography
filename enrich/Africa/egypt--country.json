@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:All Gizah Pyramids.jpg",
-    "alt": "The pyramids of Giza"
+    "alt": "The pyramids of Giza",
+    "file": "cx-photo-all-gizah-pyramids.jpg",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:All_Gizah_Pyramids.jpg",
+    "credit": "Ricardo Liberato, CC BY-SA 2.0, via Wikimedia Commons"
   },
   "facts": [
     "About 1.01 million km²",

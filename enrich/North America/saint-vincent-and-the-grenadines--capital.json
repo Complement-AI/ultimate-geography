@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:St. Vincent, Karibik - Kingstown City - panoramio.jpg",
-    "alt": "Kingstown seen from above the town"
+    "alt": "Kingstown seen from above the town",
+    "file": "cx-photo-st-vincent-karibik-kingstown-city-panoramio.jpg",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:St._Vincent,_Karibik_-_Kingstown_City_-_panoramio.jpg",
+    "credit": "giggel, giggel, via Wikimedia Commons"
   },
   "facts": [
     "About 12,900 people (2012)",

@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Victoria view from Bel Eau asv2024-09 img3.jpg",
-    "alt": "The town and harbour seen from a hillside"
+    "alt": "The town and harbour seen from a hillside",
+    "file": "cx-photo-victoria-view-from-bel-eau-asv2024-09-img3.jpg",
+    "license": "FAL",
+    "source": "https://commons.wikimedia.org/wiki/File:Victoria_view_from_Bel_Eau_asv2024-09_img3.jpg",
+    "credit": "A.Savin, FAL, via Wikimedia Commons"
   },
   "facts": [
     "About 24,700 people (2014)",

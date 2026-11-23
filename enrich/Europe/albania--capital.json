@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Tirana from South.jpg",
-    "alt": "Tirana seen from the south, with the artificial lake and Great Park in front"
+    "alt": "Tirana seen from the south, with the artificial lake and Great Park in front",
+    "file": "cx-photo-tirana-from-south.jpg",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Tirana_from_South.jpg",
+    "credit": "Albinfo, CC BY-SA 3.0, via Wikimedia Commons"
   },
   "facts": [
     "About 389,000 people (2023)",

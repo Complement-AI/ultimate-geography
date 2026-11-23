@@ -16,6 +16,10 @@ What is the capital of <b>Mozambique</b>?
 
 <div class="cmp-map" data-focus="MOZ" data-pin="-25.9533,32.5872" data-label="Maputo"><img src="../../media/cx-locator-mozambique.svg" alt="Map of Mozambique with Maputo marked"></div>
 
+![Aerial view of the city from the southeast](../../media/cx-photo-maputo-seen-from-southeast-october-2006.jpg)
+
+<i>Photo: AmigoDia, CC BY-SA 3.0, via Wikimedia Commons</i>
+
 About 1.09 million people (2017)<br>On a large natural bay on the Indian Ocean
 
 It was called Lourenço Marques, after a Portuguese navigator who explored the area in 1544, until independence made it the national capital and it was renamed Maputo.

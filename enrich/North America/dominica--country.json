@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Dominica from ISS.jpg",
-    "alt": "The island of Dominica seen from the International Space Station"
+    "alt": "The island of Dominica seen from the International Space Station",
+    "file": "cx-photo-dominica-from-iss.jpg",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Dominica_from_ISS.jpg",
+    "credit": "NASA, Public domain, via Wikimedia Commons"
   },
   "facts": [
     "About 74,700 people (2023) in 751 km²",

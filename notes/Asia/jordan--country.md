@@ -16,6 +16,10 @@ tags  = ["asia", "middle_east", "sovereign_state", "country"]
 
 <div class="cmp-map" data-focus="JOR" data-pin="31.952,35.9314" data-label="Amman"><img src="../../media/cx-locator-jordan.svg" alt="Map of Jordan with Amman marked"></div>
 
+![The Dead Sea shore](../../media/cx-photo-17-dead-sea-13-13252089754.jpg)
+
+<i>Photo: xorge, CC BY-SA 2.0, via Wikimedia Commons</i>
+
 About 11.5 million people in 89,342 km²<br>Semi-arid, the eleventh-most populous Arab country
 
 The Arab Nabataeans established their kingdom around Petra in the third century BC. The Jordan River flows along its western border into the Dead Sea.

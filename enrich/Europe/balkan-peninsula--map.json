@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Balkan-range-satellite.jpg",
-    "alt": "Satellite view of the Balkan Mountains"
+    "alt": "Satellite view of the Balkan Mountains",
+    "file": "cx-photo-balkan-range-satellite.jpg",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Balkan-range-satellite.jpg",
+    "credit": "User:Introvert, Public domain, via Wikimedia Commons"
   },
   "facts": [
     "Bordered by the Adriatic, Ionian, Aegean and Black seas",

@@ -16,6 +16,10 @@ What is the capital of <b>Qatar</b>?
 
 <div class="cmp-map" data-focus="QAT" data-pin="25.2866,51.533" data-label="Doha"><img src="../../media/cx-locator-qatar.svg" alt="Map of Qatar with Doha marked"></div>
 
+![The Doha skyline in the morning](../../media/cx-photo-doha-skyline-in-the-morning-12544910974.jpg)
+
+<i>Photo: Francisco Anzola, CC BY 2.0, via Wikimedia Commons</i>
+
 About 1.19 million people (2020)<br>On the Persian Gulf coast, in the east of the country
 
 Founded in the 1820s as an offshoot of Al Bidda, and declared the capital in 1971 when Qatar became independent of Britain. Over 80% of the nation lives in Doha or its suburbs.

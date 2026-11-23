@@ -14,6 +14,10 @@ tags  = ["europe", "country"]
 
 ## Extra
 
+![Scotland seen from satellite](../../media/cx-photo-scotland-from-satellite.jpg)
+
+<i>Photo: NASA; Uploaded by User:MaiDireLollo, Public domain, via Wikimedia Commons</i>
+
 About 5.4 million people (2022) in 78,782 km²<br>Highest point: Ben Nevis
 
 Scotland and England combined to form the Kingdom of Great Britain on 1 May 1707. A Scottish Parliament was re-established in 1999 and has devolved authority over many areas of domestic policy.

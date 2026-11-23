@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Scotland from satellite.jpg",
-    "alt": "Scotland seen from satellite"
+    "alt": "Scotland seen from satellite",
+    "file": "cx-photo-scotland-from-satellite.jpg",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Scotland_from_satellite.jpg",
+    "credit": "NASA; Uploaded by User:MaiDireLollo, Public domain, via Wikimedia Commons"
   },
   "facts": [
     "Borders England to the south",

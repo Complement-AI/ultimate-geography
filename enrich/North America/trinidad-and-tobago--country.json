@@ -1,11 +1,21 @@
 {
-  "photo": {"commons": "File:Pigeon Point beach.jpg", "alt": "Pigeon Point beach on Tobago"},
+  "photo": {
+    "commons": "File:Pigeon Point beach.jpg",
+    "alt": "Pigeon Point beach on Tobago",
+    "file": "cx-photo-pigeon-point-beach.jpg",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Pigeon_Point_beach.jpg",
+    "credit": "Kp93, CC BY-SA 3.0, via Wikimedia Commons"
+  },
   "facts": [
     "About 1.37 million people (2017) in 5,128 km²",
     "Southernmost archipelagic country in the Caribbean"
   ],
   "worth_knowing": "Birthplace of the steelpan, the limbo, and musical styles such as calypso and soca. Its large Carnival reflects its African and Indian cultures.",
-  "sources": ["https://en.wikipedia.org/wiki/Trinidad_and_Tobago", "https://www.wikidata.org/wiki/Q754"],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Trinidad_and_Tobago",
+    "https://www.wikidata.org/wiki/Q754"
+  ],
   "written_by": "claude-sonnet-5-5",
   "checked_by": null
 }

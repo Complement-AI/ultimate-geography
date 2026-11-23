@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Aruba World Wind.jpg",
-    "alt": "Satellite view of the island"
+    "alt": "Satellite view of the island",
+    "file": "cx-photo-aruba-world-wind.jpg",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Aruba_World_Wind.jpg",
+    "credit": "NASA World Wind, Screenshot by Carport, Public domain, via Wikimedia Commons"
   },
   "facts": [
     "29 km north of Venezuela's Paraguaná peninsula, and 80 km north-west of Curaçao",

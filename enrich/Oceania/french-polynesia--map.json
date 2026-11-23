@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Archipel des Tuamotu.jpg",
-    "alt": "Coral atolls of the Tuamotu archipelago seen from orbit"
+    "alt": "Coral atolls of the Tuamotu archipelago seen from orbit",
+    "file": "cx-photo-archipel-des-tuamotu.jpg",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Archipel_des_Tuamotu.jpg",
+    "credit": "Jeff Schmaltz, Public domain, via Wikimedia Commons"
   },
   "facts": [
     "Land area of 3,521 km², scattered over more than 2,000 km of ocean",

@@ -16,6 +16,10 @@ tags  = ["africa", "east_africa", "sovereign_state", "country"]
 
 <div class="cmp-map" data-focus="DJI" data-pin="11.595,43.148" data-label="Djibouti"><img src="../../media/cx-locator-djibouti.svg" alt="Map of Djibouti with Djibouti marked"></div>
 
+![An aerial view of a coastal city](../../media/cx-photo-an-aerial-view-of-djibouti-city.jpg)
+
+<i>Photo: Skilla1st, CC BY-SA 4.0, via Wikimedia Commons</i>
+
 About 1.07 million people (2024 census)<br>The smallest population in mainland Africa
 
 The republic is named after its capital. It voted for independence in 1977, a decade after being renamed the French Territory of the Afars and the Issas.

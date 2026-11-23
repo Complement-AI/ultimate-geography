@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:WellingtonPanorama.jpg",
-    "alt": "A panorama of Wellington and its harbour"
+    "alt": "A panorama of Wellington and its harbour",
+    "file": "cx-photo-wellingtonpanorama.jpg",
+    "license": "Copyrighted free use",
+    "source": "https://commons.wikimedia.org/wiki/File:WellingtonPanorama.jpg",
+    "credit": "en:User:Dhum Dhum, Copyrighted free use, via Wikimedia Commons"
   },
   "facts": [
     "About 216,000 people (2023)",

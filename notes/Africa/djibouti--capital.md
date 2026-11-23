@@ -16,6 +16,10 @@ What is the capital of <b>Djibouti</b>?
 
 <div class="cmp-map" data-focus="DJI" data-pin="11.595,43.148" data-label="Djibouti"><img src="../../media/cx-locator-djibouti.svg" alt="Map of Djibouti with Djibouti marked"></div>
 
+![A coastal city seen from above](../../media/cx-photo-djibouti-city.jpg)
+
+<i>Photo: Skilla1st, CC BY-SA 3.0, via Wikimedia Commons</i>
+
 About 604,000 people (2018)<br>On the Gulf of Tadjoura
 
 Founded in 1888 by the French, on land leased from the ruling Somali and Afar sultans. It served as the capital of French Somaliland and then of the French Territory of the Afars and Issas.

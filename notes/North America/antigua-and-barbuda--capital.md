@@ -16,6 +16,10 @@ What is the capital of <b>Antigua and Barbuda</b>?
 
 <div class="cmp-map" data-focus="ATG" data-pin="17.118,-61.85" data-label="St. John's"><img src="../../media/cx-locator-antigua-and-barbuda.svg" alt="Map of Antigua and Barbuda with St. John's marked"></div>
 
+![View of downtown St. John's](../../media/cx-photo-st-johns-antigua-2012.jpg)
+
+<i>Photo: This image or media was taken or created by Matt H. Wade. To see his entire port, CC BY-SA 3.0, via Wikimedia Commons</i>
+
 About 21,000 people (2025), the country's largest city<br>On St. John's Harbour, in the west of Antigua
 
 It was laid out after a French invasion in 1666, chosen for its strategic harbour. It later overtook Falmouth as the island's dominant town.

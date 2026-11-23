@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:L'île de la Réunion vue par le satellite Sentinel-2 (cropped).jpg",
-    "alt": "Réunion seen from the Sentinel-2 satellite"
+    "alt": "Réunion seen from the Sentinel-2 satellite",
+    "file": "cx-photo-l-le-de-la-r-union-vue-par-le-satellite-sentinel-2-cropped.jpg",
+    "license": "Attribution",
+    "source": "https://commons.wikimedia.org/wiki/File:L%27%C3%AEle_de_la_R%C3%A9union_vue_par_le_satellite_Sentinel-2_(cropped).jpg",
+    "credit": "Contains modified Copernicus Sentinel data 2021, European Space Agency / CNES, via Wikimedia Commons"
   },
   "facts": [
     "An overseas department of France, about 890,000 people (2023)",

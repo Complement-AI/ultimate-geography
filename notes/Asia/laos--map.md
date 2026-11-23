@@ -18,6 +18,10 @@ What is highlighted on this map?
 
 <div class="cmp-map" data-focus="LAO" data-pin="17.9667,102.6" data-label="Vientiane"><img src="../../media/cx-locator-laos.svg" alt="Map of Laos with Vientiane marked"></div>
 
+![Karst peaks over green paddy fields](../../media/cx-photo-karst-peaks-and-green-paddy-fields-under-a-stormy-sky-south-.jpg)
+
+<i>Photo: Basile Morin, CC BY-SA 4.0, via Wikimedia Commons</i>
+
 Borders Myanmar, China, Vietnam, Cambodia and Thailand
 
 Landlocked, with Vietnam to the east and Thailand to the west and southwest. The Mekong runs along the border with Thailand near the capital.

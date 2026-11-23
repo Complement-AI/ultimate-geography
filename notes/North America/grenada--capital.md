@@ -16,6 +16,10 @@ What is the capital of <b>Grenada</b>?
 
 <div class="cmp-map" data-focus="GRD" data-pin="12.0526,-61.7416" data-label="St. George's"><img src="../../media/cx-locator-grenada.svg" alt="Map of Grenada with St. George's marked"></div>
 
+![An overview of the town and its harbour](../../media/cx-photo-grenada-st-george.jpg)
+
+<i>Photo: P. Hughes, CC BY-SA 4.0, via Wikimedia Commons</i>
+
 Grenada's main port<br>On the southwest coast
 
 Surrounded by the hillside of an old volcano crater, it sits on a horseshoe-shaped harbour. The French founded it in 1650, when Jacques Dyel du Parquet, governor of Martinique, colonised 'La Grenade'.

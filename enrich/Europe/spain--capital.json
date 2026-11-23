@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Madrid (38624991251).jpg",
-    "alt": "Street scene in central Madrid"
+    "alt": "Street scene in central Madrid",
+    "file": "cx-photo-madrid-38624991251.jpg",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Madrid_(38624991251).jpg",
+    "credit": "Dmitry Dzhus from London, CC BY 2.0, via Wikimedia Commons"
   },
   "facts": [
     "About 3.5 million people (2025) in the city proper",

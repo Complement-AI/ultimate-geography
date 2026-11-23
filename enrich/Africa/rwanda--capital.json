@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Kigali2018Cropped.jpg",
-    "alt": "The city of rolling hills seen from above"
+    "alt": "The city of rolling hills seen from above",
+    "file": "cx-photo-kigali2018cropped.jpg",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kigali2018Cropped.jpg",
+    "credit": "Adrien K, CC BY 2.0, via Wikimedia Commons"
   },
   "facts": [
     "About 1.75 million people (2022)",

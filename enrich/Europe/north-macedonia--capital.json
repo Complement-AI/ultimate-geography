@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Stone Bridge Skopje 4.jpg",
-    "alt": "The Stone Bridge over the Vardar in Skopje"
+    "alt": "The Stone Bridge over the Vardar in Skopje",
+    "file": "cx-photo-stone-bridge-skopje-4.jpg",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Stone_Bridge_Skopje_4.jpg",
+    "credit": "kallerna, CC BY-SA 4.0, via Wikimedia Commons"
   },
   "facts": [
     "About 527,000 people (2021 census), a quarter of the country",

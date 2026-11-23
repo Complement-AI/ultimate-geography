@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Damascus, Syria, Panoramic view of Damascus.jpg",
-    "alt": "Panoramic view of a city of flat-roofed buildings"
+    "alt": "Panoramic view of a city of flat-roofed buildings",
+    "file": "cx-photo-damascus-syria-panoramic-view-of-damascus.jpg",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Damascus,_Syria,_Panoramic_view_of_Damascus.jpg",
+    "credit": "© Vyacheslav Argenberg, Vyacheslav Argenberg, via Wikimedia Commons"
   },
   "facts": [
     "About 23 million people (2026)",

@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Male-total.jpg",
-    "alt": "View of Malé"
+    "alt": "View of Malé",
+    "file": "cx-photo-male-total.jpg",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Male-total.jpg",
+    "credit": "Shahee Ilyas, CC BY-SA 3.0, via Wikimedia Commons"
   },
   "facts": [
     "About 212,000 people (2022) in an area of 1.9 km²",

@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Karst peaks and green paddy fields under a stormy sky, South view from Mount Nam Xay, Vang Vieng, Laos.jpg",
-    "alt": "Karst peaks over green paddy fields"
+    "alt": "Karst peaks over green paddy fields",
+    "file": "cx-photo-karst-peaks-and-green-paddy-fields-under-a-stormy-sky-south-.jpg",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Karst_peaks_and_green_paddy_fields_under_a_stormy_sky,_South_view_from_Mount_Nam_Xay,_Vang_Vieng,_Laos.jpg",
+    "credit": "Basile Morin, CC BY-SA 4.0, via Wikimedia Commons"
   },
   "facts": [
     "Borders Myanmar, China, Vietnam, Cambodia and Thailand"

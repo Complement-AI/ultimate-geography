@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Arthog - Barmouth Bridge - 20070915150033.jpg",
-    "alt": "A long bridge crossing an estuary below hills"
+    "alt": "A long bridge crossing an estuary below hills",
+    "file": "cx-photo-arthog-barmouth-bridge-20070915150033.jpg",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Arthog_-_Barmouth_Bridge_-_20070915150033.jpg",
+    "credit": "Themountainphotographer, CC BY-SA 4.0, via Wikimedia Commons"
   },
   "facts": [
     "Borders only England, with sea on every other side",

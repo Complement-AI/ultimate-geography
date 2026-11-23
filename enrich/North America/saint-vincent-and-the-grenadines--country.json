@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:ISS006-E-38029 - View of the Lesser Antilles.jpg",
-    "alt": "The Lesser Antilles seen from the International Space Station"
+    "alt": "The Lesser Antilles seen from the International Space Station",
+    "file": "cx-photo-iss006-e-38029-view-of-the-lesser-antilles.jpg",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:ISS006-E-38029_-_View_of_the_Lesser_Antilles.jpg",
+    "credit": "Earth Science and Remote Sensing Unit, Lyndon B. Johnson Space Center, Public domain, via Wikimedia Commons"
   },
   "facts": [
     "About 109,000 people (2023) in 389 km²"

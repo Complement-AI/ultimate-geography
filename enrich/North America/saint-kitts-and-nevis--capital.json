@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Basseterre.jpeg",
-    "alt": "A view over Basseterre"
+    "alt": "A view over Basseterre",
+    "file": "cx-photo-basseterre.jpg",
+    "license": "CC BY-SA 1.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Basseterre.jpeg",
+    "credit": "J. Stephen Conn, CC BY-SA 1.0, via Wikimedia Commons"
   },
   "facts": [
     "About 12,900 people (2025)",

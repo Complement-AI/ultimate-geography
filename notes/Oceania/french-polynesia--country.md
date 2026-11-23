@@ -16,6 +16,10 @@ tags  = ["oceania", "country"]
 
 <div class="cmp-map" data-focus="PYF" data-pin="-17.5334,-149.5667" data-label="Papeete"><img src="../../media/cx-locator-french-polynesia.svg" alt="Map of French Polynesia with Papeete marked"></div>
 
+![Coral atolls of the Tuamotu archipelago seen from orbit](../../media/cx-photo-archipel-des-tuamotu.jpg)
+
+<i>Photo: Jeff Schmaltz, Public domain, via Wikimedia Commons</i>
+
 About 279,000 people (2022), about 69% on Tahiti<br>121 islands and atolls across more than 2,000 km
 
 An overseas collectivity of France in the South Pacific. France declared a protectorate over Tahiti in 1842, and the islands became a full overseas collectivity in 2003.

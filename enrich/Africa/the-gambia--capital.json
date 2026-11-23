@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Banjul Gambia skyline.jpg",
-    "alt": "The city skyline"
+    "alt": "The city skyline",
+    "file": "cx-photo-banjul-gambia-skyline.jpg",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Banjul_Gambia_skyline.jpg",
+    "credit": "IsaacTuray, CC0, via Wikimedia Commons"
   },
   "facts": [
     "About 26,500 people in the city proper, 405,809 in Greater Banjul (2024 census)",

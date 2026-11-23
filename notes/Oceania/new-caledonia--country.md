@@ -16,6 +16,10 @@ tags  = ["oceania", "country"]
 
 <div class="cmp-map" data-focus="NCL" data-pin="-22.2625,166.4443" data-label="Nouméa"><img src="../../media/cx-locator-new-caledonia.svg" alt="Map of New Caledonia with Nouméa marked"></div>
 
+![New Caledonia seen from space after a cyclone](../../media/cx-photo-new-caledonia-after-the-passage-of-tropical-cyclone-niran.jpg)
+
+<i>Photo: Contains modified Copernicus Sentinel data 2020, European Union, Copernicus Sentinel-3 imagery, via Wikimedia Commons</i>
+
 About 264,600 people (April 2025 census)<br>18,575 km² of land
 
 Grande Terre is nicknamed le Caillou, the Pebble, a name also used for the whole territory. The indigenous Kanak people make up 41% of the population.

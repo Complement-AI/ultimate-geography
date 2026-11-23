@@ -16,6 +16,10 @@ What is highlighted on this map?
 
 ## Extra
 
+![Scotland seen from satellite](../../media/cx-photo-scotland-from-satellite.jpg)
+
+<i>Photo: NASA; Uploaded by User:MaiDireLollo, Public domain, via Wikimedia Commons</i>
+
 Borders England to the south<br>The northern part of Great Britain, plus the Hebrides and the Northern Isles
 
 It meets the Atlantic Ocean to the north and west, the North Sea to the east and the Irish Sea to the south-west.

@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Rila Monastery, August 2013.jpg",
-    "alt": "Rila Monastery among forested mountains"
+    "alt": "Rila Monastery among forested mountains",
+    "file": "cx-photo-rila-monastery-august-2013.jpg",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Rila_Monastery,_August_2013.jpg",
+    "credit": "Raggatt2000, CC BY-SA 3.0, via Wikimedia Commons"
   },
   "facts": [
     "Borders Greece, Turkey, Serbia, North Macedonia and Romania",

@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:ISS020-E-43300 - View of Haiti.jpg",
-    "alt": "Haiti seen from the International Space Station"
+    "alt": "Haiti seen from the International Space Station",
+    "file": "cx-photo-iss020-e-43300-view-of-haiti.jpg",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:ISS020-E-43300_-_View_of_Haiti.jpg",
+    "credit": "Earth Science and Remote Sensing Unit, Lyndon B. Johnson Space Center, Public domain, via Wikimedia Commons"
   },
   "facts": [
     "Shares Hispaniola with the Dominican Republic, to the east",

@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Copan sculpture.jpg",
-    "alt": "A carved Maya sculpture at the Copán World Heritage Site"
+    "alt": "A carved Maya sculpture at the Copán World Heritage Site",
+    "file": "cx-photo-copan-sculpture.jpg",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Copan_sculpture.jpg",
+    "credit": "Adalberto Hernandez Vega from Copan Ruinas, Honduras, CC BY 2.0, via Wikimedia Commons"
   },
   "facts": [
     "About 11 million people (2025) in 112,492 km²"

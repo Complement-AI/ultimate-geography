@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Palestine - 20190204-DSC 0007.jpg",
-    "alt": "A landscape in the West Bank"
+    "alt": "A landscape in the West Bank",
+    "file": "cx-photo-palestine-20190204-dsc-0007.jpg",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Palestine_-_20190204-DSC_0007.jpg",
+    "credit": "Ilya Varlamov, CC BY-SA 3.0, via Wikimedia Commons"
   },
   "facts": [
     "Borders Israel, Jordan and Egypt",

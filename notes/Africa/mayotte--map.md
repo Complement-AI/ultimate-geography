@@ -16,6 +16,10 @@ What is highlighted on this map?
 
 ## Extra
 
+![Satellite view of the island](../../media/cx-photo-mayotte-vue-par-sentinel-2-cropped.jpg)
+
+<i>Photo: Contains modified Copernicus Sentinel data 2021, European Space Agency / CNES, via Wikimedia Commons</i>
+
 About 321,000 people (2024 estimate) in 374 km²<br>Two main islands, Grande-Terre and Petite-Terre, in the northern Mozambique Channel
 
 Grande-Terre is geologically the oldest of the Comoro Islands, 39 km long and 22 km wide, with Mount Benara reaching 660 m. A coral reef encircles much of the island.

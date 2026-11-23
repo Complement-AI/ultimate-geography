@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Panoramic view from Juche Tower.jpg",
-    "alt": "Panoramic view over the city from the Juche Tower"
+    "alt": "Panoramic view over the city from the Juche Tower",
+    "file": "cx-photo-panoramic-view-from-juche-tower.jpg",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Panoramic_view_from_Juche_Tower.jpg",
+    "credit": "Christophe95, CC BY-SA 4.0, via Wikimedia Commons"
   },
   "facts": [
     "About 3.26 million people (2008 census)",

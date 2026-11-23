@@ -16,6 +16,10 @@ What is the capital of <b>Ethiopia</b>?
 
 <div class="cmp-map" data-focus="ETH" data-pin="9.0353,38.6981" data-label="Addis Ababa"><img src="../../media/cx-locator-ethiopia.svg" alt="Map of Ethiopia with Addis Ababa marked"></div>
 
+![A city spread across hills](../../media/cx-photo-addisview.jpg)
+
+<i>Photo: DaneyWiki, CC BY-SA 4.0, via Wikimedia Commons</i>
+
 About 6.3 million people (2025)<br>2,355 m up, the highest capital in Africa
 
 The name is Amharic for "new flower". Menelik II founded it in 1886 after finding Mount Entoto unpleasant, and it became the empire's capital in 1889.

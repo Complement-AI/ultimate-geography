@@ -16,6 +16,10 @@ What is the capital of <b>Guam</b>?
 
 <div class="cmp-map" data-focus="GUM"><img src="../../media/cx-locator-guam.svg" alt="Map of Guam with Hagåtña marked"></div>
 
+![Hagåtña on the coast seen from a hilltop fort](../../media/cx-photo-hagatna-from-fort-santa-agueda.jpg)
+
+<i>Photo: Abasaa, Public domain, via Wikimedia Commons</i>
+
 About 940 people (2020), the second smallest of Guam's 19 villages<br>On the west coast, at the mouth of the Hagåtña River
 
 Called Agana until 1998, when the Guam Legislature restored the original Chamorro name. It is the westernmost territorial capital city of the United States.

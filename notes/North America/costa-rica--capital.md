@@ -16,6 +16,10 @@ What is the capital of <b>Costa Rica</b>?
 
 <div class="cmp-map" data-focus="CRI" data-pin="9.937,-84.086" data-label="San José"><img src="../../media/cx-locator-costa-rica.svg" alt="Map of Costa Rica with San José marked"></div>
 
+![Cityscape of San José](../../media/cx-photo-cityscape-of-san-jos-costa-rica-253552473.jpg)
+
+<i>Photo: Xlionheartx, CC BY 3.0, via Wikimedia Commons</i>
+
 About 335,000 people in the city (2025)<br>1,161 m up, in the Central Valley
 
 The name is Spanish for Saint Joseph. Founded in 1736, it is the seat of national government and a major transport hub.

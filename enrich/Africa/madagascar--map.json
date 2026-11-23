@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Satellite image of Madagascar in September 2003.jpg",
-    "alt": "Satellite view of a large island"
+    "alt": "Satellite view of a large island",
+    "file": "cx-photo-satellite-image-of-madagascar-in-september-2003.jpg",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Satellite_image_of_Madagascar_in_September_2003.jpg",
+    "credit": "Unknown authorUnknown author, Public domain, via Wikimedia Commons"
   },
   "facts": [
     "About 587,295 km²",

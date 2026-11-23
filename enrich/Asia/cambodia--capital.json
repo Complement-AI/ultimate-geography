@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Phnom Penh aerial.jpg",
-    "alt": "Aerial view of Phnom Penh"
+    "alt": "Aerial view of Phnom Penh",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Phnom_Penh_aerial.jpg",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Phnom_Penh_aerial.jpg",
+    "credit": "KY Geologist, CC BY 2.0, via Wikimedia Commons"
   },
   "facts": [
     "About 2.1 million people (2019)",

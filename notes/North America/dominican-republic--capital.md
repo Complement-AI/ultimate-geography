@@ -16,6 +16,10 @@ What is the capital of <b>Dominican Republic</b>?
 
 <div class="cmp-map" data-focus="DOM" data-pin="18.472,-69.902" data-label="Santo Domingo"><img src="../../media/cx-locator-dominican-republic.svg" alt="Map of Dominican Republic with Santo Domingo marked"></div>
 
+![The city seen from the top of a tall tower](../../media/cx-photo-santo-domingo-dominican-republic-taken-atop-novocentro-tower.jpg)
+
+<i>Photo: Jjc09, Public domain, via Wikimedia Commons</i>
+
 About 1.03 million people in the city centre (2022)<br>Greater Santo Domingo has about 4.3 million
 
 Founded in 1496 by Spain, it is the oldest continuously inhabited European settlement in the Americas. From 1936 to 1961 it was called Ciudad Trujillo, after the dictator who named it after himself.

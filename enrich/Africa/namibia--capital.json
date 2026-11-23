@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Windhoek-Skyline.jpg",
-    "alt": "The skyline of the city"
+    "alt": "The skyline of the city",
+    "file": "cx-photo-windhoek-skyline.jpg",
+    "license": "CC BY-SA 2.5",
+    "source": "https://commons.wikimedia.org/wiki/File:Windhoek-Skyline.jpg",
+    "credit": "Bries, CC BY-SA 2.5, via Wikimedia Commons"
   },
   "facts": [
     "About 486,000 people (2023), the country's largest city",

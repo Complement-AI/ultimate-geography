@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:View of St. Thomas.jpg",
-    "alt": "Panoramic view of Saint Thomas and nearby islands"
+    "alt": "Panoramic view of Saint Thomas and nearby islands",
+    "file": "cx-photo-view-of-st-thomas.jpg",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:View_of_St._Thomas.jpg",
+    "credit": "Sunil Pereira, CC BY-SA 3.0, via Wikimedia Commons"
   },
   "facts": [
     "About 8,200 people (2020), the territory's most densely populated town",

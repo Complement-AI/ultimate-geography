@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Coral reef on Nauru.jpg",
-    "alt": "A coral reef on Nauru"
+    "alt": "A coral reef on Nauru",
+    "file": "cx-photo-coral-reef-on-nauru.jpg",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Coral_reef_on_Nauru.jpg",
+    "credit": "d-online, CC BY-SA 2.0, via Wikimedia Commons"
   },
   "facts": [
     "21.2 km² of land"

@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Temple of the Emerald of buddha or Wat Phra Kaew (cropped).jpg",
-    "alt": "The gilded spires of a Buddhist temple"
+    "alt": "The gilded spires of a Buddhist temple",
+    "file": "cx-photo-temple-of-the-emerald-of-buddha-or-wat-phra-kaew-cropped.jpg",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Temple_of_the_Emerald_of_buddha_or_Wat_Phra_Kaew_(cropped).jpg",
+    "credit": "Preecha.MJ, CC BY-SA 4.0, via Wikimedia Commons"
   },
   "facts": [
     "Borders Myanmar, Laos, Cambodia and Malaysia",

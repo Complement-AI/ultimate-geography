@@ -16,6 +16,10 @@ tags  = ["asia", "sovereign_state", "country"]
 
 <div class="cmp-map" data-focus="CHN" data-pin="39.9308,116.3863" data-label="Beijing"><img src="../../media/cx-locator-china.svg" alt="Map of China with Beijing marked"></div>
 
+![The Great Wall winding over hills](../../media/cx-photo-badaling-china-great-wall-of-china-01.jpg)
+
+<i>Photo: Photo by CEphoto, Uwe Aranas or alternatively © CEphoto, Uwe Aranas, CEphoto, Uwe Aranas, via Wikimedia Commons</i>
+
 About 1.4 billion people (2025) in 9.56 million km²
 
 The world's second-most populous country after India, and the third largest by area. Its land runs from the Himalayas to deserts and the Yellow and Yangtze river plains.

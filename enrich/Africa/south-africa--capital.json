@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Ciudad del Cabo desde Cabeza de León, Sudáfrica, 2018-07-22, DD 34.jpg",
-    "alt": "Cape Town seen from Lion's Head"
+    "alt": "Cape Town seen from Lion's Head",
+    "file": "cx-photo-ciudad-del-cabo-desde-cabeza-de-le-n-sud-frica-2018-07-22-dd.jpg",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Ciudad_del_Cabo_desde_Cabeza_de_Le%C3%B3n,_Sud%C3%A1frica,_2018-07-22,_DD_34.jpg",
+    "credit": "Diego Delso, Diego Delso, via Wikimedia Commons"
   },
   "facts": [
     "Pretoria is the executive capital and hosts all foreign embassies",

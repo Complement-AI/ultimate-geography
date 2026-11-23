@@ -18,6 +18,10 @@ What is highlighted on this map?
 
 <div class="cmp-map" data-focus="ATG" data-pin="17.118,-61.85" data-label="St. John's"><img src="../../media/cx-locator-antigua-and-barbuda.svg" alt="Map of Antigua and Barbuda with St. John's marked"></div>
 
+![Satellite view of the islands](../../media/cx-photo-satellite-image-of-antigua-and-barbuda-in-september-2002.jpg)
+
+<i>Photo: Jacques Descloitres, MODIS Rapid Response Team, NASA/GSFC, Public domain, via Wikimedia Commons</i>
+
 Sea borders with Saint Kitts and Nevis, Montserrat and Guadeloupe<br>Antigua, Barbuda and dozens of smaller islands
 
 Mostly flat, with the Atlantic Ocean to the east and the Caribbean Sea to the west. Barbuda has just one settlement, Codrington.

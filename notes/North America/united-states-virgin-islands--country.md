@@ -16,6 +16,10 @@ tags  = ["caribbean", "north_america", "country"]
 
 <div class="cmp-map" data-focus="VIR"><img src="../../media/cx-locator-united-states-virgin-islands.svg" alt="Map of United States Virgin Islands with Charlotte Amalie marked"></div>
 
+![Natural-colour satellite image of the island of Saint John](../../media/cx-photo-st-john-u-s-virgin-islands.jpg)
+
+<i>Photo: Jesse Allen and Robert Simmon, Public domain, via Wikimedia Commons</i>
+
 About 105,000 people (2023) in 346 km²<br>Main islands: Saint Croix, Saint John and Saint Thomas
 
 Once the Danish West Indies, the islands were sold to the United States by Denmark for $25 million in 1917. Their delegate in Congress can debate but not vote.

@@ -16,6 +16,10 @@ tags  = ["north_america", "sovereign_state", "country"]
 
 <div class="cmp-map" data-focus="SLV" data-pin="13.7119,-89.205" data-label="San Salvador"><img src="../../media/cx-locator-el-salvador.svg" alt="Map of El Salvador with San Salvador marked"></div>
 
+![Excavated Maya buildings at Joya de Cerén](../../media/cx-photo-es-joyadeceren-06-2011-estructura-9-area-2-tamazcal-2106-zoo.jpg)
+
+<i>Photo: Mariordo (Mario Roberto Durán Ortiz), CC BY-SA 3.0, via Wikimedia Commons</i>
+
 About 6 million people (2024) in 21,041 km²
 
 The name means 'The Saviour' in Spanish. A 1915 law fixed the form El Salvador in place of Salvador.

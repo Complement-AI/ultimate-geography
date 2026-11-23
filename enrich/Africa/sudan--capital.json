@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Elmek Nimir Bridge.jpg",
-    "alt": "A bridge over the Nile at the city"
+    "alt": "A bridge over the Nile at the city",
+    "file": "cx-photo-elmek-nimir-bridge.jpg",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Elmek_Nimir_Bridge.jpg",
+    "credit": "Arwa51o, CC BY-SA 4.0, via Wikimedia Commons"
   },
   "facts": [
     "Metropolitan area of about 5.3 million people (2018)",

@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Мінск. Сквер па плошчы Незалежнасці.jpg",
-    "alt": "A public square in Minsk"
+    "alt": "A public square in Minsk",
+    "file": "cx-photo-.jpg",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:%D0%9C%D1%96%D0%BD%D1%81%D0%BA._%D0%A1%D0%BA%D0%B2%D0%B5%D1%80_%D0%BF%D0%B0_%D0%BF%D0%BB%D0%BE%D1%88%D1%87%D1%8B_%D0%9D%D0%B5%D0%B7%D0%B0%D0%BB%D0%B5%D0%B6%D0%BD%D0%B0%D1%81%D1%86%D1%96.jpg",
+    "credit": "Zedlik, CC BY-SA 3.0, via Wikimedia Commons"
   },
   "facts": [
     "About 2 million people (2026)",

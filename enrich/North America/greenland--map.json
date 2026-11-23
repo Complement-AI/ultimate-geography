@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Greenland 42.74746W 71.57394N.jpg",
-    "alt": "Satellite photo of Greenland"
+    "alt": "Satellite photo of Greenland",
+    "file": "cx-photo-greenland-42-74746w-71-57394n.jpg",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Greenland_42.74746W_71.57394N.jpg",
+    "credit": "NASA / Ames Research Center, Public domain, via Wikimedia Commons"
   },
   "facts": [
     "About 2.17 million km²",

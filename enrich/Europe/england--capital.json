@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:London Skyline (125508655).jpeg",
-    "alt": "London skyline at sunset"
+    "alt": "London skyline at sunset",
+    "file": "cx-photo-london-skyline-125508655.jpg",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:London_Skyline_(125508655).jpeg",
+    "credit": "Ilya Grigorik, CC BY-SA 3.0, via Wikimedia Commons"
   },
   "facts": [
     "About 9.1 million people (2025)",

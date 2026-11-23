@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Amman.jpg",
-    "alt": "View over Amman and its hills"
+    "alt": "View over Amman and its hills",
+    "file": "cx-photo-amman.jpg",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Amman.jpg",
+    "credit": "David Bjorgen, CC BY-SA 3.0, via Wikimedia Commons"
   },
   "facts": [
     "About 4 million people (2015)",

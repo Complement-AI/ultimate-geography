@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:AddisView.jpg",
-    "alt": "A city spread across hills"
+    "alt": "A city spread across hills",
+    "file": "cx-photo-addisview.jpg",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:AddisView.jpg",
+    "credit": "DaneyWiki, CC BY-SA 4.0, via Wikimedia Commons"
   },
   "facts": [
     "About 6.3 million people (2025)",

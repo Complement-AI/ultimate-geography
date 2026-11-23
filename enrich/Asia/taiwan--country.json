@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Taipei Night Skyline from Hongludi 20240113.jpg",
-    "alt": "The Taipei skyline at night"
+    "alt": "The Taipei skyline at night",
+    "file": "cx-photo-taipei-night-skyline-from-hongludi-20240113.jpg",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Taipei_Night_Skyline_from_Hongludi_20240113.jpg",
+    "credit": "xiangyang17, CC BY-SA 2.0, via Wikimedia Commons"
   },
   "facts": [
     "About 23.3 million people (2026)",

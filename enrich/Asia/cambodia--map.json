@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Angkor Wat W-Seite.jpg",
-    "alt": "Angkor Wat seen from its west entrance"
+    "alt": "Angkor Wat",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Angkor_Wat_W-Seite.jpg",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Angkor_Wat_W-Seite.jpg",
+    "credit": "Manfred Werner (talk · contribs), CC BY-SA 3.0, via Wikimedia Commons"
   },
   "facts": [
     "Borders Thailand, Laos and Vietnam, with a coast on the Gulf of Thailand",

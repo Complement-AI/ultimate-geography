@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Libreville1.jpg",
-    "alt": "A city beside an estuary"
+    "alt": "A city beside an estuary",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Libreville1.jpg",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Libreville1.jpg",
+    "credit": "Global Photographer, CC BY-SA 3.0, via Wikimedia Commons"
   },
   "facts": [
     "About 899,000 people (2025)",

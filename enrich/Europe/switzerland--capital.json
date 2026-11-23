@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Bern luftaufnahme.png",
-    "alt": "Aerial view of Bern, ringed by a bend of the Aare"
+    "alt": "Aerial view of Bern, ringed by a bend of the Aare",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Bern_luftaufnahme.png",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Bern_luftaufnahme.png",
+    "credit": "de:Benutzer:Reaast, Public domain, via Wikimedia Commons"
   },
   "facts": [
     "About 146,000 people (2024), the fifth most populous Swiss city",

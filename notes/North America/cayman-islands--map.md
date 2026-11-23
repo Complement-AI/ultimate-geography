@@ -16,6 +16,10 @@ What is highlighted on this map?
 
 ## Extra
 
+![Low islands seen from the International Space Station](../../media/cx-photo-iss014-e-20406-view-of-the-cayman-islands.jpg)
+
+<i>Photo: Earth Science and Remote Sensing Unit, Lyndon B. Johnson Space Center, Public domain, via Wikimedia Commons</i>
+
 Three islands: Grand Cayman, Cayman Brac and Little Cayman<br>About 88,800 people (2024) in 262 km²
 
 The islands lie south of Cuba and north-east of Honduras, between Jamaica and Mexico's Yucatán Peninsula. Grand Cayman is the largest and the most populous.

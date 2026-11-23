@@ -18,6 +18,10 @@ What is highlighted on this map?
 
 <div class="cmp-map" data-focus="MAR" data-pin="34.0253,-6.8364" data-label="Rabat"><img src="../../media/cx-locator-morocco.svg" alt="Map of Morocco with Rabat marked"></div>
 
+![The ruins of Volubilis](../../media/cx-photo-volubilis-longshot-ii.jpg)
+
+<i>Photo: Subhros, CC BY-SA 3.0, via Wikimedia Commons</i>
+
 Coasts on the Mediterranean Sea to the north and the Atlantic Ocean to the west<br>Borders Algeria to the east, with Western Sahara to the south
 
 One of only three countries, with Spain and France, to have both Atlantic and Mediterranean coastlines. Its geography runs from the Atlantic through mountains to the Sahara desert.

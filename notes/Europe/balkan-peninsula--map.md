@@ -16,6 +16,10 @@ What is highlighted on this map?
 
 ## Extra
 
+![Satellite view of the Balkan Mountains](../../media/cx-photo-balkan-range-satellite.jpg)
+
+<i>Photo: User:Introvert, Public domain, via Wikimedia Commons</i>
+
 Bordered by the Adriatic, Ionian, Aegean and Black seas<br>Highest point: Musala, 2,925 m, in Bulgaria
 
 The region is named for the Balkan Mountains, which run across Bulgaria. German geographer August Zeune coined the peninsula in 1808, wrongly thinking those mountains spanned the region.

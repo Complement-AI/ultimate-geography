@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Duna en Sossusvlei, Namibia, 2018-08-06, DD 002.jpg",
-    "alt": "A red sand dune at Sossusvlei in the Namib desert"
+    "alt": "A red sand dune at Sossusvlei in the Namib desert",
+    "file": "cx-photo-duna-en-sossusvlei-namibia-2018-08-06-dd-002.jpg",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Duna_en_Sossusvlei,_Namibia,_2018-08-06,_DD_002.jpg",
+    "credit": "Diego Delso, Diego Delso, via Wikimedia Commons"
   },
   "facts": [
     "Borders Angola, Zambia, Botswana and South Africa",

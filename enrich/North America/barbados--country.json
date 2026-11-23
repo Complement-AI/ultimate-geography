@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Barbados (50).jpg",
-    "alt": "Crane Beach on the coast"
+    "alt": "Crane Beach on the coast",
+    "file": "cx-photo-barbados-50.jpg",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Barbados_(50).jpg",
+    "credit": "Patdoy at en.wikipedia, CC BY-SA 3.0, via Wikimedia Commons"
   },
   "facts": [
     "About 303,000 people (2023) in 439 km²",

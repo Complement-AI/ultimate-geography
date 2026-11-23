@@ -16,6 +16,10 @@ What is highlighted on this map?
 
 ## Extra
 
+![French Guiana seen from the International Space Station](../../media/cx-photo-iss009-e-21542-view-of-french-guiana.jpg)
+
+<i>Photo: Earth Science and Remote Sensing Unit, Lyndon B. Johnson Space Center, Public domain, via Wikimedia Commons</i>
+
 About 83,500 km² of land<br>Borders Suriname to the west and Brazil to the east and south
 
 About 98.9% of it is forest, much of it primeval rainforest. The Guiana Space Centre is the European Space Agency's main launch site, near the equator.

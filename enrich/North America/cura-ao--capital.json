@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Handelskade in Willemstad.jpg",
-    "alt": "Colourful Dutch colonial buildings along a harbour quay"
+    "alt": "Colourful Dutch colonial buildings along a harbour quay",
+    "file": "cx-photo-handelskade-in-willemstad.jpg",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Handelskade_in_Willemstad.jpg",
+    "credit": "Coolcaesar, CC BY 4.0, via Wikimedia Commons"
   },
   "facts": [
     "About 137,000 people (2011), around 90% of Curaçao's population",

@@ -16,6 +16,10 @@ What is the capital of <b>Namibia</b>?
 
 <div class="cmp-map" data-focus="NAM" data-pin="-22.57,17.0835" data-label="Windhoek"><img src="../../media/cx-locator-namibia.svg" alt="Map of Namibia with Windhoek marked"></div>
 
+![The skyline of the city](../../media/cx-photo-windhoek-skyline.jpg)
+
+<i>Photo: Bries, CC BY-SA 2.5, via Wikimedia Commons</i>
+
 About 486,000 people (2023), the country's largest city<br>On the Khomas Highland plateau, around 1,700 m above sea level
 
 It grew at a hot spring known to local pastoral tribes, then was founded a second time in 1890 by a German army major when the territory was colonised by the German Empire.

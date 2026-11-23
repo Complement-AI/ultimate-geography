@@ -18,6 +18,10 @@ What is highlighted on this map?
 
 <div class="cmp-map" data-focus="MDG" data-pin="-18.9147,47.5147" data-label="Antananarivo"><img src="../../media/cx-locator-madagascar.svg" alt="Map of Madagascar with Antananarivo marked"></div>
 
+![Satellite view of a large island](../../media/cx-photo-satellite-image-of-madagascar-in-september-2003.jpg)
+
+<i>Photo: Unknown authorUnknown author, Public domain, via Wikimedia Commons</i>
+
 About 587,295 km²<br>Off the southeastern coast of Africa
 
 It split from Africa around 180 million years ago and from the Indian subcontinent about 90 million years ago, leaving its wildlife isolated.

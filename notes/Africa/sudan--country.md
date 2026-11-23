@@ -16,6 +16,10 @@ tags  = ["africa", "sovereign_state", "country"]
 
 <div class="cmp-map" data-focus="SDN" data-pin="15.59,32.5322" data-label="Khartoum"><img src="../../media/cx-locator-sudan.svg" alt="Map of Sudan with Khartoum marked"></div>
 
+![The Western Deffufa at Kerma](../../media/cx-photo-western-deffufa-kerma.jpg)
+
+<i>Photo: walter callens, CC BY 2.0, via Wikimedia Commons</i>
+
 About 51.8 million people (2025)<br>Highest point: Deriba Caldera
 
 After the fall of the kingdom of Kush, the Nubians formed three Christian kingdoms: Nobatia, Makuria and Alodia.

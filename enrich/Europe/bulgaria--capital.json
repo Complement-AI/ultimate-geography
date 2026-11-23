@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Panoramic view over central Sofia and the Vitosha Mountain 2017-10-08.jpg",
-    "alt": "Central Sofia with Vitosha Mountain behind"
+    "alt": "Central Sofia with Vitosha Mountain behind",
+    "file": "cx-photo-panoramic-view-over-central-sofia-and-the-vitosha-mountain-2.jpg",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Panoramic_view_over_central_Sofia_and_the_Vitosha_Mountain_2017-10-08.jpg",
+    "credit": "Deensel, CC BY 2.0, via Wikimedia Commons"
   },
   "facts": [
     "About 1.2 million people (2025), 560 m above sea level",

@@ -16,6 +16,10 @@ What is highlighted on this map?
 
 ## Extra
 
+![The Ritsa Strict Nature Reserve](../../media/cx-photo-.jpg)
+
+<i>Photo: Vacheraindeli, CC BY-SA 4.0, via Wikimedia Commons</i>
+
 Borders Georgia and Russia<br>On the eastern coast of the Black Sea
 
 Independent state claimed by Georgia.

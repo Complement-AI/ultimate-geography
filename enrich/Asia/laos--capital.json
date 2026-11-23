@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:20171118 Vientiane 3220 DxO.jpg",
-    "alt": "Street view in Vientiane"
+    "alt": "Street view in Vientiane",
+    "file": "cx-photo-20171118-vientiane-3220-dxo.jpg",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:20171118_Vientiane_3220_DxO.jpg",
+    "credit": "Jakub Hałun, CC BY-SA 4.0, via Wikimedia Commons"
   },
   "facts": [
     "About 1 million people (2023)",

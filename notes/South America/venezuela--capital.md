@@ -16,6 +16,10 @@ What is the capital of <b>Venezuela</b>?
 
 <div class="cmp-map" data-focus="VEN" data-pin="10.5029,-66.919" data-label="Caracas"><img src="../../media/cx-locator-venezuela.svg" alt="Map of Venezuela with Caracas marked"></div>
 
+![Caracas seen from Cerro El Ávila](../../media/cx-photo-caracas-desde-el-vila.jpg)
+
+<i>Photo: Olga Berrios, CC BY 2.0, via Wikimedia Commons</i>
+
 About 2.2 million people (2017)<br>920 m up in a valley of the coastal mountains
 
 Officially Santiago de León de Caracas, founded in 1567. A steep 2,200 m mountain range, Cerro El Ávila, separates the valley from the Caribbean shore.

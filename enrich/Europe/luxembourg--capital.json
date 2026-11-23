@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Luxembourg City Hall (54540726309).jpg",
-    "alt": "Luxembourg City Hall"
+    "alt": "Luxembourg City Hall",
+    "file": "cx-photo-luxembourg-city-hall-54540726309.jpg",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Luxembourg_City_Hall_(54540726309).jpg",
+    "credit": "Pierre Blaché from Paris, France, CC0, via Wikimedia Commons"
   },
   "facts": [
     "About 138,000 people (2026)",

@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Santiago de Chile, Desde Cerro San Cristóbal (cropped).jpg",
-    "alt": "Santiago seen from Cerro San Cristóbal"
+    "alt": "Santiago seen from Cerro San Cristóbal",
+    "file": "cx-photo-santiago-de-chile-desde-cerro-san-crist-bal-cropped.jpg",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Santiago_de_Chile,_Desde_Cerro_San_Crist%C3%B3bal_(cropped).jpg",
+    "credit": "Omnespsx (D•ES), CC BY-SA 4.0, via Wikimedia Commons"
   },
   "facts": [
     "About 6.3 million people (2017)",

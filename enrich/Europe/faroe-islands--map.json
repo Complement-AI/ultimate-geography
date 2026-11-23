@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Faroe Islands by Sentinel-2.jpg",
-    "alt": "Satellite view of the Faroe Islands from above"
+    "alt": "Satellite view of the Faroe Islands from above",
+    "file": "cx-photo-faroe-islands-by-sentinel-2.jpg",
+    "license": "CC BY-SA 3.0 igo",
+    "source": "https://commons.wikimedia.org/wiki/File:Faroe_Islands_by_Sentinel-2.jpg",
+    "credit": "Copernicus Sentinel-2, ESA, CC BY-SA 3.0 igo, via Wikimedia Commons"
   },
   "facts": [
     "An archipelago in the North Atlantic, between Iceland, Norway and Scotland",

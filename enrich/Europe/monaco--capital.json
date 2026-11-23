@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Panorama von Monaco-La Turbie.jpg",
-    "alt": "Panorama of Monaco and its harbour from La Turbie"
+    "alt": "Panorama of Monaco and its harbour from La Turbie",
+    "file": "cx-photo-panorama-von-monaco-la-turbie.jpg",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Panorama_von_Monaco-La_Turbie.jpg",
+    "credit": "Tobi 87, CC BY-SA 3.0, via Wikimedia Commons"
   },
   "facts": [
     "About 38,900 people (2025) in 2.08 km²",

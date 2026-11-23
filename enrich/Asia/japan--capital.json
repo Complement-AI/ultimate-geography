@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Skyscrapers of Shinjuku 2009 January (revised).jpg",
-    "alt": "Skyscrapers of Shinjuku, Tokyo"
+    "alt": "Skyscrapers of Shinjuku, Tokyo",
+    "file": "cx-photo-skyscrapers-of-shinjuku-2009-january-revised.jpg",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Skyscrapers_of_Shinjuku_2009_January_(revised).jpg",
+    "credit": "Morio, CC BY-SA 3.0, via Wikimedia Commons"
   },
   "facts": [
     "About 14.3 million people (2022) in the metropolis",

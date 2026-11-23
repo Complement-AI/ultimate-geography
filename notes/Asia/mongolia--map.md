@@ -18,6 +18,10 @@ What is highlighted on this map?
 
 <div class="cmp-map" data-focus="MNG" data-pin="47.9186,106.9147" data-label="Ulaanbaatar"><img src="../../media/cx-locator-mongolia.svg" alt="Map of Mongolia with Ulaanbaatar marked"></div>
 
+![A ger below the Gurvan Saikhan mountains in the Gobi](https://upload.wikimedia.org/wikipedia/commons/9/9b/Gurvger.jpg)
+
+<i>Photo: The original uploader was Adagio at English Wikipedia. (Original text: Adagio), CC BY-SA 3.0, via Wikimedia Commons</i>
+
 Landlocked between Russia and China<br>1.56 million km², the second largest landlocked country
 
 Grassy steppe covers much of it, with mountains to the north and west and the Gobi Desert to the south.

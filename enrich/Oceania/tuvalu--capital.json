@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Funafuti township.jpg",
-    "alt": "The main road running through a low-lying town"
+    "alt": "The main road running through a low-lying town",
+    "file": "cx-photo-funafuti-township.jpg",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Funafuti_township.jpg",
+    "credit": "Davidarfonjones, CC BY-SA 3.0, via Wikimedia Commons"
   },
   "facts": [
     "About 6,320 people (2017 census), roughly 60% of the nation",

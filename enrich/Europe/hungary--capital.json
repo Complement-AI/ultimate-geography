@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Budapest, Hungary (explored) (14995308504).jpg",
-    "alt": "A view over Budapest"
+    "alt": "A view over Budapest",
+    "file": "cx-photo-budapest-hungary-explored-14995308504.jpg",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Budapest,_Hungary_(explored)_(14995308504).jpg",
+    "credit": "Thomas Depenbusch (Depi) from Cologne, Germany, CC BY 2.0, via Wikimedia Commons"
   },
   "facts": [
     "About 1.7 million people (2026), 117 m above sea level",

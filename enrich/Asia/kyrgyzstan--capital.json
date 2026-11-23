@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Bishkek City's business center.jpg",
-    "alt": "Bishkek's business centre"
+    "alt": "Bishkek's business centre",
+    "file": "cx-photo-bishkek-city-s-business-center.jpg",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Bishkek_City%27s_business_center.jpg",
+    "credit": "Aitenir, CC0, via Wikimedia Commons"
   },
   "facts": [
     "About 1.19 million people (2025)",

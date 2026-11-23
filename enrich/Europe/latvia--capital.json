@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Vistas desde la iglesia de San Pedro, Riga, Letonia, 2012-08-07, DD 12.JPG",
-    "alt": "View of Riga from St. Peter's Church"
+    "alt": "View of Riga from St. Peter's Church",
+    "file": "cx-photo-vistas-desde-la-iglesia-de-san-pedro-riga-letonia-2012-08-07.jpg",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Vistas_desde_la_iglesia_de_San_Pedro,_Riga,_Letonia,_2012-08-07,_DD_12.JPG",
+    "credit": "Diego Delso, Diego Delso, via Wikimedia Commons"
   },
   "facts": [
     "About 589,000 people (2026)",

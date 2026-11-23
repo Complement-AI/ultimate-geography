@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Bahrain World trade Center .jpg",
-    "alt": "The Bahrain World Trade Center towers in Manama"
+    "alt": "The Bahrain World Trade Center towers in Manama",
+    "file": "cx-photo-bahrain-world-trade-center.jpg",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Bahrain_World_trade_Center_.jpg",
+    "credit": "B.alotaby, CC BY-SA 4.0, via Wikimedia Commons"
   },
   "facts": [
     "About 743,000 people (2025 estimate)",

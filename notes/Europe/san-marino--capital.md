@@ -16,6 +16,10 @@ What is the capital of <b>San Marino</b>?
 
 <div class="cmp-map" data-focus="SMR" data-pin="43.9361,12.4418" data-label="City of San Marino"><img src="../../media/cx-locator-san-marino.svg" alt="Map of San Marino with City of San Marino marked"></div>
 
+![View of Mount Titano and the city on its slope](../../media/cx-photo-view-of-mount-titano-san-marino.jpg)
+
+<i>Photo: Commonists, CC BY-SA 4.0, via Wikimedia Commons</i>
+
 About 4,000 people (2020)<br>On the western slopes of Monte Titano, 675 m up
 
 It is the fifth-least-populated national capital in the world, sitting on San Marino's highest point.

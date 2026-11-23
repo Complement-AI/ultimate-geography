@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Port Moresby Town2 Mschlauch.jpg",
-    "alt": "Port Moresby town centre"
+    "alt": "Port Moresby town centre",
+    "file": "cx-photo-port-moresby-town2-mschlauch.jpg",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Port_Moresby_Town2_Mschlauch.jpg",
+    "credit": "MSchlauch, Public domain, via Wikimedia Commons"
   },
   "facts": [
     "About 757,000 people (2024 census)",

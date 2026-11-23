@@ -16,6 +16,10 @@ tags  = ["asia", "southeast_asia", "sovereign_state", "country"]
 
 <div class="cmp-map" data-focus="SGP" data-pin="1.295,103.8539" data-label="Singapore"><img src="../../media/cx-locator-singapore.svg" alt="Map of Singapore with Singapore marked"></div>
 
+![Skyscrapers around Raffles Place in Singapore](../../media/cx-photo-raffles-place.jpg)
+
+<i>Photo: RamirBorja at English Wikipedia, Ramir Borja., via Wikimedia Commons</i>
+
 Independent from Malaysia on 9 August 1965<br>Island country and city-state
 
 Under direct British control from 1867 as part of the Straits Settlements. It was occupied by Japan in 1942 and returned to Britain as a Crown colony in 1945.

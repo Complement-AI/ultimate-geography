@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Cidade Maravilhosa.jpg",
-    "alt": "A view of the city of Rio de Janeiro"
+    "alt": "A view of the city of Rio de Janeiro",
+    "file": "cx-photo-cidade-maravilhosa.jpg",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Cidade_Maravilhosa.jpg",
+    "credit": "Rafael Rabello de Barros, CC BY-SA 3.0, via Wikimedia Commons"
   },
   "facts": [
     "About 214 million people (2026), the seventh most populous country",

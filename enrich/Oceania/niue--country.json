@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Niue ISS004.jpg",
-    "alt": "Niue seen from orbit"
+    "alt": "Niue seen from orbit",
+    "file": "cx-photo-niue-iss004.jpg",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Niue_ISS004.jpg",
+    "credit": "NASA, Public domain, via Wikimedia Commons"
   },
   "facts": [
     "About 1,800 people (2025)",

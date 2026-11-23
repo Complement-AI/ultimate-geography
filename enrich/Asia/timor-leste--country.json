@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Lospalos klein.jpg",
-    "alt": "A town view in eastern Timor-Leste"
+    "alt": "A town view in eastern Timor-Leste",
+    "file": "cx-photo-lospalos-klein.jpg",
+    "license": "CC BY 2.5",
+    "source": "https://commons.wikimedia.org/wiki/File:Lospalos_klein.jpg",
+    "credit": "J. Patrick Fischer, CC BY 2.5, via Wikimedia Commons"
   },
   "facts": [
     "About 1.4 million people (2024)",

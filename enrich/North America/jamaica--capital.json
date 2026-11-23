@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:PortofKingston.jpg",
-    "alt": "Ships at the port of Kingston"
+    "alt": "Ships at the port of Kingston",
+    "file": "cx-photo-portofkingston.jpg",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:PortofKingston.jpg",
+    "credit": "The original uploader was Blofeld of SPECTRE at English Wikipedia. (Original tex, CC BY-SA 3.0, via Wikimedia Commons"
   },
   "facts": [
     "About 938,000 people (2025)",

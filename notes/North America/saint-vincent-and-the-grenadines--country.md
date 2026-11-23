@@ -16,6 +16,10 @@ tags  = ["caribbean", "north_america", "sovereign_state", "country"]
 
 <div class="cmp-map" data-focus="VCT" data-pin="13.1483,-61.2121" data-label="Kingstown"><img src="../../media/cx-locator-saint-vincent-and-the-grenadines.svg" alt="Map of Saint Vincent and the Grenadines with Kingstown marked"></div>
 
+![The Lesser Antilles seen from the International Space Station](../../media/cx-photo-iss006-e-38029-view-of-the-lesser-antilles.jpg)
+
+<i>Photo: Earth Science and Remote Sensing Unit, Lyndon B. Johnson Space Center, Public domain, via Wikimedia Commons</i>
+
 About 109,000 people (2023) in 389 km²
 
 It holds the northern two-thirds of the Grenadines, a chain of 32 smaller islands. The southern third belongs to Grenada.

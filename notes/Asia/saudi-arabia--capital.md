@@ -16,6 +16,10 @@ What is the capital of <b>Saudi Arabia</b>?
 
 <div class="cmp-map" data-focus="SAU" data-pin="24.6428,46.7708" data-label="Riyadh"><img src="../../media/cx-locator-saudi-arabia.svg" alt="Map of Saudi Arabia with Riyadh marked"></div>
 
+![The Riyadh skyline](../../media/cx-photo-riyadh-skyline.jpg)
+
+<i>Photo: B.alotaby, CC BY-SA 4.0, via Wikimedia Commons</i>
+
 About 7 million people (2022)<br>About 612 m up, on the Najd plateau
 
 The largest city on the Arabian Peninsula. The current city largely emerged in the 1950s as an expansion of the 18th-century walled town, after its defensive fortifications were dismantled.

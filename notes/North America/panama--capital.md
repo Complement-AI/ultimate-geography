@@ -16,6 +16,10 @@ What is the capital of <b>Panama</b>?
 
 <div class="cmp-map" data-focus="PAN" data-pin="8.97,-79.535" data-label="Panama City"><img src="../../media/cx-locator-panama.svg" alt="Map of Panama with Panama City marked"></div>
 
+![Panama City at night](../../media/cx-photo-panor-mica-nocturna-de-la-ciudad-de-panam.jpg)
+
+<i>Photo: JAVR2020, CC BY-SA 4.0, via Wikimedia Commons</i>
+
 Founded on 15 August 1519<br>At the Pacific entrance of the Panama Canal
 
 Founded by the Spanish conquistador Pedro Arias Dávila. Its metropolitan area is home to nearly half of the country's inhabitants.

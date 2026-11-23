@@ -18,6 +18,10 @@ What is highlighted on this map?
 
 <div class="cmp-map" data-focus="JOR" data-pin="31.952,35.9314" data-label="Amman"><img src="../../media/cx-locator-jordan.svg" alt="Map of Jordan with Amman marked"></div>
 
+![The Dead Sea shore](../../media/cx-photo-17-dead-sea-13-13252089754.jpg)
+
+<i>Photo: xorge, CC BY-SA 2.0, via Wikimedia Commons</i>
+
 Borders Syria, Iraq, Saudi Arabia and Israel<br>Highest point is Jabal Umm ad Dami
 
 A small coastline on the Red Sea in the southwest, separated from Egypt by the Gulf of Aqaba. The Jordan River flows into the Dead Sea along the western border, in the Jordan Rift Valley.

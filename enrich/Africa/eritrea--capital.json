@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Fiat tagliero, 09.JPG",
-    "alt": "A building with a wing-shaped roof"
+    "alt": "A building with a wing-shaped roof",
+    "file": "cx-photo-fiat-tagliero-09.jpg",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Fiat_tagliero,_09.JPG",
+    "credit": "Sailko, sailko, via Wikimedia Commons"
   },
   "facts": [
     "About 963,000 people (2020)",

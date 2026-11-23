@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Zagreb (29255640143).jpg",
-    "alt": "A cathedral and a public square in Zagreb"
+    "alt": "A cathedral and a public square in Zagreb",
+    "file": "cx-photo-zagreb-29255640143.jpg",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Zagreb_(29255640143).jpg",
+    "credit": "Nick Savchenko from Kiev, Ukraine, CC BY-SA 2.0, via Wikimedia Commons"
   },
   "facts": [
     "About 767,000 people (2021 census)",

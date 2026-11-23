@@ -16,6 +16,10 @@ tags  = ["asia", "middle_east", "sovereign_state", "country"]
 
 <div class="cmp-map" data-focus="IRQ" data-pin="33.3406,44.3919" data-label="Baghdad"><img src="../../media/cx-locator-iraq.svg" alt="Map of Iraq with Baghdad marked"></div>
 
+![Snow-covered city and hills of Sulaymaniyah in winter](../../media/cx-photo-view-of-sulaymaniyah-slemani-city-in-winter-snow-2015.jpg)
+
+<i>Photo: Diyar Muhammed, CC BY-SA 4.0, via Wikimedia Commons</i>
+
 Over 46 million people in 438,317 km²<br>Highest point is Cheekha Dar
 
 Known as the cradle of civilisation: the fertile plains between the Tigris and Euphrates, called Mesopotamia, fostered Sumer, Akkad, Babylonia and Assyria.

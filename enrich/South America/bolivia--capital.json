@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Sucre Square.jpg",
-    "alt": "A square in Sucre"
+    "alt": "A square in Sucre",
+    "file": "cx-photo-sucre-square.jpg",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Sucre_Square.jpg",
+    "credit": "Parallelepiped09, CC BY-SA 4.0, via Wikimedia Commons"
   },
   "facts": [
     "About 360,500 people (2021)",

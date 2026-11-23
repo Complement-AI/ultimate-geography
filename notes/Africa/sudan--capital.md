@@ -16,6 +16,10 @@ What is the capital of <b>Sudan</b>?
 
 <div class="cmp-map" data-focus="SDN" data-pin="15.59,32.5322" data-label="Khartoum"><img src="../../media/cx-locator-sudan.svg" alt="Map of Sudan with Khartoum marked"></div>
 
+![A bridge over the Nile at the city](../../media/cx-photo-elmek-nimir-bridge.jpg)
+
+<i>Photo: Arwa51o, CC BY-SA 4.0, via Wikimedia Commons</i>
+
 Metropolitan area of about 5.3 million people (2018)<br>At the confluence of the White Nile and the Blue Nile
 
 Founded in 1821 by Muhammad Ali Pasha, north of the ancient city of Soba. Bridges link Khartoum proper to Khartoum North and Omdurman.

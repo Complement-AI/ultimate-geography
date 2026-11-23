@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Monuments de l'indépendance et Palais des congrès de Lomé.jpg",
-    "alt": "Independence monuments and the congress palace in the city"
+    "alt": "Independence monuments and the congress palace in the city",
+    "file": "cx-photo-monuments-de-l-ind-pendance-et-palais-des-congr-s-de-lom.jpg",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Monuments_de_l%27ind%C3%A9pendance_et_Palais_des_congr%C3%A8s_de_Lom%C3%A9.jpg",
+    "credit": "Hermannkass, CC BY-SA 4.0, via Wikimedia Commons"
   },
   "facts": [
     "About 837,000 people in the city, 2.19 million in the metropolitan area (2022 census)",

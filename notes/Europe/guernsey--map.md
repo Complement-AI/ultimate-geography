@@ -16,6 +16,10 @@ What is highlighted on this map?
 
 ## Extra
 
+![Guernsey seen from the air](https://upload.wikimedia.org/wikipedia/commons/1/12/Guernsey_from_the_air_-_geograph.ci_-_371.jpg)
+
+<i>Photo: Bob Embleton, Bob Embleton, via Wikimedia Commons</i>
+
 About 78 km2, about 68,000 people (2024)<br>A Crown Dependency off the coast of Normandy
 
 The Bailiwick of Guernsey has three jurisdictions: Alderney, Guernsey (including Herm) and Sark.

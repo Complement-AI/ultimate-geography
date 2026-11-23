@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Martinique 14.6346N 61.0051W Landsat7.jpg",
-    "alt": "Martinique from orbit"
+    "alt": "Martinique from orbit",
+    "file": "cx-photo-martinique-14-6346n-61-0051w-landsat7.jpg",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Martinique_14.6346N_61.0051W_Landsat7.jpg",
+    "credit": "Unknown author, Public domain, via Wikimedia Commons"
   },
   "facts": [
     "About 350,000 people (January 2024) on 1,128 km²",

@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Dubrovnik june 2011..JPG",
-    "alt": "Old town of Dubrovnik with its city walls"
+    "alt": "Old town of Dubrovnik with its city walls",
+    "file": "cx-photo-dubrovnik-june-2011.jpg",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Dubrovnik_june_2011..JPG",
+    "credit": "Bracodbk, CC BY-SA 3.0, via Wikimedia Commons"
   },
   "facts": [
     "Borders Slovenia, Hungary, Serbia, Bosnia and Herzegovina and Montenegro",

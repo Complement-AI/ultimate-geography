@@ -16,6 +16,10 @@ What is the capital of <b>Uzbekistan</b>?
 
 <div class="cmp-map" data-focus="UZB" data-pin="41.3136,69.293" data-label="Tashkent"><img src="../../media/cx-locator-uzbekistan.svg" alt="Map of Uzbekistan with Tashkent marked"></div>
 
+![An aerial view of Tashkent](../../media/cx-photo-aerial-view-of-tashkent-uzbekistan.jpg)
+
+<i>Photo: ssr (talk), Public domain, via Wikimedia Commons</i>
+
 About 3.1 million people (2025), the most in Central Asia<br>455 m up, in northeastern Uzbekistan
 
 A crossroads on the ancient Silk Road. Genghis Khan destroyed the city in 1219, and it was rebuilt and profited from its place on the trade routes.

@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Maputo seen from southeast - October 2006.jpg",
-    "alt": "Aerial view of the city from the southeast"
+    "alt": "Aerial view of the city from the southeast",
+    "file": "cx-photo-maputo-seen-from-southeast-october-2006.jpg",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Maputo_seen_from_southeast_-_October_2006.jpg",
+    "credit": "AmigoDia, CC BY-SA 3.0, via Wikimedia Commons"
   },
   "facts": [
     "About 1.09 million people (2017)",

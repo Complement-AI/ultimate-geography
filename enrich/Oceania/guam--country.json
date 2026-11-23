@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Guam satellite photo map.jpg",
-    "alt": "Satellite view of Guam"
+    "alt": "Satellite view of Guam",
+    "file": "cx-photo-guam-satellite-photo-map.jpg",
+    "license": "CC BY 2.5",
+    "source": "https://commons.wikimedia.org/wiki/File:Guam_satellite_photo_map.jpg",
+    "credit": "http://www.terraprints.com, CC BY 2.5, via Wikimedia Commons"
   },
   "facts": [
     "About 540 km², the largest island in Micronesia",

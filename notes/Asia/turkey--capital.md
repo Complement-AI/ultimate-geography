@@ -16,6 +16,10 @@ What is the capital of <b>Turkey</b>?
 
 <div class="cmp-map" data-focus="TUR" data-pin="39.9292,32.8624" data-label="Ankara"><img src="../../media/cx-locator-turkey.svg" alt="Map of Turkey with Ankara marked"></div>
 
+![A view of Ankara](../../media/cx-photo-ankara-16290014657.jpg)
+
+<i>Photo: Jorge Franganillo from Barcelona, Spain, CC BY 2.0, via Wikimedia Commons</i>
+
 About 5.8 million people (2023), second to Istanbul<br>938 m up, in central Anatolia
 
 Historically known as Ancyra and Angora. The Grand National Assembly of Turkey was established here on 23 April 1920, in the years of the Turkish National Movement.

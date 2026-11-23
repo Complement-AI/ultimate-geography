@@ -16,6 +16,10 @@ What is the capital of <b>Slovenia</b>?
 
 <div class="cmp-map" data-focus="SVN" data-pin="46.0553,14.515" data-label="Ljubljana"><img src="../../media/cx-locator-slovenia.svg" alt="Map of Slovenia with Ljubljana marked"></div>
 
+![Ljubljana with its castle above the old town](../../media/cx-photo-slo-ljubljana-blick-auf-burg-2020.jpg)
+
+<i>Photo: User:Mateus2019, CC BY 3.0 de, via Wikimedia Commons</i>
+
 About 284,000 people (2022)<br>Near the centre of the country, north of its largest marsh
 
 A Roman city called Emona stood here in antiquity. Ljubljana became the capital of the newly formed Slovenia when it became independent in 1991.

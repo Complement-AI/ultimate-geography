@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Satellite image of Japan in May 2003.jpg",
-    "alt": "Satellite image of the Japanese islands"
+    "alt": "Satellite image of the Japanese islands",
+    "file": "cx-photo-satellite-image-of-japan-in-may-2003.jpg",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Satellite_image_of_Japan_in_May_2003.jpg",
+    "credit": "Jeff Schmaltz, MODIS Rapid Response Team, NASA/GSFC, Public domain, via Wikimedia Commons"
   },
   "facts": [
     "About 124 million people (2024), the world's 11th most populous",

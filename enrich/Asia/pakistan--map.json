@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Blue Hour at Pakistan Monument.jpg",
-    "alt": "A stone monument lit at dusk"
+    "alt": "A stone monument lit at dusk",
+    "file": "cx-photo-blue-hour-at-pakistan-monument.jpg",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Blue_Hour_at_Pakistan_Monument.jpg",
+    "credit": "Muhammad Ashar, Muhammad Ashar, via Wikimedia Commons"
   },
   "facts": [
     "Borders India, Afghanistan, Iran and China",

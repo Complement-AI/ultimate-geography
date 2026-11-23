@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Cityscape of San José, Costa Rica (253552473).jpg",
-    "alt": "Cityscape of San José"
+    "alt": "Cityscape of San José",
+    "file": "cx-photo-cityscape-of-san-jos-costa-rica-253552473.jpg",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Cityscape_of_San_Jos%C3%A9,_Costa_Rica_(253552473).jpg",
+    "credit": "Xlionheartx, CC BY 3.0, via Wikimedia Commons"
   },
   "facts": [
     "About 335,000 people in the city (2025)",

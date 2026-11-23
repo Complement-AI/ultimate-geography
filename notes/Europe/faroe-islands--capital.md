@@ -16,6 +16,10 @@ What is the capital of <b>Faroe Islands</b>?
 
 <div class="cmp-map" data-focus="FRO" data-pin="62.03,-6.82" data-label="Tórshavn"><img src="../../media/cx-locator-faroe-islands.svg" alt="Map of Faroe Islands with Tórshavn marked"></div>
 
+![The Tinganes peninsula and harbour](../../media/cx-photo-tinganes-57.jpg)
+
+<i>Photo: Stig Nygaard from Copenhagen, Denmark, CC BY 2.0, via Wikimedia Commons</i>
+
 About 14,000 people in the city itself (2024)<br>On the east coast of the island of Streymoy
 
 The name means "Thor's harbour". The Norse established their parliament on the Tinganes peninsula in AD 850, and the city has been the capital ever since.

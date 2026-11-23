@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Belmopan Parliament.jpg",
-    "alt": "The Parliament building"
+    "alt": "The Parliament building",
+    "file": "cx-photo-belmopan-parliament.jpg",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Belmopan_Parliament.jpg",
+    "credit": "Haakon S. Krohn, CC BY-SA 3.0, via Wikimedia Commons"
   },
   "facts": [
     "About 20,800 people (2022), the smallest capital in the continental Americas",

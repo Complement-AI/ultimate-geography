@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:MallaDistrict.jpg",
-    "alt": "Buildings in the Malla district of Yemen"
+    "alt": "Buildings in the Malla district of Yemen",
+    "file": "cx-photo-malladistrict.jpg",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:MallaDistrict.jpg",
+    "credit": "Ahmedxalkatheri, CC BY-SA 4.0, via Wikimedia Commons"
   },
   "facts": [
     "Borders Saudi Arabia and Oman",

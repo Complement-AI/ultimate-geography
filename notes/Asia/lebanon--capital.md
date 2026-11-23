@@ -16,6 +16,10 @@ What is the capital of <b>Lebanon</b>?
 
 <div class="cmp-map" data-focus="LBN" data-pin="33.8739,35.5078" data-label="Beirut"><img src="../../media/cx-locator-lebanon.svg" alt="Map of Lebanon with Beirut marked"></div>
 
+![Beirut's coastline and buildings](https://upload.wikimedia.org/wikipedia/commons/d/db/Beirutcity.jpg)
+
+<i>Photo: Yoniw, CC BY-SA 3.0, via Wikimedia Commons</i>
+
 About 2.4 million people (2023)
 
 Inhabited for more than 5,000 years, one of the oldest cities in the world and an important seaport. It was rebuilt after the civil war, the 2006 war and the 2020 port explosion.

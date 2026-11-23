@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Kathmandu Avion 01.JPG",
-    "alt": "Aerial view of Kathmandu"
+    "alt": "Aerial view of Kathmandu",
+    "file": "cx-photo-kathmandu-avion-01.jpg",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kathmandu_Avion_01.JPG",
+    "credit": "Royonx, CC0, via Wikimedia Commons"
   },
   "facts": [
     "About 846,000 people (2021 census)",

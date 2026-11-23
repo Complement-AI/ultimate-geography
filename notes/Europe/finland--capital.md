@@ -16,6 +16,10 @@ What is the capital of <b>Finland</b>?
 
 <div class="cmp-map" data-focus="FIN" data-pin="60.1775,24.9322" data-label="Helsinki"><img src="../../media/cx-locator-finland.svg" alt="Map of Finland with Helsinki marked"></div>
 
+![Helsinki Cathedral rising above the city](../../media/cx-photo-helsinki-lutheran-cathedral-panoraaman-k-ala-2-s-t.jpg)
+
+<i>Photo: Old Pionear, CC BY-SA 4.0, via Wikimedia Commons</i>
+
 About 694,000 people (2025)<br>On the Gulf of Finland, 80 km north of Tallinn
 
 Known in English as Helsingfors, its Swedish name, until about 1930. It is the northernmost capital of an EU member state, and a bilingual municipality in Finnish and Swedish.

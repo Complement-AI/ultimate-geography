@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Big Manila.jpg",
-    "alt": "Panorama of the Manila skyline"
+    "alt": "Panorama of the Manila skyline",
+    "file": "cx-photo-big-manila.jpg",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Big_Manila.jpg",
+    "credit": "Mike Gonzalez (TheCoffee), CC BY-SA 3.0, via Wikimedia Commons"
   },
   "facts": [
     "About 1.9 million people (2024)",

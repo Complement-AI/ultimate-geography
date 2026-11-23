@@ -16,6 +16,10 @@ What is highlighted on this map?
 
 ## Extra
 
+![A coastline of one of the Azores islands](../../media/cx-photo-a-ores-2010-07-19-5047589237.jpg)
+
+<i>Photo: Guillaume Baviere from Helsingborg, Sweden, CC BY 2.0, via Wikimedia Commons</i>
+
 Nine volcanic islands, about 1,400 km west of mainland Portugal<br>About 236,000 people (2021)
 
 The islands run northwest to southeast for more than 600 km, in three groups. Mount Pico, the highest point in Portugal at 2,351 m, is on Pico island.

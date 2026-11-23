@@ -18,6 +18,10 @@ What is highlighted on this map?
 
 <div class="cmp-map" data-focus="SDN" data-pin="15.59,32.5322" data-label="Khartoum"><img src="../../media/cx-locator-sudan.svg" alt="Map of Sudan with Khartoum marked"></div>
 
+![The Western Deffufa at Kerma](../../media/cx-photo-western-deffufa-kerma.jpg)
+
+<i>Photo: walter callens, CC BY 2.0, via Wikimedia Commons</i>
+
 Borders Egypt, Libya, Chad, the Central African Republic, South Sudan, Ethiopia, Eritrea and the Red Sea<br>About 1.89 million km2
 
 Africa's third-largest country by area.

@@ -16,6 +16,10 @@ tags  = ["asia", "southeast_asia", "sovereign_state", "country"]
 
 <div class="cmp-map" data-focus="LAO" data-pin="17.9667,102.6" data-label="Vientiane"><img src="../../media/cx-locator-laos.svg" alt="Map of Laos with Vientiane marked"></div>
 
+![Karst peaks over green paddy fields](../../media/cx-photo-karst-peaks-and-green-paddy-fields-under-a-stormy-sky-south-.jpg)
+
+<i>Photo: Basile Morin, CC BY-SA 4.0, via Wikimedia Commons</i>
+
 About 6.9 million people (2017) in 236,800 km²<br>Highest point is Phou Bia
 
 The only landlocked country in Southeast Asia. It takes part in the Greater Mekong Subregion economic cooperation programme.

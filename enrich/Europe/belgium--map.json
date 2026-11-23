@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Belgique - Bruxelles - Grand-Place - Côté nord-est.jpg",
-    "alt": "A historic square with ornate guild houses"
+    "alt": "A historic square with ornate guild houses",
+    "file": "cx-photo-belgique-bruxelles-grand-place-c-t-nord-est.jpg",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgique_-_Bruxelles_-_Grand-Place_-_C%C3%B4t%C3%A9_nord-est.jpg",
+    "credit": "EmDee, CC BY-SA 3.0, via Wikimedia Commons"
   },
   "facts": [
     "Borders the Netherlands, Germany, Luxembourg and France",

@@ -16,6 +16,10 @@ What is highlighted on this map?
 
 ## Extra
 
+![Pointe de la Petite-Tortue on Grande-Terre](../../media/cx-photo-pointe-de-la-petite-tortue.jpg)
+
+<i>Photo: LPLT, CC BY-SA 3.0, via Wikimedia Commons</i>
+
 An overseas department and region of France<br>About 1,628 km²
 
 Six inhabited islands, among them Basse-Terre and Grande-Terre, lie south of Antigua and Barbuda and Montserrat and north of Dominica.

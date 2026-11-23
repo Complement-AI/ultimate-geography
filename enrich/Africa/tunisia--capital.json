@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Panoramique du centre de Tunis (3197369985) (cropped).jpg",
-    "alt": "Panorama of central Tunis"
+    "alt": "Panorama of central Tunis",
+    "file": "cx-photo-panoramique-du-centre-de-tunis-3197369985-cropped.jpg",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Panoramique_du_centre_de_Tunis_(3197369985)_(cropped).jpg",
+    "credit": "Citizen59 from Tunis, Tunisie, CC BY-SA 2.0, via Wikimedia Commons"
   },
   "facts": [
     "About 2.7 million people in Grand Tunis",

@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Beach on Upolu Island, Samoa, 2009.jpg",
-    "alt": "A beach on Upolu Island"
+    "alt": "A beach on Upolu Island",
+    "file": "cx-photo-beach-on-upolu-island-samoa-2009.jpg",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Beach_on_Upolu_Island,_Samoa,_2009.jpg",
+    "credit": "Stephen Glauser, CC BY-SA 2.0, via Wikimedia Commons"
   },
   "facts": [
     "Two main islands, Savaiʻi and Upolu",

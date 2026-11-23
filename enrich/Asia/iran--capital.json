@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:North of tehran.jpg",
-    "alt": "Tehran with mountains behind"
+    "alt": "Tehran with mountains behind",
+    "file": "cx-photo-north-of-tehran.jpg",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:North_of_tehran.jpg",
+    "credit": "Amir Pashaei, CC BY-SA 4.0, via Wikimedia Commons"
   },
   "facts": [
     "About 8.7 million people (2016)",

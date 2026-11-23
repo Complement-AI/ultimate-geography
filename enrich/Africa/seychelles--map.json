@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:La Digue asv2024-10 img56 Anse Patates.jpg",
-    "alt": "A beach of granite boulders and palms on La Digue"
+    "alt": "A beach of granite boulders and palms on La Digue",
+    "file": "cx-photo-la-digue-asv2024-10-img56-anse-patates.jpg",
+    "license": "FAL",
+    "source": "https://commons.wikimedia.org/wiki/File:La_Digue_asv2024-10_img56_Anse_Patates.jpg",
+    "credit": "A.Savin, FAL, via Wikimedia Commons"
   },
   "facts": [
     "An archipelago of 115 islands in the Indian Ocean",

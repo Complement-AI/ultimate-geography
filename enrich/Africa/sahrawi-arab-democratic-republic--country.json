@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Atlantic Ocean in Western Sahara.jpg",
-    "alt": "The Atlantic coast of Western Sahara"
+    "alt": "The Atlantic coast of Western Sahara",
+    "file": "cx-photo-atlantic-ocean-in-western-sahara.jpg",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Atlantic_Ocean_in_Western_Sahara.jpg",
+    "credit": "Darymaister, CC BY-SA 4.0, via Wikimedia Commons"
   },
   "facts": [
     "About 600,000 inhabitants, the most sparsely populated territory in Africa",

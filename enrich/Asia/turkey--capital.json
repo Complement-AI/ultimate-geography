@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Ankara (16290014657).jpg",
-    "alt": "A view of Ankara"
+    "alt": "A view of Ankara",
+    "file": "cx-photo-ankara-16290014657.jpg",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Ankara_(16290014657).jpg",
+    "credit": "Jorge Franganillo from Barcelona, Spain, CC BY 2.0, via Wikimedia Commons"
   },
   "facts": [
     "About 5.8 million people (2023), second to Istanbul",

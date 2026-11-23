@@ -20,7 +20,7 @@ REPO = Path(__file__).resolve().parent.parent
 ENRICH = REPO / "enrich"
 SKIP_DIRS = {"maps", "media", "_cache", "_sources"}
 KEYS = {"photo", "facts", "worth_knowing", "sources", "written_by", "checked_by"}
-PHOTO_KEYS = {"commons", "alt", "credit", "file", "source", "license"}
+PHOTO_KEYS = {"commons", "alt", "credit", "file", "url", "source", "license"}
 
 
 def problems(path: Path) -> list[str]:

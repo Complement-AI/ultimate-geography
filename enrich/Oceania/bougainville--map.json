@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Bagana Volcano.jpg",
-    "alt": "The southwest slopes of a volcano"
+    "alt": "The southwest slopes of a volcano",
+    "file": "cx-photo-bagana-volcano.jpg",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Bagana_Volcano.jpg",
+    "credit": "Photo courtesy of Jack Lockwood, U.S. Geological Survey., Public domain, via Wikimedia Commons"
   },
   "facts": [
     "About 367,000 people (2024) in 9,384 km²",

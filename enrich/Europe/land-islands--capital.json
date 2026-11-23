@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Mariehamn.jpg",
-    "alt": "A view of Mariehamn on the coast"
+    "alt": "A view of Mariehamn on the coast",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Mariehamn.jpg",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Mariehamn.jpg",
+    "credit": "The original uploader was Metallyza at French Wikipedia., CC BY-SA 3.0, via Wikimedia Commons"
   },
   "facts": [
     "About 12,000 people (2025), about 40% of the region's population",

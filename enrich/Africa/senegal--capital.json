@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Pointe des Almadies - Senegal.jpg",
-    "alt": "Rocky shore at the Pointe des Almadies"
+    "alt": "Rocky shore at the Pointe des Almadies",
+    "file": "cx-photo-pointe-des-almadies-senegal.jpg",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Pointe_des_Almadies_-_Senegal.jpg",
+    "credit": "Jeff Attaway, CC BY 2.0, via Wikimedia Commons"
   },
   "facts": [
     "Metropolitan area of 4.0 million people (2023)",

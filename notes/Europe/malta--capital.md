@@ -16,6 +16,10 @@ What is the capital of <b>Malta</b>?
 
 <div class="cmp-map" data-focus="MLT" data-pin="35.8997,14.5147" data-label="Valletta"><img src="../../media/cx-locator-malta.svg" alt="Map of Malta with Valletta marked"></div>
 
+![Valletta's bastions and domed church above the harbour](../../media/cx-photo-malta-2010-panoramio-bengt-nyman-23.jpg)
+
+<i>Photo: Bengt Nyman, Bengt Nyman, via Wikimedia Commons</i>
+
 About 5,200 people (2024)<br>At 0.61 km², the European Union's smallest capital city
 
 Named after Jean Parisot de Valette, who defended the island in the Great Siege of Malta, and built by the Knights Hospitaller in the 16th century. It is also the southernmost capital of Europe.

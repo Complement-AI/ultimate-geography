@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Vue Kinshasa.jpg",
-    "alt": "Tall buildings along a wide river"
+    "alt": "Tall buildings along a wide river",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Vue_Kinshasa.jpg",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Vue_Kinshasa.jpg",
+    "credit": "Garcia-Pavilion, CC BY-SA 4.0, via Wikimedia Commons"
   },
   "facts": [
     "About 18.5 million people (2026 estimate)",

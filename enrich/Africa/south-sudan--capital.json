@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Juba City.jpg",
-    "alt": "The city of Juba"
+    "alt": "The city of Juba",
+    "file": "cx-photo-juba-city.jpg",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Juba_City.jpg",
+    "credit": "Rigan123, CC BY-SA 4.0, via Wikimedia Commons"
   },
   "facts": [
     "About 500,000 people (2025)",

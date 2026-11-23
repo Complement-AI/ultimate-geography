@@ -16,6 +16,10 @@ tags  = ["asia", "middle_east", "sovereign_state", "country"]
 
 <div class="cmp-map" data-focus="ARE" data-pin="24.4667,54.3666" data-label="Abu Dhabi"><img src="../../media/cx-locator-united-arab-emirates.svg" alt="Map of United Arab Emirates with Abu Dhabi marked"></div>
 
+![Dubai seen from the Burj Khalifa](../../media/cx-photo-souq-al-bahar-from-burj-khalifa-dubai-7997597156.jpg)
+
+<i>Photo: Fabio Achilli from Milano, Italy, CC BY 2.0, via Wikimedia Commons</i>
+
 Federation of seven emirates<br>About 10.1 million people (2026)
 
 Dubai is the largest city, but Abu Dhabi is the capital. Arabic is the official language, while English is the most spoken and the language of business.

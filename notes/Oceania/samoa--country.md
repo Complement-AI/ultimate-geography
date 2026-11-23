@@ -16,6 +16,10 @@ tags  = ["oceania", "sovereign_state", "country"]
 
 <div class="cmp-map" data-focus="WSM" data-pin="-13.8415,-171.7386" data-label="Apia"><img src="../../media/cx-locator-samoa.svg" alt="Map of Samoa with Apia marked"></div>
 
+![A beach on Upolu Island](../../media/cx-photo-beach-on-upolu-island-samoa-2009.jpg)
+
+<i>Photo: Stephen Glauser, CC BY-SA 2.0, via Wikimedia Commons</i>
+
 About 200,000 people (2021) on 2,842 km²<br>64 km west of American Samoa
 
 Before the 20th century, European explorers called the whole island group the Navigator Islands, because of the Samoans' seafaring skills.

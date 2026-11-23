@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Guernsey from the air - geograph.ci - 371.jpg",
-    "alt": "Guernsey seen from the air"
+    "alt": "Guernsey seen from the air",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Guernsey_from_the_air_-_geograph.ci_-_371.jpg",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Guernsey_from_the_air_-_geograph.ci_-_371.jpg",
+    "credit": "Bob Embleton, Bob Embleton, via Wikimedia Commons"
   },
   "facts": [
     "About 78 km2, about 68,000 people (2024)",

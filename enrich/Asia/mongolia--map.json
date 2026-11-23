@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Gurvger.jpg",
-    "alt": "A ger below the Gurvan Saikhan mountains in the Gobi"
+    "alt": "A ger below the Gurvan Saikhan mountains in the Gobi",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Gurvger.jpg",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Gurvger.jpg",
+    "credit": "The original uploader was Adagio at English Wikipedia. (Original text: Adagio), CC BY-SA 3.0, via Wikimedia Commons"
   },
   "facts": [
     "Landlocked between Russia and China",

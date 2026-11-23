@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Planalto Central (cropped).jpg",
-    "alt": "Brasília seen from above, with its planned avenues"
+    "alt": "Brasília seen from above, with its planned avenues",
+    "file": "cx-photo-planalto-central-cropped.jpg",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Planalto_Central_(cropped).jpg",
+    "credit": "Arturdiasr, CC BY-SA 4.0, via Wikimedia Commons"
   },
   "facts": [
     "About 3.0 million people (2025)",

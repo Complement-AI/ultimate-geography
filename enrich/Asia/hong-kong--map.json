@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Hong Kong from Victoria Peak1.jpg",
-    "alt": "Hong Kong's harbour and towers seen from a high peak"
+    "alt": "Hong Kong's harbour and towers seen from a high peak",
+    "file": "cx-photo-hong-kong-from-victoria-peak1.jpg",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Hong_Kong_from_Victoria_Peak1.jpg",
+    "credit": "Mustang Joe, CC0, via Wikimedia Commons"
   },
   "facts": [
     "On China's southern coast, just south of Shenzhen",

@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Caracas desde el ávila.jpg",
-    "alt": "Caracas seen from Cerro El Ávila"
+    "alt": "Caracas seen from Cerro El Ávila",
+    "file": "cx-photo-caracas-desde-el-vila.jpg",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Caracas_desde_el_%C3%A1vila.jpg",
+    "credit": "Olga Berrios, CC BY 2.0, via Wikimedia Commons"
   },
   "facts": [
     "About 2.2 million people (2017)",

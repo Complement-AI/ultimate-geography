@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Ciudad.de.Mexico.City.Distrito.Federal.DF.Paseo.Reforma.Skyline.jpg",
-    "alt": "Skyscrapers along Paseo de la Reforma"
+    "alt": "Skyscrapers along Paseo de la Reforma",
+    "file": "cx-photo-ciudad-de-mexico-city-distrito-federal-df-paseo-reforma-skyl.jpg",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Ciudad.de.Mexico.City.Distrito.Federal.DF.Paseo.Reforma.Skyline.jpg",
+    "credit": "Alejandro Islas Photograph AC, CC BY 2.0, via Wikimedia Commons"
   },
   "facts": [
     "Borders the United States, Guatemala and Belize",

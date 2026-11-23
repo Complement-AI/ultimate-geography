@@ -16,6 +16,10 @@ What is highlighted on this map?
 
 ## Extra
 
+![Alaska from orbit on a clear day in June 2013](../../media/cx-photo-alaska-tmo-2013168-lrg-1.jpg)
+
+<i>Photo: NASA, Public domain, via Wikimedia Commons</i>
+
 Borders Yukon and British Columbia, and Russia across the Bering Strait<br>About 740,000 people (2024) in 1.72 million km²
 
 The largest U.S. state by area, larger than the next three (Texas, California and Montana) combined. A semi-exclave, it is cut off from the other states by Canada.

@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:An aerial view of Djibouti City.jpg",
-    "alt": "An aerial view of a coastal city"
+    "alt": "An aerial view of a coastal city",
+    "file": "cx-photo-an-aerial-view-of-djibouti-city.jpg",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:An_aerial_view_of_Djibouti_City.jpg",
+    "credit": "Skilla1st, CC BY-SA 4.0, via Wikimedia Commons"
   },
   "facts": [
     "Borders Eritrea, Ethiopia and Somalia",

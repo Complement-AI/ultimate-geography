@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Rome Skyline (8012016319).jpg",
-    "alt": "Rome skyline with domes and rooftops"
+    "alt": "Rome skyline with domes and rooftops",
+    "file": "cx-photo-rome-skyline-8012016319.jpg",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Rome_Skyline_(8012016319).jpg",
+    "credit": "Bert Kaufmann from Roermond, Netherlands, CC BY-SA 2.0, via Wikimedia Commons"
   },
   "facts": [
     "About 2.7 million people (2026), 21 m above sea level",

@@ -16,6 +16,10 @@ What is the capital of <b>Jamaica</b>?
 
 <div class="cmp-map" data-focus="JAM" data-pin="17.9771,-76.7674" data-label="Kingston"><img src="../../media/cx-locator-jamaica.svg" alt="Map of Jamaica with Kingston marked"></div>
 
+![Ships at the port of Kingston](../../media/cx-photo-portofkingston.jpg)
+
+<i>Photo: The original uploader was Blofeld of SPECTRE at English Wikipedia. (Original tex, CC BY-SA 3.0, via Wikimedia Commons</i>
+
 About 938,000 people (2025)<br>On the southeastern coast, facing a natural harbour
 
 The Palisadoes, a long sand spit, protects the harbour and links Port Royal and the airport to the rest of the island. It is the largest English-speaking city south of the United States in the Western Hemisphere.

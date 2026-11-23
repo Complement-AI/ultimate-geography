@@ -16,6 +16,10 @@ What is the capital of <b>Åland Islands</b>?
 
 <div class="cmp-map" data-focus="ALD" data-pin="60.097,19.949" data-label="Mariehamn"><img src="../../media/cx-locator-land-islands.svg" alt="Map of Åland Islands with Mariehamn marked"></div>
 
+![A view of Mariehamn on the coast](https://upload.wikimedia.org/wikipedia/commons/8/84/Mariehamn.jpg)
+
+<i>Photo: The original uploader was Metallyza at French Wikipedia., CC BY-SA 3.0, via Wikimedia Commons</i>
+
 About 12,000 people (2025), about 40% of the region's population<br>On the main island, 6 m above sea level
 
 Founded on 21 February 1861 and named after the Russian empress Maria Alexandrovna, the name meaning "Marie's Port". The city is Swedish-speaking.

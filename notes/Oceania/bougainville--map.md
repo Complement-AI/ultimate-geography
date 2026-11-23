@@ -16,6 +16,10 @@ What is highlighted on this map?
 
 ## Extra
 
+![The southwest slopes of a volcano](../../media/cx-photo-bagana-volcano.jpg)
+
+<i>Photo: Photo courtesy of Jack Lockwood, U.S. Geological Survey., Public domain, via Wikimedia Commons</i>
+
 About 367,000 people (2024) in 9,384 km²<br>Main islands: Bougainville Island and Buka Island
 
 Geographically it belongs to the Solomon Islands archipelago, but politically it is separate from the country of Solomon Islands: it is an autonomous region of Papua New Guinea.

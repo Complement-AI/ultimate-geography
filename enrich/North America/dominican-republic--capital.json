@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Santo Domingo (Dominican Republic) taken atop Novocentro tower viewing the city to the southwest 2010.jpg",
-    "alt": "The city seen from the top of a tall tower"
+    "alt": "The city seen from the top of a tall tower",
+    "file": "cx-photo-santo-domingo-dominican-republic-taken-atop-novocentro-tower.jpg",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Santo_Domingo_(Dominican_Republic)_taken_atop_Novocentro_tower_viewing_the_city_to_the_southwest_2010.jpg",
+    "credit": "Jjc09, Public domain, via Wikimedia Commons"
   },
   "facts": [
     "About 1.03 million people in the city centre (2022)",

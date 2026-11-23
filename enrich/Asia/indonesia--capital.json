@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Jakarta.jpg",
-    "alt": "Jakarta's skyline"
+    "alt": "Jakarta's skyline",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Jakarta.jpg",
+    "license": "Copyrighted free use",
+    "source": "https://commons.wikimedia.org/wiki/File:Jakarta.jpg",
+    "credit": "Unknown author, Copyrighted free use, via Wikimedia Commons"
   },
   "facts": [
     "About 11.1 million people (2024)",

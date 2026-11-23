@@ -16,6 +16,10 @@ What is the capital of <b>Aruba</b>?
 
 <div class="cmp-map" data-focus="ABW" data-pin="12.5304,-70.029" data-label="Oranjestad"><img src="../../media/cx-locator-aruba.svg" alt="Map of Aruba with Oranjestad marked"></div>
 
+![View over Oranjestad from the cruise port](../../media/cx-photo-aruba-oranjestad-hafen-1.jpg)
+
+<i>Photo: User: Bgabel at wikivoyage shared, Bgabel, via Wikimedia Commons</i>
+
 About 28,700 people (2020)<br>On the southwestern coast of the island
 
 The name is Dutch for "Orange City". It grew from a trading settlement on Paardenbaai ("Bay of Horses"), where urban development began in the 1790s.

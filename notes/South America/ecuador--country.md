@@ -16,6 +16,10 @@ tags  = ["south_america", "sovereign_state", "country"]
 
 <div class="cmp-map" data-focus="ECU" data-pin="-0.213,-78.502" data-label="Quito"><img src="../../media/cx-locator-ecuador.svg" alt="Map of Ecuador with Quito marked"></div>
 
+![Ecuador on a satellite view of Earth](https://upload.wikimedia.org/wikipedia/commons/f/f3/Ecuador_Blue_Marble.png)
+
+<i>Photo: NASA, Public domain, via Wikimedia Commons</i>
+
 About 16.9 million people (2022) on 257,204 km²<br>Galápagos Islands about 1,000 km west of the mainland
 
 The country's name is Spanish for Equator, and the capital, Quito, lies on the equator.

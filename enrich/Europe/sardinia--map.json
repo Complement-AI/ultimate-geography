@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Sardinia satellite.jpg",
-    "alt": "Sardinia from space"
+    "alt": "Sardinia from space",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Sardinia_satellite.jpg",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Sardinia_satellite.jpg",
+    "credit": "NASA, Public domain, via Wikimedia Commons"
   },
   "facts": [
     "About 1.6 million people (2020) in 23,949 km²",

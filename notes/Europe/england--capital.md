@@ -16,6 +16,10 @@ What is the capital of <b>England</b>?
 
 ## Extra
 
+![London skyline at sunset](../../media/cx-photo-london-skyline-125508655.jpg)
+
+<i>Photo: Ilya Grigorik, CC BY-SA 3.0, via Wikimedia Commons</i>
+
 About 9.1 million people (2025)<br>On the River Thames, at the head of an 80 km tidal estuary
 
 The City of London was founded by the Romans as Londinium, and the name is attested in the first century AD. The City of Westminster has hosted the national government for centuries.

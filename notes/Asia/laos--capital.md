@@ -16,6 +16,10 @@ What is the capital of <b>Laos</b>?
 
 <div class="cmp-map" data-focus="LAO" data-pin="17.9667,102.6" data-label="Vientiane"><img src="../../media/cx-locator-laos.svg" alt="Map of Laos with Vientiane marked"></div>
 
+![Street view in Vientiane](../../media/cx-photo-20171118-vientiane-3220-dxo.jpg)
+
+<i>Photo: Jakub Hałun, CC BY-SA 4.0, via Wikimedia Commons</i>
+
 About 1 million people (2023)<br>174 m above sea level, on the Mekong
 
 It lies close to the border with Thailand and was the administrative capital during French rule.

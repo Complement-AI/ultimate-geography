@@ -16,6 +16,10 @@ What is the capital of <b>Republic of the Congo</b>?
 
 <div class="cmp-map" data-focus="COG" data-pin="-4.2572,15.2827" data-label="Brazzaville"><img src="../../media/cx-locator-republic-of-the-congo.svg" alt="Map of Republic of the Congo with Brazzaville marked"></div>
 
+![A neighbourhood of the city](../../media/cx-photo-quartier-och.jpg)
+
+<i>Photo: Prével EPOTA, CC BY-SA 4.0, via Wikimedia Commons</i>
+
 About 2.1 million people (2023), over a third of the country<br>On the north bank of the Congo River, opposite Kinshasa
 
 Named for the explorer Pierre Savorgnan de Brazza, credited with founding the town. From 1940 to 1942 it was the de facto capital of Free France.

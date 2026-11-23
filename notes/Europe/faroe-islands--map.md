@@ -18,6 +18,10 @@ What is highlighted on this map?
 
 <div class="cmp-map" data-focus="FRO" data-pin="62.03,-6.82" data-label="Tórshavn"><img src="../../media/cx-locator-faroe-islands.svg" alt="Map of Faroe Islands with Tórshavn marked"></div>
 
+![Satellite view of the Faroe Islands from above](../../media/cx-photo-faroe-islands-by-sentinel-2.jpg)
+
+<i>Photo: Copernicus Sentinel-2, ESA, CC BY-SA 3.0 igo, via Wikimedia Commons</i>
+
 An archipelago in the North Atlantic, between Iceland, Norway and Scotland<br>Part of the Kingdom of Denmark, with home rule
 
 The terrain is rugged, dominated by fjords and cliffs with sparse vegetation and few trees.

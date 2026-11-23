@@ -16,6 +16,10 @@ tags  = ["oceania", "sovereign_state", "country"]
 
 <div class="cmp-map" data-focus="AUS" data-pin="-35.283,149.129" data-label="Canberra"><img src="../../media/cx-locator-australia.svg" alt="Map of Australia with Canberra marked"></div>
 
+![Satellite photograph of the Australian continent](../../media/cx-photo-australia-satellite-plane.jpg)
+
+<i>Photo: Reto Stöckl / NASA Goddard Space Flight Center, Public domain, via Wikimedia Commons</i>
+
 About 27.6 million people (2025) in 7.69 million km²<br>The sixth-largest country in the world
 
 The name comes from the Latin Terra Australis Incognita, 'unknown southern land'. Matthew Flinders popularised it after circumnavigating the continent in 1803.

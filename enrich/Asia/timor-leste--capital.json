@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Aussenministerium und Avenida de Portugal.jpg",
-    "alt": "A government building on an avenue in Dili"
+    "alt": "A government building on an avenue in Dili",
+    "file": "cx-photo-aussenministerium-und-avenida-de-portugal.jpg",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Aussenministerium_und_Avenida_de_Portugal.jpg",
+    "credit": "José Fernando Real, Jose Fernando Real, via Wikimedia Commons"
   },
   "facts": [
     "About 222,000 people (2015)",

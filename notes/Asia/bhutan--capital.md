@@ -16,6 +16,10 @@ What is the capital of <b>Bhutan</b>?
 
 <div class="cmp-map" data-focus="BTN" data-pin="27.473,89.639" data-label="Thimphu"><img src="../../media/cx-locator-bhutan.svg" alt="Map of Bhutan with Thimphu marked"></div>
 
+![View over Thimphu](../../media/cx-photo-thimphu-12-vom-buddha-dordenma-2015-gje.jpg)
+
+<i>Photo: Gerd Eichmann, CC BY-SA 4.0, via Wikimedia Commons</i>
+
 About 115,000 people (2017)<br>2,248 to 2,648 m up, the highest capital in Asia
 
 Thimphu replaced Punakha as the capital in 1955 and was officially declared the capital in 1961. It has no airport of its own and relies on Paro, 52 km away by road.

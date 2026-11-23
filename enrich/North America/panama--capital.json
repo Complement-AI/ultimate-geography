@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Panorámica nocturna de la ciudad de Panamá.jpg",
-    "alt": "Panama City at night"
+    "alt": "Panama City at night",
+    "file": "cx-photo-panor-mica-nocturna-de-la-ciudad-de-panam.jpg",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Panor%C3%A1mica_nocturna_de_la_ciudad_de_Panam%C3%A1.jpg",
+    "credit": "JAVR2020, CC BY-SA 4.0, via Wikimedia Commons"
   },
   "facts": [
     "Founded on 15 August 1519",

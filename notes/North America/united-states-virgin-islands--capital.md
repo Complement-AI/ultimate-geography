@@ -16,6 +16,10 @@ What is the capital of <b>United States Virgin Islands</b>?
 
 <div class="cmp-map" data-focus="VIR"><img src="../../media/cx-locator-united-states-virgin-islands.svg" alt="Map of United States Virgin Islands with Charlotte Amalie marked"></div>
 
+![Panoramic view of Saint Thomas and nearby islands](../../media/cx-photo-view-of-st-thomas.jpg)
+
+<i>Photo: Sunil Pereira, CC BY-SA 3.0, via Wikimedia Commons</i>
+
 About 8,200 people (2020), the territory's most densely populated town<br>On Saint Thomas, at the head of Charlotte Amalie Harbor
 
 Founded in 1666 as Taphus, Danish for "beer house". It was renamed in 1691 for Charlotte Amalie of Hesse-Kassel, wife of the Danish king Christian V.

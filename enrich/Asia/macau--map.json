@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Panorama of Macau Peninsula2021.jpg",
-    "alt": "Panorama of the Macau Peninsula"
+    "alt": "Panorama of the Macau Peninsula",
+    "file": "cx-photo-panorama-of-macau-peninsula2021.jpg",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Panorama_of_Macau_Peninsula2021.jpg",
+    "credit": "Charlie fong, CC BY-SA 4.0, via Wikimedia Commons"
   },
   "facts": [
     "Made up of the Macau Peninsula and the islands of Taipa and Coloane",

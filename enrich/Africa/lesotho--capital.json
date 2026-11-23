@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Maseru from Parliament Hill.jpg",
-    "alt": "A town seen from a hill"
+    "alt": "A town seen from a hill",
+    "file": "cx-photo-maseru-from-parliament-hill.jpg",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Maseru_from_Parliament_Hill.jpg",
+    "credit": "OER Africa, OER Africa, via Wikimedia Commons"
   },
   "facts": [
     "About 331,000 people (2016 census)",

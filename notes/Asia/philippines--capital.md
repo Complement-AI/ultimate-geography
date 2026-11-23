@@ -16,6 +16,10 @@ What is the capital of <b>Philippines</b>?
 
 <div class="cmp-map" data-focus="PHL" data-pin="14.6061,120.9803" data-label="Manila"><img src="../../media/cx-locator-philippines.svg" alt="Map of Philippines with Manila marked"></div>
 
+![Panorama of the Manila skyline](../../media/cx-photo-big-manila.jpg)
+
+<i>Photo: Mike Gonzalez (TheCoffee), CC BY-SA 3.0, via Wikimedia Commons</i>
+
 About 1.9 million people (2024)<br>On the eastern shore of Manila Bay, on the island of Luzon
 
 A Tagalog-fortified polity called Maynila stood here by 1258, and the name Manila derives from it. The Spanish began building the walled fortress of Intramuros in 1571.

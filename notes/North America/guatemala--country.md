@@ -16,6 +16,10 @@ tags  = ["north_america", "sovereign_state", "country"]
 
 <div class="cmp-map" data-focus="GTM" data-pin="14.6231,-90.5289" data-label="Guatemala City"><img src="../../media/cx-locator-guatemala.svg" alt="Map of Guatemala with Guatemala City marked"></div>
 
+![Guatemala from orbit, April 2002](../../media/cx-photo-satellite-image-of-guatemala-in-april-2002.jpg)
+
+<i>Photo: Jacques Descloitres, MODIS Land Rapid Response Team, NASA/GSFC, Public domain, via Wikimedia Commons</i>
+
 About 17.3 million people (2018) in 108,889 km²
 
 The territory hosted the core of the Maya civilization, which spread across Mesoamerica. The Spanish conquered most of it in the 16th century.

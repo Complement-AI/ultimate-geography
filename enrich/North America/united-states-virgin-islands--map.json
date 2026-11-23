@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:St. John, U.S. Virgin Islands.jpg",
-    "alt": "Natural-colour satellite image of the island of Saint John"
+    "alt": "Natural-colour satellite image of the island of Saint John",
+    "file": "cx-photo-st-john-u-s-virgin-islands.jpg",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:St._John,_U.S._Virgin_Islands.jpg",
+    "credit": "Jesse Allen and Robert Simmon, Public domain, via Wikimedia Commons"
   },
   "facts": [
     "Three main islands and 50 smaller islands and cays",

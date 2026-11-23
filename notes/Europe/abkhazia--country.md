@@ -14,6 +14,10 @@ tags  = ["europe", "sovereign_state", "country"]
 
 ## Extra
 
+![The Ritsa Strict Nature Reserve](../../media/cx-photo-.jpg)
+
+<i>Photo: Vacheraindeli, CC BY-SA 4.0, via Wikimedia Commons</i>
+
 About 244,000 people (2025) in 8,665 km²
 
 A partially recognised state: Russia, Venezuela, Nicaragua and Syria recognise it as independent, while most countries consider it part of Georgia.

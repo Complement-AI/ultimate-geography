@@ -16,6 +16,10 @@ tags  = ["oceania", "sovereign_state", "country"]
 
 <div class="cmp-map" data-focus="TUV" data-pin="-8.5167,179.2166" data-label="Funafuti"><img src="../../media/cx-locator-tuvalu.svg" alt="Map of Tuvalu with Funafuti marked"></div>
 
+![An atoll seen from space](../../media/cx-photo-nui-atoll.jpg)
+
+<i>Photo: NASA, Public domain, via Wikimedia Commons</i>
+
 About 10,600 people (2022 census)<br>Official languages: English and Tuvaluan
 
 The name means 'eight standing together' in Tuvaluan. It became fully independent on 1 October 1978, as a sovereign state within the Commonwealth.

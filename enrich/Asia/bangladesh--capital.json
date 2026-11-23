@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Dhaka skyline1.jpg",
-    "alt": "The Dhaka skyline"
+    "alt": "The Dhaka skyline",
+    "file": "cx-photo-dhaka-skyline1.jpg",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Dhaka_skyline1.jpg",
+    "credit": "Tanweer drmc, Public domain, via Wikimedia Commons"
   },
   "facts": [
     "About 16.8 million people (2017)",

@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Avenida Bolivar A Chavez.jpg",
-    "alt": "An avenue near the historic centre"
+    "alt": "An avenue near the historic centre",
+    "file": "cx-photo-avenida-bolivar-a-chavez.jpg",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Avenida_Bolivar_A_Chavez.jpg",
+    "credit": "Jairo Cajina, CC BY-SA 4.0, via Wikimedia Commons"
   },
   "facts": [
     "About 973,000 people (2025)",

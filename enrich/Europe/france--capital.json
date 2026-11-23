@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:La Tour Eiffel vue de la Tour Saint-Jacques, Paris août 2014 (2).jpg",
-    "alt": "The Eiffel Tower rising above city rooftops"
+    "alt": "The Eiffel Tower rising above city rooftops",
+    "file": "cx-photo-la-tour-eiffel-vue-de-la-tour-saint-jacques-paris-ao-t-2014-.jpg",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques,_Paris_ao%C3%BBt_2014_(2).jpg",
+    "credit": "Yann Caradec from Paris, France, CC BY-SA 2.0, via Wikimedia Commons"
   },
   "facts": [
     "About 2.1 million people in the city itself (2023), 48 m above sea level",

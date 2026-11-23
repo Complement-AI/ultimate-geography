@@ -16,6 +16,10 @@ What is the capital of <b>Lithuania</b>?
 
 <div class="cmp-map" data-focus="LTU" data-pin="54.6834,25.3166" data-label="Vilnius"><img src="../../media/cx-locator-lithuania.svg" alt="Map of Lithuania with Vilnius marked"></div>
 
+![Gediminas Tower above the city](../../media/cx-photo-gedimino-pilis-by-augustas-didzgalvis.jpg)
+
+<i>Photo: BigHead, CC BY-SA 4.0, via Wikimedia Commons</i>
+
 About 619,000 people (2026), the most in the Baltic states<br>98 m up, where the Vilnia meets the Neris
 
 Its Old Town, a UNESCO World Heritage Site since 1994, is one of Europe's largest and best-preserved. The city has been Lithuania's capital since at least 1323.

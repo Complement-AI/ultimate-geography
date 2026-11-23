@@ -16,6 +16,10 @@ What is the capital of <b>Sweden</b>?
 
 <div class="cmp-map" data-focus="SWE" data-pin="59.3527,18.0954" data-label="Stockholm"><img src="../../media/cx-locator-sweden.svg" alt="Map of Sweden with Stockholm marked"></div>
 
+![Gamla stan, the old town of Stockholm, from above](../../media/cx-photo-stockholm-gamlastan-etc.jpg)
+
+<i>Photo: User: JZ at wikivoyage shared, JZ, via Wikimedia Commons</i>
+
 About 985,000 people (2022) in the municipality<br>Spread across fourteen islands where Lake Mälaren meets the Baltic Sea
 
 Founded as a city in 1252 by the statesman Birger Jarl. It hosts the annual Nobel Prize ceremonies, and its Vasa Museum is the most visited museum in Scandinavia.

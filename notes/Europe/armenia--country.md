@@ -16,6 +16,10 @@ tags  = ["europe", "sovereign_state", "country"]
 
 <div class="cmp-map" data-focus="ARM" data-pin="40.1831,44.5116" data-label="Yerevan"><img src="../../media/cx-locator-armenia.svg" alt="Map of Armenia with Yerevan marked"></div>
 
+![The Noravank monastery in the mountainous Vayots Dzor region](../../media/cx-photo-noravank-panorama.jpg)
+
+<i>Photo: Alexander Naumov, CC BY 3.0, via Wikimedia Commons</i>
+
 About 2.9 million people (2017) in 29,743 km²<br>Highest point: Mount Aragats
 
 In AD 301 it became the first state in the world to adopt Christianity as its official religion.

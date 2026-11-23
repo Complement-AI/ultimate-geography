@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Ottawa Montage 2020.jpg",
-    "alt": "A montage of views of Ottawa"
+    "alt": "A montage of views of Ottawa",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Ottawa_Montage_2020.jpg",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Ottawa_Montage_2020.jpg",
+    "credit": "Allice Hunter, CC BY-SA 4.0, via Wikimedia Commons"
   },
   "facts": [
     "About 1.02 million people in the city itself (2021)",

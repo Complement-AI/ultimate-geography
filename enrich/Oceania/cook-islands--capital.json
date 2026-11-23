@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Para o Tane Palace.jpg",
-    "alt": "The Para O Tane palace on Rarotonga"
+    "alt": "The Para O Tane palace on Rarotonga",
+    "file": "cx-photo-para-o-tane-palace.jpg",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Para_o_Tane_Palace.jpg",
+    "credit": "Nurg, CC BY-SA 4.0, via Wikimedia Commons"
   },
   "facts": [
     "About 5,100 people in the district (2021 census)",

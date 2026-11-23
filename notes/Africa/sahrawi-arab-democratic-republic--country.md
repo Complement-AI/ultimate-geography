@@ -16,6 +16,10 @@ tags  = ["africa", "sovereign_state", "country"]
 
 <div class="cmp-map" data-focus="SAH"><img src="../../media/cx-locator-sahrawi-arab-democratic-republic.svg" alt="Map of Sahrawi Arab Democratic Republic with Laayoune marked"></div>
 
+![The Atlantic coast of Western Sahara](../../media/cx-photo-atlantic-ocean-in-western-sahara.jpg)
+
+<i>Photo: Darymaister, CC BY-SA 4.0, via Wikimedia Commons</i>
+
 About 600,000 inhabitants, the most sparsely populated territory in Africa<br>Mostly desert flatlands
 
 A UN-designated non-self-governing territory, sometimes called Africa's last colony. Its status is disputed.

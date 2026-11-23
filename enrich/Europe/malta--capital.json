@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Malta, 2010 - panoramio - Bengt Nyman (23).jpg",
-    "alt": "Valletta's bastions and domed church above the harbour"
+    "alt": "Valletta's bastions and domed church above the harbour",
+    "file": "cx-photo-malta-2010-panoramio-bengt-nyman-23.jpg",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Malta,_2010_-_panoramio_-_Bengt_Nyman_(23).jpg",
+    "credit": "Bengt Nyman, Bengt Nyman, via Wikimedia Commons"
   },
   "facts": [
     "About 5,200 people (2024)",

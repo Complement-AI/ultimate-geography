@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Satellite image of Belarus in December 2002.jpg",
-    "alt": "Belarus from orbit in December"
+    "alt": "Belarus from orbit in December",
+    "file": "cx-photo-satellite-image-of-belarus-in-december-2002.jpg",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Satellite_image_of_Belarus_in_December_2002.jpg",
+    "credit": "Unknown author, Public domain, via Wikimedia Commons"
   },
   "facts": [
     "About 9.1 million people (2026)",

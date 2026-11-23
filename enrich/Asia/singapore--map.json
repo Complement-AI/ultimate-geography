@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Raffles Place.jpg",
-    "alt": "Skyscrapers around Raffles Place in Singapore"
+    "alt": "Skyscrapers around Raffles Place in Singapore",
+    "file": "cx-photo-raffles-place.jpg",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Raffles_Place.jpg",
+    "credit": "RamirBorja at English Wikipedia, Ramir Borja., via Wikimedia Commons"
   },
   "facts": [
     "A main island plus over 60 satellite islands and islets",

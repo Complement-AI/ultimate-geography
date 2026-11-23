@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Edinburgh cityscapes - aerial - 2025-04-19 20.jpg",
-    "alt": "Aerial view of Edinburgh"
+    "alt": "Aerial view of Edinburgh",
+    "file": "cx-photo-edinburgh-cityscapes-aerial-2025-04-19-20.jpg",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Edinburgh_cityscapes_-_aerial_-_2025-04-19_20.jpg",
+    "credit": "瑞丽江的河水, CC BY-SA 4.0, via Wikimedia Commons"
   },
   "facts": [
     "About 506,000 people (2020), the second most populous city in Scotland",

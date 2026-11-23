@@ -16,6 +16,10 @@ tags  = ["caribbean", "north_america", "country"]
 
 <div class="cmp-map" data-focus="ABW" data-pin="12.5304,-70.029" data-label="Oranjestad"><img src="../../media/cx-locator-aruba.svg" alt="Map of Aruba with Oranjestad marked"></div>
 
+![Satellite view of the island](../../media/cx-photo-aruba-world-wind.jpg)
+
+<i>Photo: NASA World Wind, Screenshot by Carport, Public domain, via Wikimedia Commons</i>
+
 About 107,000 people (2022) in 179 km²<br>Part of the Kingdom of the Netherlands since 1986 as a constituent country
 
 Unlike much of the Caribbean, Aruba has a dry, arid climate. Its citizens share Dutch nationality.

@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Stockholm gamlastan etc.jpg",
-    "alt": "Gamla stan, the old town of Stockholm, from above"
+    "alt": "Gamla stan, the old town of Stockholm, from above",
+    "file": "cx-photo-stockholm-gamlastan-etc.jpg",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Stockholm_gamlastan_etc.jpg",
+    "credit": "User: JZ at wikivoyage shared, JZ, via Wikimedia Commons"
   },
   "facts": [
     "About 985,000 people (2022) in the municipality",

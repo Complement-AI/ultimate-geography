@@ -16,6 +16,10 @@ What is the capital of <b>Maldives</b>?
 
 <div class="cmp-map" data-focus="MDV" data-pin="4.1667,73.4999" data-label="Malé"><img src="../../media/cx-locator-maldives.svg" alt="Map of Maldives with Malé marked"></div>
 
+![View of Malé](../../media/cx-photo-male-total.jpg)
+
+<i>Photo: Shahee Ilyas, CC BY-SA 3.0, via Wikimedia Commons</i>
+
 About 212,000 people (2022) in an area of 1.9 km²<br>Built on a central island, with the airport on neighbouring Hulhulé
 
 Traditionally called the King's Island, it was where the ancient royal dynasties ruled. The whole country is named after it: "Maldives" means "the islands (dives) of Malé".

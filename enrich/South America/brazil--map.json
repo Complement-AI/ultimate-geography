@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Cidade Maravilhosa.jpg",
-    "alt": "A view of the city of Rio de Janeiro"
+    "alt": "A view of the city of Rio de Janeiro",
+    "file": "cx-photo-cidade-maravilhosa.jpg",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Cidade_Maravilhosa.jpg",
+    "credit": "Rafael Rabello de Barros, CC BY-SA 3.0, via Wikimedia Commons"
   },
   "facts": [
     "A coastline of 7,491 km on the Atlantic, among the longest in the world",

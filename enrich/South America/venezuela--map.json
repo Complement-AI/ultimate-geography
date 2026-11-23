@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Embalse la Vueltosa 2022.jpg",
-    "alt": "The La Vueltosa reservoir in Venezuela"
+    "alt": "The La Vueltosa reservoir in Venezuela",
+    "file": "cx-photo-embalse-la-vueltosa-2022.jpg",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Embalse_la_Vueltosa_2022.jpg",
+    "credit": "Davevzla, CC BY-SA 4.0, via Wikimedia Commons"
   },
   "facts": [
     "Neighbours: Colombia, Brazil and Guyana",

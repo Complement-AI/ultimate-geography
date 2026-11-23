@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Satellite image of Guatemala in April 2002.jpg",
-    "alt": "Guatemala from orbit, April 2002"
+    "alt": "Guatemala from orbit, April 2002",
+    "file": "cx-photo-satellite-image-of-guatemala-in-april-2002.jpg",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Satellite_image_of_Guatemala_in_April_2002.jpg",
+    "credit": "Jacques Descloitres, MODIS Land Rapid Response Team, NASA/GSFC, Public domain, via Wikimedia Commons"
   },
   "facts": [
     "About 17.3 million people (2018) in 108,889 km²"

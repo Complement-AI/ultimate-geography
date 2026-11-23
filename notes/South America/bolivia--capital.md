@@ -16,6 +16,10 @@ What is the capital of <b>Bolivia</b>?
 
 <div class="cmp-map" data-focus="BOL" data-pin="-19.041,-65.2595" data-label="Sucre"><img src="../../media/cx-locator-bolivia.svg" alt="Map of Bolivia with Sucre marked"></div>
 
+![A square in Sucre](../../media/cx-photo-sucre-square.jpg)
+
+<i>Photo: Parallelepiped09, CC BY-SA 4.0, via Wikimedia Commons</i>
+
 About 360,500 people (2021)<br>2,790 m up, the second-highest capital after Quito
 
 Bolivia's constitutional capital and the seat of its judiciary, while the government sits in La Paz. It was the first capital of Bolivia.

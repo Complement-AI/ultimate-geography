@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:LagunaChiarKhota2013.jpg",
-    "alt": "A high Andean lagoon, Laguna Chiar Khota"
+    "alt": "A high Andean lagoon, Laguna Chiar Khota",
+    "file": "cx-photo-lagunachiarkhota2013.jpg",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LagunaChiarKhota2013.jpg",
+    "credit": "Albert Backer, CC BY-SA 3.0, via Wikimedia Commons"
   },
   "facts": [
     "About 12.2 million people (2023) on 1,098,581 km²",

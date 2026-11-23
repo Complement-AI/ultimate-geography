@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Buildings in Guatemala City.jpg",
-    "alt": "Buildings in Guatemala City"
+    "alt": "Buildings in Guatemala City",
+    "file": "cx-photo-buildings-in-guatemala-city.jpg",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Buildings_in_Guatemala_City.jpg",
+    "credit": "BladimiroAlvarado, CC BY-SA 4.0, via Wikimedia Commons"
   },
   "facts": [
     "About 995,000 people in the city (2025)",

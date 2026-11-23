@@ -18,6 +18,10 @@ What is highlighted on this map?
 
 <div class="cmp-map" data-focus="PSX"><img src="../../media/cx-locator-palestine.svg" alt="Map of Palestine with Jerusalem marked"></div>
 
+![A landscape in the West Bank](../../media/cx-photo-palestine-20190204-dsc-0007.jpg)
+
+<i>Photo: Ilya Varlamov, CC BY-SA 3.0, via Wikimedia Commons</i>
+
 Borders Israel, Jordan and Egypt<br>Area of about 6,020 km²
 
 Two separate territories: the West Bank, which borders Jordan to the east, and the Gaza Strip, which borders Egypt to the southwest.

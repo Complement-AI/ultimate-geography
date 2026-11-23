@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Noravank panorama.jpg",
-    "alt": "The Noravank monastery in the mountainous Vayots Dzor region"
+    "alt": "The Noravank monastery in the mountainous Vayots Dzor region",
+    "file": "cx-photo-noravank-panorama.jpg",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Noravank_panorama.jpg",
+    "credit": "Alexander Naumov, CC BY 3.0, via Wikimedia Commons"
   },
   "facts": [
     "About 2.9 million people (2017) in 29,743 km²",

@@ -16,6 +16,10 @@ What is highlighted on this map?
 
 ## Extra
 
+![A white sand beach and shallow turquoise water with palm trees behind](../../media/cx-photo-turks-caicos-12173672765.jpg)
+
+<i>Photo: Jonathan Palombo, CC BY 2.0, via Wikimedia Commons</i>
+
 Two island groups, the larger Caicos Islands and the smaller Turks Islands<br>About 52,000 people (2025 estimate) on 430 km²
 
 Caicos comes from the Lucayan caya hico, "string of islands". The Turks Islands are named after the Turk's cap cactus, whose red top resembles a fez.

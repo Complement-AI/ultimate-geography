@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:St George's Cathedral.jpg",
-    "alt": "St George's Cathedral in Georgetown"
+    "alt": "St George's Cathedral in Georgetown",
+    "file": "cx-photo-st-george-s-cathedral.jpg",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:St_George%27s_Cathedral.jpg",
+    "credit": "Johnldasilva, CC BY 3.0, via Wikimedia Commons"
   },
   "facts": [
     "About 125,700 people (2022 census)",

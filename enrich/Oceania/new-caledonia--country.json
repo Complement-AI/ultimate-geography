@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:New Caledonia after the passage of tropical cyclone Niran.jpg",
-    "alt": "New Caledonia seen from space after a cyclone"
+    "alt": "New Caledonia seen from space after a cyclone",
+    "file": "cx-photo-new-caledonia-after-the-passage-of-tropical-cyclone-niran.jpg",
+    "license": "Attribution",
+    "source": "https://commons.wikimedia.org/wiki/File:New_Caledonia_after_the_passage_of_tropical_cyclone_Niran.jpg",
+    "credit": "Contains modified Copernicus Sentinel data 2020, European Union, Copernicus Sentinel-3 imagery, via Wikimedia Commons"
   },
   "facts": [
     "About 264,600 people (April 2025 census)",

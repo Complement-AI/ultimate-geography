@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Gunung Merapi 2006-05-14, MODIS.jpg",
-    "alt": "Satellite view of a volcano and smoke over Java"
+    "alt": "Satellite view of a volcano and smoke over Java",
+    "file": "cx-photo-gunung-merapi-2006-05-14-modis.jpg",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Gunung_Merapi_2006-05-14,_MODIS.jpg",
+    "credit": "NASA, Public domain, via Wikimedia Commons"
   },
   "facts": [
     "About 160 million people (2015), the world's most populous island",

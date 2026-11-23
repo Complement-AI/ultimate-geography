@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Volubilis Longshot II.jpg",
-    "alt": "The ruins of Volubilis"
+    "alt": "The ruins of Volubilis",
+    "file": "cx-photo-volubilis-longshot-ii.jpg",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Volubilis_Longshot_II.jpg",
+    "credit": "Subhros, CC BY-SA 3.0, via Wikimedia Commons"
   },
   "facts": [
     "Coasts on the Mediterranean Sea to the north and the Atlantic Ocean to the west",

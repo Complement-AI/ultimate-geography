@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Cloud-free Iceland ESA22181280 (cropped).jpeg",
-    "alt": "Iceland from orbit on a cloud-free day"
+    "alt": "Iceland from orbit on a cloud-free day",
+    "file": "cx-photo-cloud-free-iceland-esa22181280-cropped.jpg",
+    "license": "Attribution",
+    "source": "https://commons.wikimedia.org/wiki/File:Cloud-free_Iceland_ESA22181280_(cropped).jpeg",
+    "credit": "Contains modified Copernicus Sentinel data 2020, European Space Agency, via Wikimedia Commons"
   },
   "facts": [
     "An island country on the Mid-Atlantic Ridge, about 103,000 km2",

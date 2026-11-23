@@ -16,6 +16,10 @@ What is the capital of <b>Vietnam</b>?
 
 <div class="cmp-map" data-focus="VNM" data-pin="21.0353,105.8481" data-label="Hanoi"><img src="../../media/cx-locator-vietnam.svg" alt="Map of Vietnam with Hanoi marked"></div>
 
+![Turtle Tower on its small island in a lake](../../media/cx-photo-th-p-r-a-nks.jpg)
+
+<i>Photo: NKSTTSSHNVN, CC BY-SA 4.0, via Wikimedia Commons</i>
+
 About 8.7 million people (2026)<br>Second-most populous city, after Ho Chi Minh City
 
 Home to the Imperial Citadel of Thăng Long, the Ho Chi Minh Mausoleum and Hoàn Kiếm Lake. Its architecture mixes pre-colonial Vietnamese, French colonial and brutalist styles.

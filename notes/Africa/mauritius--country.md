@@ -16,6 +16,10 @@ tags  = ["africa", "east_africa", "sovereign_state", "country"]
 
 <div class="cmp-map" data-focus="MUS" data-pin="-20.1666,57.5" data-label="Port Louis"><img src="../../media/cx-locator-mauritius.svg" alt="Map of Mauritius with Port Louis marked"></div>
 
+![Landscape in the Domaine du Chasseur nature reserve, Grand Port](../../media/cx-photo-mauritius-23-08-2009-11-42-31.jpg)
+
+<i>Photo: Simisa (talk · contribs), CC BY-SA 3.0, via Wikimedia Commons</i>
+
 An island country in the Indian Ocean, about 2,000 km off the southeast coast of Africa<br>About 1.26 million people (2017)
 
 The Dutch named it in 1598 for Prince Maurice of Nassau. Under French rule from 1715 it was Isle de France, and the name Mauritius returned under British rule.

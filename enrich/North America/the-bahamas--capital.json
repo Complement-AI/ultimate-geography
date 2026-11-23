@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:BHA Nassau, Paradise Island, Atlantis Bridge 001.jpg",
-    "alt": "The Atlantis bridge and Paradise Island"
+    "alt": "The Atlantis bridge and Paradise Island",
+    "file": "cx-photo-bha-nassau-paradise-island-atlantis-bridge-001.jpg",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:BHA_Nassau,_Paradise_Island,_Atlantis_Bridge_001.jpg",
+    "credit": "Der-wuppertaler, CC BY-SA 3.0, via Wikimedia Commons"
   },
   "facts": [
     "About 228,000 people (2025)",

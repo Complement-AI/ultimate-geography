@@ -18,6 +18,10 @@ What is highlighted on this map?
 
 <div class="cmp-map" data-focus="BIH" data-pin="43.85,18.383" data-label="Sarajevo"><img src="../../media/cx-locator-bosnia-and-herzegovina.svg" alt="Map of Bosnia and Herzegovina with Sarajevo marked"></div>
 
+![Panoramic view of a river valley in southern Bosnia and Herzegovina](../../media/cx-photo-gornji-orahovac-bosnia-y-herzegovina-2014-04-14-dd-10-13-pan.jpg)
+
+<i>Photo: Diego Delso, Diego Delso, via Wikimedia Commons</i>
+
 Borders Serbia, Montenegro and Croatia<br>A coast only 20 km long on the Adriatic Sea
 
 Mostly mountainous, with the Dinaric Alps dominating the centre and east. Herzegovina, the smaller southern region, has a Mediterranean climate.

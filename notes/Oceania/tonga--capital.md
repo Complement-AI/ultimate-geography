@@ -16,6 +16,10 @@ What is the capital of <b>Tonga</b>?
 
 <div class="cmp-map" data-focus="TON" data-pin="-21.1385,-175.2206" data-label="Nukuʻalofa"><img src="../../media/cx-locator-tonga.svg" alt="Map of Tonga with Nukuʻalofa marked"></div>
 
+![The Royal Palace in Nukuʻalofa](../../media/cx-photo-royal-palace-nuku-alofa-nov-18.jpg)
+
+<i>Photo: Uhooep, CC BY-SA 4.0, via Wikimedia Commons</i>
+
 About 23,000 people (2016)<br>On the north coast of Tongatapu
 
 The world's westernmost capital of a sovereign state, despite lying in the southernmost island group of Tonga.

@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Centro historico de Tegucigalpa y Comayagüela.jpg",
-    "alt": "Colonial and modern buildings in the historic centre"
+    "alt": "Colonial and modern buildings in the historic centre",
+    "file": "cx-photo-centro-historico-de-tegucigalpa-y-comayag-ela.jpg",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Centro_historico_de_Tegucigalpa_y_Comayag%C3%BCela.jpg",
+    "credit": "Luis Alfredo Romero, CC BY-SA 4.0, via Wikimedia Commons"
   },
   "facts": [
     "About 851,000 people (2025)",

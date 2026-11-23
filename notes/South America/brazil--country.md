@@ -16,6 +16,10 @@ tags  = ["south_america", "sovereign_state", "country"]
 
 <div class="cmp-map" data-focus="BRA" data-pin="-15.7814,-47.918" data-label="Brasília"><img src="../../media/cx-locator-brazil.svg" alt="Map of Brazil with Brasília marked"></div>
 
+![A view of the city of Rio de Janeiro](../../media/cx-photo-cidade-maravilhosa.jpg)
+
+<i>Photo: Rafael Rabello de Barros, CC BY-SA 3.0, via Wikimedia Commons</i>
+
 About 214 million people (2026), the seventh most populous country<br>About 8.5 million km², the fifth-largest country by area
 
 The only Portuguese-speaking country in the Americas. It contains most of the Amazon basin, with the world's largest river system and most extensive virgin tropical forest.

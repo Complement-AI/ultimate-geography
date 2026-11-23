@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Plaza Mayor de Lima-1.jpg",
-    "alt": "The Plaza Mayor in Lima"
+    "alt": "The Plaza Mayor in Lima",
+    "file": "cx-photo-plaza-mayor-de-lima-1.jpg",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Plaza_Mayor_de_Lima-1.jpg",
+    "credit": "JulioKuLu, CC BY-SA 4.0, via Wikimedia Commons"
   },
   "facts": [
     "About 9.9 million people (2022)",

@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:British Virgin Islands.jpg",
-    "alt": "True-colour satellite image of Tortola and its smaller neighbours"
+    "alt": "True-colour satellite image of Tortola and its smaller neighbours",
+    "file": "cx-photo-british-virgin-islands.jpg",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:British_Virgin_Islands.jpg",
+    "credit": "Jesse Allen, Public domain, via Wikimedia Commons"
   },
   "facts": [
     "East of Puerto Rico and the U.S. Virgin Islands, north-west of Anguilla",

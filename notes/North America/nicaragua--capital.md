@@ -16,6 +16,10 @@ What is the capital of <b>Nicaragua</b>?
 
 <div class="cmp-map" data-focus="NIC" data-pin="12.155,-86.2704" data-label="Managua"><img src="../../media/cx-locator-nicaragua.svg" alt="Map of Nicaragua with Managua marked"></div>
 
+![An avenue near the historic centre](../../media/cx-photo-avenida-bolivar-a-chavez.jpg)
+
+<i>Photo: Jairo Cajina, CC BY-SA 4.0, via Wikimedia Commons</i>
+
 About 973,000 people (2025)<br>On the shore of Lake Managua, 143 m up
 
 Founded in 1819, it became the national capital in 1852. It is one of the largest cities in Central America.

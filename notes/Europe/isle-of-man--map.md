@@ -16,6 +16,10 @@ What is highlighted on this map?
 
 ## Extra
 
+![Satellite view of the Isle of Man](../../media/cx-photo-isle-of-man-by-sentinel-2.jpg)
+
+<i>Photo: Copernicus Sentinel-2, ESA, CC BY-SA 3.0 igo, via Wikimedia Commons</i>
+
 About 572 km2, about 84,500 people (2024)<br>Highest point: Snaefell
 
 A self-governing British Crown Dependency in the Irish Sea, between Great Britain and Ireland. Its parliament, Tynwald, was the first national legislature in the world to give women the vote in a general election, in 1881.

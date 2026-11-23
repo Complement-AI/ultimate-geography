@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Amsterdam airphoto.jpg",
-    "alt": "Aerial view of Amsterdam and its canal rings"
+    "alt": "Aerial view of Amsterdam and its canal rings",
+    "file": "cx-photo-amsterdam-airphoto.jpg",
+    "license": "Attribution",
+    "source": "https://commons.wikimedia.org/wiki/File:Amsterdam_airphoto.jpg",
+    "credit": "bureau Monumenten & Archeologie (bMA), gemeente Amsterdam), Amsterdam Municipal Department for the Preservation and Restoration of Historic , via Wikimedia Commons"
   },
   "facts": [
     "About 942,000 people (2026) in the city proper",

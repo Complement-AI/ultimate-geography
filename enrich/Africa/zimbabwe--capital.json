@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Harare skyline.jpg",
-    "alt": "Skyline of the city centre"
+    "alt": "Skyline of the city centre",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Harare_skyline.jpg",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Harare_skyline.jpg",
+    "credit": "​Wikipedia user Radozw, Radozw at Serbian Wikipedia, via Wikimedia Commons"
   },
   "facts": [
     "About 1.85 million people (2022 census)",

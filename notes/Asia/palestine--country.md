@@ -16,6 +16,10 @@ tags  = ["asia", "mediterranean", "middle_east", "sovereign_state", "country"]
 
 <div class="cmp-map" data-focus="PSX"><img src="../../media/cx-locator-palestine.svg" alt="Map of Palestine with Jerusalem marked"></div>
 
+![A landscape in the West Bank](../../media/cx-photo-palestine-20190204-dsc-0007.jpg)
+
+<i>Photo: Ilya Varlamov, CC BY-SA 3.0, via Wikimedia Commons</i>
+
 Made up of the West Bank and the Gaza Strip<br>About 5.4 million people (2026)
 
 Lies between the Mediterranean Sea and the Jordan River in the Southern Levant. Its proclaimed capital is Jerusalem, while Ramallah serves as its de facto administrative center.

@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Copenhagen - view from Christiansborg castle.jpg",
-    "alt": "View over Copenhagen from Christiansborg castle"
+    "alt": "View over Copenhagen from Christiansborg castle",
+    "file": "cx-photo-copenhagen-view-from-christiansborg-castle.jpg",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Copenhagen_-_view_from_Christiansborg_castle.jpg",
+    "credit": "Pudelek, CC BY-SA 4.0, via Wikimedia Commons"
   },
   "facts": [
     "About 667,000 people (2025)",

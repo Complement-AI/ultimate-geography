@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Macizo Paine al Amanecer Torres del Paine.jpg",
-    "alt": "The Paine massif at sunrise in Torres del Paine"
+    "alt": "The Paine massif at sunrise in Torres del Paine",
+    "file": "cx-photo-macizo-paine-al-amanecer-torres-del-paine.jpg",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Macizo_Paine_al_Amanecer_Torres_del_Paine.jpg",
+    "credit": "Natalia Reyes Escobar, CC BY-SA 4.0, via Wikimedia Commons"
   },
   "facts": [
     "About 18.5 million people (2024 census) on 756,102 km²",

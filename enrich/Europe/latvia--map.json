@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Satellite image of Latvia in March 2003.jpg",
-    "alt": "Latvia from orbit in March 2003"
+    "alt": "Latvia from orbit in March 2003",
+    "file": "cx-photo-satellite-image-of-latvia-in-march-2003.jpg",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Satellite_image_of_Latvia_in_March_2003.jpg",
+    "credit": "Jeff Schmaltz, MODIS Rapid Response Team, NASA/GSFC, Public domain, via Wikimedia Commons"
   },
   "facts": [
     "Borders Estonia, Lithuania, Belarus and Russia",

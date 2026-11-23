@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Australia satellite plane.jpg",
-    "alt": "Satellite photograph of the Australian continent"
+    "alt": "Satellite photograph of the Australian continent",
+    "file": "cx-photo-australia-satellite-plane.jpg",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Australia_satellite_plane.jpg",
+    "credit": "Reto Stöckl / NASA Goddard Space Flight Center, Public domain, via Wikimedia Commons"
   },
   "facts": [
     "About 27.6 million people (2025) in 7.69 million km²",

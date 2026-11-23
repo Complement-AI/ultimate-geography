@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Andorra la Vella - view2.jpg",
-    "alt": "View of the town from its northern side"
+    "alt": "View of the town from its northern side",
+    "file": "cx-photo-andorra-la-vella-view2.jpg",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Andorra_la_Vella_-_view2.jpg",
+    "credit": "Tiia Monto, Tiia Monto, via Wikimedia Commons"
   },
   "facts": [
     "About 24,000 people (2023)",

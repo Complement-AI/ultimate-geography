@@ -16,6 +16,10 @@ tags  = ["caribbean", "north_america", "sovereign_state", "country"]
 
 <div class="cmp-map" data-focus="KNA" data-pin="17.302,-62.717" data-label="Basseterre"><img src="../../media/cx-locator-saint-kitts-and-nevis.svg" alt="Map of Saint Kitts and Nevis with Basseterre marked"></div>
 
+![The southern tip of Saint Kitts seen from the sea](../../media/cx-photo-approaching-st-kitts-and-nevis-southern-tip-of-st-kitts-pano.jpg)
+
+<i>Photo: David Broad, David Broad, via Wikimedia Commons</i>
+
 About 47,000 people (2025) in 261 km²
 
 The smallest sovereign state in the Western Hemisphere in both area and population, and the world's smallest sovereign federation.

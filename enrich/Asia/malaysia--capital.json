@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Kuala Lumpur with Petronas Towers.jpg",
-    "alt": "Kuala Lumpur skyline with the Petronas Towers"
+    "alt": "Kuala Lumpur skyline with the Petronas Towers",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Kuala_Lumpur_with_Petronas_Towers.jpg",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_with_Petronas_Towers.jpg",
+    "credit": "thomasgl, Public domain, via Wikimedia Commons"
   },
   "facts": [
     "About 2.1 million people in the city itself (2026)",

@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Sarajevo City Panorama.JPG",
-    "alt": "Panorama of a city in a valley"
+    "alt": "Panorama of a city in a valley",
+    "file": "cx-photo-sarajevo-city-panorama.jpg",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Sarajevo_City_Panorama.JPG",
+    "credit": "Julian Nyča, CC BY-SA 4.0, via Wikimedia Commons"
   },
   "facts": [
     "About 276,000 people (2013), in a valley 527 m up",

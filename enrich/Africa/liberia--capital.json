@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Liberia, Africa - panoramio (256).jpg",
-    "alt": "A view of a coastal city"
+    "alt": "A view of a coastal city",
+    "file": "cx-photo-liberia-africa-panoramio-256.jpg",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Liberia,_Africa_-_panoramio_(256).jpg",
+    "credit": "blk24ga, blk24ga, via Wikimedia Commons"
   },
   "facts": [
     "About 1.76 million people (2022 census)",

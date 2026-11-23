@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Falkland-Islands-Terra-2011-01-23-250m.jpg",
-    "alt": "The Falkland Islands seen from orbit"
+    "alt": "The Falkland Islands seen from orbit",
+    "file": "cx-photo-falkland-islands-terra-2011-01-23-250m.jpg",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Falkland-Islands-Terra-2011-01-23-250m.jpg",
+    "credit": "NASA, Public domain, via Wikimedia Commons"
   },
   "facts": [
     "East Falkland, West Falkland and 776 smaller islands",

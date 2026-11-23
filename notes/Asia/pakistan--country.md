@@ -16,6 +16,10 @@ tags  = ["asia", "sovereign_state", "country"]
 
 <div class="cmp-map" data-focus="PAK" data-pin="33.7019,73.1647" data-label="Islamabad"><img src="../../media/cx-locator-pakistan.svg" alt="Map of Pakistan with Islamabad marked"></div>
 
+![A stone monument lit at dusk](../../media/cx-photo-blue-hour-at-pakistan-monument.jpg)
+
+<i>Photo: Muhammad Ashar, Muhammad Ashar, via Wikimedia Commons</i>
+
 About 224 million people (2021)<br>Fifth-most populous country
 
 Home to the 8,500-year-old Neolithic site of Mehrgarh and to the Indus Valley Civilisation. It became independent in 1947 with the partition of British India.

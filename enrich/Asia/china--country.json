@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Badaling China Great-Wall-of-China-01.jpg",
-    "alt": "The Great Wall winding over hills"
+    "alt": "The Great Wall winding over hills",
+    "file": "cx-photo-badaling-china-great-wall-of-china-01.jpg",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Badaling_China_Great-Wall-of-China-01.jpg",
+    "credit": "Photo by CEphoto, Uwe Aranas or alternatively © CEphoto, Uwe Aranas, CEphoto, Uwe Aranas, via Wikimedia Commons"
   },
   "facts": [
     "About 1.4 billion people (2025) in 9.56 million km²"

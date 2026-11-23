@@ -18,6 +18,10 @@ What is highlighted on this map?
 
 <div class="cmp-map" data-focus="ISL" data-pin="64.15,-21.95" data-label="Reykjavík"><img src="../../media/cx-locator-iceland.svg" alt="Map of Iceland with Reykjavík marked"></div>
 
+![Iceland from orbit on a cloud-free day](../../media/cx-photo-cloud-free-iceland-esa22181280-cropped.jpg)
+
+<i>Photo: Contains modified Copernicus Sentinel data 2020, European Space Agency, via Wikimedia Commons</i>
+
 An island country on the Mid-Atlantic Ridge, about 103,000 km2<br>Europe's westernmost country
 
 The interior is a volcanic plateau with sand and lava fields, mountains and glaciers, and many glacial rivers flow to the sea through the lowlands.

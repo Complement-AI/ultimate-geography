@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Beach with palms Ghana.jpg",
-    "alt": "A palm-lined beach"
+    "alt": "A palm-lined beach",
+    "file": "cx-photo-beach-with-palms-ghana.jpg",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Beach_with_palms_Ghana.jpg",
+    "credit": "Erik Kristensen, CC BY 2.0, via Wikimedia Commons"
   },
   "facts": [
     "Borders Ivory Coast, Burkina Faso and Togo",

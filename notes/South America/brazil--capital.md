@@ -16,6 +16,10 @@ What is the capital of <b>Brazil</b>?
 
 <div class="cmp-map" data-focus="BRA" data-pin="-15.7814,-47.918" data-label="Brasília"><img src="../../media/cx-locator-brazil.svg" alt="Map of Brazil with Brasília marked"></div>
 
+![Brasília seen from above, with its planned avenues](../../media/cx-photo-planalto-central-cropped.jpg)
+
+<i>Photo: Arturdiasr, CC BY-SA 4.0, via Wikimedia Commons</i>
+
 About 3.0 million people (2025)<br>1,171 m up in the Brazilian Highlands
 
 Planned by Lúcio Costa and Oscar Niemeyer and founded on 21 April 1960 to replace Rio de Janeiro. It is laid out in the shape of an airplane, and became a UNESCO World Heritage Site in 1987.

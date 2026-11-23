@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Hanoi Temple of Literature.jpg",
-    "alt": "A gate of the Temple of Literature"
+    "alt": "A gate of the Temple of Literature",
+    "file": "cx-photo-hanoi-temple-of-literature.jpg",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Hanoi_Temple_of_Literature.jpg",
+    "credit": "The original uploader was Chuoibk at English Wikipedia., CC BY-SA 3.0, via Wikimedia Commons"
   },
   "facts": [
     "About 96 million people (2019)",

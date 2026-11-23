@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Approaching St Kitts and Nevis - southern tip of St. Kitts - panoramio.jpg",
-    "alt": "The southern tip of Saint Kitts seen from the sea"
+    "alt": "The southern tip of Saint Kitts seen from the sea",
+    "file": "cx-photo-approaching-st-kitts-and-nevis-southern-tip-of-st-kitts-pano.jpg",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Approaching_St_Kitts_and_Nevis_-_southern_tip_of_St._Kitts_-_panoramio.jpg",
+    "credit": "David Broad, David Broad, via Wikimedia Commons"
   },
   "facts": [
     "Two islands, Saint Kitts and Nevis, in the Leeward Islands",

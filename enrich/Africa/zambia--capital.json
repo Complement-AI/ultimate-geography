@@ -1,5 +1,12 @@
 {
-  "photo": {"commons": "File:Downtown Lusaka.JPG", "alt": "Downtown Lusaka"},
+  "photo": {
+    "commons": "File:Downtown Lusaka.JPG",
+    "alt": "Downtown Lusaka",
+    "file": "cx-photo-downtown-lusaka.jpg",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Downtown_Lusaka.JPG",
+    "credit": "Matthew Grollnek, CC BY-SA 4.0, via Wikimedia Commons"
+  },
   "facts": [
     "About 2.2 million people (2022), Zambia's largest city",
     "On the central plateau, about 1,279 m up"

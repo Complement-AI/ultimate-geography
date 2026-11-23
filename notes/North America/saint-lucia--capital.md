@@ -16,6 +16,10 @@ What is the capital of <b>Saint Lucia</b>?
 
 <div class="cmp-map" data-focus="LCA" data-pin="14.002,-61.0" data-label="Castries"><img src="../../media/cx-locator-saint-lucia.svg" alt="Map of Saint Lucia with Castries marked"></div>
 
+![The port of Castries](../../media/cx-photo-castriesstlucia.jpg)
+
+<i>Photo: UpstateNYer, CC BY-SA 3.0, via Wikimedia Commons</i>
+
 About 20,000 people in the urban area (2013)<br>Built on reclaimed land, on a flood plain
 
 Its sheltered harbour receives cargo vessels, ferries and cruise ships. Two Nobel winners were born here: Arthur Lewis (Economics, 1979) and Derek Walcott (Literature, 1992).

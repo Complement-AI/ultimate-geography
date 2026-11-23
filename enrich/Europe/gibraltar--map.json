@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Gibraltar aerial view looking northwest.jpg",
-    "alt": "Aerial view of the Rock of Gibraltar and its town"
+    "alt": "Aerial view of the Rock of Gibraltar and its town",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Gibraltar_aerial_view_looking_northwest.jpg",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Gibraltar_aerial_view_looking_northwest.jpg",
+    "credit": "Steve, CC BY-SA 2.0, via Wikimedia Commons"
   },
   "facts": [
     "About 6.8 km2, bordered to the north by Spain",

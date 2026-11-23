@@ -16,6 +16,10 @@ What is highlighted on this map?
 
 ## Extra
 
+![Satellite view of a volcano and smoke over Java](../../media/cx-photo-gunung-merapi-2006-05-14-modis.jpg)
+
+<i>Photo: NASA, Public domain, via Wikimedia Commons</i>
+
 About 160 million people (2015), the world's most populous island<br>Jakarta is on its northwestern coast
 
 A chain of volcanic mountains forms the island's east-west spine. It holds about 56% of Indonesia's people on only 7% of its land.

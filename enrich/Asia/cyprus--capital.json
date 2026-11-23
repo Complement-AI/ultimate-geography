@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Nicosia 01-2017 img23 View from Shacolas Tower.jpg",
-    "alt": "View over Nicosia from a tall building"
+    "alt": "View over Nicosia from a tall building",
+    "file": "cx-photo-nicosia-01-2017-img23-view-from-shacolas-tower.jpg",
+    "license": "FAL",
+    "source": "https://commons.wikimedia.org/wiki/File:Nicosia_01-2017_img23_View_from_Shacolas_Tower.jpg",
+    "credit": "A.Savin, FAL, via Wikimedia Commons"
   },
   "facts": [
     "About 57,000 people (2021)"

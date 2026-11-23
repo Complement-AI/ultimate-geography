@@ -16,6 +16,10 @@ What is the capital of <b>Rwanda</b>?
 
 <div class="cmp-map" data-focus="RWA" data-pin="-1.9516,30.0586" data-label="Kigali"><img src="../../media/cx-locator-rwanda.svg" alt="Map of Rwanda with Kigali marked"></div>
 
+![The city of rolling hills seen from above](../../media/cx-photo-kigali2018cropped.jpg)
+
+<i>Photo: Adrien K, CC BY 2.0, via Wikimedia Commons</i>
+
 About 1.75 million people (2022)<br>1,567 m up, near the country's geographic centre
 
 Founded in 1907 as a German administrative outpost, after the colonial resident chose the site for its central location, views and security. It became the capital at independence in 1962.

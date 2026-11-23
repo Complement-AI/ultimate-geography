@@ -16,6 +16,10 @@ What is the capital of <b>Ivory Coast</b>?
 
 <div class="cmp-map" data-focus="CIV" data-pin="6.8184,-5.2755" data-label="Yamoussoukro"><img src="../../media/cx-locator-ivory-coast.svg" alt="Map of Ivory Coast with Yamoussoukro marked"></div>
 
+![A large campus building](../../media/cx-photo-inphb-de-yamoussoukro-bosson.jpg)
+
+<i>Photo: HONORE BOSSON, CC BY-SA 4.0, via Wikimedia Commons</i>
+
 About 340,000 people (2021)<br>240 km north-west of Abidjan, among rolling hills and plains
 
 It became the legal capital in 1983, though the former capital Abidjan keeps several political functions.

@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Beirut skyline, Beirut, Lebanon.jpg",
-    "alt": "Beirut skyline on the Mediterranean"
+    "alt": "Beirut skyline on the Mediterranean",
+    "file": "cx-photo-beirut-skyline-beirut-lebanon.jpg",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Beirut_skyline,_Beirut,_Lebanon.jpg",
+    "credit": "© Vyacheslav Argenberg / http://www.vascoplanet.com/, Vyacheslav Argenberg, via Wikimedia Commons"
   },
   "facts": [
     "About 5.3 million people (2026) in 10,452 km²",

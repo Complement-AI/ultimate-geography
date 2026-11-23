@@ -16,6 +16,10 @@ What is highlighted on this map?
 
 ## Extra
 
+![True-colour satellite image of Tortola and its smaller neighbours](../../media/cx-photo-british-virgin-islands.jpg)
+
+<i>Photo: Jesse Allen, Public domain, via Wikimedia Commons</i>
+
 East of Puerto Rico and the U.S. Virgin Islands, north-west of Anguilla<br>Four main islands: Tortola, Virgin Gorda, Anegada and Jost Van Dyke
 
 More than 50 smaller islands and cays surround them, and about 16 of the islands are inhabited. Tortola, the largest, is about 20 km long and 5 km wide.

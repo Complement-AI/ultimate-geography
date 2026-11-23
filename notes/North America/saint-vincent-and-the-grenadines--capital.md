@@ -16,6 +16,10 @@ What is the capital of <b>Saint Vincent and the Grenadines</b>?
 
 <div class="cmp-map" data-focus="VCT" data-pin="13.1483,-61.2121" data-label="Kingstown"><img src="../../media/cx-locator-saint-vincent-and-the-grenadines.svg" alt="Map of Saint Vincent and the Grenadines with Kingstown marked"></div>
 
+![Kingstown seen from above the town](../../media/cx-photo-st-vincent-karibik-kingstown-city-panoramio.jpg)
+
+<i>Photo: giggel, giggel, via Wikimedia Commons</i>
+
 About 12,900 people (2012)<br>The main port and biggest commercial centre of the islands
 
 French settlers founded it shortly after 1722. Its botanical garden, conceived in 1765, is one of the oldest in the Western Hemisphere.

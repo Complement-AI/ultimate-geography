@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:England satellite image.png",
-    "alt": "Satellite view of England, Wales and the Isle of Man"
+    "alt": "Satellite view of England, Wales and the Isle of Man",
+    "file": "cx-photo-england-satellite-image.jpg",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:England_satellite_image.png",
+    "credit": "Jacques Descloitres, MODIS Land Rapid Response Team, NASA/GSFC, Public domain, via Wikimedia Commons"
   },
   "facts": [
     "About 56.5 million people (2021 census), 84% of the United Kingdom's",

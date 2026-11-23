@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Accra town.jpg",
-    "alt": "A busy city street"
+    "alt": "A busy city street",
+    "file": "cx-photo-accra-town.jpg",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Accra_town.jpg",
+    "credit": "Goldenwabbit, CC BY-SA 4.0, via Wikimedia Commons"
   },
   "facts": [
     "About 1.78 million people in the capital's districts (2021 census)",

@@ -16,6 +16,10 @@ What is highlighted on this map?
 
 ## Extra
 
+![Satellite view of England, Wales and the Isle of Man](../../media/cx-photo-england-satellite-image.jpg)
+
+<i>Photo: Jacques Descloitres, MODIS Land Rapid Response Team, NASA/GSFC, Public domain, via Wikimedia Commons</i>
+
 Borders Scotland to the north and Wales to the west<br>About 130,300 km2, 62% of the island of Great Britain
 
 Surrounded by the North Sea, the English Channel, the Celtic Sea and the Irish Sea, with continental Europe to the south-east.

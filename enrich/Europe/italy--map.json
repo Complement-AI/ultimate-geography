@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Satellite image of Italy in March 2003.jpg",
-    "alt": "Italy from orbit"
+    "alt": "Italy from orbit",
+    "file": "cx-photo-satellite-image-of-italy-in-march-2003.jpg",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Satellite_image_of_Italy_in_March_2003.jpg",
+    "credit": "Jacques Descloitres, MODIS Rapid Response Team, NASA/GSFC, Public domain, via Wikimedia Commons"
   },
   "facts": [
     "A peninsula in the Mediterranean, about 302,000 km2",

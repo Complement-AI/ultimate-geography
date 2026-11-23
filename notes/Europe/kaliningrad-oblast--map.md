@@ -16,6 +16,10 @@ What is highlighted on this map?
 
 ## Extra
 
+![A shore in the Curonian Spit National Park](../../media/cx-photo-.jpg)
+
+<i>Photo: Marina Torgashova, CC BY-SA 4.0, via Wikimedia Commons</i>
+
 About 15,100 km2, about 1 million people (2021 census)<br>Borders Poland to the south and Lithuania to the north and east
 
 A semi-exclave of Russia on the Baltic Sea. Baltiysk is Russia's only Baltic port that remains ice-free in winter.

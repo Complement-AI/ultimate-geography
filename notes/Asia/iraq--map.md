@@ -18,6 +18,10 @@ What is highlighted on this map?
 
 <div class="cmp-map" data-focus="IRQ" data-pin="33.3406,44.3919" data-label="Baghdad"><img src="../../media/cx-locator-iraq.svg" alt="Map of Iraq with Baghdad marked"></div>
 
+![Snow-covered city and hills of Sulaymaniyah in winter](../../media/cx-photo-view-of-sulaymaniyah-slemani-city-in-winter-snow-2015.jpg)
+
+<i>Photo: Diyar Muhammed, CC BY-SA 4.0, via Wikimedia Commons</i>
+
 Borders Turkey, Syria, Jordan, Saudi Arabia, Kuwait and Iran
 
 The fertile plains lie between the Tigris and Euphrates rivers, with the Persian Gulf to the southeast.

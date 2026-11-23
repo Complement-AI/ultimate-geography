@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Gornji Orahovac, Bosnia y Herzegovina, 2014-04-14, DD 10-13 PAN.jpg",
-    "alt": "Panoramic view of a river valley in southern Bosnia and Herzegovina"
+    "alt": "Panoramic view of a river valley in southern Bosnia and Herzegovina",
+    "file": "cx-photo-gornji-orahovac-bosnia-y-herzegovina-2014-04-14-dd-10-13-pan.jpg",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Gornji_Orahovac,_Bosnia_y_Herzegovina,_2014-04-14,_DD_10-13_PAN.jpg",
+    "credit": "Diego Delso, Diego Delso, via Wikimedia Commons"
   },
   "facts": [
     "About 3.8 million people (2022)",

@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Grenada - St. George.jpg",
-    "alt": "An overview of the town and its harbour"
+    "alt": "An overview of the town and its harbour",
+    "file": "cx-photo-grenada-st-george.jpg",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Grenada_-_St._George.jpg",
+    "credit": "P. Hughes, CC BY-SA 4.0, via Wikimedia Commons"
   },
   "facts": [
     "Grenada's main port",

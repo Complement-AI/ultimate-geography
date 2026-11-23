@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Ecuador Blue Marble.png",
-    "alt": "Ecuador on a satellite view of Earth"
+    "alt": "Ecuador on a satellite view of Earth",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Ecuador_Blue_Marble.png",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Ecuador_Blue_Marble.png",
+    "credit": "NASA, Public domain, via Wikimedia Commons"
   },
   "facts": [
     "Neighbours: Colombia to the north, Peru to the east and south"

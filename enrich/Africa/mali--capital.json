@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Bamako ACI 2000 Aeriel.jpg",
-    "alt": "Aerial view of Bamako"
+    "alt": "Aerial view of Bamako",
+    "file": "cx-photo-bamako-aci-2000-aeriel.jpg",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Bamako_ACI_2000_Aeriel.jpg",
+    "credit": "Mark Fischer, CC BY-SA 4.0, via Wikimedia Commons"
   },
   "facts": [
     "About 4.2 million people (2022)",

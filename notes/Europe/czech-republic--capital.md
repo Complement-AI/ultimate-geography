@@ -16,6 +16,10 @@ What is the capital of <b>Czech Republic</b>?
 
 <div class="cmp-map" data-focus="CZE" data-pin="50.0853,14.464" data-label="Prague"><img src="../../media/cx-locator-czech-republic.svg" alt="Map of Czech Republic with Prague marked"></div>
 
+![View over Prague from Petřín hill](../../media/cx-photo-pet-n-tower-view-img-3020.jpg)
+
+<i>Photo: Deror_avi, CC BY-SA 4.0, via Wikimedia Commons</i>
+
 About 1.4 million people (2025)<br>On the Vltava river, 235 m above sea level
 
 The name Praha is thought to come from an old Slavic word for a ford or rapid, from the city's origin at a crossing of the Vltava. Its historic centre has been a UNESCO World Heritage Site since 1992.

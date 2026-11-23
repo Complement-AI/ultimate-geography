@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Mauritius 23.08.2009 11-42-31.jpg",
-    "alt": "Landscape in the Domaine du Chasseur nature reserve, Grand Port"
+    "alt": "Landscape in the Domaine du Chasseur nature reserve, Grand Port",
+    "file": "cx-photo-mauritius-23-08-2009-11-42-31.jpg",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Mauritius_23.08.2009_11-42-31.jpg",
+    "credit": "Simisa (talk · contribs), CC BY-SA 3.0, via Wikimedia Commons"
   },
   "facts": [
     "About 2,040 km², with outlying islands including Rodrigues and Agaléga",

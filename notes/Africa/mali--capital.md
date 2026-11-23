@@ -16,6 +16,10 @@ What is the capital of <b>Mali</b>?
 
 <div class="cmp-map" data-focus="MLI" data-pin="12.652,-8.002" data-label="Bamako"><img src="../../media/cx-locator-mali.svg" alt="Map of Mali with Bamako marked"></div>
 
+![Aerial view of Bamako](../../media/cx-photo-bamako-aci-2000-aeriel.jpg)
+
+<i>Photo: Mark Fischer, CC BY-SA 4.0, via Wikimedia Commons</i>
+
 About 4.2 million people (2022)<br>On the Niger River, near the rapids that divide the upper and middle Niger valleys
 
 It was founded around 1650 by the Niare family. It grew quickly after a railway reached it in 1904 and it became capital of French Sudan in 1908.

@@ -16,6 +16,10 @@ tags  = ["europe", "european_union", "mediterranean", "sovereign_state", "countr
 
 <div class="cmp-map" data-focus="HRV" data-pin="45.8,16.0" data-label="Zagreb"><img src="../../media/cx-locator-croatia.svg" alt="Map of Croatia with Zagreb marked"></div>
 
+![Old town of Dubrovnik with its city walls](../../media/cx-photo-dubrovnik-june-2011.jpg)
+
+<i>Photo: Bracodbk, CC BY-SA 3.0, via Wikimedia Commons</i>
+
 About 3.9 million people (2021)<br>Highest point: Dinara
 
 The Croatian coast has over 1,000 islands and islets in the Adriatic Sea. Tourism is a prominent part of its economy.

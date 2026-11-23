@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Corse-photosat.jpg",
-    "alt": "Satellite photo of an island in the Mediterranean"
+    "alt": "Satellite photo of an island in the Mediterranean",
+    "file": "cx-photo-corse-photosat.jpg",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Corse-photosat.jpg",
+    "credit": "Unknown author, Public domain, via Wikimedia Commons"
   },
   "facts": [
     "Fourth-largest island in the Mediterranean, about 8,680 km2",

@@ -16,6 +16,10 @@ tags  = ["asia", "middle_east", "sovereign_state", "country"]
 
 <div class="cmp-map" data-focus="YEM" data-pin="15.3567,44.2046" data-label="Sanaa"><img src="../../media/cx-locator-yemen.svg" alt="Map of Yemen with Sanaa marked"></div>
 
+![Buildings in the Malla district of Yemen](../../media/cx-photo-malladistrict.jpg)
+
+<i>Photo: Ahmedxalkatheri, CC BY-SA 4.0, via Wikimedia Commons</i>
+
 About 34 million people (2026)<br>Second-largest country on the Arabian Peninsula by area and population
 
 Yemen has been at the crossroads of many civilisations for over 7,000 years. The Sabaeans formed a thriving commercial kingdom there.

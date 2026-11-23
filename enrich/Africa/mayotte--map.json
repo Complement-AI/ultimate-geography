@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Mayotte, vue par Sentinel 2 (cropped).jpg",
-    "alt": "Satellite view of the island"
+    "alt": "Satellite view of the island",
+    "file": "cx-photo-mayotte-vue-par-sentinel-2-cropped.jpg",
+    "license": "Attribution",
+    "source": "https://commons.wikimedia.org/wiki/File:Mayotte,_vue_par_Sentinel_2_(cropped).jpg",
+    "credit": "Contains modified Copernicus Sentinel data 2021, European Space Agency / CNES, via Wikimedia Commons"
   },
   "facts": [
     "About 321,000 people (2024 estimate) in 374 km²",

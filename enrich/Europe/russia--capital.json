@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Saint Basil's Cathedral and the Red Square.jpg",
-    "alt": "Saint Basil's Cathedral on Red Square"
+    "alt": "Saint Basil's Cathedral on Red Square",
+    "file": "cx-photo-saint-basil-s-cathedral-and-the-red-square.jpg",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Saint_Basil%27s_Cathedral_and_the_Red_Square.jpg",
+    "credit": "U.S. Department of State, Public domain, via Wikimedia Commons"
   },
   "facts": [
     "About 13 million people (2025) in the city",

@@ -18,6 +18,10 @@ What is highlighted on this map?
 
 <div class="cmp-map" data-focus="NRU"><img src="../../media/cx-locator-nauru.svg" alt="Map of Nauru with Yaren marked"></div>
 
+![A coral reef on Nauru](../../media/cx-photo-coral-reef-on-nauru.jpg)
+
+<i>Photo: d-online, CC BY-SA 2.0, via Wikimedia Commons</i>
+
 21.2 km² of land
 
 A phosphate-rock island with rich deposits near the surface. Most of its interior was strip-mined for about a century starting in 1900.

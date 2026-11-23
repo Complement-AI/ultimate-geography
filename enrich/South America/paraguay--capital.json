@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Asunción Paraguay.jpg",
-    "alt": "The city of Asunción"
+    "alt": "The city of Asunción",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Asunci%C3%B3n_Paraguay.jpg",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Asunci%C3%B3n_Paraguay.jpg",
+    "credit": "AnonymousUnknown author, CC BY-SA 4.0, via Wikimedia Commons"
   },
   "facts": [
     "About 462,000 people (2022)",

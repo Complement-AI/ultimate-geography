@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Marcus Aurelius Arch Tripoli Libya.jpg",
-    "alt": "A Roman triumphal arch in a city"
+    "alt": "A Roman triumphal arch in a city",
+    "file": "cx-photo-marcus-aurelius-arch-tripoli-libya.jpg",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Marcus_Aurelius_Arch_Tripoli_Libya.jpg",
+    "credit": "Daniel and Kate Pett, CC BY 2.0, via Wikimedia Commons"
   },
   "facts": [
     "About 3.2 million people (2021)",

@@ -16,6 +16,10 @@ What is the capital of <b>Marshall Islands</b>?
 
 <div class="cmp-map" data-focus="MHL" data-pin="7.103,171.38" data-label="Majuro"><img src="../../media/cx-locator-marshall-islands.svg" alt="Map of Marshall Islands with Majuro marked"></div>
 
+![The main road along Majuro, with the lagoon beside it](../../media/cx-photo-majuro-main-road.jpg)
+
+<i>Photo: mrlins, CC BY 2.0, via Wikimedia Commons</i>
+
 About 30,000 people (2008)<br>A coral atoll of 64 islands around a 295 km² lagoon
 
 Became the capital after the Marshall Islands broke away from the Federated States of Micronesia in 1978, taking over from Jaluit. Germany had annexed the atoll in 1885.

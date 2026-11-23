@@ -16,6 +16,10 @@ What is the capital of <b>Colombia</b>?
 
 <div class="cmp-map" data-focus="COL" data-pin="4.5984,-74.0853" data-label="Bogotá"><img src="../../media/cx-locator-colombia.svg" alt="Map of Colombia with Bogotá marked"></div>
 
+![Skyscrapers in central Bogotá](../../media/cx-photo-centro-internacional.jpg)
+
+<i>Photo: Felipe Restrepo Acosta, CC BY-SA 3.0, via Wikimedia Commons</i>
+
 About 8.0 million people (2024)<br>2,582 m up, in the Andes
 
 Gonzalo Jiménez de Quesada founded it on 6 August 1538 as capital of the New Kingdom of Granada, after conquering the Muisca. It was called Santafé from 1540, and Simón Bolívar renamed it Bogotá.

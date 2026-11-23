@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Gotjawal Forest on Jeju Island-01.jpg",
-    "alt": "A forest on Jeju Island"
+    "alt": "A forest on Jeju Island",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Gotjawal_Forest_on_Jeju_Island-01.jpg",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Gotjawal_Forest_on_Jeju_Island-01.jpg",
+    "credit": "Yongchangjang at English Wikipedia, Yongchangjang at English Wikipedia, via Wikimedia Commons"
   },
   "facts": [
     "About 671,000 people (2024) in 1,848 km²",

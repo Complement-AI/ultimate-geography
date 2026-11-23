@@ -16,6 +16,10 @@ What is the capital of <b>Iceland</b>?
 
 <div class="cmp-map" data-focus="ISL" data-pin="64.15,-21.95" data-label="Reykjavík"><img src="../../media/cx-locator-iceland.svg" alt="Map of Iceland with Reykjavík marked"></div>
 
+![A view of Reykjavík](../../media/cx-photo-reykjav-k-5545-cropped.jpg)
+
+<i>Photo: Hedwig Storch, CC BY-SA 3.0, via Wikimedia Commons</i>
+
 About 139,000 people (2025), 8 m above sea level<br>On the southern shore of Faxaflói bay
 
 The world's northernmost capital of a sovereign state. The name comes from Old Norse for "smoke" and "bay"; settlement is said to have begun here with Ingólfur Arnarson in 874.

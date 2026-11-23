@@ -18,6 +18,10 @@ What is highlighted on this map?
 
 <div class="cmp-map" data-focus="SLV" data-pin="13.7119,-89.205" data-label="San Salvador"><img src="../../media/cx-locator-el-salvador.svg" alt="Map of El Salvador with San Salvador marked"></div>
 
+![Excavated Maya buildings at Joya de Cerén](../../media/cx-photo-es-joyadeceren-06-2011-estructura-9-area-2-tamazcal-2106-zoo.jpg)
+
+<i>Photo: Mariordo (Mario Roberto Durán Ortiz), CC BY-SA 3.0, via Wikimedia Commons</i>
+
 Borders Guatemala and Honduras<br>Highest point Cerro El Pital
 
 It lies along the Pacific coast, with Guatemala to the northwest and Honduras to the northeast. Volcanic ash has blanketed possible archaeological sites.

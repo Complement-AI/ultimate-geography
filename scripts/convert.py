@@ -149,8 +149,11 @@ def wiki_line(links: dict, direction: str) -> str:
 
 def photo_ready(photo: dict | None) -> bool:
     """A photo is used once enrich_photos.py has downloaded it and recorded its license."""
-    return bool(photo and photo.get("file") and photo.get("license") and photo.get("source")
-                and (ENRICH / "media" / photo["file"]).exists())
+    if not (photo and photo.get("license") and photo.get("source")):
+        return False
+    if photo.get("url"):  # linked from Wikimedia when the download was rate-limited
+        return True
+    return bool(photo.get("file") and (ENRICH / "media" / photo["file"]).exists())
 
 
 def enrichment_block(card: dict) -> str:
@@ -158,7 +161,8 @@ def enrichment_block(card: dict) -> str:
     parts = []
     photo = card.get("photo")
     if photo_ready(photo):
-        parts.append(f"![{photo['alt']}](../../media/{photo['file']})")
+        src = photo.get("url") or f"../../media/{photo['file']}"
+        parts.append(f"![{photo['alt']}]({src})")
         parts.append(f"<i>Photo: {photo['credit']}</i>")
     if card.get("facts"):
         parts.append("<br>".join(card["facts"]))
@@ -226,7 +230,7 @@ def main(upstream: Path) -> None:
             if extra:
                 enriched_files.add(ENRICH / folder.name / f"{slug}--{direction}.json")
                 if photo_ready(extra.get("photo")):
-                    photos[extra["photo"]["file"]] = extra["photo"]
+                    photos[extra["photo"].get("file") or extra["photo"]["url"]] = extra["photo"]
                 elif extra.get("photo"):
                     pending_photos.append(extra["photo"].get("commons"))
                 def with_extra(body: str) -> str:
@@ -279,7 +283,7 @@ def main(upstream: Path) -> None:
         shutil.copy2(media_src / kind / filename, media_dir / filename)
     for filename in sorted(locators):
         shutil.copy2(ENRICH / "maps" / filename, media_dir / filename)
-    for filename in sorted(photos):
+    for filename in sorted(f for f, ph in photos.items() if not ph.get("url")):
         source = ENRICH / "media" / filename
         if not source.exists():
             sys.exit(f"{source} is missing; run scripts/enrich_photos.py")
@@ -308,7 +312,9 @@ def main(upstream: Path) -> None:
             writer.writerow([filename, "https://www.naturalearthdata.com/", "Public domain",
                              "Drawn from Natural Earth 1:10m data by scripts/locator_maps.py"])
         for filename, photo in sorted(photos.items()):
-            writer.writerow([filename, photo["source"], photo["license"], "Commons thumbnail, at most 1280 px wide"])
+            note = ("Linked from Wikimedia Commons, not stored in this repo" if photo.get("url")
+                    else "Commons thumbnail, scaled to at most 800 px")
+            writer.writerow([filename, photo["source"], photo["license"], note])
 
     card_files = {f for f in ENRICH.glob("*/*.json") if f.parent.name not in ("maps", "media", "_cache", "_sources")}
     orphans = card_files - enriched_files

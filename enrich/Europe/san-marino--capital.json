@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:View of Mount Titano - San Marino.jpg",
-    "alt": "View of Mount Titano and the city on its slope"
+    "alt": "View of Mount Titano and the city on its slope",
+    "file": "cx-photo-view-of-mount-titano-san-marino.jpg",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:View_of_Mount_Titano_-_San_Marino.jpg",
+    "credit": "Commonists, CC BY-SA 4.0, via Wikimedia Commons"
   },
   "facts": [
     "About 4,000 people (2020)",

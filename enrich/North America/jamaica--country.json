@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Satellite image of Jamaica in November 2001.jpg",
-    "alt": "Jamaica from orbit, November 2001"
+    "alt": "Jamaica from orbit, November 2001",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Satellite_image_of_Jamaica_in_November_2001.jpg",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Satellite_image_of_Jamaica_in_November_2001.jpg",
+    "credit": "Jacques Descloitres, MODIS Land Rapid Response Team, NASA/GSFC, Public domain, via Wikimedia Commons"
   },
   "facts": [
     "About 2.7 million people (2019) in 10,992 km²"

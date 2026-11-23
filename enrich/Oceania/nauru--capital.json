@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Nauru-parliament.jpg",
-    "alt": "Nauru's Parliament House in Yaren"
+    "alt": "Nauru's Parliament House in Yaren",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Nauru-parliament.jpg",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Nauru-parliament.jpg",
+    "credit": "User:CdaMVvWgS, Public domain, via Wikimedia Commons"
   },
   "facts": [
     "747 people in the district (2011)",

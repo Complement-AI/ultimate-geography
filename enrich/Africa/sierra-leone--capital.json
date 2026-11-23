@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Freetown-aerialview.jpg",
-    "alt": "Aerial view of the city and its harbour"
+    "alt": "Aerial view of the city and its harbour",
+    "file": "cx-photo-freetown-aerialview.jpg",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Freetown-aerialview.jpg",
+    "credit": "David Hond, CC BY 2.0, via Wikimedia Commons"
   },
   "facts": [
     "About 1.35 million people (2024 census)",

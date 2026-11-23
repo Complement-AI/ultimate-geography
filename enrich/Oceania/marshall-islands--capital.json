@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Majuro main road.jpg",
-    "alt": "The main road along Majuro, with the lagoon beside it"
+    "alt": "The main road along Majuro, with the lagoon beside it",
+    "file": "cx-photo-majuro-main-road.jpg",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Majuro_main_road.jpg",
+    "credit": "mrlins, CC BY 2.0, via Wikimedia Commons"
   },
   "facts": [
     "About 30,000 people (2008)",

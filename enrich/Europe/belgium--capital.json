@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Brussels view from Mont des Arts, Brussels, Belgium (cropped).jpg",
-    "alt": "View over Brussels from the Mont des Arts"
+    "alt": "View over Brussels from the Mont des Arts",
+    "file": "cx-photo-brussels-view-from-mont-des-arts-brussels-belgium-cropped.jpg",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Brussels_view_from_Mont_des_Arts,_Brussels,_Belgium_(cropped).jpg",
+    "credit": "Ank Kumar, CC BY-SA 4.0, via Wikimedia Commons"
   },
   "facts": [
     "About 196,000 people in the City of Brussels (2024), 70 m above sea level",

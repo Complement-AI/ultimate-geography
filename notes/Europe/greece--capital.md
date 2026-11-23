@@ -16,6 +16,10 @@ What is the capital of <b>Greece</b>?
 
 <div class="cmp-map" data-focus="GRC" data-pin="37.9853,23.7314" data-label="Athens"><img src="../../media/cx-locator-greece.svg" alt="Map of Greece with Athens marked"></div>
 
+![The Acropolis rising above Athens](../../media/cx-photo-akropolis-2015.jpg)
+
+<i>Photo: Thomas Wolf, www.foto-tw.de, Thomas Wolf, www.foto-tw.de, via Wikimedia Commons</i>
+
 About 643,000 people in the municipality (2021), urban area over 3.6 million<br>The southernmost capital on the European mainland
 
 Recorded history spans over 3,400 years. By Greek mythology the city was named after Athena, though modern scholars generally think the goddess took her name from the city.

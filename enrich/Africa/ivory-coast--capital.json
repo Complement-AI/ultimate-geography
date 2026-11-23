@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Inphb de Yamoussoukro (Bosson).jpg",
-    "alt": "A large campus building"
+    "alt": "A large campus building",
+    "file": "cx-photo-inphb-de-yamoussoukro-bosson.jpg",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Inphb_de_Yamoussoukro_(Bosson).jpg",
+    "credit": "HONORE BOSSON, CC BY-SA 4.0, via Wikimedia Commons"
   },
   "facts": [
     "About 340,000 people (2021)",

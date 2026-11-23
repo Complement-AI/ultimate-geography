@@ -18,6 +18,10 @@ What is highlighted on this map?
 
 <div class="cmp-map" data-focus="HKG"><img src="../../media/cx-locator-hong-kong.svg" alt="Map of Hong Kong"></div>
 
+![Hong Kong's harbour and towers seen from a high peak](../../media/cx-photo-hong-kong-from-victoria-peak1.jpg)
+
+<i>Photo: Mustang Joe, CC0, via Wikimedia Commons</i>
+
 On China's southern coast, just south of Shenzhen<br>Highest point is Tai Mo Shan
 
 It consists of Hong Kong Island, Kowloon and the New Territories. The colony grew from the island in 1841–1842 to the Kowloon Peninsula in 1860 and then the New Territories, leased in 1898.

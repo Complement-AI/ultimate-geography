@@ -16,6 +16,10 @@ tags  = ["oceania", "country"]
 
 <div class="cmp-map" data-focus="GUM"><img src="../../media/cx-locator-guam.svg" alt="Map of Guam with Hagåtña marked"></div>
 
+![Satellite view of Guam](../../media/cx-photo-guam-satellite-photo-map.jpg)
+
+<i>Photo: http://www.terraprints.com, CC BY 2.5, via Wikimedia Commons</i>
+
 About 540 km², the largest island in Micronesia<br>Most populous village: Dededo
 
 An organized, unincorporated territory of the United States. The US captured it from Spain on 21 June 1898 during the Spanish-American War.

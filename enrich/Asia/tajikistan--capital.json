@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Tehron Street Dushanbe.jpg",
-    "alt": "A tree-lined street in Dushanbe"
+    "alt": "A tree-lined street in Dushanbe",
+    "file": "cx-photo-tehron-street-dushanbe.jpg",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Tehron_Street_Dushanbe.jpg",
+    "credit": "Kondephy, CC BY-SA 4.0, via Wikimedia Commons"
   },
   "facts": [
     "About 1.2 million people (2022)",

@@ -16,6 +16,10 @@ What is the capital of <b>Kenya</b>?
 
 <div class="cmp-map" data-focus="KEN" data-pin="-1.2814,36.8147" data-label="Nairobi"><img src="../../media/cx-locator-kenya.svg" alt="Map of Kenya with Nairobi marked"></div>
 
+![A city skyline seen from a tower](../../media/cx-photo-nairobi-view-from-kicc.jpg)
+
+<i>Photo: Daryona, CC BY-SA 3.0, via Wikimedia Commons</i>
+
 About 5.6 million people (2026)<br>1,661 m up
 
 Its name comes from the Maasai Enkare Nyirobi, "place of cool waters". It is the only capital in the world with a national park inside its boundaries.

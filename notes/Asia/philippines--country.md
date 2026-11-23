@@ -16,6 +16,10 @@ tags  = ["asia", "southeast_asia", "sovereign_state", "country"]
 
 <div class="cmp-map" data-focus="PHL" data-pin="14.6061,120.9803" data-label="Manila"><img src="../../media/cx-locator-philippines.svg" alt="Map of Philippines with Manila marked"></div>
 
+![Buildings along a waterfront boulevard on Manila Bay](../../media/cx-photo-manila-bay-roxas-boulevard-buildings-with-navy-fleet-ermita-.jpg)
+
+<i>Photo: Patrick Roque, CC BY-SA 4.0, via Wikimedia Commons</i>
+
 About 113 million people (2024)<br>Independent since 1946
 
 Spanish explorer Ruy López de Villalobos named the islands las Islas Filipinas in 1543, in honor of King Philip II.

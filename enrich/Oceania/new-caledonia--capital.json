@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:NouméaCentre.jpg",
-    "alt": "Central Nouméa"
+    "alt": "Central Nouméa",
+    "file": "cx-photo-noum-acentre.jpg",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Noum%C3%A9aCentre.jpg",
+    "credit": "Torbenbrinker, CC BY-SA 3.0, via Wikimedia Commons"
   },
   "facts": [
     "About 86,000 people in the city proper (2025 census)",

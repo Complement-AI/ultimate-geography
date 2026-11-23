@@ -16,6 +16,10 @@ What is the capital of <b>Guatemala</b>?
 
 <div class="cmp-map" data-focus="GTM" data-pin="14.6231,-90.5289" data-label="Guatemala City"><img src="../../media/cx-locator-guatemala.svg" alt="Map of Guatemala with Guatemala City marked"></div>
 
+![Buildings in Guatemala City](../../media/cx-photo-buildings-in-guatemala-city.jpg)
+
+<i>Photo: BladimiroAlvarado, CC BY-SA 4.0, via Wikimedia Commons</i>
+
 About 995,000 people in the city (2025)<br>1,500 m up, in the Valle de la Ermita
 
 Nicknamed Guate. Its metropolitan area is the largest in Central America.

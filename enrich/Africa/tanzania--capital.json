@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Scene at Nyerere Square, Dodoma City.jpg",
-    "alt": "A square in the city"
+    "alt": "A square in the city",
+    "file": "cx-photo-scene-at-nyerere-square-dodoma-city.jpg",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Scene_at_Nyerere_Square,_Dodoma_City.jpg",
+    "credit": "Mangapwani, CC BY-SA 4.0, via Wikimedia Commons"
   },
   "facts": [
     "About 765,000 people (2022)",

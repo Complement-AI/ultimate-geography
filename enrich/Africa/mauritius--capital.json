@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Mauritius port louis.jpg",
-    "alt": "View of Port Louis"
+    "alt": "View of Port Louis",
+    "file": "cx-photo-mauritius-port-louis.jpg",
+    "license": "CC BY-SA 3.0 de",
+    "source": "https://commons.wikimedia.org/wiki/File:Mauritius_port_louis.jpg",
+    "credit": "Arne Müseler / www.arne-mueseler.com, Arne Müseler, via Wikimedia Commons"
   },
   "facts": [
     "About 147,000 people (2018 census)",

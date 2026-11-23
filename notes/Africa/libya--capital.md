@@ -16,6 +16,10 @@ What is the capital of <b>Libya</b>?
 
 <div class="cmp-map" data-focus="LBY" data-pin="32.8925,13.18" data-label="Tripoli"><img src="../../media/cx-locator-libya.svg" alt="Map of Libya with Tripoli marked"></div>
 
+![A Roman triumphal arch in a city](../../media/cx-photo-marcus-aurelius-arch-tripoli-libya.jpg)
+
+<i>Photo: Daniel and Kate Pett, CC BY 2.0, via Wikimedia Commons</i>
+
 About 3.2 million people (2021)<br>On a rocky point projecting into the Mediterranean
 
 Founded in the 7th century BC by the Phoenicians, who called it Oyat. It later passed to the Greek rulers of Cyrenaica as Oea.

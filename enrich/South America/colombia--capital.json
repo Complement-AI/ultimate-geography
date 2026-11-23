@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Centro internacional.JPG",
-    "alt": "Skyscrapers in central Bogotá"
+    "alt": "Skyscrapers in central Bogotá",
+    "file": "cx-photo-centro-internacional.jpg",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Centro_internacional.JPG",
+    "credit": "Felipe Restrepo Acosta, CC BY-SA 3.0, via Wikimedia Commons"
   },
   "facts": [
     "About 8.0 million people (2024)",

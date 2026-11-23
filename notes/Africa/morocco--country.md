@@ -16,6 +16,10 @@ tags  = ["africa", "mediterranean", "sovereign_state", "country"]
 
 <div class="cmp-map" data-focus="MAR" data-pin="34.0253,-6.8364" data-label="Rabat"><img src="../../media/cx-locator-morocco.svg" alt="Map of Morocco with Rabat marked"></div>
 
+![The ruins of Volubilis](../../media/cx-photo-volubilis-longshot-ii.jpg)
+
+<i>Photo: Subhros, CC BY-SA 3.0, via Wikimedia Commons</i>
+
 About 37 million people in 446,550 km²<br>Highest point: Jbel Toubkal
 
 The English name comes from Spanish Marruecos, which comes from the city of Marrakesh. The local name, al-Maghrib, means "the land of the sunset; the west".

@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Cairo Skyline (2020).jpg",
-    "alt": "A city skyline"
+    "alt": "A city skyline",
+    "file": "cx-photo-cairo-skyline-2020.jpg",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Cairo_Skyline_(2020).jpg",
+    "credit": "Faris El-Gwely, CC BY 4.0, via Wikimedia Commons"
   },
   "facts": [
     "About 9.8 million people (2023)",

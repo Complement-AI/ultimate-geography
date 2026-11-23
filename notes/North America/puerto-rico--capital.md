@@ -16,6 +16,10 @@ What is the capital of <b>Puerto Rico</b>?
 
 <div class="cmp-map" data-focus="PRI" data-pin="18.44,-66.13" data-label="San Juan"><img src="../../media/cx-locator-puerto-rico.svg" alt="Map of Puerto Rico with San Juan marked"></div>
 
+![Condado Beach at night](../../media/cx-photo-san-juan-puerto-rico-2529298606.jpg)
+
+<i>Photo: James Willamor from Raleigh, NC, USA, CC BY-SA 2.0, via Wikimedia Commons</i>
+
 About 342,000 people (2020 census)<br>Old San Juan holds Fort San Felipe del Morro and Fort San Cristóbal
 
 The Spanish called it Ciudad de Puerto Rico, 'Rich Port City'. It is the second oldest European-established capital in the Americas, after Santo Domingo.

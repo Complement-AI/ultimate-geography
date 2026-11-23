@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Riyadh Skyline.jpg",
-    "alt": "The Riyadh skyline"
+    "alt": "The Riyadh skyline",
+    "file": "cx-photo-riyadh-skyline.jpg",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Riyadh_Skyline.jpg",
+    "credit": "B.alotaby, CC BY-SA 4.0, via Wikimedia Commons"
   },
   "facts": [
     "About 7 million people (2022)",

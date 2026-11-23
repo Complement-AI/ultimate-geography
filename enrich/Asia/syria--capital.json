@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Damascus coll.jpg",
-    "alt": "Views of Damascus"
+    "alt": "Views of Damascus",
+    "file": "cx-photo-damascus-coll.jpg",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Damascus_coll.jpg",
+    "credit": "See above., CC BY-SA 3.0, via Wikimedia Commons"
   },
   "facts": [
     "About 2.69 million people (2024)",

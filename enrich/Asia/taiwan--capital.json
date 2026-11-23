@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:20260204 Taipei, Taiwan Skyline.jpg",
-    "alt": "The Taipei skyline"
+    "alt": "The Taipei skyline",
+    "file": "cx-photo-20260204-taipei-taiwan-skyline.jpg",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:20260204_Taipei,_Taiwan_Skyline.jpg",
+    "credit": "Heeheemalu, CC BY-SA 4.0, via Wikimedia Commons"
   },
   "facts": [
     "About 2.43 million people (2026)",

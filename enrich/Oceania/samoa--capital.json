@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Samoa - Apia Govt buildings.jpg",
-    "alt": "Government buildings in Apia"
+    "alt": "Government buildings in Apia",
+    "file": "cx-photo-samoa-apia-govt-buildings.jpg",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Samoa_-_Apia_Govt_buildings.jpg",
+    "credit": "Unknown author, CC BY-SA 3.0, via Wikimedia Commons"
   },
   "facts": [
     "About 36,000 people in the urban area (2021 census)",

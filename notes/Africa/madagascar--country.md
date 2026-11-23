@@ -16,6 +16,10 @@ tags  = ["africa", "east_africa", "sovereign_state", "country"]
 
 <div class="cmp-map" data-focus="MDG" data-pin="-18.9147,47.5147" data-label="Antananarivo"><img src="../../media/cx-locator-madagascar.svg" alt="Map of Madagascar with Antananarivo marked"></div>
 
+![Satellite view of a large island](../../media/cx-photo-satellite-image-of-madagascar-in-september-2003.jpg)
+
+<i>Photo: Unknown authorUnknown author, Public domain, via Wikimedia Commons</i>
+
 About 32 million people (2024)<br>The world's fourth-largest island
 
 A biodiversity hotspot: over 90% of its wildlife is endemic, and it is one of the world's 17 megadiverse countries.

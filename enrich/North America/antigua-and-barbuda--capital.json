@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:St Johns Antigua 2012.jpg",
-    "alt": "View of downtown St. John's"
+    "alt": "View of downtown St. John's",
+    "file": "cx-photo-st-johns-antigua-2012.jpg",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:St_Johns_Antigua_2012.jpg",
+    "credit": "This image or media was taken or created by Matt H. Wade. To see his entire port, CC BY-SA 3.0, via Wikimedia Commons"
   },
   "facts": [
     "About 21,000 people (2025), the country's largest city",

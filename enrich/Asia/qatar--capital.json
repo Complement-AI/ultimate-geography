@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Doha skyline in the morning (12544910974).jpg",
-    "alt": "The Doha skyline in the morning"
+    "alt": "The Doha skyline in the morning",
+    "file": "cx-photo-doha-skyline-in-the-morning-12544910974.jpg",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Doha_skyline_in_the_morning_(12544910974).jpg",
+    "credit": "Francisco Anzola, CC BY 2.0, via Wikimedia Commons"
   },
   "facts": [
     "About 1.19 million people (2020)",

@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Honiara aerial crop.jpg",
-    "alt": "An aerial view of Honiara"
+    "alt": "An aerial view of Honiara",
+    "file": "cx-photo-honiara-aerial-crop.jpg",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Honiara_aerial_crop.jpg",
+    "credit": "Xploredive cropped by Dr. Blofeld, CC BY 2.0, via Wikimedia Commons"
   },
   "facts": [
     "About 130,000 people (2019)",

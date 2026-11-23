@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Satellite image of Vanuatu in October 1998.jpg",
-    "alt": "Satellite image of an island chain in the South Pacific"
+    "alt": "Satellite image of an island chain in the South Pacific",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Satellite_image_of_Vanuatu_in_October_1998.jpg",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Satellite_image_of_Vanuatu_in_October_1998.jpg",
+    "credit": "Unknown author, Public domain, via Wikimedia Commons"
   },
   "facts": [
     "An archipelago of volcanic origin",

@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:South Tarawa from the air.jpg",
-    "alt": "South Tarawa from the air, a thin strip of land in the lagoon"
+    "alt": "South Tarawa from the air, a thin strip of land in the lagoon",
+    "file": "cx-photo-south-tarawa-from-the-air.jpg",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:South_Tarawa_from_the_air.jpg",
+    "credit": "Photo taken by Government of Kiribati employee in the course of their work, CC BY 3.0, via Wikimedia Commons"
   },
   "facts": [
     "About 63,000 people (2020)",

@@ -16,6 +16,10 @@ What is the capital of <b>Mauritania</b>?
 
 <div class="cmp-map" data-focus="MRT" data-pin="18.0864,-15.9753" data-label="Nouakchott"><img src="../../media/cx-locator-mauritania.svg" alt="Map of Mauritania with Nouakchott marked"></div>
 
+![Central Nouakchott](../../media/cx-photo-15-nouakchott-eh-r0058185.jpg)
+
+<i>Photo: Laminesall96, CC BY-SA 4.0, via Wikimedia Commons</i>
+
 About 1.45 million people (2023)<br>On the Atlantic coast, 7 m above sea level
 
 A coastal village chosen as the capital as Mauritania prepared for independence, with building starting in 1958. It was designed for 15,000 people and grew fast from the 1970s as drought drove people in.

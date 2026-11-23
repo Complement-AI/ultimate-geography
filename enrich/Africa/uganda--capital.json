@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:View from 7th floor on Crane Chambers at Kampala road - panoramio.jpg",
-    "alt": "View over the city from an upper floor"
+    "alt": "View over the city from an upper floor",
+    "file": "cx-photo-view-from-7th-floor-on-crane-chambers-at-kampala-road-panora.jpg",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:View_from_7th_floor_on_Crane_Chambers_at_Kampala_road_-_panoramio.jpg",
+    "credit": "kousek_cz, kousek_cz, via Wikimedia Commons"
   },
   "facts": [
     "About 1.8 million people in the city proper (2024 census)",

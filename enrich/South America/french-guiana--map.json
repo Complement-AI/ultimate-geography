@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:ISS009-E-21542 - View of French Guiana.jpg",
-    "alt": "French Guiana seen from the International Space Station"
+    "alt": "French Guiana seen from the International Space Station",
+    "file": "cx-photo-iss009-e-21542-view-of-french-guiana.jpg",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:ISS009-E-21542_-_View_of_French_Guiana.jpg",
+    "credit": "Earth Science and Remote Sensing Unit, Lyndon B. Johnson Space Center, Public domain, via Wikimedia Commons"
   },
   "facts": [
     "About 83,500 km² of land",

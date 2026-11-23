@@ -1,7 +1,11 @@
 {
   "photo": {
     "commons": "File:Satellite image of Antigua And Barbuda in September 2002.jpg",
-    "alt": "Satellite view of the islands"
+    "alt": "Satellite view of the islands",
+    "file": "cx-photo-satellite-image-of-antigua-and-barbuda-in-september-2002.jpg",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Satellite_image_of_Antigua_And_Barbuda_in_September_2002.jpg",
+    "credit": "Jacques Descloitres, MODIS Rapid Response Team, NASA/GSFC, Public domain, via Wikimedia Commons"
   },
   "facts": [
     "Sea borders with Saint Kitts and Nevis, Montserrat and Guadeloupe",
