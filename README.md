@@ -17,6 +17,21 @@ territories, oceans, seas and continents.
 | South America | 50 |
 | Continents | 7 |
 
+## What Complement adds
+
+On top of upstream's cards, each card's answer side carries:
+
+- a locator map (country highlighted, capital marked, neighbours labelled),
+  drawn from Natural Earth by `scripts/locator_maps.py` and wrapped in a live
+  `cmp-map` block that Complement shows as an explorable globe;
+- one or two facts and a short "worth knowing" paragraph, written from
+  Wikipedia and Wikidata text (see `ENRICHMENT.md`), with a photo where one
+  helps;
+- links to the place's, capital's and flag's Wikipedia articles.
+
+These live in `enrich/` and are merged by `scripts/convert.py`; every added
+file is credited in `SOURCES.csv`.
+
 ## How this repo is built
 
 Everything under `notes/`, `media/` and `SOURCES.csv` is generated. Don't edit
